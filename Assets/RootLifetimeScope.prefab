@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &358931568105924079
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1202136817176684318}
+  - component: {fileID: 4244779450893678852}
+  m_Layer: 0
+  m_Name: RootLifetimeScope
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1202136817176684318
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 358931568105924079}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4244779450893678852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 358931568105924079}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dc6794a68a24a588d80789cddca3af4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentReference:
+    TypeName: 
+  autoRun: 1
+  autoInjectGameObjects: []
+  worldSettings: {fileID: 11400000, guid: e54947963dbca9f4bb8adc123d99ac45, type: 2}
+  platformSettingsList:
+  - {fileID: 11400000, guid: 02ca4aafa2fbf2940ae18d905a7feda0, type: 2}
+  - {fileID: 11400000, guid: 68fcf3bd4fd1cf64a8af4fdc650e6664, type: 2}
+  - {fileID: 11400000, guid: 7383a8e5babb39f4c8222ce4d6f8470e, type: 2}
+  mwloadingScreenPrefab: {fileID: 7388886958472775244, guid: 45bd5547918915e4e9eadb1a9fff6ac5, type: 3}
+  sceneControllerPrefab: {fileID: 1223434933089787965, guid: 18efd76a26607274b84dfa8ca6f5c1c5, type: 3}
+  languageSets:
+  - languageName: English
+    languageCode: en
+  - languageName: "\u65E5\u672C\u8A9E"
+    languageCode: ja
+  - languageName: "\u7C21\u4F53\u5B57"
+    languageCode: zh-CN

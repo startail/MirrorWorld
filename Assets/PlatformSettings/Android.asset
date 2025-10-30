@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d6a21b3f47b56f42b23bf2b615fbbac, type: 3}
+  m_Name: Android
+  m_EditorClassIdentifier: Assembly-CSharp::PlatformSettings
+  alterOrientationFromWorld: 1
+  targetPlatform: 11
+  targetAspectRatio: {x: 9, y: 16}
+  defaultOrientation: 1
+  initialResolution: {x: 270, y: 480}
+  fullScreenMode: 0
+  uiScaleMode: 1
+  referenceResolution: {x: 270, y: 480}
+  uiMatchMode: 2
+  matchWidthOrHeight: 0
+  referencePixelPerUnit: 1
