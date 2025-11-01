@@ -51,7 +51,7 @@ jobs:
           name: WebGL-Build
           path: build/WebGL # ビルドされたファイルが出力されるパス
 
-deploy:
+  deploy:
     # ビルドジョブが成功した後に実行
     needs: build_webgl
     # デプロイは通常、GitHub提供の環境で実行
