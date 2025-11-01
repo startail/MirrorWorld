@@ -38,7 +38,7 @@ jobs:
           UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
         with:
           targetPlatform: WebGL # WebGLビルドを指定
-          unityVersion: env.UNITY_VERSION
+          unityVersion: ${{ env.UNITY_VERSION }}
 
       # ビルド成果物を 'build/WebGL' フォルダに出力’
       # 3. ビルド成果物のアップロード
