@@ -1,0 +1,78 @@
+name: Unity WebGL Build and Deploy
+
+on:
+  # 手動で実行できるようにする
+  workflow_dispatch:
+  schedule:
+    # 毎朝3時(UTC)に定期実行する (日本時間の正午)  ‘0 3 * * *’
+    # 日本時間で月曜日の午前2時に実行 (UTCでは日曜日の17時)  ‘0 17 * * 7’
+    # 毎週月曜日の午前3時 (UTC) に実行
+    # 毎週特定の曜日に実行する場合は、最後のフィールド (曜日) を指定します。
+    # (分) (時) (日) (月) (曜日)
+    # '0 3 * * 1' の意味: 
+    #   - 0: 0分
+    #   - 3: 3時 (UTC)
+    #   - *: 毎日の
+    #   - *: 毎月の
+    #   - 1: 毎週月曜日 (0=日曜日, 1=月曜日, ..., 6=土曜日)
+    - cron: '0 3 * * 1'
+
+env:
+  UNITY_VERSION: 6000.2.6f2 # 使用しているUnityのバージョンを指定すること！
+
+jobs:
+  build_webgl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true # Git LFS を使用している場合は必須。ない場合は記述を削除
+
+      # 1. ライセンス認証
+      - name: Unity Activation
+        uses: game-ci/unity-activate@v4
+        with:
+          unityLicense: ${{ secrets.UNITY_LICENSE }}
+
+      # 2. WebGL ビルドの実行
+      - name: Build project (WebGL)
+        uses: game-ci/unity-build@v4
+        with:
+          targetPlatform: WebGL # WebGLビルドを指定
+          unityVersion: ${{ env.UNITY_VERSION }}
+         
+
+      # ビルド成果物を 'build/WebGL' フォルダに出力’
+      # 3. ビルド成果物のアップロード
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: WebGL-Build
+          path: build/WebGL # ビルドされたファイルが出力されるパス
+
+deploy:
+    # ビルドジョブが成功した後に実行
+    needs: build_webgl
+    # デプロイは通常、GitHub提供の環境で実行
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. ビルド成果物のダウンロード
+      - name: Download Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: WebGL-Build # アップロードした成果物の名前と一致させる
+          path: build_output # デプロイ専用の一時フォルダにダウンロード
+
+      # 2. GitHub Pagesへのデプロイ
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          # GitHubのトークン（Secretsに自動で用意される）
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # デプロイするファイルが含まれるディレクトリ
+          publish_dir: build_output
+          # デプロイ先のブランチ
+          publish_branch: gh-pages
+
