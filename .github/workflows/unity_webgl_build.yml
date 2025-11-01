@@ -29,19 +29,16 @@ jobs:
         with:
           lfs: true # Git LFS を使用している場合は必須。ない場合は記述を削除
 
-      # 1. ライセンス認証
-      - name: Unity Activation
-        uses: game-ci/unity-activate@v4
-        with:
-          unityLicense: ${{ secrets.UNITY_LICENSE }}
-
-      # 2. WebGL ビルドの実行
+      # 2. ライセンス認証 & WebGL ビルドの実行
       - name: Build project (WebGL)
-        uses: game-ci/unity-build@v4
+        uses: game-ci/unity-builder@v4
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
         with:
           targetPlatform: WebGL # WebGLビルドを指定
-          unityVersion: ${{ env.UNITY_VERSION }}
-         
+          unityVersion: env.UNITY_VERSION
 
       # ビルド成果物を 'build/WebGL' フォルダに出力’
       # 3. ビルド成果物のアップロード
