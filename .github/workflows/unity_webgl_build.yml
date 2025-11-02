@@ -29,7 +29,7 @@ jobs:
         with:
           lfs: true # Git LFS を使用している場合は必須。ない場合は記述を削除
 
-      # 2. ライセンス認証 & WebGL ビルドの実行
+      # 1. ライセンス認証 & WebGL ビルドの実行
       - name: Build project (WebGL)
         uses: game-ci/unity-builder@v4
         env:
@@ -41,7 +41,7 @@ jobs:
           unityVersion: ${{ env.UNITY_VERSION }}
 
       # ビルド成果物を 'build/WebGL' フォルダに出力’
-      # 3. ビルド成果物のアップロード
+      # 2. ビルド成果物のアップロード
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
