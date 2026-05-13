@@ -14,7 +14,7 @@ Windows をメインターゲットとし、WebGL / Android / iOS を順次対�
 
 ## 2. 開発環境
 
-- Unity 6000.2.6f2（2D URP）
+- Unity 6000.4.6f1（2D URP）
 - C# 9.0（Unity制限）
 - Git
 - IDE: Antigravity および Rider
