@@ -1,25 +1,28 @@
-﻿using AnnulusGames.SceneSystem;
+using System;
 using Features.Credit.Presentation.Interfaces;
 using Infrastructure.Services;
-using UnityEngine;
-using UnityEngine.SceneManagement;
-using UnityEngine.UI;
+using R3;
 using VContainer;
 using VContainer.Unity;
 
 namespace DefaultNamespace
 {
-    public class CreditScenePresenter : IPostInitializable
+    public class CreditScenePresenter : IPostInitializable, IDisposable
     {
-        // Root
         [Inject] private readonly SceneService sceneService;
-        
-        // Scene
         [Inject] private readonly ICreditView creditView;
-        
+
+        private readonly CompositeDisposable _disposables = new();
+
         public void PostInitialize()
         {
-            creditView.BackButton.onPointerUp += () => sceneService.PopScene();
+            Observable.FromEvent(
+                    h => creditView.BackButton.onPointerUp += h,
+                    h => creditView.BackButton.onPointerUp -= h)
+                .Subscribe(_ => sceneService.PopScene())
+                .AddTo(_disposables);
         }
+
+        public void Dispose() => _disposables.Dispose();
     }
 }

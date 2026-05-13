@@ -1,30 +1,33 @@
-﻿using System.Collections.Generic;
+using System;
 using AnnulusGames.SceneSystem;
 using Features.MainMenu.Presentation.Interfaces;
 using Infrastructure.Services;
-using UnityEngine;
-using UnityEngine.SceneManagement;
-using UnityEngine.UI;
+using R3;
 using VContainer;
 using VContainer.Unity;
 
 namespace DefaultNamespace
 {
-    public class MainMenuScenePresenter : IPostInitializable
+    public class MainMenuScenePresenter : IPostInitializable, IDisposable
     {
-        // Root
         [Inject] private readonly SceneService sceneService;
-        
-        // Scene
         [Inject] private readonly IMainMenuView mainMenuView;
-        
+
+        private readonly CompositeDisposable _disposables = new();
+
         public void PostInitialize()
         {
-            mainMenuView.BackButton.onPointerUp += () =>
-            {
-                if (sceneService.peekSceneKey != SceneKey.MainMenu) return;
-                sceneService.PopScene();
-            };
+            Observable.FromEvent(
+                    h => mainMenuView.BackButton.onPointerUp += h,
+                    h => mainMenuView.BackButton.onPointerUp -= h)
+                .Subscribe(_ =>
+                {
+                    if (sceneService.peekSceneKey != SceneKey.MainMenu) return;
+                    sceneService.PopScene();
+                })
+                .AddTo(_disposables);
         }
+
+        public void Dispose() => _disposables.Dispose();
     }
 }

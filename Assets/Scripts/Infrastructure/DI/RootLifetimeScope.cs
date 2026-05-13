@@ -32,6 +32,8 @@ namespace Infrastructure.DI
             builder.RegisterInstance(currentPlatformSettings).AsSelf().As<IPlatform>();
             builder.RegisterEntryPoint<PlatformInitializer>(Lifetime.Transient); // Scene毎に稼働してもらう関係でTransient
             builder.Register<AudioService>(Lifetime.Singleton);
+            builder.Register<UIFocusManager>(Lifetime.Singleton);
+            builder.Register<AddressableAssetLoader>(Lifetime.Singleton).AsSelf().AsImplementedInterfaces();
             builder.Register<PlayerPrefsProgressRepository>(Lifetime.Singleton).AsSelf().AsImplementedInterfaces();
             builder.Register<ProgressDataManager>(Lifetime.Singleton);
             builder.Register<SettingsDataManager>(Lifetime.Singleton)
