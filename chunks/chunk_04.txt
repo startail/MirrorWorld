@@ -1,0 +1,2000 @@
+﻿(Back)dash in a bottle is real
+
+
+[2023/11/12 18:26] another_ralsei
+please i want speed
+
+
+[2023/11/12 18:43] eggyolk2
+Backdash in a bottle, finally useful!?
+
+
+[2023/11/13 22:30] javibite
+It would be nice to have a character like "the lost" from isaac, with 1HP
+
+
+[2023/11/14 7:41] the_rot_bot
+I made a custom character mod based off exactly that! The Fallen Hero has 1 HP but starts with the Fortress item which gives them a shield at the start of each fight (similar to the Lost's Holy Mantle).
+
+Unfortunately, the mod currently doesn't work after the latest update, and more than likely I won't update it again until after full release 丿
+
+
+[2023/11/14 7:58] seeminglyunrelated
+backdash is ok...
+
+
+[2023/11/14 8:33] the_rot_bot
+Inspired by EggYolks idea, what about a magi character that has a single tile that's a scroll bag. Using the bag grants two scroll tiles, which are single use tiles. Would be random what scroll tiles get pulled, so it could be swirl or gun, etc. After use they burn away. 
+
+Maybe their second tile would be Long Cast, which allows them to use a scroll at any open cell on the screen. So you could cast a swirl scroll in-between two enemies, even though you are not between them.
+
+{Reactions}
+総
+
+[2023/11/14 9:33] the_rot_bot
+Alt tileset could be a free play tile that is a ranged tile that converts all queued tiles of its target into scroll tiles that you then aquire. Not sure what the second tile would be.
+
+
+[2023/11/14 12:32] kingswit.
+I like this idea
+
+
+[2023/11/14 23:04] bitterlemons_dota
+Tile Name : Caltrops
+Base Damage : 2 
+Description : Place Caltrops in the cell ahead & behind. Caltrops trigger when an enemy steps on it.
+Cool-down : 5
+Upgradable-Slots (Level-Slots) : 2
+(*It's basically "Trap" with the "Swirl" treatment, ahead & behind)
+
+
+[2023/11/14 23:06] bitterlemons_dota
+Caltrops were called "Makibishi" in Japan ､・
+
+{Reactions}
+箝・(2)
+
+[2023/11/15 2:12] ian5
+second tile should be mirror imo
+although depending on what their special move is that might change
+
+
+[2023/11/15 20:19] seeminglyunrelated
+Hey so this is off of some sort of bug that @plimbo-scrimbly  encountered in #笊ｭgeneral町 , what if elite shadow chargers which can sometimes get quick witted twice, can attack before you?
+
+
+[2023/11/15 20:20] da_dogbar
+would be kinda cool but could possibly end a ton of hitless runs
+
+
+[2023/11/16 22:27] eggyolk2
+Maybe Dancer shop can get some things that make Free play tiles better ､・
+
+
+[2023/11/16 22:27] eggyolk2
+(As in, Innately Free play tiles)
+
+
+[2023/11/16 22:35] eggyolk2
+Some ideas are:
+Quick Feet: A random tile recovers 1CD whenever you play a Free Play tile(+1 per level)
+Fast Recovery: Free play tiles recover 1CD when played(+1 per level)
+Speed Burst: If you play 3 Free Play tiles in a turn, deal 1 Damage to all enemies.(+1 per level)
+(Yes I know they all have "speed" in the name shh)
+
+{Reactions}
+総 (3)
+
+[2023/11/16 22:39] eggyolk2
+Don't know if there's any way to distinguish tiles that start free play and tiles that become free play later though, definitely don't want these on Smoke Bombs or Swirls
+
+
+[2023/11/17 3:57] da_dogbar
+dancer shop skill idea:
+Dodge Reflex: When an attack would hit you, move backwards to a tile safe from the attack. Doing this puts your special skill on cooldown. If there is no safe space, this does not activate. +5 special skill cooldown.
+
+
+[2023/11/17 4:12] baconsizle
+the first tile played after using special skill is free play +1 cooldown (Mirko should remove the cooldown increases on dancer perks)
+
+{Reactions}
+笘晢ｸ・
+
+[2023/11/17 9:46] bitterlemons_dota
+I'd love that. Removing CD on Dancer Perks.
+
+
+[2023/11/18 2:45] chopov1
+Submit to Apple Arcade, this game would get so big
+
+
+[2023/11/18 6:16] seeminglyunrelated
+facts
+
+
+[2023/11/18 6:20] bitterlemons_dota
+This inspired me.
+Skill : "Chilling Boost"
+If you moved with a tile, adjacent enemies will freeze for 3 turns.
+
+､・first I was like "Chill a random enemy after using a Free-Play Tile" but I felt like "NAH" respecting the atmosphere & design of Shogun Showdown.
+
+
+[2023/11/18 9:32] Deleted User
+Hear me out
+
+
+[2023/11/18 9:32] Deleted User
+Avatar skin for the wanderer
+
+
+[2023/11/19 1:53] da_dogbar
+tile idea
+Wind Blast
+0 damage, 7 cooldown, 2-3 upgrade slots. 
+Throw a gust of wind that knocks back an enemy 3 tiles. Every enemy that takes collision damage is knocked back 3 tiles.
+
+{Reactions}
+箝・
+
+[2023/11/19 4:36] double_dot
+Funnily enough, if you hacks tiles you can get a similar one.
+
+{Reactions}
+ｧ
+
+[2023/11/20 9:45] project_u
+War fan:
+
+
+[2023/11/20 20:24] double_dot
+Mode or day that Randomise boss order (not the final one)
+
+
+[2023/11/20 21:01] seeminglyunrelated
+If you窶况e played dome keeper, you窶冤l know that you can choose modifiers to your run that you can unlock
+
+
+[2023/11/20 22:28] project_u
+Using consumables take one turn on day 6/7
+
+{Reactions}
+箝・(5)
+
+[2023/11/21 3:08] da_dogbar
+give enemies new tiles on day 6, heres some examples i though of:
+Shadow charger: Uses shadow dash to catch up to you if you are hiding behind other enemies
+Yumi sniper: Uses barricade if he is the last enemy on the board
+Guardian: Uses swap toss to chase you even from behind enemies
+Twin Tachi: If you are behind another enemy, queues up both charge and earth impale
+Yari Master: Uses mirror to get to you if you are behind other enemies
+
+{Reactions}
+箝・
+
+[2023/11/21 3:31] thefloralhurrikale
+Now put all of these enemies together and watch the chaos as each enemy tries to reach you.
+
+
+[2023/11/21 4:54] Deleted User
+okay what if there was a priority queue
+
+
+[2023/11/21 4:58] Deleted User
+and if one already has an attack queued and ready one that contradicts that move waits like how the shielders delete one of their moves when the targeted enemy dies
+
+
+[2023/11/21 8:33] freezedriedmangoes
+I love that idea, let the enemies get creative
+
+
+[2023/11/21 9:11] cashew.html
+Play as the enemies and try to kill a player with kunai monomancer
+
+
+[2023/11/21 9:35] baconsizle
+April fools update
+
+
+[2023/11/21 9:38] baconsizle
+What if hear me out on day 6 or 7 all enemy attacks are randomized for the run once at beginning
+
+
+[2023/11/21 9:41] seeminglyunrelated
+Grappling hook bozo in bamboo grove 逐
+
+
+[2023/11/21 9:42] seeminglyunrelated
+:curse:
+
+
+[2023/11/21 9:48] project_u
+For Ashigaru swordsmen's neutral special, it wields a gun.
+
+
+[2023/11/22 6:09] kingswit.
+Enchantment idea: Enchant weapons base damage becomes 1 and it窶冱 base damage cannot be raised (still could be affected by skills + curse). When enemy dies to enchanted weapon it drops 3 extra gold
+
+{Reactions}
+笘晢ｸ・
+
+[2023/11/22 6:09] kingswit.
+Though maybe this would slow down the game too much
+
+
+[2023/11/22 6:28] double_dot
+midas sword
+
+
+[2023/11/22 6:28] double_dot
+midas enchant, just turns kills into gold
+
+{Reactions}
+笘晢ｸ・
+
+[2023/11/22 6:47] seeminglyunrelated
+wait isn't that what it alreasy does?
+
+
+[2023/11/22 6:47] seeminglyunrelated
+just increase chance of coin drop?
+
+
+[2023/11/22 7:00] double_dot
+like visually
+
+
+[2023/11/22 7:02] seeminglyunrelated
+As in frozen?
+
+
+[2023/11/22 7:02] seeminglyunrelated
+I confused
+
+
+[2023/11/22 7:09] lunira.
+what if there was an enchantment that just raised damage and lowered cooldown
+would be the most basic thing but sometimes basic is fun
+
+
+[2023/11/22 10:56] double_dot
+no like you know that when an enemy is killed it turns into a shadow in the background (at the end you can see the pile of foes that your murdered :DDD)
+but like with midas, just a visual that turns it into a gold statue
+
+
+[2023/11/22 10:58] project_u
+Could be a tile effect like free play
+
+
+[2023/11/22 11:07] double_dot
+Also on another set of idea, i was thinking of a difficulty change to have curses set upon you.
+For instance in one game after beating a boss you have a chance (can be fixed too) to get a curse set unto you.
+- winning less golds
+- a slow poison that hits 1 tic after 20 or more turns (reset at the start of the round, map or level)
+- unsheathed weapon curse: the first tile draw in (a round or w/e )takes one more turn
+- intimidation, your first attack on the boss is negated, or halved.
+....
+Those can be also reverted to set benedictions. also for the benedictions, maybe add a "pray" actions on shrines, you don't get upgrades this way, or maybe trade a tile to get bﾃｩnediction
+
+
+[2023/11/22 11:07] lunira.
+I actually had a similar idea for one of my game concepts
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1176705441896603658/image.png?ex=6a1651d7&is=6a150057&hm=c60953fd4b71daeef93f3ebcb03bc0dfc43b922d56cc135c3602eace41ccbbe3&
+
+
+[2023/11/22 11:07] lunira.
+I thought I was the only one who wanted everyone I kill to be golden statues
+
+
+[2023/11/22 11:08] double_dot
+actually i have seen this many times in games
+
+
+[2023/11/22 11:08] double_dot
+well many times, rarely to be fair, but have seen
+
+
+[2023/11/22 11:08] lunira.
+ah
+
+
+[2023/11/22 11:08] lunira.
+now that you mention it I do have a vague memory of seeing something like that but I forget what game
+
+
+[2023/11/22 11:09] double_dot
+Noita iirc have a perk that does something like that, well the lore is very centered around midas so i may invent memories
+
+
+[2023/11/22 11:09] lunira.
+ah ye noita is cool
+
+
+[2023/11/22 20:27] seeminglyunrelated
+ohhhh ok
+
+
+[2023/11/22 20:27] seeminglyunrelated
+Are there any perks tho
+
+
+[2023/11/22 20:27] seeminglyunrelated
+or is it just enemy gold
+
+
+[2023/11/22 20:28] double_dot
+Well statues are converted to X money in the end
+
+
+[2023/11/23 19:51] cowboy7812
+Negate - a nondamaging move that cancels the attack of the enemy it hits
+
+
+[2023/11/25 0:44] da_dogbar
+kinda cool
+
+
+[2023/11/25 3:20] eggyolk2
+I feel like it'll lead to lots of cheese
+
+
+[2023/11/25 6:06] the_rot_bot
+I implemented a move like that for the Fallen Hero modded character and it is very broken. The thing that I found  helped balance it was maximum length of cooldown and starting with no upgrade slots.
+
+
+[2023/11/25 7:58] da_dogbar
+a cool special enemy/boss would be one that could queue up 2 attacks at once
+
+
+[2023/11/25 7:59] halfling22
+Like... 6 tiles?
+
+
+[2023/11/25 9:34] Deleted User
+Soo can we call it Parry instead?
+
+
+[2023/11/25 9:34] cowboy7812
+would be cool
+
+
+[2023/11/25 9:34] Deleted User
+would have one upgrade and max cooldown would it not?
+
+
+[2023/11/25 9:35] baconsizle
+parry would be fine just it would only parry one attack
+
+
+[2023/11/25 9:35] baconsizle
+probably have to be facing the direction too
+
+
+[2023/11/25 9:35] Deleted User
+Parrying the grappler would be helpful to me
+
+
+[2023/11/25 9:35] Deleted User
+i hate those guys
+
+
+[2023/11/25 9:36] lunira.
+would it interact with enchantments? that would be cool
+
+
+[2023/11/25 9:36] Deleted User
+its non damaging though so i dont think do
+
+
+[2023/11/25 9:36] Deleted User
+so
+
+
+[2023/11/25 9:37] Deleted User
+most of the enchants require a hit to take effect?
+
+
+[2023/11/25 9:37] lunira.
+it could do damage if it was a melee only thing
+like 0 or 1 by default
+though parrying ranged attacks would be a lot of its usefulness
+
+
+[2023/11/25 9:39] Deleted User
+i suppose
+
+
+[2023/11/25 9:39] baconsizle
+I feel that parrying could curse the target that hit you
+
+
+[2023/11/25 9:39] baconsizle
+idk about doing damage though
+
+
+[2023/11/25 9:40] baconsizle
+cuz parrying irl leaves an opening to attack so it would make more sense
+
+
+[2023/11/25 9:41] lunira.
+the damage could be the reposte rolled into one
+
+
+[2023/11/25 9:41] Deleted User
+maybe its a worse dragon punch? it causes the enemy to be pushed back one and curses?
+
+
+[2023/11/25 9:42] baconsizle
+well idk about worse as it can block ranged and grapples
+
+
+[2023/11/25 9:42] Deleted User
+oh right
+
+
+[2023/11/25 9:43] baconsizle
+well it wouldnt make sense to knock back the archer that shot you
+
+
+[2023/11/25 9:43] baconsizle
+you could do a counterattack animation to the tile infront of you
+
+
+[2023/11/25 9:43] lunira.
+that's a great idea actually
+
+
+[2023/11/25 9:46] baconsizle
+idk maybe if you want to do like a dark souls parry it would stagger them like a poise break so it could knock them back and stun them
+
+
+[2023/11/25 9:46] Deleted User
+how often would it show up though
+
+
+[2023/11/25 9:47] baconsizle
+I mean don't all tiles have equal chance?
+
+
+[2023/11/25 9:47] Deleted User
+idk i only see the Kunai like twice a day
+
+
+[2023/11/25 9:47] Deleted User
+and the testubo 9x
+
+
+[2023/11/25 9:47] baconsizle
+idk I can find kunai pretty easily if I roll hard for it
+
+
+[2023/11/25 9:47] Deleted User
+the game is against me
+
+
+[2023/11/25 9:48] baconsizle
+adding card rarity could allow stronger cards like kunai and le gun to show up less but still be strong maybe
+
+
+[2023/11/25 9:49] Deleted User
+allows you to stop relying on kunai cheese too
+
+
+[2023/11/25 9:49] baconsizle
+I think parry could fit into a higher rarity
+
+
+[2023/11/25 9:49] Deleted User
+unless you keep commiting sepukuu until you grt kunai
+
+
+[2023/11/25 9:49] baconsizle
+yeah maybe you can only get these "rare" cards after defeating mini boss
+
+
+[2023/11/25 9:50] baconsizle
+kinda like slay the spire XD
+
+
+[2023/11/25 9:50] baconsizle
+would stop people from suiciding early to get kunai and would give you a good card when defeating minis'
+
+
+[2023/11/25 9:51] Deleted User
+its weird i dont see the Bo staff very often either
+
+
+[2023/11/25 10:06] baconsizle
+one thing I really havent seen in forever is grappling hook
+
+
+[2023/11/25 12:32] cowboy7812
+i would see it being like dash
+
+
+[2023/11/25 12:32] cowboy7812
+cant damage up
+
+
+[2023/11/25 12:32] cowboy7812
+cant enchant
+
+
+[2023/11/27 4:58] kingswit.
+There should be somewhere that displays your best winstreak
+
+
+[2023/11/27 11:06] double_dot
+*Death by a thousand needles / thousand cuts* : a challenge where you have to kill the final boss only with 1 damage per 1 damage
+
+
+[2023/11/27 11:12] double_dot
+Also a level where we have double tachis and ashigaru entering the field by sliding in like shadow
+
+
+[2023/11/28 4:12] baconsizle
+That sounds horrible 逐 maybe with kunai ig
+
+
+[2023/11/28 5:00] da_dogbar
+i feel like thats too annoying
+maybe make it 2 damage
+
+
+[2023/11/28 5:05] kingswit.
+Yeah I feel like if you can beat the second phase of the shogun fast, it isn窶冲 much harder to beat him slow. Because damage tanking more than one or two hits isn窶冲 really necessary, and it窶冱 pretty easy to do it without getting hit. First phase would actually be an interesting challenge though
+
+
+[2023/11/30 17:49] da_dogbar
+no moving quest maybe
+
+
+[2023/11/30 17:49] da_dogbar
+but turning around, special moves and using tiles would be allowed
+
+
+[2023/11/30 18:10] lunira.
+ye that would be cool
+
+
+[2023/12/01 6:12] ryanbeer
+hah, i was about to suggest a skill that gives +1 dmg if you only execute 1 tile at a time.  then i unlocked monomancer
+
+
+[2023/12/01 6:23] seeminglyunrelated
+The god-tier
+
+
+[2023/12/02 3:52] da_dogbar
+skill idea
+Elemental Potency - Bought at the warring shop. 
+Poison lasts for 1 additional turn. Shockwaves deal +1 damage. Freeze lasts for one more turn.
+
+
+[2023/12/02 4:17] stillborn
+Hey guys ( developer ),
+
+Have you thought about making a "Random" button for random character choice, with a random starting set too. And Lets start the run.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1180226252049752144/bouton_random-export.gif?ex=6a169a9a&is=6a15491a&hm=85909d414d000459588f561f8f67df082c050fa9479eef7586490dd5e54e84b8&
+
+{Reactions}
+総 (3)
+
+[2023/12/02 4:18] stillborn
+Then we could use this button to do streaking (like for the game The Binding of Isaac) with a 窶徨anking窶・tile to see the community progress.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1180226347885408377/Capture_decran_2023-12-01_193732.png?ex=6a169ab0&is=6a154930&hm=5a33ab389ba901cbbef7c67e928065983fdb4bf940ff9ccf4ae2e626077b8ecb&
+
+
+[2023/12/02 5:33] eggyolk2
+TBH, I am up to do streaking even without random.
+
+{Reactions}
+総 (2) 潮
+
+[2023/12/02 7:58] kingswit.
+I love the idea of a random button. Not positive if you meant random from all the character load outs, or truly random, but I think also having an option to start with 2 random tiles (with restrictions for stuff like the gun probably), from any in the game would also be super fun
+
+{Reactions}
+総
+
+[2023/12/02 8:03] undurable
+As long as it guarantees a damaging tile
+
+
+[2023/12/02 8:16] double_dot
+Maybe half random like in noita
+
+
+[2023/12/02 13:48] bitterlemons_dota
+Someone should demand a Day 8 with this mavrick idea. Wouldn''t satisfy one with days after.
+
+
+[2023/12/02 13:49] bitterlemons_dota
+Technically, the path to the left can be 縲轡ay-8縲甲ut that's hidden information to the protagonist.
+
+
+[2023/12/02 17:12] da_dogbar
+endless mode would be pretty cool
+
+{Reactions}
+総 (6)
+
+[2023/12/02 18:36] orangefanta928
+amount of consumables consumed?
+
+
+[2023/12/03 4:08] bitterlemons_dota
+So you've never heard of Golden Experience Requiem笶・
+
+
+[2023/12/03 4:51] da_dogbar
+tf you mean?????
+
+
+[2023/12/03 4:58] eggyolk2
+You'll never reach the truth
+
+
+[2023/12/03 9:42] cowboy7812
+something like a mirror move
+
+
+[2023/12/03 9:42] cowboy7812
+a tile where it copies the first tile an enemy has equipped infront of you
+
+
+[2023/12/03 11:21] bitterlemons_dota
+Endless Mode : A beginning to a never-ending senario, rinse & repeat, caused by a cause which you can't go-back to change.
+I thought you knew about Golden Experience Requiem.
+It has something to do with Electric-Alien.
+https://discord.com/channels/965169818309369858/965169819081117757/1179215430066389053
+Was it better if I spoke about Peter Rabbit笶・
+
+
+[2023/12/03 11:56] lunira.
+endless mode is common in a lot of rogue likes
+
+
+[2023/12/03 17:23] bitterlemons_dota
+Love the era of search-engine ・
+
+
+[2023/12/03 17:24] bitterlemons_dota
+Never decided Shogun Showdown to be a Rogue-Like.
+Under our understanding it's a Roguelite.
+
+
+[2023/12/03 20:25] da_dogbar
+thats not how ger works tho
+
+
+[2023/12/03 22:27] bitterlemons_dota
+I mean, "endless mode" is a tad Peter Pan 笘・
+
+
+[2023/12/04 11:02] kenoboi
+i think this was the most straightforward thing you've ever said
+
+
+[2023/12/04 19:09] cowboy7812
+it is a roguelite cause it has ingame currency you gain from runs to buy tiles
+
+
+[2023/12/04 19:40] bitterlemons_dota
+I don't read tabloids unless they are gossip free. 嶌
+
+
+[2023/12/04 23:57] seeminglyunrelated
+Same difference tbh
+
+
+[2023/12/05 10:34] bitterlemons_dota
+Everyone needs a dose of fantasy and it's a distraction when seeking for the divine holy ･ｱ . x *
+
+
+[2023/12/05 10:35] bitterlemons_dota
+No more drifting here. This place is for ideas. #笏ideas､ｯ
+
+
+[2023/12/07 18:53] mwalls
+New enemy: thief
+
+
+[2023/12/07 18:53] cowboy7812
+Steals your money
+
+
+[2023/12/07 18:53] mwalls
+no
+
+
+[2023/12/07 18:53] mwalls
+more fun
+
+
+[2023/12/07 18:54] cowboy7812
+Steals your heart
+
+
+[2023/12/07 18:54] cowboy7812
+Aww
+
+
+[2023/12/07 18:54] mwalls
+it moves at double speed and steal your comsumables(edit: actually stealing 1 of your coin and use it as shuriken feels cool too, thoguh probably very anoying)
+
+
+[2023/12/07 18:54] mwalls
+and
+
+
+[2023/12/07 18:54] mwalls
+picking consumables on the ground
+
+
+[2023/12/07 18:54] mwalls
+to use against the player
+
+
+[2023/12/07 18:54] mwalls
+or even steal your weapon lol
+
+
+[2023/12/07 18:54] mwalls
+I mean this does feel a fun enemy to fight isnt it
+
+
+[2023/12/07 18:56] mwalls
+and related new skill to that if that's too hard to implement
+
+
+[2023/12/07 18:56] mwalls
+when you combo kill(or other condition), the enemy killed lastly drops its weapon on the ground for you to pick up and use for once
+
+
+[2023/12/07 18:59] mwalls
+yeah it's actually better off as a boss instead of a normal enemy since that's too many action pattern
+
+
+[2023/12/07 18:59] mwalls
+but as a boss it's perfect variety of patterns then
+
+
+[2023/12/07 20:42] seeminglyunrelated (pinned)
+I had an amazing idea for a boss: It's a different boss depending on which character you chose, and this will be like the "shadow" version of you. For example, shadow wanderer can swap and has the same base tiles as you, as well as two or three more randomly picked from the tiles you own. This way, the character you choose can **directly** affect a run. Shadow ronin can push you back, etc... Lore-wise, I guess these can be demonic incarnations that the shogun created of you to try and stop you.
+
+{Reactions}
+櫨 (11)
+
+[2023/12/07 20:49] eggyolk2
+Fuck yeah, sounds sick. It can come at the end of the Spirit Gate since it's some dark corrupted spirit magic, and the statue boss is already so underwhelming. A Boss that directly tries to counter the player sounds great.
+
+
+[2023/12/07 22:39] double_dot
+statue boss is fine tho, i like it
+it would be better in the shogun castle
+
+
+[2023/12/07 22:41] double_dot
+also mono kunai players in shamble
+
+
+[2023/12/07 22:57] undurable
+i like the idea of a boss that counters kunai
+
+
+[2023/12/07 22:57] undurable
+its a good way to nerf it
+
+
+[2023/12/07 22:58] double_dot
+that's actually the best way to nerf it so far
+
+
+[2023/12/07 22:58] eggyolk2
+When you can't beat em, join em
+
+
+[2023/12/07 22:59] eggyolk2
+I think Statue is just incredibly repetitive to play with. Half the time it doesn't even load any ranged attacks that can hit you
+
+
+[2023/12/07 23:00] eggyolk2
+I think I have legit gotten hit more from the Ashigaru's than the statue
+
+
+[2023/12/07 23:00] double_dot
+there's pattern for all bosses, not the statue in particular
+
+
+[2023/12/07 23:01] eggyolk2
+Yeah, all bosses have a pattern, but it's usually more complicated than the Statue's, and requires more things to counter
+
+
+[2023/12/07 23:01] double_dot
+i think the opposite
+
+
+[2023/12/08 5:45] seeminglyunrelated
+Can you pin it?
+
+
+[2023/12/08 5:49] eggyolk2
+I'm neither the dev nor a mod
+
+
+[2023/12/08 5:49] eggyolk2
+I just have a cool colour because I was the only person who did #deleted-channel
+
+
+[2023/12/08 5:51] seeminglyunrelated
+Ah ok
+
+
+[2023/12/08 5:51] seeminglyunrelated
+Oh well...
+
+
+[2023/12/08 6:34] cowboy7812
+L
+
+
+[2023/12/08 14:17] kingswit.
+In run quests, idk what the reward would be, but you can have random optional challenge quests appear that give you bonuses
+
+
+[2023/12/08 20:40] seeminglyunrelated
+As in daily challenge?
+
+
+[2023/12/09 2:31] kingswit.
+As in when you start a run, it gives you some optional challenges that offer a gold reward. Like 窶彭efeat ___ boss窶・or 窶徂ave 20 enemies kill each other窶・Though thinking about it again, I don窶冲 like my idea as much haha, so just ignore it
+
+
+[2023/12/09 3:58] da_dogbar
+maybe skulls?
+
+
+[2023/12/09 3:59] da_dogbar
+actually nah theres too much skulls
+
+
+[2023/12/09 7:57] seeminglyunrelated
+@Moderator could you pin this please?
+
+
+[2023/12/09 11:34] mwalls
+I think it's a solid idea https://discord.com/channels/965169818309369858/1044158791492583464/1182872359942766622
+
+
+[2023/12/09 11:35] pride_zero
+Pinned a message.
+
+
+[2023/12/09 22:54] seeminglyunrelated
+Thanks!
+
+
+[2023/12/17 17:02] da_dogbar
+hidden worlds unlocked through some sort of challenge could be cool
+
+
+[2023/12/17 18:16] double_dot
+As long the challenge isn't too hard and somewhat self evident. But one problem is if the player accidentally discover it, the player will be unsure if other hidden worlds are placed. It may be frustrating not to know if there is more to the game than meet the eye
+
+
+[2023/12/17 22:46] eggyolk2
+Ominous challenge doors are always cool in rougelikes
+
+
+[2023/12/17 23:20] simplyjeef
+Could take a leaf from Dead Cells and have paths on the map that are only accessible if you've reached them with certain conditions met: Under a certain amount of time spent, turns taken, hits taken, etc
+
+
+[2023/12/18 11:52] another_ralsei
+maybe it could tie to doing the stamps idk
+
+
+[2023/12/19 3:04] mwalls
+new enemy : the backstabber: so the general concept is that it only progresses to attack you when you arent facing it, the enemy serves at a role not in game yet that you need to proactively change your direction to deal with it
+
+
+[2023/12/19 3:05] mwalls
+example instance: stops any action when you face it, when you dont, it takes 1 turn to move up to 3 tiles, 1 turn to draw a weapon and another turn to attack
+
+
+[2023/12/19 3:06] mwalls
+probably better off as a melee enemy and moderate amount of hp
+
+
+[2023/12/19 3:07] mwalls
+so that it feels different from the normal ranged annoyers, the players have some difficulty taking it out instantly, forcing the mechnic on the player
+
+
+[2023/12/19 3:08] mwalls
+well.. after some thinking this seems not very fun..
+
+
+[2023/12/19 3:09] mwalls
+like when it spawns just right front of you it doesnt do anything..
+
+
+[2023/12/19 3:09] mwalls
+well maybe instead of doing nothing it still does something when you are facing it..
+
+
+[2023/12/19 3:10] mwalls
+okay
+
+
+[2023/12/19 3:11] mwalls
+so whenever you are facing it, its action logic becomes adding, and using a tile that teleports itself to the furthest tile of the direction you arent facing
+
+
+[2023/12/19 3:17] mwalls
+or simply the existing mirror tile
+
+
+[2023/12/21 11:21] rogue.blank
+Weapon suggestion tsunami
+It would work similar to Kunai. dealing one damage to the first enemy hit then passing through to the next enemy until it窶冱 done it窶冱 damage amount or hits the edge, in which case it will deal the rest of its damage there.
+
+{Reactions}
+総 (2)
+
+[2023/12/21 13:49] mwalls
+probably would want pushing everyone 1 tile back effect too
+
+
+[2023/12/21 13:50] mwalls
+or, the effect lasts several turns instead of 1 turn
+
+
+[2023/12/21 13:50] mwalls
+yeah we havent have any that lasts right?
+
+
+[2023/12/21 13:51] mwalls
+well seems too powerful for a single skill if so
+
+
+[2023/12/21 16:22] rogue.blank
+There is also the problem of enchantments.
+they should hit all targets effected, but that may be a bit to powerful.
+
+I feel like for balance it could have the max/semi-max cool-down.
+That way you can窶冲 use it as often and you need to lower it before you can get an enchantment on it.
+It could also have a low starting damage, so it won窶冲 effect that many enemies in the beginning.
+
+The main reason I want this or more accurate, why I want a tsunami weapon is because we already have a earth and air weapon (lightning and earth-inpale) so having a water one will make it one step closer to having the 4 elements
+
+
+[2023/12/21 18:00] da_dogbar
+Tile suggestion: Fire breath
+6 cooldown, 3 damage
+Sets the 3 tiles in front of you on fire, causing them to deal 1 damage per turn for turns equal to the damage number of this tile. Only the first and last hit will apply enchant effects.
+
+
+[2023/12/21 20:26] rogue.blank
+I like the idea that this is a enchantment by itself
+Like it would set fire to a space after damaging an enemy on it.
+
+
+[2023/12/22 3:33] kamelurrdoll2537
+Fire enchantment
+
+
+[2023/12/22 4:33] double_dot
+what would fire enchantment do?
+
+
+[2023/12/22 4:33] double_dot
+Dot? there is already poison
+
+
+[2023/12/22 4:38] kamelurrdoll2537
+Well my idea with Fire Enchantment it's that fire slows enemies, making them only able to move one square for about 2 turns while taking damage for 4 turns
+
+
+[2023/12/22 4:42] double_dot
+i would rather argue for setting itself in panic and acting somehow randomly
+
+
+[2023/12/22 4:43] kamelurrdoll2537
+Jmm, maybe, oh i got one idea, If an enemy burns and panics, if he collides with the Hero and his allies, the hit will cause them to burn as well.
+
+
+[2023/12/22 4:44] kamelurrdoll2537
+Like a chain effect
+
+
+[2023/12/22 4:44] kamelurrdoll2537
+Except for heavy enemies, they are either not affected or do not panic.
+
+
+[2023/12/22 4:48] kamelurrdoll2537
+Although, I think that with this idea another status effect could be added "Fear/Madness" this would make the enemies unable to move in squares or attack their allies with fear, the effect could last 5 turns
+
+
+[2023/12/22 5:30] da_dogbar
+some ideas for new enchantments:
+Enrage: Hit enemies will become enraged for 3 turns, causing them to take and deal double damage.  -1 damage
+Manipulation: Hit enemies will attack the closest target for 5 turns. +3 cooldown
+Glass: +5 damage, -5 cooldown, Tile will be permanently removed from your hand after being used. 
+Shadow: The tile is performed from the location and in the direction of the furthest enemy in front of you. +1 damage. 
+Vampiric: Using this tile poisons you for 2 turns. On kill restore 3 health. -1 damage.
+
+
+[2023/12/22 5:32] da_dogbar
+i feel like tiles with enrage could also be used by some support enemy that just stays behind others
+
+
+[2023/12/22 5:33] da_dogbar
+also another enemy could use shadow tiles to try and kill you from behind enemy lines like that new archer enemy
+
+
+[2023/12/22 5:35] da_dogbar
+also tile idea: Sticky Bomb
+3 damage 5 cooldown
+Throw a sticky bomb at an enemy up to 3 tiles away. The bomb will explode after 3 turns, damaging the enemy it is attatched to and adjacent enemies. (basically something like hideyoshi's bomb but attatched to an enemy)
+
+
+[2023/12/22 5:40] undurable
+Shadow is a really cool idea
+
+
+[2023/12/22 12:13] kamelurrdoll2537
+Tile Suggestion:
+Katana Muramasa
+Cooldown: 4 or 6
+Damage: 2 or 4
+The Katana is capable of passing through enemies, damaging them in a section of 1 to 4 squares depending on the number of enemies (1 or 3).
+
+
+[2023/12/23 1:40] kamelurrdoll2537
+One idea I have is that in this base slot you can use skulls to change your moveset depending on what you have unlocked, including whether you want to enchant weapons from the start
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1187796696651018240/20231222_133937.jpg?ex=6a1675a0&is=6a152420&hm=681bfd1fa7f616cafeec9edae91eb9c3df587648280bae81adbf835bb77b082f&
+
+
+[2023/12/23 7:00] timedream
+Here is an idea no one definitely came up with already nunchucks
+
+
+[2023/12/23 7:01] timedream
+Lets say it does 1 damage
+
+
+[2023/12/23 7:01] timedream
+But it attacks on both sides
+
+
+[2023/12/23 7:01] timedream
+with a cooldown of like 4 or 5
+
+
+[2023/12/23 7:03] timedream
+So in summary:
+
+
+[2023/12/23 7:03] timedream
+Nunchucks
+
+
+[2023/12/23 7:03] timedream
+Cooldown 2
+
+
+[2023/12/23 7:03] timedream
+Damage 1
+
+
+[2023/12/23 7:05] timedream
+Strike the cells directly ahead and behind
+
+
+[2023/12/23 20:02] da_dogbar
+thats just swirl
+
+
+[2023/12/23 22:00] seeminglyunrelated
+yeah wut
+
+
+[2023/12/23 22:00] seeminglyunrelated
+Worse swirl
+
+
+[2023/12/23 22:00] seeminglyunrelated
+Like nunchucks sounds like a good idea
+
+
+[2023/12/23 22:00] seeminglyunrelated
+But uh...
+
+
+[2023/12/23 22:16] da_dogbar
+hear me out
+Nunchucks
+5 cooldown, 2 damage
+Strike the cells directly ahead and behind twice. If you miss, hit yourself instead.
+
+
+[2023/12/23 22:25] seeminglyunrelated
+Uh worse earth impale?
+
+
+[2023/12/23 22:26] seeminglyunrelated
+Oh twice?
+
+
+[2023/12/23 22:26] seeminglyunrelated
+Earth impale with double strike that hits you back if you miss窶ｦ
+
+
+[2023/12/23 22:26] seeminglyunrelated
+So still worse earth impale
+
+
+[2023/12/23 22:26] da_dogbar
+Its not earth impale
+
+
+[2023/12/23 22:26] da_dogbar
+Its the ones directly ahead and behind
+
+
+[2023/12/23 22:26] da_dogbar
+Its swirl with double strike and a downside
+
+
+[2023/12/23 22:27] seeminglyunrelated
+So worse swirl ､｣
+
+
+[2023/12/23 22:27] da_dogbar
+Not worse. Diffrent
+
+
+[2023/12/23 22:28] da_dogbar
+It deals double damage at the cost of self damaging yourself if you use it on a low health enemy.
+
+
+[2023/12/23 22:28] da_dogbar
+or if you use it on no enemy at all
+
+
+[2023/12/23 22:28] seeminglyunrelated
+double strike, I窶冦 still not convinced ﾂｯ\_(繝・_/ﾂｯ
+
+
+[2023/12/23 22:29] da_dogbar
+you waste an enchant slot then
+
+
+[2023/12/23 22:29] seeminglyunrelated
+This does make me think, what if instead of a cooldown nerf, we could have a recoil instead for enchants
+
+
+[2023/12/23 22:30] da_dogbar
++its not enchanted with double strike so you can still enchant it with something else OR actual double strike for a ton of damage
+
+
+[2023/12/24 7:20] kamelurrdoll2537
+Ok, Here me out........ Story Mode
+
+
+[2023/12/24 9:15] seeminglyunrelated
+Yes
+
+
+[2023/12/24 9:16] seeminglyunrelated
+I mean it doesn窶冲 fit rogue like but yes
+
+
+[2023/12/25 4:25] ian5
+self damage is way too big of a deal to be worthwhile for all but the most broken of things
+
+
+[2023/12/25 19:51] da_dogbar
+ngl there should be negative enchants that offer a big stat boost at the cost of maybe the weapon breaking after too much uses
+
+
+[2023/12/25 23:13] baconsizle
+maybe something like "bloodlust" that damages you per turn and heals you 2 hp per kill? more like a cursed item though
+
+
+[2023/12/25 23:14] baconsizle
+for like a challenge run
+
+
+[2023/12/27 7:47] da_dogbar
+status effect idea
+Bleed: Increase all damage taken by the enemy by 1 for 5 turns. Does NOT apply to kunai :>
+
+
+[2023/12/27 8:07] seeminglyunrelated
+This reminds me of an old suggestion that didn窶冲 get too much attention, what about life steal?
+
+
+[2023/12/28 1:41] freezedriedmangoes
+Cobalt Core has a pretty seamless way of integrating story with roguelike gameplay
+
+
+[2023/12/28 14:04] thefloralhurrikale
+Isn't the story just
+- We don't like Shogun
+- We travel to his castle
+- We kill him
+Nothing too complex as of right now
+
+
+[2023/12/28 16:25] da_dogbar
+actually i think nobody likes the shogun
+
+
+[2023/12/28 16:25] da_dogbar
+other than his army
+
+
+[2023/12/28 20:34] seeminglyunrelated
+Ye but to keep it lore accurate nobunaga would have to make the shogun his puppet and then kill him
+
+
+[2023/12/28 20:34] seeminglyunrelated
+In traditional Japanese lore
+
+
+[2023/12/29 0:33] projuanplayer
+I have a samurai idea. The character would be an enemy and would only appear in the Shogunﾂｴs castle. The samurai would have two different attacks, one for close range (1-2 tiles), the katana and one for long range (3-End of map tiles), arrow attack. The samurai would be Quick-Witted and would have 5 Hp from days 1 to 3 and 7 Hp from days 4 to 5. 
+The katana attack would be a two tile attack, like the spear, but would deal one more damage the second tile (2 damage the closest tile to the samurai and 3 the second tile.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1189954189489606757/images.png?ex=6a1665f3&is=6a151473&hm=20d9ad1a9fd608740ae7cbe80bc30a3a3f03496ddeb6d1b00a1970b293c29b92&
+
+
+[2023/12/29 2:00] da_dogbar
+make it so that if you have the shield retention perk you can drink the shield potions in shops and outside of combat
+
+{Reactions}
+総 (6)
+
+[2023/12/30 0:27] seeminglyunrelated
+Hey could we have a forum for these ideas, I think it窶冱 be a lot more organized (gonna repost in #笏server-suggestions当
+
+{Reactions}
+総 (4)
+
+[2023/12/31 4:33] kamelurrdoll2537
+10 Days:
+
+10 days is that the hero has to clean all the Shadow Remains of the Shogun, and at the last destroy the Shogun, making a kind of Story Mode with the days. Where the Heroes, when trying to eradicate the Shogun, would still have their Remnants on the unexplored islands
+
+
+[2023/12/31 4:37] seeminglyunrelated
+A perfect sum of my idea and yours
+
+
+[2023/12/31 4:38] seeminglyunrelated
+One sec lemme find mine
+
+
+[2023/12/31 4:38] kamelurrdoll2537
+Sure
+
+
+[2023/12/31 4:39] seeminglyunrelated
+Here it is!
+
+
+[2023/12/31 4:40] kamelurrdoll2537
+The Hunter: 
+The Hunter has the ability to hit the opponent hard, this would steal the enemies' consumables and money.
+
+Weapon Set 1: Shurikens and Beartrap
+Weapon Set 2: Tanegashima and Crossbow
+
+"The Hunter was captured on one of the islands where the Shogun infested with his shadow; He was hired to hunt down the Shogun for his crimes and will join the heroes to stop him."
+
+
+[2023/12/31 5:28] da_dogbar
+tile idea
+Fireball
+8 cooldown, 4 damage
+Ranged attack. Attack the first enemy in front of you. Overkill damage is carried over to the next enemy in front of you.
+
+
+[2023/12/31 7:25] seeminglyunrelated
+Sooooo kunai?
+
+
+[2023/12/31 7:25] da_dogbar
+kunai but balanced
+
+
+[2023/12/31 7:25] da_dogbar
+ngl remove kunai add fireball instead
+
+
+[2023/12/31 7:39] seeminglyunrelated
+窶ｦ or you could just do fireball stats on kunai窶ｦ
+
+
+[2023/12/31 7:40] da_dogbar
+idk
+
+
+[2023/12/31 7:41] kamelurrdoll2537
+We need the "Shurikens"
+
+
+[2023/12/31 7:41] kamelurrdoll2537
+I know this weapon for the Custom Weapon Start
+
+
+[2023/12/31 11:41] cashew.html
+Tanegashima and crossbow is a crazy good weapon set
+
+
+[2023/12/31 20:48] seeminglyunrelated
+Which is why none of the starter tiles have them ､｣
+
+
+[2023/12/31 20:49] seeminglyunrelated
+I窶囘 say crossbow and as less op weapon such as smoke bomb or one of the free play ones for the hunter
+
+
+[2023/12/31 20:53] da_dogbar
+ronin does have crossbow for his alternate start
+
+
+[2023/12/31 22:36] undurable
+Crossbow is pretty overrated imo
+
+
+[2023/12/31 22:39] apokalypse6
+crossbow with double strike is good tho
+
+
+[2023/12/31 22:43] undurable
+Might be speedrunner bias because crossbow animation takes forever
+
+
+[2023/12/31 22:54] seeminglyunrelated
+窶ｦ yeah fair but it窶冱 alternate so you do have to do a bit of meta progression
+
+
+[2024/01/03 4:13] greenbanks4
+Heyhey does anyone know if hotkeys and shortcuts will be implemented eg. "key 1" for skill 1 and so forth
+
+
+[2024/01/03 4:29] andrew.s616
+Idk but that would make speedrunning a lot quicker
+
+
+[2024/01/03 4:54] da_dogbar
+that should 100% be a thing
+
+
+[2024/01/03 4:54] da_dogbar
+it would make playing without a mouse actually viable
+
+
+[2024/01/03 4:58] apokalypse6
+Honestly there could be a only touch mode, where rather than moving with WASD you can move with a touchpad or smth
+
+
+[2024/01/03 5:05] greenbanks4
+Im on macbook and its fine but would be so much smoother with keyboard only
+
+
+[2024/01/03 5:14] undurable
+it kinda wouldnt because youre already soft limited by the animation of each action
+
+
+[2024/01/03 5:14] undurable
+you cant start an action until the animation for the previous one has taken place
+
+
+[2024/01/03 7:13] double_dot
+without the keyboard there is an input queue feeling
+
+
+[2024/01/03 7:14] double_dot
+like i have muscle memory i cannot have with some mouse input
+
+
+[2024/01/03 7:14] double_dot
+especially because with speedruns you have to mentally represent the cooldown of each tiles
+
+
+[2024/01/03 7:15] double_dot
+and not fetch the visual data for it
+
+
+[2024/01/03 7:15] double_dot
+as it lags and attention should be spent elsewhere
+
+
+[2024/01/03 7:24] apokalypse6
+ye
+
+
+[2024/01/03 7:25] greenbanks4
+Meh, I see your point but dont really agree. Although animations are a bottleneck, it would still improve flow
+
+
+[2024/01/03 7:29] undurable
+Idk I think its kinda cool that for example the required mouse movement to use consumables adds some actual skill to the equation
+
+
+[2024/01/03 7:30] undurable
+If consumables had keyboard shortcuts it would make the speedrun less interesting
+
+
+[2024/01/03 7:30] undurable
+Hyperniche opinion ik
+
+
+[2024/01/03 7:46] apokalypse6
+tbh, youre right
+
+
+[2024/01/03 7:47] apokalypse6
+I feel like having done everything with key shortcuts makes speedruns less interesting
+
+
+[2024/01/03 7:49] greenbanks4
+I like the feel of Slay The Spire style hotkeys, I mainly want shortcuts for selecting tiles tbh
+
+
+[2024/01/03 9:10] apokalypse6
+I have a idea, how about a elite type thats immune to poison and ice? (maybe even shockwave idk)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1191896343497683104/image.png?ex=6a163678&is=6a14e4f8&hm=1ea8f1b5703b9d81d26f5ed22e570f1dd48cc1b37a46af24893d50237da6abbe&
+
+{Reactions}
+櫨 (6)
+
+[2024/01/03 9:10] apokalypse6
+The colour and icon could definitely be better ngl
+
+
+[2024/01/03 11:45] chapples4
+Also to add on this, elites that can inflict status effects like poison and ice. Maybe a day 6 could have the added challenge of harder elites like these.
+
+
+[2024/01/03 11:45] apokalypse6
+Ice seems like to overpowered tho
+
+
+[2024/01/03 11:46] apokalypse6
+It should be massivily nerved
+
+
+[2024/01/03 11:46] apokalypse6
+like 1 turn
+
+
+[2024/01/03 11:46] chapples4
+Hence it being only added to a harder like a hypothetical day 6
+
+
+[2024/01/03 11:46] chapples4
+Frick i can't spell
+
+
+[2024/01/03 11:46] chapples4
+English is hard
+
+
+[2024/01/03 11:46] apokalypse6
+I cant even beat day 5 亊
+
+
+[2024/01/03 11:47] apokalypse6
+Got really close today
+
+
+[2024/01/03 11:47] andrew.s616
+im almost done with day 4, i fear the next day
+
+
+[2024/01/03 11:47] apokalypse6
+Its hell, you only have 5 hp
+
+
+[2024/01/03 11:48] andrew.s616
+og ronin竅会ｸ・
+
+
+[2024/01/03 11:48] andrew.s616
+(itch.io version of the ronin only had 5 hp)
+
+
+[2024/01/03 11:48] apokalypse6
+interesting
+
+
+[2024/01/03 11:48] apokalypse6
+but yes its hell
+
+
+[2024/01/03 11:48] apokalypse6
+good luck
+
+
+[2024/01/03 11:49] andrew.s616
+・
+
+
+[2024/01/03 11:49] chapples4
+Day 5 is hard, until you get an overpowered kunai build and everything dies
+
+
+[2024/01/03 11:50] chapples4
+Kunai is so lovable when everything works out as you want
+
+
+[2024/01/03 11:51] apokalypse6
+Kunai and Monomancer my beloved
+
+
+[2024/01/03 11:51] apokalypse6
+Best combo
+
+
+[2024/01/03 11:52] chapples4
+Amen
+
+
+[2024/01/04 3:39] double_dot
+monokunai, the nightmare
+
+
+[2024/01/04 4:09] ian5
+posion and ice would both be enormously punishing; getting hit with ice is "you lose the run" and getting hit with poison is "+3 damage"
+
+
+[2024/01/04 4:09] apokalypse6
+thats what I said lol
+
+
+[2024/01/04 4:09] apokalypse6
+but maybe it could be reduced to 1 turn only
+
+
+[2024/01/04 4:10] ian5
+1 turn of poison would probably be fine
+1 turn of ice might honestly be too much of a nerf
+
+
+[2024/01/04 4:11] da_dogbar
+hear me out
+what if the poison triggers every 2 turns on the player but it ends if the enemy who poisoned the player is killed
+
+{Reactions}
+総 (2)
+
+[2024/01/04 7:59] andrew.s616
+new idea
+
+
+[2024/01/04 8:00] andrew.s616
+an elite type that damages the player if they aren't killed with exact damage
+
+
+[2024/01/04 8:00] andrew.s616
+like if they have 3 hp left and you hit them with 5 damage, you take 2 damage
+
+
+[2024/01/04 8:01] seeminglyunrelated
+kunaimancer is the objectively better name
+
+
+[2024/01/04 8:01] seeminglyunrelated
+so basically reverse perfect strike
+
+
+[2024/01/04 8:01] seeminglyunrelated
+that sounds like a nightmare
+
+
+[2024/01/04 8:01] andrew.s616
+yeah
+
+
+[2024/01/04 8:02] seeminglyunrelated
+maybe we should have double elites?
+
+
+[2024/01/04 8:02] seeminglyunrelated
+Lieutenants that only appear after a certain day?
+
+
+[2024/01/04 8:42] apokalypse6
+oh god quick witted double strike grappler
+
+
+[2024/01/05 12:11] apokalypse6
+**Fan Made Location:**
+Blood City
+Once a normal village, converted by the shogun into a horrendous capturing ground. Ieyasu was tasked to watch this place.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1192666582766342315/BloodCity.png?ex=6a1660d0&is=6a150f50&hm=1b2ee9e8a0eddee1db705ce66f6cfc2e2dc8fe0d3290bd5cb42915c6d1f8e7fd&
+
+
+[2024/01/05 12:11] apokalypse6
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1192666719236411423/Ieyasu.png?ex=6a1660f0&is=6a150f70&hm=c265d51f01d4a314f53c0b189ab87d590b76331681507911969ce69ceaeae091&
+https://cdn.discordapp.com/attachments/965176630588882954/1192666719731335198/image.png?ex=6a1660f0&is=6a150f70&hm=1d5d4159f85ce9bf55ee52f0607059a9f90d9f2917a56095a204580d0053345f&
+https://cdn.discordapp.com/attachments/965176630588882954/1192666719987179610/image.png?ex=6a1660f0&is=6a150f70&hm=d7ccba171c45845d5ec6e717607d9c1c0a1ea4f0efdf6e1727c4bd0a76a8ea2b&
+
+
+[2024/01/05 12:13] apokalypse6
+Maybe this could be chosen after going through the corrupted path, a option between Nobunagas fortress and blood city
+
+{Reactions}
+総
+
+[2024/01/05 13:02] kamelurrdoll2537
+Honestly, i got one idea for the Corruption
+
+
+[2024/01/05 13:02] kamelurrdoll2537
+"The Origin of the Corruption"
+
+
+[2024/01/05 13:03] kamelurrdoll2537
+How this corruption appears? How's possible to make this level of destruction and madness
+
+
+[2024/01/05 13:06] kamelurrdoll2537
+We need more lore of this Corruption; one artifact, one ancient curse
+
+
+[2024/01/05 13:08] thefloralhurrikale
+It most likely comes from the Shogun, considering how he looks in his second phase
+
+
+[2024/01/07 1:33] apokalypse6
+Why do you get a forced shop after moonlit port :( There could be a fork which would actually make it worth it to change where the player gos once in a while
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1193230937333436446/image.png?ex=6a167428&is=6a1522a8&hm=c18f0f7b7220e4ae83b3e709ddb8754dab6804e167544e63a45bd4c68ccfe8e2&
+
+
+[2024/01/07 1:34] apokalypse6
+(because lets be honest, everyone is going the lower path cuz its cooler)
+
+
+[2024/01/07 1:36] project_u
+Because they want to see you?
+
+
+[2024/01/07 1:40] apokalypse6
+Nah probably because it a new area that people want to play
+
+
+[2024/01/07 1:45] roboatino
+The "moonlit port forced shop" is kind of a placeholder for something I'm planning to add in the future.
+
+{Reactions}
+操
+
+[2024/01/07 1:46] apokalypse6
+Oh thats interesting! Im adding this to the wiki lol
+
+
+[2024/01/07 2:26] apokalypse6
+I found this in the files, could this mean that the moonlit port is going to be a special shop with purple skills?
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1193244305494655036/image.png?ex=6a16809b&is=6a152f1b&hm=f7fc7e908216de60f49ee573baff7b3dfec2ba14c9fc9929b44b281526de4253&
+
+
+[2024/01/08 8:12] another_ralsei
+Tile shop, be offered 2-3 random tiles you've unlocked. Costs 15 to pick one of them up.
+
+
+[2024/01/08 8:12] another_ralsei
+honestly I'd just like a way to get more tiles since I feel kind of limited rn
+
+
+[2024/01/08 8:38] apokalypse6
+MAYBE THE UNCOMMON TILES COULD COST 25 OR 30
+
+
+[2024/01/08 8:38] apokalypse6
+oops caps
+
+
+[2024/01/08 9:02] thefloralhurrikale
+I do like this idea
+
+
+[2024/01/08 11:01] project_u
+Tile limit is still at 6 right?
+
+
+[2024/01/08 11:08] another_ralsei
+i go there purely because explosive one shots are so much better than cheap ninja attacks
+
+
+[2024/01/08 11:14] apokalypse6
+true
+
+
+[2024/01/08 18:05] da_dogbar
+Nunchucks
+1 damage, 6 cooldown
+Hit the cells directly ahead and behind. On miss, hit yourself instead. This attack is repeated 3 times.
+
+
+[2024/01/08 20:29] apokalypse6
+Hitting yourself is actually a cool idea, i dont know about the attack is repeated 3 times part tho
+
+
+[2024/01/08 20:30] apokalypse6
+Maybe its just three damage base
+
+
+[2024/01/08 20:30] apokalypse6
+I think the possibility of hitting yourself opens up new strategies
+
+
+[2024/01/08 20:35] da_dogbar
+ngl i think hitting yourself shouldnt count as a hit
+
+
+[2024/01/08 20:36] da_dogbar
+i mean for the stats at the end
+
+
+[2024/01/08 21:00] greenbanks4
+Agreed. Some games do have self-inflicted damage as synergies, would be a cool concept to explore
+
+
+[2024/01/08 22:22] seeminglyunrelated
+Yeah and it worked well with the tanegashima
+
+
+[2024/01/08 22:27] apokalypse6
+Imagine a skill which damages all enemies by one per hit you take
+
+
+[2024/01/09 0:04] apokalypse6
+How about a new hero with blazing suisei as their main? A japenese geisha could be used as inspiration idk
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1193933160149438504/Geisha.png?ex=6a165f27&is=6a150da7&hm=4fadee69ae416eed22051673a2042d0202d7cf65f5715c182326af4de9c3730d&
+
+
+[2024/01/09 3:15] da_dogbar
+some ideas for hero special moves
+Flip: Flip the first enemy in front of you. Activate by waiting. 4 cooldown. 
+Bomb: Attatch a sticky bomb at the enemy in the tile directly in front of you. When that enemy dies or takes more than 6 damage, he explodes, dealing 3 damage to the cells directly ahead and behind. 7 cooldown, you can only have 2 bombs planted in total at a time. 
+Turn: Turn around without progressing the turn. Activate by moving into an enemy. (this cannot get two way move)
+Dodge: Slide to the first safe cell in front of you. Activate by waiting when you're about to be attacked. 7 cooldown.
+
+
+[2024/01/09 3:32] fongiv
+Samurai 
+Special ability : he can flip an enemy in front of him by moving forward 
+Starting tiles : sword / curse 
+Alternate starting tiles : sai / dash
+
+
+[2024/01/09 3:34] seeminglyunrelated
+Uh... for flip doesn't Bo already exist? Oh ig special move would be cool though
+
+
+[2024/01/09 4:48] greenbanks4
+Feels awkward that you cant wait without using it though right
+
+
+[2024/01/09 4:51] da_dogbar
+kind of
+
+
+[2024/01/09 4:51] da_dogbar
+its meant to be unique though
+
+
+[2024/01/09 23:59] kamelurrdoll2537
+Ok.... you are gonma hate me for this: Life modifers of day 7 to 10
+
+
+[2024/01/10 0:00] kamelurrdoll2537
+Day 7: 4 hearts
+Day 8: 3 Hearts
+Day 9: 2 Heats
+Day 10: 1 heart
+
+{Reactions}
+綜 (10)
+
+[2024/01/10 0:02] thefloralhurrikale
+Biggest waste of days ever
+
+
+[2024/01/10 0:03] thefloralhurrikale
+Just cut it to one and then fill the rest with interesting modifiers
+
+
+[2024/01/10 1:41] apokalypse6
+I feel like Day conditions should be interesting. Reducing your hp by one is kinda dumb
+
+
+[2024/01/10 1:41] apokalypse6
+Like Hurrikale said, Biggest waste of days
+
+
+[2024/01/10 2:04] undurable
+healing shops on day 10:
+
+
+[2024/01/10 2:09] da_dogbar
+for day 7 its probably gonna be the shogun is corrupt or something
+
+
+[2024/01/10 2:10] da_dogbar
+theres gonna be only 7 days i think
+
+
+[2024/01/10 3:25] kamelurrdoll2537
+However i still got my idea for Day 10; explore ALL sectors and all the Islands
+
+
+[2024/01/10 5:19] apokalypse6
+how would that work
+
+
+[2024/01/10 5:20] kamelurrdoll2537
+One example, if one island hace 2 roads, when you complete one of them you can back and select the other way
+
+
+[2024/01/10 5:20] apokalypse6
+that wouldnt even be difficult
+
+
+[2024/01/10 5:21] kamelurrdoll2537
+The idea it's Day 10, you need complete all the zones and the difficult it's insane for being the Last Day
+
+
+[2024/01/10 5:21] apokalypse6
+the last day should actually be a challenge
+
+
+[2024/01/10 5:22] kamelurrdoll2537
+Exactly the goal of Day 10 it's clean all the zones of Shogun Shadow
+
+
+[2024/01/10 5:22] apokalypse6
+forcing more islands is just making the run longer, more boring and not going to be difficult
+
+
+[2024/01/10 5:22] apokalypse6
+gameplay over lore bro
+
+
+[2024/01/10 5:23] kamelurrdoll2537
+Yeah
+
+
+[2024/01/10 5:23] kamelurrdoll2537
+Plus, we need one Story Mode
+
+
+[2024/01/10 5:24] kamelurrdoll2537
+Cinematics and more for some lore
+
+
+[2024/01/10 5:24] apokalypse6
+Ultra corrupted bosses are stupid but might just work better than... this.
+
+
+[2024/01/10 5:24] apokalypse6
+this could be a additional side objective maybe
+
+
+[2024/01/10 5:25] apokalypse6
+but not a main
+
+
+[2024/01/10 5:46] da_dogbar
+that would make the game easier
+
+
+[2024/01/10 5:46] da_dogbar
+more time to get a good build
+
+
+[2024/01/10 5:47] kamelurrdoll2537
+The idea its no get so much builds
+
+
+[2024/01/10 5:48] da_dogbar
+but on each location you clear you not only get more coins but also more upgrades and shops
+
+
+[2024/01/10 5:49] kamelurrdoll2537
+Yeah right
+
+
+[2024/01/10 5:49] da_dogbar
+it could be cool as a diffrent gamemode but doesnt work as a challenge for a day
+
+
+[2024/01/13 4:58] double_dot
+lore wise there shouldn't be more than 7 days
+
+
+[2024/01/13 5:43] seeminglyunrelated
+Facts
+
+
+[2024/01/13 5:43] seeminglyunrelated
+Or there could be as many days as there are shogunates
+
+
+[2024/01/13 5:44] seeminglyunrelated
+wait are there 7 shogunates?
+
+
+[2024/01/13 9:16] .ihnn
+better to increase amounts of corrupted bosses, elite enemies and decrease coins and potions again
+
+
+[2024/01/13 9:16] .ihnn
+and add harder enemies earlier
+
+
+[2024/01/13 9:19] .ihnn
+i have a stupid idea
+long range attacks for normal enemies, so the swirl enemy can now to damage in the tiles next to itself, and the ones next to those again
+effectively making it a swirl+earthquake, but in once card. but it can be done for multiple enemies
+spear then has 3 range, dash deals damage to the entity behind the one it hits in addition to the enemy it hits and so on
+
+
+[2024/01/13 9:19] .ihnn
+and add that as an enchant ig
+
+
+[2024/01/13 9:20] .ihnn
+or maybe as a card that makes the card played after that long range
+
+
+[2024/01/13 19:38] apokalypse6
+That would make the game impossible
+
+
+[2024/01/13 19:48] .ihnn
+i know
+
+
+[2024/01/13 19:48] .ihnn
+that is why i said its a stupid idea
+
+
+[2024/01/13 22:51] seeminglyunrelated
+Put it in mods that's generally where all the ideas too stupid to be true go ､｣
+
+
+[2024/01/13 23:16] da_dogbar
+ngl mirror as a special move could be pretty cool
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1195733216804470856/image.png?ex=6a165416&is=6a150296&hm=0afa34ed7f7f584130c999bf3f86b0ac6298452c5ab8012fee9d724ee813b304&
+

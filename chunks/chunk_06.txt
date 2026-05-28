@@ -1,0 +1,2000 @@
+﻿
+
+[2024/03/09 8:49] Deleted User
+select one tile, and add another tile on top of it
+
+
+[2024/03/09 8:49] Deleted User
+adding the "block" would only cost 1 turn and 1 slot in queue
+
+
+[2024/03/09 8:50] Deleted User
+however cooldowns are combined and you can't change the order of the block
+
+potentially it could only have 1 damaging tile and require the rest to be freeplay movement tiles to promote planning combos and to prevent people from using this to just make an instant delete button
+
+
+[2024/03/09 8:51] punpunisnofunfun
+idk i think it changes how the game works a bit too much to ever be implemented
+
+
+[2024/03/09 8:51] punpunisnofunfun
+I really like this, in a similar idea maybe this could be a way to give shuriken a bit more uniqueness?
+like instead of just being a faster but weaker arrow make it:
+1 damage, 4 cooldown
+"When attack queue reaches this tile, press left or right to strike the first target in that direction"
+
+
+[2024/03/09 8:53] punpunisnofunfun
+could be cool to see tiles that can be changed with an input when the tile is reached in attack queue
+
+
+[2024/03/09 8:53] thefloralhurrikale
+Shinobi is going to need reprogramming for that
+and You can't dodge it's shuriken attack anymore
+
+
+[2024/03/09 8:53] punpunisnofunfun
+oh right I forgor he uses that
+
+
+[2024/03/09 8:54] punpunisnofunfun
+good point lol
+
+
+[2024/03/09 8:54] Deleted User
+a ranged attack based on which direction you last moved in? ､・
+
+
+[2024/03/09 8:54] Deleted User
+the enemy movement arrow could be reused to show it
+
+
+[2024/03/09 8:55] punpunisnofunfun
+oh that would work
+
+
+[2024/03/09 8:55] punpunisnofunfun
+would be cool
+
+
+[2024/03/09 9:06] kankerlelijk
+https://tenor.com/view/dracula-flow-dracula-flow-don%27t-need-to-see-the-price-tag-rich-gif-16302457647501309522
+
+{Embed}
+https://tenor.com/view/dracula-flow-dracula-flow-don%27t-need-to-see-the-price-tag-rich-gif-16302457647501309522
+https://images-ext-1.discordapp.net/external/UwclXCL53XU9qyPbkEpy1ZmiKmoArjKMm2Fdj0KcoUg/https/media.tenor.com/4j322zUqdlIAAAAe/dracula-flow.png
+
+
+[2024/03/09 14:46] another_ralsei
+na you can probably get away w/ not changing it or forcing a wait
+
+
+[2024/03/09 16:21] double_dot
+I rather want the shuriken to have any buff applied onto it doubled, and lowering it's levels. +1 dmg makes +2 and -2 CD makes it -4 CD
+
+
+[2024/03/09 16:22] double_dot
+But the shuriken would have max 2 upgrades when bought
+
+
+[2024/03/09 16:27] double_dot
+Poison would do +2 DMG on tick, DS would be quadruple strike but would require 8 CD to be added as it's also twice    the effect for downside
+
+
+[2024/03/09 17:29] da_dogbar
+thats just a better kunai
+
+
+[2024/03/09 18:03] another_ralsei
+Na Kunai's strength comes from multi-hitting, thus proccing on-hit effects multiple times while dealing with crowds well
+
+Proposed Shuriken just doubles upgrades, but it doesn't have a good crowd control aspect due to only throwing one (unless you somehow got DS, in which its only up to 4 enemies)
+
+
+[2024/03/09 18:05] another_ralsei
+as for proposed idea, it seems interesting but id rather make shuriken feel *fast* to play while being still being moderately effective. this could work on a melee-esque tile like meteor hammer or smth else, but thats just me.
+
+
+[2024/03/09 21:01] miyucomics
+Maybe the shuriken could have free to play on by default? Just to give it that fast feeling, or to clean up that last hitpoint if you are slightly off with your math
+
+
+[2024/03/09 22:28] another_ralsei
+I mean I wouldn't complain for an arrow that has 1 damage but is freeplay, dk abt other people
+
+
+[2024/03/09 22:53] freezedriedmangoes
+Id take shuriken much more often if it had free play
+
+
+[2024/03/09 22:54] freezedriedmangoes
+As is I never take it except in extremely specific cases
+
+
+[2024/03/10 6:38] stillborn
+@Fumiko finally, day 9. What do you think of that ? ､｣ :curse: https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(2024_miniseries)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1216137973905756190/image.png?ex=6a16bb7f&is=6a1569ff&hm=d30cfa6e4fa6636e70cf993a73929db6e9d168fdd27edb979da40be0a6ce9c59&
+
+{Embed}
+https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(2024_miniseries)
+Shﾅ紅un (2024 miniseries)
+Shﾅ紅un is an American historical drama miniseries created by Rachel Kondo and Justin Marks. It is based on the 1975 novel of the same name by James Clavell, which was previously adapted into a 1980 miniseries. The series premiered with its first two episodes on February 27, 2024, on Hulu and FX, with new episodes of the 10-episode series then re...
+https://images-ext-1.discordapp.net/external/G9QuPUZ5SaHCFBIa0ruAYDcEFdptJIWnL-nTg5dmyX0/https/upload.wikimedia.org/wikipedia/en/b/b6/Sh%25C5%258Dgun_%25282024_miniseries%2529_poster.jpg
+
+
+[2024/03/10 6:38] apokalypse6
+...what
+
+
+[2024/03/10 6:38] apokalypse6
+uhh
+
+
+[2024/03/10 6:39] Deleted User
+day 9: every enemy is shinobi
+
+
+[2024/03/10 6:40] apokalypse6
+Thought the ninth day was out in the game LMAO
+
+
+[2024/03/10 7:05] seeminglyunrelated
+逐 pls no
+
+
+[2024/03/10 7:06] seeminglyunrelated
+I just never take it unless there窶冱 a sacrifice shop and I really don窶冲 need the other tiles
+
+
+[2024/03/10 7:06] seeminglyunrelated
+Tbh Mirko could just straight up remover shruriken
+
+
+[2024/03/10 7:06] seeminglyunrelated
+There窶冱 the same, but a little less ba d problem with tetsubo
+
+
+[2024/03/10 7:07] freezedriedmangoes
+Shuriken窶冱 pretty good with the ice enchantment, but that窶冱 the only use Ive found besides just having another tile for sniper
+
+
+[2024/03/10 7:08] freezedriedmangoes
+And you can窶冲 just take shuriken hoping to be offered ice later down the line
+
+
+[2024/03/10 7:21] bitterlemons_dota
+､・(realistically thinking) Day 7 : Every Enemy is Elite (窶ｻCorrupted for Boss・・
+
+
+[2024/03/10 7:43] stillborn
+Day 9, all boss are corrupted, and day 10, shogun is corrupted xD
+
+
+[2024/03/10 17:51] shiontan
+what do u think is the best and worst enchantment for the Shuriken tho
+
+
+[2024/03/10 17:52] shiontan
+imo I found Free Play enchantment (not just on Shuriken but in general) to be quite cumbersome
+
+
+[2024/03/10 22:43] seeminglyunrelated
+What?? How?
+
+
+[2024/03/10 22:43] dragon_of_celts
+I would assume because of the cool down increase.
+
+
+[2024/03/10 22:45] seeminglyunrelated
+Oh yeah I guess  but still
+
+
+[2024/03/10 23:19] double_dot
+freeplay is good on control tiles not really on damage ones
+
+
+[2024/03/10 23:19] double_dot
+unless the dasher are that much a threat to you
+
+
+[2024/03/11 0:09] shiontan
+ig my playstyle just doesn't really call for Free Play enchant tbh
+
+
+[2024/03/11 0:12] shiontan
+and yeah the cool down increase is a bit too much, iirc it's +4 or +3, +3 would probably be okay but having to wait 4 extra turns and possibly invest more cdr on your upgrade slots just to offset the drawback just feels awful
+
+
+[2024/03/11 1:53] seeminglyunrelated
+Especially good on smoke bomb
+
+
+[2024/03/11 2:02] double_dot
+i agree but you need to lower SB CD to be good
+
+
+[2024/03/11 2:03] double_dot
+8 CD freeplay SB is as advantegous of 4CD SB imo
+
+
+[2024/03/11 7:32] freezedriedmangoes
+Best is probably ice, but poison is good, and of course electric is always good
+Worst is probably free play, unless you somehow have it at at least 5 damage
+Double strike is alright, it窶冱 probably a pretty good target for double strike when that窶冱 offered, but Id prefer ice/poison/electric
+
+
+[2024/03/11 12:20] shiontan
+I agree :3 I do happen to like Double Strike on Shuriken tho, really great for once u get some cdr on it and clear out low-hp enemies (like the 1 HP dude that only does a dash attack)
+
+
+[2024/03/11 17:15] bitterlemons_dota
+New Enchantment : Vampiric 縲悟精陦・習yuketsu縲・+3 CD
+Reduce the weapon damage by -1
+When you last hit an enemy with a Vampiric weapon - you gain 1 笙･
+
+
+[2024/03/11 17:16] bitterlemons_dota
+*Alternative name ideas : Leech / Bloodthirst
+
+
+[2024/03/11 17:17] shiontan
+I like this idea ngl, not exactly the most tactically advantageous enchant but it's very helpful for players who struggle with their HP management
+
+{Reactions}
+・
+
+[2024/03/11 17:20] shiontan
+the tooltip feels vague tho, how would it work with multi-hits? does it heal *per* enemy hit? or does it just heal based on how many instances of damage?
+
+
+[2024/03/11 17:20] shiontan
+like does it heal +2 instead with the spear? or still +1
+
+
+[2024/03/11 17:20] bitterlemons_dota
+When you last hit, it triggers. so if you kill 2 1HP enemies with a Kunai, you heal 2.
+
+
+[2024/03/11 17:21] shiontan
+ahhhh I see
+
+
+[2024/03/11 17:21] bitterlemons_dota
+If you last hit 2 2HP enemies with a spear, you heal 2.
+
+
+[2024/03/11 17:21] shiontan
+yeah defo a very good upside considering the +3 CD and -1 dmg drawback
+
+
+[2024/03/11 17:21] bitterlemons_dota
+but your damage is reduced by 1 & +3 CD
+
+
+[2024/03/11 17:22] shiontan
+yeah I think it's worth still, at the very least you don't have to rely on Edamame Brews or Shrine points as much if you're struggling on HP
+
+
+[2024/03/11 17:22] bitterlemons_dota
+It's a defensive kind of enchantment
+
+
+[2024/03/11 17:23] bitterlemons_dota
+the drawbacks are ... +3 CD / -1 dmg / & you have to last hit
+
+
+[2024/03/11 17:23] shiontan
+which ig is needed imo, the only defensive enchant that remotely counts imo is Ice
+
+
+[2024/03/11 17:23] bitterlemons_dota
+was thinking free-cast is also defensive?
+
+
+[2024/03/11 17:24] shiontan
+meh
+
+
+[2024/03/11 17:24] shiontan
+i'm still on the idea that Free-Play is decent on paper but the drawbacks make it very hardly worth getting for
+
+
+[2024/03/11 17:25] bitterlemons_dota
+I always pass on free-play +4 CD is huge
+
+
+[2024/03/11 17:25] shiontan
++3 cd iirc for Free-Play
+
+
+[2024/03/11 17:25] shiontan
+oh it's +4?
+
+
+[2024/03/11 17:25] shiontan
+yeah even less reasons to go for it lol
+
+
+[2024/03/11 17:25] shiontan
+Double-Strike also has +4 iirc but at least that has a more direct benefit offense-wise
+
+
+[2024/03/11 17:27] bitterlemons_dota
+my bad, since I don't get free-play most of the time, I made a mistake. it's +3
+https://shogun-showdown.fandom.com/wiki/Properties
+
+{Embed}
+https://shogun-showdown.fandom.com/wiki/Properties
+Properties
+https://images-ext-1.discordapp.net/external/8Pt7vDBFlQwZCcDQg05P2MjnDvfnlVoGWfDAiUjVlIs/%3Fcb%3D20210713142711/https/static.wikia.nocookie.net/ucp-internal-test-starter-commons/images/a/aa/FandomFireLogo.png/revision/latest
+
+
+[2024/03/11 17:28] shiontan
+still not worth tbh, getting a free turn on one move but having to wait 3 extra turns and investing cdr on that move just feels like a resource sink lol
+
+
+[2024/03/11 17:28] shiontan
+plus Turn Around exists
+
+
+[2024/03/11 17:29] shiontan
+might as well use that and go for Mass Curse to increase damage if u want with your other two attacks instead
+
+
+[2024/03/11 17:30] bitterlemons_dota
+Maybe the devs over-rated Free-Play when they first implemented ... ､・笶・
+
+
+[2024/03/11 17:31] shiontan
+like i said, it sounds nice on paper, really the only issue imo is the drawback
+
+
+[2024/03/11 17:31] shiontan
+maybe buffing it to +2 instead of +3 would help it a ton
+
+
+[2024/03/11 17:31] bitterlemons_dota
+would be enjoyable if it was +2 凾 笙ｪ笙ｪ
+
+
+[2024/03/11 17:32] shiontan
+yeah cause it least the net worth is just +1 cd
+
+
+[2024/03/11 17:33] bitterlemons_dota
+https://discord.com/channels/965169818309369858/965176630588882954/1216660748244353155 竊人ink to the beginning of this conversation.
+
+
+[2024/03/11 17:36] shiontan
+New Skill Idea: Throw
+Throw target in front of you towards the furthest enemy with a nearby free space, target lands on free space in front or behind.
+Base Damage: 2
+Damage on secondary target: 1
+Base CD: 4 turns
+
+
+[2024/03/11 17:36] shiontan
+Base Upgrade Slots: 3
+
+
+[2024/03/11 19:07] bitterlemons_dota
+this "or" is bugging me.
+Would you want it to be random 笶・
+Or something like "if there is no space behind, falls in front"
+
+
+[2024/03/11 19:11] shiontan
+the latter
+
+
+[2024/03/11 19:11] shiontan
+but then again I'm not against the placement being RNG itself
+
+
+[2024/03/11 19:11] shiontan
+it's just 50/50 odds
+
+
+[2024/03/11 22:52] freezedriedmangoes
+Ah that窶冱 fair
+
+
+[2024/03/11 22:54] freezedriedmangoes
+Imo free play on a teleport tile is incredible for dealing with bad spawns
+
+
+[2024/03/11 22:54] freezedriedmangoes
+Ive had free play smoke bomb / shadow dash save me from bad grappler spawns quite a few times
+
+
+[2024/03/11 23:17] seeminglyunrelated
+Uhhh please don窶冲 use the fandom, the official wiki is the wikigg and we need more people to use it so that it窶冱 at the top of the search results
+
+
+[2024/03/12 2:05] bitterlemons_dota
+I just used what came with my google search ... so I'm not sure what you mean by "don't use it"
+
+
+[2024/03/12 2:06] bitterlemons_dota
+I got the impression you're telling me "fandom" is evil.
+
+
+[2024/03/12 2:07] double_dot
+no, what woke napoleaon wanted to says is not to split up wikis in order to optimise the search engine result in favor of the wiki most supported by the community
+
+
+[2024/03/12 2:09] bitterlemons_dota
+I wasn't aware of the official one, so I'm thankful to Napoleon on that point. :3
+
+{Reactions}
+総 (2)
+
+[2024/03/12 2:10] bitterlemons_dota
+Wasn't really promoting Fandom, so sorry about that. It was just a random information source for me - without thinking about the official/unofficial business.
+
+{Reactions}
+ｫ｡ (2) 総 (2)
+
+[2024/03/12 2:13] bitterlemons_dota
+https://shogunshowdown.wiki.gg/wiki/Shogun_Showdown_Wiki this one? 他
+
+{Embed}
+https://shogunshowdown.wiki.gg/wiki/Shogun_Showdown_Wiki
+Shogun Showdown Wiki
+The Official Shogun Showdown Wiki is written and maintained by the players.
+https://images-ext-1.discordapp.net/external/34hlsXX71xbC-gqzmozkjaoUX1qKPfXZ-aKLCDdI6hE/https/shogunshowdown.wiki.gg/images/e/e6/Site-logo.png
+
+
+[2024/03/12 2:15] stillborn
+yep 総
+
+
+[2024/03/12 2:17] bitterlemons_dota
+I'll add the wiki to my favorites, thanks guys.
+@The Shadow @笨ｨ 4 slots縲尻unai縲鯛惠 @StillBorn
+
+{Reactions}
+ｫｶ (3) 剌 (2)
+
+[2024/03/12 2:29] seeminglyunrelated
+You guys can ping me I don窶冲 mind ､｣
+
+
+[2024/03/12 2:29] seeminglyunrelated
+Yeah nah that窶冱 fine I wasn窶冲 really like trying to blame you or anything just trying to inform
+
+
+[2024/03/12 2:30] seeminglyunrelated
+(Don窶冲 want to ping again) we put some time into the wiki and it窶冱 just more accurate anyways so yeah 総
+
+
+[2024/03/12 2:39] stillborn
+@BitterLemons if you need more information for a wiki, you can go here #笏wiki糖
+
+
+[2024/03/12 2:39] stillborn
+笶､・・
+
+
+[2024/03/12 2:40] stillborn
+work in progress
+
+
+[2024/03/12 3:20] bitterlemons_dota
+I must be blind, didn't notice until you mentioned it. ・ @StillBorn
+
+{Reactions}
+､｣
+
+[2024/03/12 3:50] shiontan
+New Skill: Fling
+Does 1 damage at base, throws enemy target from 2 tiles max to 1 tile behind you.
+
+CD: 3 turns
+Upgrade Slots: 2
+
+the idea is to fling enemy target that's about to attack and make them do friendly fire while backturned
+
+
+[2024/03/12 3:51] da_dogbar
+ngl more tiles that focus on friendly fire could be very cool
+
+
+[2024/03/12 4:13] dragon_of_celts
+Gotta LOL at "He will stop at nothing to strike down his enemies, even if it means hitting enemies in the process" for Twin Tachi.
+
+
+[2024/03/12 4:14] dragon_of_celts
+(On the wiki, obviously)
+
+
+[2024/03/12 10:17] Deleted User
+has a freeplay skill ever been suggested?
+
+
+[2024/03/12 10:17] double_dot
+Now yes
+
+
+[2024/03/12 10:21] double_dot
+Can we have more than 60 fps, so far I have a bug that allows me to play with unlimited framerate which is great because the game doesn't handle more than one input per frame which often cause some of my input to get voided. Having input getting lost is a speedrun bane (I cannot Speedrun with the 60 fps cap)
+
+
+[2024/03/12 18:10] shiontan
+an idea that is defo never gonna happen but it's wishful thinking lol: collab with Koei Tecmo for a Shogun Showdown x Ninja Gaiden thing where Ryu is a playable character and starts with Kunai and a new tiled skill: Art of Fire Wheel : ^) (deals 1 dmg, but follow-up ranged attacks will deal 1 extra damage)
+
+
+[2024/03/12 22:23] seeminglyunrelated
+Watch it actually happen ､｣
+
+
+[2024/03/13 2:13] da_dogbar
+too op for speedruns i think
+
+
+[2024/03/13 7:48] miyucomics
+A red tile that swaps the position of the first two enemies in front of you?
+
+{Reactions}
+漕 (2)
+
+[2024/03/13 7:59] seeminglyunrelated
+uhh I think that's the enemy description in game, no?
+
+
+[2024/03/13 10:03] dragon_of_celts
+No, it says "even if hitting *his allies*", which makes sense (although that might have been wrong and corrected in one of the patches, I don't know).
+
+
+[2024/03/13 10:29] seeminglyunrelated
+逐 I didn't notice that, must be blind
+
+
+[2024/03/13 19:42] shiontan
+expanding on this idea, what if visually the character is stomping on a tatami mat that's 2 tiles wide, kinda like one of Baiken's special moves in Guilty Gear?
+
+
+[2024/03/13 19:43] shiontan
+but instead of a stun, it flings them behind you
+
+
+[2024/03/13 19:44] shiontan
+which would make sense given that Ninja Gaiden's a fairly popular game to speedrun and Ryu was inherently quick as a speedrun character thanks to some OP tools (looking at you Spin Slash with your "1 damage per frame" thing lol)
+
+
+[2024/03/13 20:41] bitterlemons_dota
+How about a Dojo-Style Practice-Mode 笶・
+Where you can practice skills, tiles, enchantments.
+
+Got that idea from @Kobu Jutsu talking about Tatami mats.
+(It will fit slightly Jujitsuka's theme) :3 笙ｪ
+
+{Reactions}
+総 (3)
+
+[2024/03/14 0:54] bitterlemons_dota
+Since I got two 総 I'll elaborate more, where that should be.
+It should be accessable from the starting screen.
+
+NEW RUN
+**PRACTICE**
+OPTIONS
+QUIT
+
+That kind of thing.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1217500931365666826/image.png?ex=6a166ada&is=6a15195a&hm=a8e7750fd7ec9095bc4a210b03df34e3302334ce07a3636ec1cf469bbcefcf5b&
+
+{Reactions}
+総
+
+[2024/03/14 2:32] seeminglyunrelated
+Sounds good
+
+
+[2024/03/16 5:05] Deleted User
+Itako
+Skill - Mirror the cell behind the enemy
+Tileset 1 - Lighting, *Susei
+Tileset 2 - Hookblade, Twin Tessen
+
+
+[2024/03/16 5:09] seeminglyunrelated
+Uhhh elaborate on skill please? From what I understand it seems too niche
+
+
+[2024/03/16 5:10] Deleted User
+you swap with the cell behind the enemy
+
+
+[2024/03/16 5:10] Deleted User
+and mirror
+
+
+[2024/03/16 5:10] da_dogbar
+that seems like a worse shadow i think
+
+
+[2024/03/16 5:11] seeminglyunrelated
+Yeah窶ｦ. It窶冱 pretty niche
+
+
+[2024/03/16 5:11] Deleted User
+you can friendly fire with an enemy behind your target & no turning around is needed
+
+
+[2024/03/16 5:11] seeminglyunrelated
+A bit like jujitsuka
+
+
+[2024/03/16 8:35] miyucomics
+Since there is a perk that makes collisions deal more damage, maybe there could be a perk to make shockwave deal +1 damage, make poison/freeze last a turn longer, etc...
+
+{Reactions}
+総 (4)
+
+[2024/03/16 9:06] thefloralhurrikale
+Elemental affinity?
+
+
+[2024/03/16 9:06] thefloralhurrikale
+Just throwing something down
+
+
+[2024/03/16 9:10] dragon_of_celts
+Personally, I'd rather it make shock jump a space than deal extra damage.
+
+
+[2024/03/16 23:25] seeminglyunrelated
+Well we already have lightning
+
+
+[2024/03/16 23:25] seeminglyunrelated
+Tbh most elemental affinities would just be poison
+
+
+[2024/03/16 23:25] seeminglyunrelated
+Ice is already there
+
+
+[2024/03/16 23:25] seeminglyunrelated
+Fire would be poison
+
+
+[2024/03/16 23:26] seeminglyunrelated
+Lightning is already there
+
+
+[2024/03/16 23:26] seeminglyunrelated
+Ig there could be an earth one?
+
+
+[2024/03/16 23:26] seeminglyunrelated
+Idk how that would work though
+
+
+[2024/03/16 23:35] shiontan
+make it a defensive one, like "hitting an enemy with an attack that has Earth element gives your character a damage shield, 1 per enemy hit"
+
+
+[2024/03/16 23:37] seeminglyunrelated
+Eh
+
+
+[2024/03/16 23:37] seeminglyunrelated
+maybe
+
+
+[2024/03/17 2:17] seeminglyunrelated
+Sounds a bit complex tho
+
+
+[2024/03/17 2:17] seeminglyunrelated
+Like it wouldn窶冲 be consistent with the other attacks, which all affect enemies
+
+
+[2024/03/17 2:24] thefloralhurrikale
+@The Shadow  I was talking about the skill name for this.
+
+
+[2024/03/17 2:33] seeminglyunrelated
+Ohh ・ ､｣
+
+
+[2024/03/17 8:43] apokalypse6
+I know this isnt about this anymore, but maybe the enchantment could be a earthquake (would probably dye the weapon brown idk) which could incapaticate the enemy or smth. Maybe the other way around, where it disables the weapon idk
+
+
+[2024/03/17 8:44] apokalypse6
+I feel like we need more enchantments for our weapon...
+
+
+[2024/03/17 9:23] dragon_of_celts
+Fire doesn't have to be Poison, there just needs to be a different effect settled upon.
+Some possibilities:
+1] Extra damage + cell gets a fire "trap" that will damage entity standing on or moving onto that cell.
+2] If target dies within x turns, produces a smoke column in that cell that prevents ranged attacks passing the column from hitting.
+3] Target is inflicted with Burning status for x turns. Burning negates elite status bonus(es; excepting extra HP) and maybe reduces damage from burning unit (? mostly because only affecting elite units is just weird, IMO), and will afflict adjacent units with Burning status.
+
+Not terribly thrilled with 3], but I'm sure it could be toyed around with to get something better. Doubtless there are other things that could also be applied, too.
+
+
+[2024/03/17 9:29] dragon_of_celts
+... some other element possibilities:
+Wind: apply a 1- or 2-cell knock back effect to tile (or maybe you can keep endowing with Wind to increase knock back range); obviously this would be useless on tiles that already have knock back, unless damage is increased by the distance stopped short (just for the enchantment portion) or something...
+Earth: roots target in place (they can still use their attack queue, nullifying any movement tiles that they attempt to perform) but they take less damage. Good for keeping meat shields in place...?
+
+
+[2024/03/17 9:30] double_dot
+If you're in fire, if you move you take damage, but if you wait you will extinguish the fire
+
+
+[2024/03/17 9:49] apokalypse6
+Maybe it could spread to other enemies?
+
+
+[2024/03/17 9:50] apokalypse6
+idk
+
+
+[2024/03/17 10:24] seeminglyunrelated
+Earth impale getting dyed brown is crazy ､｣
+
+
+[2024/03/17 10:24] dragon_of_celts
+Earth should be green. I think green is unused.
+
+
+[2024/03/17 10:25] apokalypse6
+_poison_
+
+
+[2024/03/17 10:25] seeminglyunrelated
+I was about to say
+
+
+[2024/03/17 10:25] dragon_of_celts
+Yeah, I just realized. ､ｦ窶坂凾・・
+
+
+[2024/03/17 10:26] apokalypse6
+Wait does every colour have a element associated
+
+
+[2024/03/17 10:26] seeminglyunrelated
+I think so窶ｦ
+
+
+[2024/03/17 10:26] apokalypse6
+red is double strike
+
+
+[2024/03/17 10:26] seeminglyunrelated
+Ig double strike would be fire
+
+
+[2024/03/17 10:26] seeminglyunrelated
+Yeah
+
+
+[2024/03/17 10:26] dragon_of_celts
+Yellow for lightning, blue for ice, green for poison, red for double-strike.
+
+
+[2024/03/17 10:26] apokalypse6
+orange?
+
+
+[2024/03/17 10:27] dragon_of_celts
+We don't have purple...
+
+
+[2024/03/17 10:28] dragon_of_celts
+...I think...
+
+
+[2024/03/17 10:28] apokalypse6
+perfect strike: am i a joke to you?
+
+
+[2024/03/17 10:28] apokalypse6
+Tbh perfect strike is underwhelming
+
+
+[2024/03/17 10:28] dragon_of_celts
+I don't think I've ever used it, actually. It never sounded great to me.
+
+
+[2024/03/17 10:29] apokalypse6
+Its trash
+
+
+[2024/03/17 10:30] dragon_of_celts
+Well, time to introduce paisley tile patterns, then. ・
+
+
+[2024/03/17 10:30] apokalypse6
+Wut
+
+
+[2024/03/17 10:30] apokalypse6
+Paisleys tile patterns?
+
+
+[2024/03/17 10:31] dragon_of_celts
+All the colours are used (excepting colours that would probably be too close to others to be easily distinguishable), so we need paisley, tartan and dogtooth, right?
+
+
+[2024/03/17 10:31] apokalypse6
+I know none of these colours lul
+
+
+[2024/03/17 10:32] dragon_of_celts
+They aren't colours, per se, but patterns.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1218733633129418853/Untitled.jpg?ex=6a1649a5&is=6a14f825&hm=66c86d3098f597af69be07219b7cb0a10734d8a629ca37b573039f836564c86e&
+
+
+[2024/03/17 10:32] dragon_of_celts
+^paisley
+
+
+[2024/03/17 10:32] apokalypse6
+Uhh idk how that would work in pixel art tho!
+
+
+[2024/03/17 10:32] apokalypse6
+but i see the appeal
+
+
+[2024/03/17 10:32] dragon_of_celts
+I was just joking...
+
+
+[2024/03/17 10:33] apokalypse6
+still
+
+
+[2024/03/17 10:33] apokalypse6
+Maybe
+
+
+[2024/03/17 10:33] apokalypse6
+just maybe
+
+
+[2024/03/17 10:33] apokalypse6
+a teal/white colour would be nice
+
+
+[2024/03/17 10:34] dragon_of_celts
+Would work for a Wind element, maybe.
+
+
+[2024/03/17 10:35] apokalypse6
+Oh yeah!
+
+
+[2024/03/17 10:35] apokalypse6
+good idea
+
+
+[2024/03/17 13:31] another_ralsei
+Perfect strike is great w/ kb tiles imo
+
+
+[2024/03/17 13:31] another_ralsei
+since exact killing the enemy behind still procs it
+
+
+[2024/03/17 13:54] dragon_of_celts
+KB? Oh, knock back, right?
+I wanted it for Kunai (literally the only time I would want it), but when I get that it's the one time I don't come across Perfect Strike.
+
+
+[2024/03/17 15:05] another_ralsei
+yea kb as in knockback
+
+
+[2024/03/17 15:06] another_ralsei
+the problem with kunai is that perfect strike is good but why settle for good when you can settle for broken as hell (6 dmg kunai with like 6 damage perks going off and combo recharge goes hard)
+
+
+[2024/03/17 17:53] shiontan
+that could be sick tbh, kinda like "stop, drop and roll" but in an ironic sense because the enemies will be in danger regardless of what they do
+
+
+[2024/03/17 20:51] apokalypse6
+You would rather have shockwave or double strike on kunai than perfect strike tho...
+
+
+[2024/03/17 21:19] seeminglyunrelated
+Oo good one
+
+
+[2024/03/17 21:20] seeminglyunrelated
+Agreed, perfect strike is just generally underwhelming, it needs a buff
+
+{Reactions}
+笘晢ｸ・(2)
+
+[2024/03/17 21:20] seeminglyunrelated
+It should be a free enchant tbh (no cooldown downside)
+
+
+[2024/03/17 21:20] apokalypse6
+does anyone even care about PS tbh?
+
+
+[2024/03/17 21:21] apokalypse6
+It could maybe have a different effect, because cooldown is outclassed in general
+
+
+[2024/03/17 21:22] seeminglyunrelated
+If perfect strike could stack with other effects it窶囘 be better
+
+
+[2024/03/17 21:23] apokalypse6
+yes
+
+
+[2024/03/17 21:23] apokalypse6
+definitely
+
+
+[2024/03/17 22:39] roboatino
+Interesting idea ､・
+
+{Reactions}
+亠
+
+[2024/03/18 2:13] Deleted User
+give the tile a purple outline instead of a tile recolor to have it stack?
+
+
+[2024/03/18 3:49] seeminglyunrelated
+it'd be like freeplay, so instead of the weapon it would be on the bg ig
+
+
+[2024/03/18 3:50] seeminglyunrelated
+also maybe in that case it __shouldn't__ stack with freeplay @Mirko 
+ngl freeplay is one of a kind, an exception so it'd be nice to have another one like this
+
+
+[2024/03/18 4:17] bitterlemons_dota
+Mmm - does Free-Play stack with other enchantments? if not - I wasn't a fan 
+Reason being simplicity - and being friendly for new players
+
+
+[2024/03/18 4:22] seeminglyunrelated
+yes, free-play stacks
+
+
+[2024/03/18 4:34] Deleted User
+maybe perfect strike can have a +/- 1 hitpoint leniency
+
+
+[2024/03/18 4:35] seeminglyunrelated
+yeah but then it's not perfect
+
+
+[2024/03/18 4:44] da_dogbar
+maybe change it to "overkill strike" and make it fully recharge the cooldown if it brings the target's health down to -2 or lower
+
+
+[2024/03/18 4:45] seeminglyunrelated
+I think my idea was ok... you guys are overcomplicating things
+
+
+[2024/03/18 4:45] Deleted User
+you can just make a new enchantment for that, could be called dynamic because you're making up for the lost dmg potential
+
+
+[2024/03/18 4:46] seeminglyunrelated
+at this point may as well introduce this as a new enchantment
+
+
+[2024/03/18 4:46] seeminglyunrelated
+yeah that's what I was saying
+
+
+[2024/03/18 4:47] Deleted User
+recharge cd equal to 1.5/2x of extra damage
+
+
+[2024/03/18 4:55] Deleted User
+elite modifiers
+Incursor: Increase dmg but decrease hp
+Guardian: Decrease dmg but increase hp
+Scout: Can move 2 tiles in a turn
+Sentinel: Will preserve attack if you're out of range
+Enforcer: Attacks knock you back 1 tile (or maybe more)
+
+
+[2024/03/18 4:59] Deleted User
+Traits that aren't necessarily elite -
+Cautious: Will back off if you have a melee tile readied
+Evasive: Will dodge your attack if you attack while they're readied
+Armadillo: Immune to friendly fire
+Blitz: Gain a turn if they hit you
+
+
+[2024/03/18 4:59] Deleted User
+Adrenalized: Advance an attack state when hit
+Breacher: Move 1 tile forward before attacking
+Fortified: Take -1 dmg (could have fortified to higher levels, ex fortified II takes -2 dmg)
+Augmented: +1 dmg (could have higher levels, ex augmented II = +2 dmg)
+Reaver: -2 coins if you get hit by them
+Revenant/Malevolent: 0 dmg, attacks have freeze/poison
+Inspiring: Buffs enemies in some sort of way while they're alive
+Brute: Knocks tiles off your queue when they hit
+Marauder: Invisible unless within 2 tiles of you or they attack (could be non-applicable to ranged enemies)
+Resiler: Knocked back 1 tile (or maybe more to higher levels) when hit
+Volatile: Damages adjacent entities when hit
+
+Enemy ideas:
+~~The IRS~~ Corsair
+Reaver + Kunai
+Tetsubo Guardian
+Brute/Enforcer + Tetsubo
+Fat guy from itch version
+Resiler + Quick
+
+Also what if we had enemy *defects
+
+
+[2024/03/18 5:01] seeminglyunrelated
+as in rebels to the shogun?
+
+
+[2024/03/18 5:01] Deleted User
+Reckless: Take +1 dmg if you attack them while they have a readied tile, multiple levels inc dmg
+Stiff: Take 2x the turns to move
+Stringent: Take an extra turn to add/ready an attack
+Brittle: -hp, multiple levels inc deduction
+Frail: -atk, multiple levels inc deduction
+Imperceptive: Won't approach/attack you unless in a certain distance, multiple levels reduce distance
+Manic: Will attack enemies in their way if x or less enemies are blocking their path to you (lvls increase x)
+Agitated: Lose tiles when hit/they get turned around when they get hit
+Decay: -1 hp each/every other turn (would be in combination with summoned/explosive trait)
+Impotence: Take more dmg from melee tiles, multiple lvls
+Ranged Impotence: Take more dmg from ranged tiles, multiple lvls
+Adjacent Impotence: Take more dmg when adjacent, multiple lvls increase distance at which this applies
+
+(these are defects)
+
+
+[2024/03/18 5:01] seeminglyunrelated
+ykw would be interesting
+
+
+[2024/03/18 5:01] Deleted User
+like enemy weaknesses
+
+
+[2024/03/18 5:01] seeminglyunrelated
+for the hero to have their own summoning bell
+
+
+[2024/03/18 5:01] seeminglyunrelated
+ohhh ok
+
+
+[2024/03/18 6:10] dragon_of_celts
+Clarification: when you use "readied", do you mean "about to attack" (which is how I would interpret it) or "queued" (they have a tile in their attack queue)?
+
+
+[2024/03/18 6:13] Deleted User
+when their queue flashes yellow
+
+
+[2024/03/18 6:14] Deleted User
+about to attack
+
+
+[2024/03/18 23:15] apokalypse6
+Manic already is used in gane for enemies like the spear guy
+
+
+[2024/03/18 23:15] apokalypse6
+Also it wouldnt be a elite modifier as it would make it worse
+
+
+[2024/03/19 0:59] Deleted User
+all of these are meant to be defects
+
+
+[2024/03/19 1:00] Deleted User
+manic still attacks enemies blocking the path
+
+
+[2024/03/19 2:11] dragon_of_celts
+No, I'm fairly certain they meant "in order to get where they can target you, they will chew through other enemies", not "if they can hit you and an enemy will also be hit, they will hit both" (which is how it currently is).
+
+{Reactions}
+笨・
+
+[2024/03/19 3:50] Deleted User
+Tile - Algid Gaze
+Freeze the first target ahead of you if they're facing you. No effect otherwise.
+
+Enemy - Yukionna
+"Said to be a rare sight in the frigid outskirts. Don't stare at them for too long though, else they might stare back."
+First appearance: Hideyoshi's Keep
+Health: 3
+Attacks: 1.Turn around > Algid Gaze 2.Turn Around > Shadow Kama or alternatively just Back Strike to simplify things
+Behaviour: Always turn away from the player before queueing attacks, move away from the player when possible if they're adjacent. After successfully freezing the player, try 2nd attack. Repeat.
+
+https://media.discordapp.net/attachments/1156431593938886727/1219390958798503946/gaze.png?ex=660b2153&is=65f8ac53&hm=dd25f263e4cafd5267c09a64d56f20ed6c90cc7aa3ba4a80602803226deda1d1&=&format=webp&quality=lossless&width=1040&height=1160
+https://media.discordapp.net/attachments/1156431593938886727/1219477196817694790/Yukionna-1.png?ex=660b71a4&is=65f8fca4&hm=e872dd158e2001dfe7784b09f65b6d289ebd863c6f6ddf430301a488d2d339e3&=&format=webp&quality=lossless&width=1170&height=1170
+https://media.discordapp.net/attachments/1156431593938886727/1219794817056243742/Yukionna-2.png?ex=660c9973&is=65fa2473&hm=88969568e4d02420311af0bd16a3b3fc57775786078dff475a5b8e80a314cd2d&=&format=webp&quality=lossless&width=1170&height=1170
+
+{Embed}
+https://media.discordapp.net/attachments/1156431593938886727/1219390958798503946/gaze.png?ex=660b2153&is=65f8ac53&hm=dd25f263e4cafd5267c09a64d56f20ed6c90cc7aa3ba4a80602803226deda1d1&=&format=webp&quality=lossless&width=1040&height=1160
+https://media.discordapp.net/attachments/1156431593938886727/1219390958798503946/gaze.png?ex=6a16b393&is=6a156213&hm=4c1a72129b5877c065246f768dc3cf4513b9a4ec1d05130d5619b715c476a81e&
+
+{Embed}
+https://media.discordapp.net/attachments/1156431593938886727/1219477196817694790/Yukionna-1.png?ex=660b71a4&is=65f8fca4&hm=e872dd158e2001dfe7784b09f65b6d289ebd863c6f6ddf430301a488d2d339e3&=&format=webp&quality=lossless&width=1170&height=1170
+https://media.discordapp.net/attachments/1156431593938886727/1219477196817694790/Yukionna-1.png?ex=6a165b24&is=6a1509a4&hm=6fbad5117117e199236610bda6b931b363831cbc4f8b65334e058f1a9169e7e5&
+
+{Embed}
+https://media.discordapp.net/attachments/1156431593938886727/1219794817056243742/Yukionna-2.png?ex=660c9973&is=65fa2473&hm=88969568e4d02420311af0bd16a3b3fc57775786078dff475a5b8e80a314cd2d&=&format=webp&quality=lossless&width=1170&height=1170
+https://media.discordapp.net/attachments/1156431593938886727/1219794817056243742/Yukionna-2.png?ex=6a163173&is=6a14dff3&hm=facf13dc9c824f081a6e1a609767c6be0989baa20950e2d583348083b634b740&
+
+{Reactions}
+弍 (6) 櫨 (2)
+
+[2024/03/19 3:51] thefloralhurrikale
+Reminds me of this suggestion https://discord.com/channels/965169818309369858/965176630588882954/1196100421945675776
+
+
+[2024/03/19 3:51] thefloralhurrikale
+Decent
+
+
+[2024/03/19 3:51] Deleted User
+nice sprite
+
+
+[2024/03/19 3:51] thefloralhurrikale
+Although, I'm not too sure about a 5 CD freeze
+
+
+[2024/03/19 3:52] thefloralhurrikale
+Unless the CD is just for completeness
+
+
+[2024/03/19 3:52] Deleted User
+yeah
+
+
+[2024/03/19 3:53] Deleted User
+not meant to be player accessible
+
+
+[2024/03/19 7:35] dragon_of_celts
+Hmmm... ｪ・ｪ・
+Excepting times when there is a Yumi Sniper, any time the player is at an edge (or at least, all enemies are on one side) with the Yukionna closest to the player, this would only serve to slow the game... or potentially stun lock, since how long the freeze lasts isn't stated. 
+Maybe after freezing, it swaps with the furthest enemy behind it or melts into the ground to reappear later or something. That would ensure that Kunai/Crossbow abusers (i.e., edge huggers) could still be affected (beyond what would otherwise be a useless freeze) and that there is a danger to it.
+
+
+[2024/03/19 8:20] Deleted User
+5 turn minimum to set up the queue, default is used for freeze which is 3 iirc
+
+
+[2024/03/19 8:20] Deleted User
+maybe it could have reduced freeze duration but deal damage
+
+
+[2024/03/19 8:20] Deleted User
+or yukionna could start trying to land a back strike immediately after a successful freeze
+
+
+[2024/03/19 11:16] Deleted User
+added alternative queues
+
+
+[2024/03/19 15:11] shiontan
+I have no idea what to name this... well, idea, but basically a tile idea i have in mind is a ranged utility one where the character u play shoots a 90 cal net forwards but it pushes you 2 tiles backwards, and it deals 1 damage when it hits, but if your next attack towards the target is a ranged one, it deals 1 extra damage
+
+
+[2024/03/19 15:12] shiontan
+we'll call it "90-cal Net" for now
+
+
+[2024/03/19 21:10] bitterlemons_dota
+What do you mean by "try 2nd attack" 
+Do you mean "Attempts 2nd attack" or "Queues a damaging attack tile"?
+I'm assuming the "2nd Attack" is different from Algid Gaze.
+
+Thinking of "Yuki Onna" wouldn't it be the perfect enemy to use "Backstab"?
+I'm not sure if I'm using the right term but "Backstab" is the sword that allows you to attack the tile behind you.
+
+
+[2024/03/19 23:50] Deleted User
+once it freezes you it attempts the 2nd atk
+
+
+[2024/03/19 23:50] Deleted User
+I added Turn Around>Shadow Kama or Back Strike as the 2nd atk
+
+
+[2024/03/20 14:28] Deleted User
+Tile - Supun
+Strike the first target ahead. Flip the target.
+
+(it's a ranged bo)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1219880201018802187/Spoon.png?ex=6a1680f8&is=6a152f78&hm=6114ae6691290ab9130c211f8af9960f475bf79c4d5f13f1805f50aac2dd8f2d&
+
+{Reactions}
+櫨 (3) 総 (2)
+
+[2024/03/20 20:06] bitterlemons_dota
+Spoon is called "Saji" in Japanese, Kanji would be "蛹・ if that helps
+
+
+[2024/03/20 20:07] bitterlemons_dota
+Anime knowledge for reference.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1219965649657532426/MV5BZTNhODA5ZDctODNmYi00ZTM4LTg2ZWEtYzQzNjRkNzQ5ZjdhXkEyXkFqcGdeQXVyNTc3MDU1MTU.png?ex=6a1627cc&is=6a14d64c&hm=9df5a253b9ecb28f36f327e33dd660191d26b45dfd1bade032e6890bdd9d5798&
+
+{Reactions}
+糟
+
+[2024/03/20 23:51] stillborn
+or 繧ｹ繝励・繝ｳ
+
+
+[2024/03/21 1:31] bitterlemons_dota
+you can express anything from other languages in katakana.
+
+
+[2024/03/21 3:11] seeminglyunrelated
+Alr if mirko doesn窶冲 do this I窶冤l try to implement it in a mod, if that窶冱 ok with you
+
+{Reactions}
+糟
+
+[2024/03/21 6:12] apokalypse6
+||Its been some time since I made a fanmade enemy lmao||
+Enemy idea: Teppﾅ・Bushi
+(Teppo being firearm and Bushi Footsoldier)
+I guess, he could have a musketeer like weapon idk
+
+
+[2024/03/21 6:13] apokalypse6
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1220117999911047360/musketeer_scaled_10x_pngcrushed.png?ex=6a16b5af&is=6a15642f&hm=926e9910e0b6fb5ea892c61055a5d61721964a60e866dca1acc86921f28fc7c6&
+
+{Reactions}
+櫨 (2) ・・ (2)
+
+[2024/03/21 6:15] apokalypse6
+The musket could be a tile which pierces the enemies in front of it, but loses 1 damage for every pierce performed
+
+
+[2024/03/21 6:25] thefloralhurrikale
+Or you can just give him the gun
+
+
+[2024/03/21 8:09] bitterlemons_dota
+if Spoon is allowed, then Fork & Knife is also allowed.
+From a concept perspective, my imagination of "Shogun Showdown" was some-where under the time-frame of "Sengoku Period" & "Edo Period" (Historically speaking)
+My emotional reaction to "Supun" would be similar to someone saying "Why not add Pop-Tart in the shop for 10 money for full-healing"
+2nd-thought, I got a spontaneous inspiration.
+Why not something like "Hashiri Goma" 縲瑚ｵｰ繧顔峡讌ｽ縲搾ｼ遺ｻRunning-Tops・俄摧
+(FYI - I like concepts, thriving them, evolving them & protecting them. Sometimes they are fragile & needs care to preserve the atmosphere)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1220147236483108905/20171119.png?ex=6a16282a&is=6a14d6aa&hm=85be7a60223382a993ccf1b6e1c6dfd48544e25bcf5abcc5475820b89d3ff7b7&
+https://cdn.discordapp.com/attachments/965176630588882954/1220147236873441381/shutterstock_236708680.png?ex=6a16282a&is=6a14d6aa&hm=f4c8b0d17fdf77c8f3345aa48438d349deb0e5bd73665c76a656578d640822fe&
+https://cdn.discordapp.com/attachments/965176630588882954/1220147237439537303/koma_title220602.png?ex=6a16282a&is=6a14d6aa&hm=523a3d5408b595670cfcc46cc57c5b663cc49e785fdd5b75e76c6e7eb630dabf&
+
+
+[2024/03/21 8:14] seeminglyunrelated
+Cutlery Showdown
+
+
+[2024/03/21 9:41] Deleted User
+oh yeah
+
+
+[2024/03/21 9:41] Deleted User
+what if we had potion variations
+
+
+[2024/03/21 9:47] Deleted User
+Edamame brew:
+Rice ball - Heals 1 hp, maybe it could be stacked in 1 consumable slot up to 3, sells for 2 each
+Ginseng potion - Heal to full health, sells for 8-15
+Hasu blend - 1 hp regeneration for 5 turns/other turn, gives you a yellow aura to show effect is active, sells for 5
+
+Kami brew:
+Toki tea - Gives you a smaller purpleish shield, regular shield takes precedence when both are used simultaneously, halves and rounds down the damage of the next hit you take, sells for 2
+Scutellaria potion - Negates hits on the next turn, sells for 5-8
+
+Cool up:
+Shoga bottle - Reduces cooldown by 3, could possibly be used multiple times, sells for 2-3
+Reishi tea - Next attack/skill use is freeplay, gives you a white aura to show effect is active, sells for 2
+
+
+[2024/03/21 9:54] seeminglyunrelated
+in scutellaria potion, does negate damage mean you heal the amount of damage you would take (that would be op) or do you just not take any damage (worse shield)?
+
+
+[2024/03/21 9:54] Deleted User
+no dmg
+
+
+[2024/03/21 9:54] seeminglyunrelated
+ah
+
+
+[2024/03/21 9:54] seeminglyunrelated
+so you want to just split kami brew in two
+
+
+[2024/03/21 9:54] Deleted User
+for rice ball?
+
+
+[2024/03/21 9:55] seeminglyunrelated
+sells for fifteen is a tiny bit too much, considering that kami brew sells for only 2 right now
+
+
+[2024/03/21 9:55] Deleted User
+I'll set to 8
+
+
+[2024/03/21 9:55] seeminglyunrelated
+?? no I'm talking about Toki tea and Scutellaria
+
+
+[2024/03/21 9:55] seeminglyunrelated
+eh
+
+
+[2024/03/21 9:55] seeminglyunrelated
+still too much
+
+
+[2024/03/21 9:55] seeminglyunrelated
+also
+
+
+[2024/03/21 9:56] seeminglyunrelated
+having either a shield that lasts long but doesn't take all the damage
+
+
+[2024/03/21 9:56] seeminglyunrelated
+or a shield that does take all the damage but only lasts for a single turn
+
+
+[2024/03/21 9:56] seeminglyunrelated
+is a little bit too much of a nerf don't you think?
+
+
+[2024/03/21 9:57] Deleted User
+hmm yeah
+
+
+[2024/03/21 9:57] seeminglyunrelated
+I like reishi tea though
+
+
+[2024/03/21 9:57] Deleted User
+personally I always use kami before I take a hit
+
+
+[2024/03/21 10:42] bitterlemons_dota
+I sell my tiles for 40
+
+
+[2024/03/21 16:42] apokalypse6
+Hasu blend kinda ruins the whole point of healing potions
+
+
+[2024/03/21 16:43] apokalypse6
+But i do like the idea of scutellaria
+
+
+[2024/03/21 16:44] apokalypse6
+Reishi tea is pretty good too
+
+
+[2024/03/21 16:47] apokalypse6
+Also how would these work? Would they be like traps?
+
+
+[2024/03/21 17:46] bitterlemons_dota
+Well, the mechanic itself is like what @Deleted User suggested.
+But instead of a "flying spoon" (Supun) that flips the first target ahead, it's a running-top that travels on the ground, which makes contact with the target to make them spin directions.
+It's still a "ranged-bo" but the tool is different.
+"Tops" instead of "Spoon"
+
+
+[2024/03/21 17:48] apokalypse6
+Basically a moving bo trap
+
+
+[2024/03/21 17:48] apokalypse6
+Or is it just a design change
+
+
+[2024/03/21 17:48] bitterlemons_dota
+It's a concept change? I don't know what you mean by design.
+
+
+[2024/03/21 17:49] apokalypse6
+Well does it change the use or is it just the spining thing instead of a spoon
+
+{Reactions}
+総
+
+[2024/03/21 17:49] bitterlemons_dota
+It shouldn't change the use, because, running on the ground or flying, it'll be the same in this game.
+
+
+[2024/03/21 17:49] apokalypse6
+Ah ok
+
+
+[2024/03/21 17:50] bitterlemons_dota
+It's not a trap, it's an attack-tile with 0 damage. (Check Supun by @Deleted User )
+
+
+[2024/03/22 5:11] da_dogbar
+having some tiles locked behind achievements could be cool
+
+
+[2024/03/22 5:11] da_dogbar
+or perks
+
+
+[2024/03/22 5:19] seeminglyunrelated
+agreed
+
+
+[2024/03/22 5:19] seeminglyunrelated
+maybe we can have a class of "fun" or special tiles
+
+
+[2024/03/22 5:19] seeminglyunrelated
+and a run modifier that controls whether those can spawn or not
+
+
+[2024/03/22 5:23] double_dot
+disagreed, i think it wouldn't add much to the game than it would add less
+
+
+[2024/03/22 5:32] seeminglyunrelated
+ﾂｯ\_(繝・_/ﾂｯ
+
+
+[2024/03/22 5:34] da_dogbar
+could be fun tho
+
+
+[2024/03/22 5:35] double_dot
+i don't think it would be fun
+
+
+[2024/03/22 5:35] da_dogbar
+how so
+
+
+[2024/03/22 5:36] da_dogbar
+it would encourage replaying the game to unlock fun stuff
+
+
+[2024/03/22 5:36] double_dot
+wouldn't add to the gameplay, for me it would be a formality, maybe an annoying one for people that cannot manage the achievement
+
+
+[2024/03/22 5:37] double_dot
+unlocking the achievement is already the reward, no need to add one more
+
+
+[2024/03/22 5:38] double_dot
+i believe having edge cases in some rewards isn't a bad idea but isn't a good idea either, as much people will dislike it as people would enjoy it.
+
+
+[2024/03/22 5:39] seeminglyunrelated
+I see your point, but these tiles wouldn't be op, I'm thinking more gimmick tiles
+
+
+[2024/03/22 5:39] seeminglyunrelated
+fun to play with, but not that useful
+
+
+[2024/03/22 5:39] seeminglyunrelated
+a bit like the jujitsuka build
+
+
+[2024/03/22 5:39] double_dot
+unlocking different things in a different way, and the same thing in the same way is in my opinion the best game design choice
+
+
+[2024/03/22 5:40] double_dot
+unlocking skins behind achievement i like, maps reskins, boss or mobs reskin i like too
+
+
+[2024/03/22 5:41] double_dot
+just that A thing should always reward A rewards and B things should only reward B things, unless linear progression is an issue to solve but it isn't the case
+
+
+[2024/03/22 5:42] double_dot
+having expensive dumb tiles is imo better as it would solve the "skull issue" and provide rewards for more involved players in the game
+
+
+[2024/03/22 9:18] dragon_of_celts
+Mirko just needs it to cost skulls to post on this discord. 凾
+
+
+[2024/03/22 11:07] Deleted User
+skulls could be an unlock price for characters
+
+
+[2024/03/22 11:08] Deleted User
+you unlock them pretty fast atm
+
+
+[2024/03/22 19:38] double_dot
+i laughed
+
+
+[2024/03/23 15:07] Deleted User
+what do you think is going to happen for april fools
+
+
+[2024/03/23 18:42] apokalypse6
+Nothing
+
+
+[2024/03/23 18:42] apokalypse6
+Probably
+
+
+[2024/03/23 18:43] apokalypse6
+Maybe a texture change where everything is a shogun lmao
+
+
+[2024/03/23 22:19] seeminglyunrelated
+nononono we need the dashers everywhere mod to be an update to the base game
+
+
+[2024/03/23 23:26] seeminglyunrelated
+Achievement for getting all ultimate stamps on all characters:
+The stamps are pretty seperate from the achievements right now so this would be nice so that if you have all the achievements, you've truly 100% the game
+
+
+[2024/03/24 3:50] apokalypse6
+Actually why not
+
+
+[2024/03/24 3:50] apokalypse6
+This should be in the game
+
+
+[2024/03/24 3:51] apokalypse6
+I think there should definitely be more difficulty to the game
+
+
+[2024/03/24 3:51] apokalypse6
+Maybe a nightmare mode
+
+
+[2024/03/24 12:09] Deleted User
+day 7: Tiles can only be upgraded 3x (maybe less but more for starter tiles to change the experience for different characters, like 1x for non starters but 4x for starters)
+
+
+[2024/03/24 12:16] Deleted User
+day 8: You can only have 4 tiles
+
+
+[2024/03/24 12:16] Deleted User
+day 9: +1 recieived damage from all sources
+
+
+[2024/03/24 12:16] Deleted User
+april fools idea: Tiles have durability
+
+
+[2024/03/24 19:52] apokalypse6
+kinda boring
+
+
+[2024/03/24 19:53] apokalypse6
+honestly all of these dont ramp up the difficulty
+
+
+[2024/03/24 21:14] leo328
+April fools idea: The statues on the left and right in the shogun fight gets replaced with the actual boss statues
+
+
+[2024/03/24 21:39] another_ralsei
+Day 7 looks hell if it means max upgrades are 3, as you can't easily get super damage weapons
+
+you make a fair point for day 8-9 though, 8 only really affects a non-sac spam playstyle while 9 is just the same effect as day 5 (hits are more punishing)
+
+
+[2024/03/24 22:05] seeminglyunrelated
+pls no
+
+
+[2024/03/24 22:06] seeminglyunrelated
+I honestly don't often see  myself with much more than 3 to 4 tiles so this probably wouldn't affect me
+
+
+[2024/03/24 22:06] seeminglyunrelated
+at that point may as well make it hitless (a lot of enemies could kill you in one shot like this, given that day 6 already halves your health)
+
+
+[2024/03/24 22:07] seeminglyunrelated
+I think you mean day 6 (instead of five), but I might be wrong
+
+
+[2024/03/24 22:08] another_ralsei
+yea i meant day 6
+
+
+[2024/03/24 22:08] another_ralsei
+day 5 is enemy hp increase
+
+
+[2024/03/25 0:21] seeminglyunrelated
+yeah I thought so, this is one of the things that changed since the 0.8.1.1 update
+
+
+[2024/03/25 0:21] seeminglyunrelated
+used to be day five
+
+
+[2024/03/25 1:11] seeminglyunrelated
+something like this?
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1221491648312246372/2024-03-24_12-10-16.mkv?ex=6a166eff&is=6a151d7f&hm=9f179bdf7517232752924a4a8f986cc89bb576ba4594968c30dcbcf398119c33&
+
+
+[2024/03/25 1:24] Deleted User
+nice
+
+
+[2024/03/25 1:24] Deleted User
+yeah
+
+
+[2024/03/25 6:05] apokalypse6
+Oh damn thats so cool
+
+
+[2024/03/25 7:23] seeminglyunrelated
+will try to implement this tile in the mod too!
+
+
+[2024/03/25 7:23] seeminglyunrelated
+yeah, except the game freezes for some reason after using the attack ・
+
+
+[2024/03/25 8:06] Deleted User
+could be the enemy not registering that it's facing the opposite direction of where it wants to move
+
+
+[2024/03/25 8:13] seeminglyunrelated
+nope it was a single line missing (had to set the attackState back to false, basically)
+
+
+[2024/03/25 8:13] seeminglyunrelated
+alright onto this tile!
+
+
+[2024/03/25 8:35] seeminglyunrelated
+@Deleted User I know I didn't get the whole "If enemy is facing you" part, but here it is:
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1221603318111932476/2024-03-24_19-33-48.mkv?ex=6a162e3f&is=6a14dcbf&hm=99faddf285d1cb7bff460161e03b8a98b9f47d74fe57bfd0462afa33fd5f4412&
+
+
+[2024/03/25 8:36] seeminglyunrelated
+oh also @Fumiko pinging you because idk if you wanted updates or not ､ｷ
+
+{Reactions}
+総 (2)
+
+[2024/03/25 8:37] apokalypse6
+I can make pixel art for the tile
+
+
+[2024/03/25 8:37] apokalypse6
+if ya want
+
+
+[2024/03/25 8:37] seeminglyunrelated
+thanks!
+
+
+[2024/03/25 8:43] apokalypse6
+Where did you get the template for these?
+
+
+[2024/03/25 8:53] apokalypse6
+nvm
+
+
+[2024/03/25 8:53] apokalypse6
+got it
+
+
+[2024/03/25 10:14] the_rot_bot
+I think they mean if the enemy is facing away from you the attack does nothing, it doesn't freeze them. Only if the target is facing the player does it trigger the freeze effect.
+
+
+[2024/03/26 1:39] ice_cold_icer
+It would be nice if player characters had a short description, maybe on the character selection menu, similar to how enemies have short descriptions.
+
+{Reactions}
+総 (4)
+
+[2024/03/26 1:54] thefloralhurrikale
+~~Lore update~~
+
+{Reactions}
+curse
+
+[2024/03/26 3:30] seeminglyunrelated
+No I understood it, just wasn窶冲 sure how to implement it ､ｷ I窶冤l look into it later, it窶冱 a good way to nerf the tile
+
+
+[2024/03/26 3:36] seeminglyunrelated
+What if we could have texture packs. This sounds like it would be one of them. (Shogun showdown, but everything is cutlery/food related､｣)
+
+
+[2024/03/26 3:43] the_rot_bot
+One of the attacks for Fallen Hero does a check if enemies are facing them or not. It's on like 96 of this file: https://gitlab.com/ToryHarter/shogun-showdown-fallen-hero/-/blob/main/FallenHero/Attacks/YﾅｫreiWailAttack.cs?ref_type=heads
+
+{Embed}
+https://gitlab.com/ToryHarter/shogun-showdown-fallen-hero/-/blob/main/FallenHero/Attacks/Y%C5%ABreiWailAttack.cs?ref_type=heads
+FallenHero/Attacks/YﾅｫreiWailAttack.cs ﾂｷ main ﾂｷ Tory Harter / Shogun...
+GitLab.com
+https://images-ext-1.discordapp.net/external/wGrCZCO3difjVkR5DtOA1HvcFqXwGLLCky596kluk68/https/gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg
+
+
+[2024/03/26 3:45] seeminglyunrelated
+Thanks, I窶冤l check this once I get home!
+
+
+[2024/03/26 5:23] ezyspore
+A passive that increases damage dealt by 1 per 5/10 coins you have? expend 1 coin per action...?
+
+
+[2024/03/26 5:24] ezyspore
+A character, or a forge that combines two uncombined items into one item (combined CDs, passives, actions/abilities; the order fused determines the order that the actions are taken)
+
+
+[2024/03/26 5:24] ezyspore
+(CDs are capped at max)
+
+
+[2024/03/26 5:26] ezyspore
+Example: Freeze smoke + Signature move = A freeplay item (with max CD), that causes you to swap with the first unit (freezing them), and then performing your signature move from that position (all hits freeze the hit targets)
+
+
+[2024/03/26 5:27] ezyspore
+A High hp boss unit that is on CD on the start of fight/after performing its actions...?
+Mirrors the player while not on CD (actions movements, etc.)
+
+
+[2024/03/26 7:28] Deleted User
+could increase health instead of dmg
+
+
+[2024/03/26 7:38] seeminglyunrelated
+sounds kind of complex, I'll implement this later
+
+
+[2024/03/26 9:02] averagefoxenthusiast
+I was thinking it might be worth considering to swap the locations of Nobunaga and Hideyoshi's islands. I think Hideyoshi is generally considered more fun than nobunaga + the fight is less build-dependent (like Nobunaga is all about low-cooldown high damage attacks) so to me it makes more sense to have Hideyoshi always accessible.
+
+{Reactions}
+総
+
+[2024/03/28 1:14] thefloralhurrikale
+Better yet, randomly shuffle the islands every game, so that you don't always get the same boss choice if you go down (or up once the last island is created)
+
+{Reactions}
+操
+
+[2024/03/28 4:43] chapples4
+Add more unlockable starting tile sets for getting more stamps. Maybe one for getting 5 stamps and one for getting all ultimate ranks.
+
+
+[2024/03/28 4:44] chapples4
+Think that would be really cool as both an incentive to get better and a reward for those who窶况e already mastered each character
+
+
+[2024/03/28 20:05] seeminglyunrelated
+I窶冦 thinking two damage per hp lost, because honestly or else it窶冱 pretty weak
+
+
+[2024/03/28 21:08] da_dogbar
+that seems pretty good
+
+
+[2024/03/28 21:08] da_dogbar
+has some very high damage potential with a very low cooldown
+
+{Reactions}
+・ ｫｶ
+
+[2024/03/28 22:14] thefloralhurrikale
+If this is the case, doesn't Sai also take up this niche?
+
+
+[2024/03/28 22:28] Deleted User
+what if lost hp changes atk range
+
+
+[2024/03/28 22:30] Deleted User
+lost 40% = piercing projectile slash that travels up to 3 cells
+
+
+[2024/03/28 22:31] Deleted User
+lost 80% = tile gains freeplay
+
+
+[2024/03/28 22:44] thefloralhurrikale
+But doesn't it take up a role of "Boss killer" where it's ineffective against the regular waves of enemies?
+
+
+[2024/03/28 23:15] apokalypse6
+||I said this before, but|| We should generally get more options for getting damage, we already have ice blood, etc. and I feel like this would expand the kit more
+
+
+[2024/03/28 23:15] apokalypse6
+(Im pretty sure 10 damage on a tile is max, as seen with blade of patience)
+
+
+[2024/03/28 23:18] Deleted User
+I couldn't get past 9 with mon
+
+
+[2024/03/28 23:23] da_dogbar
+to be fair though kunai exists
+
+
+[2024/03/29 0:01] apokalypse6
+getting damaged triggers a effect
+
+
+[2024/03/29 0:01] apokalypse6
+Thats what i meant
+
+
+[2024/03/29 0:01] apokalypse6
+like ice blood
+
+
+[2024/03/29 5:39] Deleted User
+should kunai be reworked?
+
+
+[2024/03/29 5:40] Deleted User
+maybe it could launch a projectile at the end of every turn after it's been queued
+
+
+[2024/03/29 6:47] seeminglyunrelated
+In the regular waves, damage isn窶冲 that important, cooldown much more so. On bosses it窶冱 more important but still eh
+
+
+[2024/03/29 6:47] seeminglyunrelated
+It窶冱 nine, I think*
+
+
+[2024/03/29 6:48] seeminglyunrelated
+But cursing everyone? Or poisoning? Honestly those are kind of obvious ones to implement after ice blood
+
+
+[2024/03/29 13:40] Deleted User
+Yomi Sickle
+Default Atk: 5
+Default Cd: 7
+Usage: Throw a revolving sickle that strikes the first and last target in your direction. Subtract 1 hp upon use. (maybe 2 for normal but 1 for day 6)
+
+
+[2024/03/29 13:40] Deleted User
+Masamune
+Default Atk: 3
+Default Cd: 8
+Usage: Create a slash that strikes the first target ahead. When in your inventory, instantly perform this tile regardless of cooldown when you get hit.
+
+
+[2024/03/29 13:40] Deleted User
+Ryuken
+Default Atk: 1
+Default Cd: 3
+Usage: Strike the first target ahead, perfect strikes increase dmg by 1 for the level
+
+
+[2024/03/29 17:30] another_ralsei
+I'd assume in situations where 20% is a decimal it rounds up or down
+
+
+[2024/03/29 17:30] another_ralsei
+like 2.4 = 2 and 2.8 = 3
+
+
+[2024/03/30 0:36] dragon_of_celts
+Masakari (axe)*
+Initial Attack/CD: 2/3
+Strike the enemy directly in front of you.
+Deals a second, half-damage (rounded up) attack to enemies with a status effect (e.g., shield, poison, etc).
+
+*(Probably better as something other than an axe, since a double-strike effect doesn't seem very axe-like... The original idea was to ignore shields, but I thought that was a bit niche, so I then thought that it would do extra damage to enemies with status effects (which would include shields) -- except shields absorb all damage of 1 attack, so that's how I ended up with this version)
+
+
+[2024/03/30 7:03] seeminglyunrelated
+Yeah I think that'd fall under the "a little too complex" category. Imagine speedrunning the game and trying to calculate how much of your hp it's gonna take away 逐
+
+
+[2024/03/30 7:54] Deleted User
+Warring shop skill - Red Fortune: Gain 2 coins for every hp lost
+
+
+[2024/03/30 7:54] Deleted User
+Blood Bounty: Gain a consumable when losing full hp state
+
+
+[2024/03/30 22:46] eternitamagenta
+I had this thought:
+To make the battles more rhythmic, like in The Crypt of the Necro dancer.
+Not to have it as a mechanic, some changes to the animations and input timings, which would speedup the game for speed runners as well.
+
+
+[2024/03/30 22:50] seeminglyunrelated
+Yeah like to make the whole thing flow better. I think there was a suggestion to up the 60 fps limit, at least for inputs because it窶冱 quite annoying for speed running when you press a key and nothing happens
+
+
+[2024/03/31 10:36] eve_7808
+# 1. Elemental Shop
+### - Has some skills that will enhance the way debuffs work.
+## a. Toxic Clouds - 20 gold
+- Slain enemies with the poison effect will release a cloud on the tile that applies poison to enemies when they step inside it.
+## b. Frostbite - 15 gold
+- Extends the duration of the Freeze effect by one more turn.
+## c. Zapping Bolt - 20 gold
+- When you shock an enemy, 1 in 5 chance to summon lightning on a random shocked enemy. The damage of the lightning is determined by the amount of enemies shocked in a single hit.
+## d. Cursing Strike - 15 gold
+- Cursed enemies take +1 damage on hit.
+## e. Chain Effect - 15 gold
+- When a weapon strikes multiple enemies at once, 1 in 5 chance to shock the enemy.
+## f. Fermented Gaze - 20 gold
+- Poison effect lasts for 2 more turns.
+## g. Heated Fragility - 20 gold
+- Enemies will take +1 damage when the freeze effect expires.
+# 2. New Elite type - Discordant
+- Cannot be frozen, poisoned nor cursed. Shock does not deal damage, neither does it pass through.
+# 3. New Achievements 
+## a. Single-handed Warrior
+- Defeat Shogun with only one weapon in your tile.
+## b. The Last Card-bender
+- Apply freeze, poison, curse and shock on the same enemy in one turn.
+## c. Sub-Zero
+- Defeat Shogun with at least 3 Ice weapons.
+## d. Poison Ivy
+- Defeat Shogun with at least 3 Poison weapons.
+## e. Shocker
+- Defeat Shogun with at least 3 Shocking weapons.
+
+{Reactions}

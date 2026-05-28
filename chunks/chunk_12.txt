@@ -1,0 +1,2000 @@
+﻿
+[2024/06/13 7:52] robot093
+we need a boss that becomes a playable character after being defeated
+
+
+[2024/06/13 7:56] reksanden
+That'd be pretty neat, actually.
+
+What would the boss then be, if we reached their island?
+
+
+[2024/06/13 7:57] chapples4
+The statute窶冱 dialogue seems to suggest he follows the shogun unwillingly. Maybe we could set their spirit free the statue somehow? Idk not sure any of the current bosses would work, so we窶囘 probably need to add a new one just for this
+
+
+[2024/06/13 7:58] reksanden
+There IS that island south of the uh
+
+Pink-ish one. ~~I'm bad with names.~~
+
+
+[2024/06/13 8:00] reksanden
+I'd like to get the Bomb tile that Hideyoshi uses
+
+
+[2024/06/13 8:01] reksanden
+And a "clone" Tile (akin to the ramparts) that has the benefit of drawing aggro, if it's closer to a target than you
+
+
+[2024/06/13 8:03] reksanden
+At least, that's how I could see it working. *Technically* we could just use the Rampart Tile, but that's a bit less interesting/ninja than making a clone.
+
+
+[2024/06/13 8:04] chapples4
+You can save edit to play with it
+
+
+[2024/06/13 8:05] chapples4
+What character do you normally play with?
+
+
+[2024/06/13 8:05] chapples4
+I窶冤l make you a runsavedata file with the bomb file for you
+
+
+[2024/06/13 8:06] reksanden
+All of them
+
+(Juji the most, I suppose.)
+
+
+[2024/06/13 8:06] reksanden
+You're too kind
+
+
+[2024/06/13 8:06] chapples4
+What would you like the other starting tile to be? Also what day?
+
+
+[2024/06/13 8:08] reksanden
+Let's spite Fumiko here. :nekoHehe: 
+
+As for the day... 4 is the most interesting, I think. (5's the one that lowers your HP, yea?)
+
+{Reactions}
+総
+
+[2024/06/13 8:09] robot093
+idk im still thinking about it
+
+
+[2024/06/13 8:09] dot00.
+Its 6
+
+
+[2024/06/13 8:10] dot00.
+Enemy's health increase at 5
+
+
+[2024/06/13 8:10] reksanden
+Thank you, I misremembered
+
+
+[2024/06/13 8:10] reksanden
+5 then!
+
+
+[2024/06/13 8:10] dot00.
+Youre welcome
+
+
+[2024/06/13 8:22] chapples4
+If anyone else would like a custom RunSaveData lmk and I'll make one for you
+
+
+[2024/06/13 12:32] reksanden
+As it turns out the Bomb is REALLY hard to use.
+
+It's been a blast working around it.
+
+
+[2024/06/13 12:34] chapples4
+I felt a little shellshocked when you asked for day 5, I knew the run might blow up in your face but glad you had an explosive time.
+
+
+[2024/06/13 12:35] hisc0re07
+SHOWGUN MOWDOWN, A NEW GAMEMODE WHERE YOU CAN ONLY USE EXPLOSIVES AND GUNS
+
+
+[2024/06/13 12:35] hisc0re07
+LIKE
+
+
+[2024/06/13 12:35] chapples4
+窶ｦ Imma regret saying this窶ｦ but I can do that for you.
+
+
+[2024/06/13 12:35] hisc0re07
+LIKE THE BLAZING SUISEI, ||BOMB|| <- (maybe spoilers i forgor), THE GUN, ETC
+
+
+[2024/06/13 12:36] hisc0re07
+HWAHAHAHAHA
+
+
+[2024/06/13 12:36] hisc0re07
+for me? ?
+
+
+[2024/06/13 12:36] chapples4
+Make a copy of your save data because I窶冦 going to have to give you a modified save data you make sure you only get certain tiles.
+
+
+[2024/06/13 12:37] hisc0re07
+oh don't worry
+
+
+[2024/06/13 12:37] hisc0re07
+i can do that myself
+
+
+[2024/06/13 12:37] hisc0re07
+i just like the name showgun mowdown
+
+
+[2024/06/13 12:37] hisc0re07
+thank you for the offer though!
+
+
+[2024/06/13 12:38] chapples4
+Nono, you miss understand. I can make it so you only get specific tiles through the game. You can change what tiles are considered unlocked. Same goes for skills. You could make it so the only tile you can possibly get is bo if you really wanted to
+
+
+[2024/06/13 12:39] hisc0re07
+WO
+
+
+[2024/06/13 12:39] hisc0re07
+that's very cool what
+
+
+[2024/06/13 12:39] hisc0re07
+uh
+
+
+[2024/06/13 12:39] dieuwt
+blazing suisei kinda sucks, ngl
+
+
+[2024/06/13 12:39] hisc0re07
+i would take you up on that but tbh i don't really want to rn
+
+
+[2024/06/13 12:39] hisc0re07
+yeahhh
+
+
+[2024/06/13 12:39] dieuwt
+unless you get immunity to the explosion or something
+
+
+[2024/06/13 12:39] dieuwt
+lightning on the other hand is op
+
+
+[2024/06/13 12:40] hisc0re07
+frrr
+
+
+[2024/06/13 12:40] hisc0re07
+hitting the farthest enemy ahead is super underrated
+
+
+[2024/06/13 12:40] chapples4
+It窶冱 the only reason I survived my first attempt of no hits no combs on day 6
+
+
+[2024/06/13 12:40] chapples4
+Love lightning
+
+
+[2024/06/13 12:40] dieuwt
+you can essentially stunlock a nearby enemies and kill everything else in the meantime
+
+
+[2024/06/13 12:41] chapples4
+The coward just crumbles against lightning it窶冱 so nice
+
+
+[2024/06/13 12:44] dieuwt
+i just kick his stupid signposts into him
+
+
+[2024/06/13 12:45] dieuwt
+or is that the barricader? doesnt matter
+
+
+[2024/06/13 12:45] chapples4
+Either way both bosses just get destroyed by lightning
+
+
+[2024/06/13 12:45] chapples4
+TTS work with me here!
+
+
+[2024/06/13 12:45] chapples4
+Gotta do this by hand now ugh
+
+
+[2024/06/13 12:49] dieuwt
+once i unlock and play all tiles i'll make a tierlist
+
+
+[2024/06/13 12:49] dieuwt
+backstab may be finnicky, but it's great for one thing:
+
+killing bosses while looking the other way.
+
+
+[2024/06/13 13:04] chapples4
+Be carefull though. You might have to make multiple since the different characters have different synergies that work for them.
+
+
+[2024/06/13 13:19] thefloralhurrikale
+I mean, a generally good tile is likely going to be more useful overall than some other tiles
+
+
+[2024/06/13 13:20] thefloralhurrikale
+Kunai, Gun and Mon are going to top the list, since every character can use them with insane results
+
+
+[2024/06/13 13:49] dieuwt
+bottom of the list:
+- dash (i dont like it)
+- centre teleport (i dont like it)
+- backward charge (extremely niche. also i dont like it)
+
+
+[2024/06/13 14:34] apokalypse6
+youre gonna hate backward shadow charge
+
+
+[2024/06/13 14:38] apokalypse6
+America mode
+
+
+[2024/06/13 15:42] dot00.
+Mon is practically hard to use
+
+
+[2024/06/13 15:42] dot00.
+It costs a coin to use
+
+
+[2024/06/13 16:05] da_dogbar
+boss that has 2 unkillable minions that act like an ashigaru but use lightning strike if you are on the edge of the map so you are forced to stay between them but the boss also sometimes uses ranged attacks so you have to either hide behind the minions or get behind the boss
+
+
+[2024/06/13 18:23] seeminglyunrelated
+shogun mowdown*
+
+
+[2024/06/13 18:23] seeminglyunrelated
+鉢 鉢 ｦ・ｦ・・・
+
+
+[2024/06/13 18:24] seeminglyunrelated
+https://tenor.com/view/viralhog-gun-fire-murica-flag-america-gif-12183553
+
+{Embed}
+https://tenor.com/view/viralhog-gun-fire-murica-flag-america-gif-12183553
+https://images-ext-1.discordapp.net/external/AInq5PM0qECQjanWakpcOsebz0Wc6OAR2R4YHjB_F5w/https/media.tenor.com/GqxkBacsAPQAAAAe/viralhog-gun-fire.png
+
+
+[2024/06/14 1:56] Deleted User
+what about character's with skills structured in the way where it can be chained if required conditions are met?
+
+
+[2024/06/14 1:56] Deleted User
+ex a character that teleports behind the enemy
+
+
+[2024/06/14 1:56] apokalypse6
+Like... skills work with other skills?
+
+
+[2024/06/14 1:56] Deleted User
+if another enemy is ahead with an empty space behind, teleport again without costing a turn
+
+
+[2024/06/14 1:57] apokalypse6
+Special move 竕 skill
+
+
+[2024/06/14 1:57] da_dogbar
+so smth like shadow?
+
+
+[2024/06/14 1:57] Deleted User
+no
+
+
+[2024/06/14 1:57] Deleted User
+it's for demonstration
+
+
+[2024/06/14 1:57] da_dogbar
+shadow kind of has something like that though i mean
+
+
+[2024/06/14 1:58] da_dogbar
+he phases through multiple enemies if he can
+
+
+[2024/06/14 1:58] Deleted User
+it's not one use
+
+
+[2024/06/14 1:58] Deleted User
+you choose the extent to which it is performed, required to perform a wait action after you're done
+
+
+[2024/06/14 1:59] apokalypse6
+so, shadow, but if there is a enemy before the tile he teleported too, it does it again?
+
+
+[2024/06/14 1:59] Deleted User
+ex, continously move into an enemy to modify your skill
+
+
+[2024/06/14 1:59] Deleted User
+another demonstration
+
+
+[2024/06/14 1:59] Deleted User
+push an enemy further away up to 5 or smthing tiles
+
+
+[2024/06/14 1:59] Deleted User
+push yourself away from that enemy for 5 or smthing tiles
+
+
+[2024/06/14 2:00] apokalypse6
+What if you dont want to push yourself
+
+
+[2024/06/14 2:00] Deleted User
+you don't use the skill
+
+
+[2024/06/14 2:00] Deleted User
+/special move
+
+
+[2024/06/14 2:00] apokalypse6
+What if I want too
+
+
+[2024/06/14 2:00] apokalypse6
+but only the first part
+
+
+[2024/06/14 2:00] Deleted User
+you use it
+
+
+[2024/06/14 2:00] apokalypse6
+but I onlky want to push the enemy, not myself
+
+
+[2024/06/14 2:00] Deleted User
+wut
+
+
+[2024/06/14 2:00] Deleted User
+those two are seperate
+
+
+[2024/06/14 2:00] Deleted User
+but that could be something else
+
+
+[2024/06/14 2:00] Deleted User
+swap between pushing yourself or the enemy by moving
+
+
+[2024/06/14 2:01] Deleted User
+wait once to perform it
+
+
+[2024/06/14 2:01] apokalypse6
+What are yo uyeven talking about?!!!
+
+
+[2024/06/14 2:01] apokalypse6
+Im confused
+
+
+[2024/06/14 2:01] apokalypse6
+@plimbo-scrimbly  do you get it?
+
+
+[2024/06/14 2:01] Deleted User
+skills that can be programmed to do different actions
+
+
+[2024/06/14 2:01] Deleted User
+or skills that can be chained if certain conditions are met
+
+
+[2024/06/14 2:01] apokalypse6
+how would that it into the game
+
+
+[2024/06/14 2:01] apokalypse6
+are you talking about making custom special moves?>
+
+
+[2024/06/14 2:01] Deleted User
+more character opportunities
+
+
+[2024/06/14 2:01] Deleted User
+yeah
+
+
+[2024/06/14 2:01] da_dogbar
+like hookblade i think?
+
+
+[2024/06/14 2:01] apokalypse6
+Omfg
+
+
+[2024/06/14 2:02] apokalypse6
+Just say that fro mthe start
+
+
+[2024/06/14 2:02] da_dogbar
+but for special moves
+
+
+[2024/06/14 2:02] Deleted User
+yes
+
+
+[2024/06/14 2:02] Deleted User
+now it's easier to come up with character concepts
+
+
+[2024/06/14 2:02] apokalypse6
+1. how would you programm it
+
+
+[2024/06/14 2:02] Deleted User
+move into an enemy
+
+
+[2024/06/14 2:02] apokalypse6
+2. On what character
+
+
+[2024/06/14 2:03] apokalypse6
+So, you move int oa enemy... and then a programming tool like python pops up for you too edit their special mo0ve?!?!?!?
+
+
+[2024/06/14 2:03] apokalypse6
+HUH???
+
+
+[2024/06/14 2:03] Deleted User
+move into an enemy once = bounce back 2 tiles
+
+move into them twice = bounce back 3 tiles
+
+(then press down arrow to activate your skill)
+
+
+[2024/06/14 2:03] Deleted User
+the direction arrow has a number on it that increases to indicate it
+
+
+[2024/06/14 2:03] Deleted User
+then perform a wait action to activate your move
+
+
+[2024/06/14 2:03] apokalypse6
+oh.
+
+
+[2024/06/14 2:04] apokalypse6
+So a character that changes
+
+
+[2024/06/14 2:04] apokalypse6
+wit hevery time you use special move
+
+
+[2024/06/14 2:04] Deleted User
+not costing a turn
+
+
+[2024/06/14 2:04] apokalypse6
+...
+
+
+[2024/06/14 2:04] apokalypse6
+so
+
+
+[2024/06/14 2:04] apokalypse6
+what if I want to only do 1
+
+
+[2024/06/14 2:04] apokalypse6
+what button to press
+
+
+[2024/06/14 2:04] Deleted User
+then just move back
+
+
+[2024/06/14 2:04] Deleted User
+a key
+
+
+[2024/06/14 2:04] apokalypse6
+I DFONT WANT TO MOVE!!!
+
+
+[2024/06/14 2:04] Deleted User
+then wait
+
+
+[2024/06/14 2:05] apokalypse6
+I DONT WANT TO WAIT 丐
+
+
+[2024/06/14 2:05] apokalypse6
+I want the special attack to trigger
+
+
+[2024/06/14 2:05] apokalypse6
+without anything
+
+
+[2024/06/14 2:05] Deleted User
+then program the special attack
+
+
+[2024/06/14 2:05] apokalypse6
+wtf you mean with program
+
+
+[2024/06/14 2:05] Deleted User
+https://tenor.com/view/big-brain-markiplier-gif-14835823
+
+{Embed}
+https://tenor.com/view/big-brain-markiplier-gif-14835823
+https://images-ext-1.discordapp.net/external/U9k3nomlCezDjZ1yQeOaHVTK0N3DMGxBOiO_APvrJXQ/https/media.tenor.com/N_bXE4MWdEMAAAAe/big-brain-markiplier.png
+
+
+[2024/06/14 2:05] apokalypse6
+Yeah ok no I dont get it
+
+
+[2024/06/14 2:05] Deleted User
+thus
+
+
+[2024/06/14 2:06] Deleted User
+y not
+
+
+[2024/06/14 2:06] Deleted User
+you move into an enemy more, your skill changes
+
+
+[2024/06/14 2:06] apokalypse6
+Let me describe it to you. Imagine im before a enemy, and I want to do the special move, to see what would happen. I dont want to advance the turn.
+
+
+[2024/06/14 2:06] apokalypse6
+What do I do?
+
+
+[2024/06/14 2:07] Deleted User
+press wait
+
+
+[2024/06/14 2:07] apokalypse6
+I DONT WANT TO WAIT
+
+
+[2024/06/14 2:07] apokalypse6
+BROO
+
+
+[2024/06/14 2:07] Deleted User
+what do you want to do
+
+
+[2024/06/14 2:07] apokalypse6
+I want to see what happens
+
+
+[2024/06/14 2:07] apokalypse6
+then do my next move
+
+
+[2024/06/14 2:07] Deleted User
+the special move only activates after you perform a wait action
+
+
+[2024/06/14 2:07] apokalypse6
+I DONT WANT TO WAIT BROOO HOW MANY TIMES
+
+
+[2024/06/14 2:08] Deleted User
+every special move costs a turn
+
+
+[2024/06/14 2:08] Deleted User
+this one isn't any different
+
+
+[2024/06/14 2:08] Deleted User
+until then you can modify it to your desired extent by moving into an enemy, then press wait to consume 1 turn and in that turn, you perform your prepared special move
+
+
+[2024/06/14 2:09] apokalypse6
+I dont want complicated ass special moves...
+
+
+[2024/06/14 2:09] Deleted User
+there's not really many original ones you can think of with this structure
+
+
+[2024/06/14 2:09] Deleted User
+turn an enemy around or smthing, do an attack, do one of the existing character's special move but backwards
+
+
+[2024/06/14 2:10] Deleted User
+there's so many opportunities that can be opened if the special move could change
+
+
+[2024/06/14 2:10] Deleted User
+balancing is easy too with the amount of control given to the player
+
+
+[2024/06/14 2:11] apokalypse6
+Im internally dying
+
+
+[2024/06/14 2:11] Deleted User
+we're not changing any of the base characters
+
+
+[2024/06/14 2:11] Deleted User
+this is a way to create a plethora of new ones
+
+
+[2024/06/14 2:12] Deleted User
+really what's so hard to get about this
+
+
+[2024/06/14 2:12] Deleted User
+https://cdn.discordapp.com/emojis/809506188618104832.gif?size=48&name=AYS_omegathonk&quality=lossless
+
+{Embed}
+https://cdn.discordapp.com/emojis/809506188618104832.gif?size=48&name=AYS_omegathonk&quality=lossless
+https://images-ext-1.discordapp.net/external/BMjPMAQIoysntjs7OsSVFR96FTExx6wVACuA6O6tS44/%3Fsize%3D48%26name%3DAYS_omegathonk%26quality%3Dlossless/https/cdn.discordapp.com/emojis/809506188618104832.gif
+
+
+[2024/06/14 2:12] Deleted User
+I got the idea through
+
+
+[2024/06/14 2:13] Deleted User
+what
+
+
+[2024/06/14 2:13] Deleted User
+no
+
+
+[2024/06/14 2:13] Deleted User
+ok
+
+
+[2024/06/14 2:13] Deleted User
+1 big summary
+
+
+[2024/06/14 2:13] apokalypse6
+here we go
+
+
+[2024/06/14 2:14] Deleted User
+When triggering the special move, you do not immediately advance a turn
+
+Instead you can trigger it again to change your special move in some way, example - the enemy is pushed back and deals collision damage for 1 more damage, at the cost of increasing that skill's cooldown by 1
+
+When you want to activate your special move after triggering it enough to modify it to your desired extent, press "S" to activate your special move
+
+
+[2024/06/14 2:15] apokalypse6
+S is Waiting
+
+
+[2024/06/14 2:15] Deleted User
+yeah
+
+
+[2024/06/14 2:15] apokalypse6
+I dont wanna wait
+
+
+[2024/06/14 2:15] Deleted User
+now it triggers the special move after you moved into the enemy
+
+
+[2024/06/14 2:15] Deleted User
+that's really not hard to make
+
+
+[2024/06/14 2:15] apokalypse6
+But what If I actually want to wait instead of activating the special move
+
+
+[2024/06/14 2:16] apokalypse6
+your idea
+
+
+[2024/06/14 2:16] Deleted User
+then, you DON'T activate the special move, then you press s
+
+
+[2024/06/14 2:16] Deleted User
+ezpz
+
+
+[2024/06/14 2:16] apokalypse6
+I WANNA WAIT
+
+
+[2024/06/14 2:16] Deleted User
+^
+
+
+[2024/06/14 2:16] Deleted User
+you press s, you wait
+
+
+[2024/06/14 2:16] apokalypse6
+I CANT WAIT WITHOUT S
+
+
+[2024/06/14 2:16] Deleted User
+you move into an enemy, then you press s, special move
+
+
+[2024/06/14 2:16] apokalypse6
+I WANNA WAIT
+
+
+[2024/06/14 2:16] Deleted User
+you're trolling right
+
+
+[2024/06/14 2:16] Deleted User
+逐
+
+
+[2024/06/14 2:16] apokalypse6
+You are
+
+
+[2024/06/14 2:17] Deleted User
+^
+
+
+[2024/06/14 2:17] Deleted User
+this a way to create more character concepts without thinking hard about how it's different from an existing one
+
+
+[2024/06/14 2:17] Deleted User
+and it does without obstruction
+
+
+[2024/06/14 2:17] Deleted User
+you press s, you wait
+
+
+[2024/06/14 2:18] Deleted User
+you move into an enemy a number of times, then you press s, special move
+
+
+[2024/06/14 2:18] Deleted User
+what
+
+
+[2024/06/14 2:18] Deleted User
+you can just press s
+
+
+[2024/06/14 2:18] Deleted User
+what's wrong about that
+
+
+[2024/06/14 2:18] the_talha
+Isn't that really slow tho?
+
+
+[2024/06/14 2:18] apokalypse6
+I am activelly loosing braincells
+
+
+[2024/06/14 2:18] Deleted User
+^
+
+
+[2024/06/14 2:18] the_talha
+I have to waste turns just to use my special move
+
+
+[2024/06/14 2:19] Deleted User
+no
+
+
+[2024/06/14 2:19] Deleted User
+as I have stated
+
+
+[2024/06/14 2:19] Deleted User
+^
+
+
+[2024/06/14 2:19] Deleted User
+> When triggering the special move, **you do not immediately advance a turn**
+
+
+[2024/06/14 2:19] Deleted User
+this is the explanation
+
+
+[2024/06/14 2:19] Deleted User
+hereY^
+
+
+[2024/06/14 2:20] Deleted User
+uh
+
+
+[2024/06/14 2:20] apokalypse6
+True
+
+
+[2024/06/14 2:20] the_talha
+Yeah but in order to gain the ability to use the special move I have to move into enemies and subsequently dodge em right? That counteracts the free turn no?
+
+
+[2024/06/14 2:20] Deleted User
+you're literally just moving into an enemy and the unlocked character cannot possibly be a starter character
+
+
+[2024/06/14 2:20] Deleted User
+why is this hard to implement
+
+
+[2024/06/14 2:20] Deleted User
+there's 0 obstruction
+
+
+[2024/06/14 2:20] Deleted User
+because the special move is activated with the wait key (**after you move into an enemy and trigger the special move**)
+
+
+[2024/06/14 2:20] Deleted User
+if you don't want to use it, then press the wait key
+
+
+[2024/06/14 2:21] Deleted User
+what
+
+
+[2024/06/14 2:21] apokalypse6
+So, you move into a enemy, right?
+
+
+[2024/06/14 2:21] apokalypse6
+Then, you can adjust it, right?
+
+
+[2024/06/14 2:21] apokalypse6
+(By moving it 1 or 2 times)
+
+
+[2024/06/14 2:21] apokalypse6
+Right?
+
+
+[2024/06/14 2:22] apokalypse6
+Are we on the same level rn?
+
+
+[2024/06/14 2:22] Deleted User
+no the adjustment mechanic is just a example of one of the possible structures
+
+
+[2024/06/14 2:22] apokalypse6
+You are definitelly trolling
+
+
+[2024/06/14 2:22] Deleted User
+I'm suggesting special moves that do not advance a turn
+
+
+[2024/06/14 2:22] Deleted User
+but can be continously used to change it
+
+
+[2024/06/14 2:22] Deleted User
+for example
+
+
+[2024/06/14 2:22] Deleted User
+Swap.
+
+
+[2024/06/14 2:22] Deleted User
+No turn advanced
+
+
+[2024/06/14 2:23] Deleted User
+Swap again, +2 to your skill cooldown
+
+
+[2024/06/14 2:23] apokalypse6
+Oh! So its just a better **already existing tile**
+
+
+[2024/06/14 2:23] the_talha
+OHHHHHHH
+
+
+[2024/06/14 2:23] apokalypse6
+OH WAIT
+
+
+[2024/06/14 2:23] Deleted User
+wdym
+
+
+[2024/06/14 2:23] apokalypse6
+I GET IT
+
+
+[2024/06/14 2:23] apokalypse6
+NO WAY
+
+
+[2024/06/14 2:23] Deleted User
+no tile has increasing cooldown/activates a character skill consecutively without costing more than 1 turn (I mean unless you have multiple copies of signature move but of all of my runs I've never seen the game let you do that)
+
+
+[2024/06/14 2:23] apokalypse6
+I GET IT NOW
+
+
+[2024/06/14 2:23] Deleted User
+YES
+
+
+[2024/06/14 2:23] the_talha
+THAT WAS SO EASY TO EXPLAIN BRUH
+
+
+[2024/06/14 2:23] Deleted User
+IT'S GLORIOUS
+
+
+[2024/06/14 2:23] apokalypse6
+**BIG BRAIN**
+
+
+[2024/06/14 2:23] apokalypse6
+YEAH RIGHT
+
+
+[2024/06/14 2:23] apokalypse6
+sadly
+
+
+[2024/06/14 2:23] Deleted User
+https://tenor.com/view/engineer-engineer_gaming-gaming-bruhmoment-tf2-gif-19011890
+
+{Embed}
+https://tenor.com/view/engineer-engineer_gaming-gaming-bruhmoment-tf2-gif-19011890
+https://images-ext-1.discordapp.net/external/WELUcWG4DUjGV__Rqw-N8oLLB50DBTVi_r4hKdXEgPQ/https/media.tenor.com/4hqsM5cb9bwAAAAe/engineer-engineer_gaming.png
+
+
+[2024/06/14 2:23] the_talha
+WHY DIDNT YOU SAY THAT FROMNTHE START
+
+
+[2024/06/14 2:24] Deleted User
+I did
+
+
+[2024/06/14 2:24] apokalypse6
+your idea already exists ､｣
+
+
+[2024/06/14 2:24] Deleted User
+then interruptions happened a billion times
+
+
+[2024/06/14 2:24] Deleted User
+and my messages got seperated a mile apart
+
+
+[2024/06/14 2:24] Deleted User
+o
+
+
+[2024/06/14 2:24] apokalypse6
+a bit different
+
+
+[2024/06/14 2:24] apokalypse6
+but
+
+
+[2024/06/14 2:24] apokalypse6
+basically the same
+
+
+[2024/06/14 2:25] Deleted User
+fundementally, that's just a branch of this concept
+
+
+[2024/06/14 2:25] Deleted User
+ex, instead of performing it again, amplify your move
+
+
+[2024/06/14 2:25] apokalypse6
+Yours was, if its used again, add +2  CD
+
+
+[2024/06/14 2:26] dragon_of_celts
+Still a bit different, considering that the skill in the picture ends the turn normally each time you turn around. In his, the player controls when it is executed.
+
+
+[2024/06/14 2:26] apokalypse6
+nope
+
+
+[2024/06/14 2:27] apokalypse6
+Its literally free play
+
+
+[2024/06/14 2:27] Deleted User
+Another example:
+Move into an enemy once, the number 1 shows up beneath them.
+Move into them again, the number increases.
+
+Press wait to push that enemy, the number that was originally under them is how much collision damage they deal and also how much your skill cooldown is increased
+
+
+[2024/06/14 2:27] Deleted User
+^that one is not freeplay
+
+
+[2024/06/14 2:28] apokalypse6
+Oh eyah, thast a good one
+
+
+[2024/06/14 2:28] apokalypse6
+still dont agree with the wait option, but yeah
+
+
+[2024/06/14 2:28] Deleted User
+this one was pretty basic
+
+
+[2024/06/14 2:28] Deleted User
+I was making a character with controlled teleport when thinking about this structure
+
+
+[2024/06/14 2:29] Deleted User
+you could like add some other key to trigger it, but reusing s simplifies the control scheme
+
+
+[2024/06/14 2:32] Deleted User
+Another example: Alternation
+Move into an enemy once, an arrow shows up beneath them, pointing away from you
+Move into them again, an arrow shows up beneath them, pointing to you
+Move into them again, both arrows appear
+
+Press activation key (s) to move the enemy for 2 spaces if that arrow was pointing away from you, or move yourself for 2 spaces if that arrow was pointing to you, or if two arrows appear move both of you for 2 spaces
+
+^this one is less original, could create skills with flexible usage, but limited activation requirements, 
+ex maximum of 2 tiles movement in this case, or idk your enemy must either be a boss or have less than some health if you're creating a structured move of ronin/jujitsuka's
+
+Another example:
+Some special move with lower capability in comparison to other characters
+But if you move into an enemy twice before activation, a crosshair appears under you, and after activation you unload your queue immediately after/only unload the first tile in your queue for balancing
+
+
+[2024/06/14 20:25] .justclowning
+martial arts achievment:beat the shogun only using dragon punch,kaiteroyuken and other such tiles
+
+
+[2024/06/15 13:59] dieuwt
+i am getting *way* too much into this concept. 
+not displayed: he's got -1 consumable slot and -2 max health
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1251400775322828871/concept.png?ex=6a167a4a&is=6a1528ca&hm=b906446820d267a6733c7c3ec0532e55f73d0edd535454f2e163ec9860657948&
+
+
+[2024/06/15 14:04] thefloralhurrikale
+I mean, some of these items are cards so, wouldn't making them potions be a waste?
+
+
+[2024/06/15 14:05] dieuwt
+the idea is that you have access to both, but only limited slots, so you rotate potions instead of using tiles
+
+
+[2024/06/15 14:05] dieuwt
+none of them are healing either
+
+
+[2024/06/15 14:13] thefloralhurrikale
+Would changing the unlock to getting frugal fighters be better?
+
+
+[2024/06/15 14:13] thefloralhurrikale
+Idk, getting three items slots is pretty rng
+
+
+[2024/06/15 14:13] thefloralhurrikale
+Frugal fighters can be gained with skill
+
+
+[2024/06/15 14:14] dieuwt
+mate this is just a bunch of ideas cobbled together to create something that resembles a balanced character. the unlock condition can be whatever you want
+
+
+[2024/06/15 14:14] dieuwt
+(also you'd only need two slots)
+
+
+[2024/06/15 14:14] thefloralhurrikale
+First of all, ideas can be added onto and made better
+
+
+[2024/06/15 14:14] thefloralhurrikale
+Second, chill
+
+
+[2024/06/15 14:15] dieuwt
+i do think yours is more in line with how the game already does unlocks
+
+
+[2024/06/15 20:56] apokalypse6
+Cool that you drew that tbh
+
+
+[2024/06/15 20:56] apokalypse6
+not many people draw their ideas
+
+
+[2024/06/15 21:09] dieuwt
+glad you like it
+
+
+[2024/06/15 21:09] dieuwt
+maybe i'll learn how to mod it in one day
+
+
+[2024/06/15 23:52] robot093
+I love this character idea
+
+
+[2024/06/15 23:52] robot093
+After balance I think he would be very fun
+
+
+[2024/06/17 4:50] robot093
+New character: omozukai (puppeteer) 
+Ability: karakuri (flip the enemy in front of him and spawn a karakuri in the first free space behind that enemy) cd: 6
+Karakuri (twin tachi puppet): 3hp enemy that uses swirl whenever hit 窶・loses one hp every turn (not triggering the attack) 窶・triggers 2dmg warden explosion on death
+Tiles: Sai and grapple/ back shadow dash and swirl
+Unlock: Get the shortest play achievement 
+The omozukai was a humble street performer who turned his puppets into weapons of war to fight the shogun.
+
+
+[2024/06/17 4:51] apokalypse6
+karakuri is warden and twin tachi fusion
+
+
+[2024/06/17 4:51] apokalypse6
+right?
+
+
+[2024/06/17 4:51] robot093
+basically
+
+
+[2024/06/17 4:51] robot093
+doesnt attack the player tho\
+
+
+[2024/06/17 4:51] apokalypse6
+mhm
+
+
+[2024/06/17 4:52] apokalypse6
+alright
+
+
+[2024/06/17 4:52] apokalypse6
+Not bad idea
+
+
+[2024/06/17 4:52] robot093
+thx
+
+
+[2024/06/17 4:52] robot093
+i cant draw tho sry
+
+
+[2024/06/17 4:55] robot093
+dancer skills only affect the turn around, not the puppet
+
+
+[2024/06/17 4:55] robot093
+so damaging move doesnt make the puppet do more damage
+
+
+[2024/06/17 4:55] apokalypse6
+did you see what normal person did? lol
+
+
+[2024/06/17 4:56] robot093
+ik shes crazy good
+
+
+[2024/06/17 4:56] apokalypse6
+it gets the point acrpss
+
+
+[2024/06/17 4:56] apokalypse6
+barely
+
+
+[2024/06/17 4:56] robot093
+yup lol
+
+
+[2024/06/17 4:56] apokalypse6
+*shes
+
+
+[2024/06/17 4:56] robot093
+oh mb mb
+
+
+[2024/06/17 4:58] apokalypse6
+what is your pfp btw, I cant find out
+
+
+[2024/06/17 4:59] apokalypse6
+Are those neon signs, or...?
+
+
+[2024/06/17 4:59] robot093
+It窶冱 just random art I found on the internet
+
+
+[2024/06/17 4:59] apokalypse6
+of what
+
+
+[2024/06/17 4:59] robot093
+Idk actually
+
+
+[2024/06/17 4:59] apokalypse6
+lol
+
+
+[2024/06/17 4:59] robot093
+Looks cool tho
+
+
+[2024/06/17 4:59] apokalypse6
+looks like ai art a bit
+
+
+[2024/06/17 5:00] robot093
+Yea lol
+
+
+[2024/06/17 5:00] apokalypse6
+now your name makes sense
+
+{Reactions}
+・
+
+[2024/06/19 2:38] da_dogbar
+5 health enemy that uses lightning strike and knockback punch
+
+
+[2024/06/19 2:38] apokalypse6
+so randomly specific
+
+
+[2024/06/19 2:38] da_dogbar
+or lightning strike and any melee tile
+
+
+[2024/06/19 2:39] da_dogbar
+its not random
+
+
+[2024/06/19 2:39] apokalypse6
+where
+
+
+[2024/06/19 2:39] apokalypse6
+would it appear
+
+
+[2024/06/19 2:39] da_dogbar
+nobunaga's fortress maybe?
+
+
+[2024/06/19 2:39] da_dogbar
+or the area below that
+
+
+[2024/06/19 2:39] da_dogbar
+as a replacement for the shadow charger
+
+
+[2024/06/19 2:39] apokalypse6
+spoiler that
+
+
+[2024/06/19 2:50] hisc0re07
+idea:
+
+
+[2024/06/19 2:50] apokalypse6
+not you
+
+
+[2024/06/19 2:50] apokalypse6
+jk go on
+
+
+[2024/06/19 2:50] hisc0re07
+we should add gir as a character because my beloved <3
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1252681834542796801/gir.png?ex=6a16861f&is=6a15349f&hm=e555249717d371923a9cdcff47cd6cac8972eb6ee7670f65d42004ecfa5177f0&
+
+
+[2024/06/19 2:50] hisc0re07
+亊
+
+
+[2024/06/19 2:50] apokalypse6
+nvm I meant it
+
+
+[2024/06/19 2:50] hisc0re07
+HASDHALHSD;LKJFADS
+
+
+[2024/06/19 2:50] apokalypse6
+pretty sure this channel is for serious ideas
+
+
+[2024/06/19 2:50] hisc0re07
+eh it goes off topic sometimes
+
+
+[2024/06/19 2:50] hisc0re07
+anyways i gotta go record
+
+
+[2024/06/19 2:51] hisc0re07
+cya !
+
+
+[2024/06/19 2:51] apokalypse6
+bye
+
+
+[2024/06/20 5:21] apokalypse6
+Ok ok, what if the shogun gets his own boss track, and one for his second phase as well? Basically: Both tracks would play at the same time, the second phase track would be a more hyper, aggressive remix of the first phase track. The second phase track is muted, and the first one obviously unmuted. When the shogun dies, the first track gets muted, and the second one gets unmuted! It would make you stay in the flow with the fight, and probably make ya a bit scared when a more aggressive version starts playing.
+
+TL:DR: The shogun should have a custom bossfight track for both phases, and they would play back to back. Second phase track would be a remix, and would start playing at the exact point when the 1st track ends cuz of the shoguns phase switch. (Basically if the shogun switches phases at 1:26 minutes, the second track would start playing at 1:26 seconds)
+
+
+[2024/06/20 6:31] da_dogbar
+so basically it would be like peace/combat music in fps games or smth like that
+
+
+[2024/06/20 14:27] hisc0re07
+i think i get what you're saying
+
+
+[2024/06/20 14:27] hisc0re07
+it sounds a lot like the boss music of this one game
+
+
+[2024/06/20 14:27] hisc0re07
+palworld?
+
+
+[2024/06/20 14:27] hisc0re07
+maybe?
+
+
+[2024/06/20 14:27] hisc0re07
+lemme check
+
+
+[2024/06/20 14:28] hisc0re07
+not palworld
+
+
+[2024/06/20 14:28] thefloralhurrikale
+Sounds like what FTL does with their music
+
+
+[2024/06/20 14:28] hisc0re07
+what's ftl?
+
+
+[2024/06/20 14:29] hisc0re07
+first to lose?
+
+
+[2024/06/20 14:29] hisc0re07
+that sounds like something a game would be named
+
+
+[2024/06/20 14:29] thefloralhurrikale
+H
+
+
+[2024/06/20 14:30] hisc0re07
+PIKMIN 3 DELUXE
+
+
+[2024/06/20 14:30] thefloralhurrikale
+https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
+
+{Embed}
+https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
+FTL: Faster Than Light
+FTL is now available in 9 languages!  English, German, Spanish, French, Italian, Polish, Brazilian Portuguese, Russian and Simplified Mandarin!************************The free expansion, FTL: Advanced Edition, is available now!  Content additions include: new alien race, events, weapons, playable ships, drones, and more!  Also adds additional mu...
+Price
+$9.99
+Recommendations
+56524
+Metacritic
+84
+https://images-ext-1.discordapp.net/external/CelqgyPDWKbRE2QfRI7PGtCgntxNo7Pj9yQ6nCU74Do/%3Ft%3D1689017446/https/shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/header.jpg
+
+
+[2024/06/20 14:30] hisc0re07
+https://www.youtube.com/watch?v=GaBJ2C7Am6E here's a link to the video
+
+{Embed}
+Scruffy
+https://www.youtube.com/watch?v=GaBJ2C7Am6E
+How Boss Music Works in Pikmin 3 Deluxe
+Check out Olimar12345, who made the transcriptions used in this video! https://www.youtube.com/user/olimar12345
+{ You can support me on Patreon here! https://www.patreon.com/scruffymusic
+{ Hear my music on BandCamp: https://scruffymusic.bandcamp.com/
+{ And visit my official website! http://scruffymusic.com/
+{ Here's my Twitter for more updates: ...
+https://images-ext-1.discordapp.net/external/_mZTAVrLjYLNBQIZILcekS8V29rCeprn_l_1Ix0MUV4/https/i.ytimg.com/vi/GaBJ2C7Am6E/maxresdefault.jpg
+
+
+[2024/06/20 14:30] thefloralhurrikale
+This game
+
+
+[2024/06/20 14:30] hisc0re07
+ahhh
+
+
+[2024/06/20 14:30] hisc0re07
+looks cool
+
+
+[2024/06/20 14:30] hisc0re07
+ill take a look rwq
+
+
+[2024/06/20 14:30] hisc0re07
+rq
+
+
+[2024/06/20 14:31] thefloralhurrikale
+The music changes intensity depending on whether you are in battle or not.
+
+
+[2024/06/20 14:38] hisc0re07
+ahhh
+
+
+[2024/06/20 14:39] hisc0re07
+like a pokemon encounter but smoother
+
+
+[2024/06/20 14:40] apokalypse6
+No like
+
+
+[2024/06/20 14:40] apokalypse6
+Anyone herr know miitopia
+
+
+[2024/06/20 14:41] apokalypse6
+The dark lord fight switches to a better and harder track at the exact position where the boss switches to second phase
+
+
+[2024/06/20 14:59] averagefoxenthusiast
+also done in rainworld
+
+
+[2024/06/20 15:06] hisc0re07
+RAINWORLD MY BELOVED
+
+
+[2024/06/20 15:06] hisc0re07
+ive never played it lmao
+
+
+[2024/06/20 16:16] oscardimondogemello
+Be patient ・
+
+{Reactions}
+亠 (3)
+
+[2024/06/20 17:24] _pacca
+Similar to FTL too
+
+
+[2024/06/21 23:14] sam3452
+skill idea - warp -- lets you warp to the other side of the screen (only if the tile is free of enemies.. or maybe, you could swap places..) - skill would appear in dancer shop --- not sure how balanced itd be -- maybe have player be cursed when warping, or, limit warp count to number of the skill obtained, per each battle
+
+
+[2024/06/21 23:36] the_talha
+Give it a cooldown and I think it'd be fairly balanced
+
+
+[2024/06/21 23:49] robot093
+I窶冦 still having trouble figuring out how this would work
+
+
+[2024/06/21 23:49] robot093
+It seems very similar to mirror
+
+
+[2024/06/21 23:59] da_dogbar
+make it a special move for a character
+
+
+[2024/06/22 0:02] da_dogbar
+mirror your position by walking into an enemy or the edge of the field
+
+
+[2024/06/22 0:03] da_dogbar
+the character could start with katana and bo
+
+
+[2024/06/22 4:41] the_talha
+It is the only difference is that it's a skill not a tile
+
+
+[2024/06/22 4:42] apokalypse6
+And that it doesnt safe the direction you are looking in
+
+
+[2024/06/22 4:42] apokalypse6
+its basically mirror but better
+
+
+[2024/06/22 4:43] the_talha
+More reliable but I wouldn't say better since mirror can be used offensively too and is more flexible
+
+
+[2024/06/22 4:45] apokalypse6
+not against bosses
+
+
+[2024/06/22 4:47] the_talha
+Fair enough
+
+
+[2024/06/22 6:53] hisc0re07
+idea:
+
+
+[2024/06/22 6:53] hisc0re07
+okay so
+
+
+[2024/06/22 6:54] hisc0re07
+if you use a tile that makes enemies move and it kills either the final enemy in that like, round entirely, or it kills a boss,
+
+
+[2024/06/22 6:54] hisc0re07
+they should fly off the stage entirely and like break it
+
+
+[2024/06/22 6:54] hisc0re07
+like the edge
+
+
+[2024/06/22 6:54] hisc0re07
+yknow?
+
+
+[2024/06/22 6:54] apokalypse6
+wut
+
+
+[2024/06/22 6:55] apokalypse6
+so you mean like, effects
+
+
+[2024/06/22 6:55] apokalypse6
+after killing a boss? What if I wanna enjoy the normal boss dying with no area destroying tho
+
+
+[2024/06/22 6:56] hisc0re07
+i mean like a cool lil animation
+
+
+[2024/06/22 6:57] apokalypse6
+What if I dont wanna see it
+
+
+[2024/06/22 6:57] apokalypse6
+can I disable it?
+
+
+[2024/06/22 6:59] hisc0re07
+i mean yeah i dont see why not
+
+
+[2024/06/22 7:00] apokalypse6
+Maybe buy different area destroy effects with skulls
+
+
+[2024/06/22 7:00] apokalypse6
+cosmetics
+
+
+[2024/06/22 7:00] thefloralhurrikale
+Also how does this work with the Shogun?
+
+
+[2024/06/22 7:05] hisc0re07
+ooh that sounds cool
+
+
+[2024/06/22 7:06] apokalypse6
+big boom effect
+
+
+[2024/06/22 7:06] apokalypse6
+or smth
+
+
+[2024/06/22 7:06] hisc0re07
+i dont like the idea of it being too much or anything but i do like the idea of some customization
+
+
+[2024/06/22 7:06] apokalypse6
+maybe a orbital strike for 5000 skulls
+
+
+[2024/06/22 7:22] emeraldsplash
+Softlock
+
+
+[2024/06/22 7:23] apokalypse6
+what
+
+
+[2024/06/22 10:37] emeraldsplash
+He flies away never to be seen again
+
+
+[2024/06/22 10:37] emeraldsplash
+Softlock
+
+
+[2024/06/22 15:23] robot093
+new tile idea
+
+
+[2024/06/22 15:23] robot093
+chain lightning
+
+
+[2024/06/22 15:23] robot093
+the dmg number (on the tile) is actually the range of the attack, and the attack hits all enemies in that range for 1 dmg
+
+
+[2024/06/22 15:25] robot093
+has a high cooldown and 2 upgrade slots like kunai
+
+
+[2024/06/22 15:25] robot093
+only does 2 dmg at the start
+
+
+[2024/06/22 20:01] apokalypse6
+fun idea
+
+
+[2024/06/22 20:01] apokalypse6
+I like it
+
+
+[2024/06/22 20:01] apokalypse6
+Sounds kinda OP tho, especially with mono
+
+
+[2024/06/22 21:01] dot00.
+Hmm i wonder why tiles like kunai and mon can have 3 or 4 upgrade slots
+
+
+[2024/06/22 21:51] da_dogbar
+sounds cool
+
+
+[2024/06/23 0:48] robot093
+Just remember that anything this can do, kunai can probably do better lol
+
+
+[2024/06/23 0:48] robot093
+For example, its single target damage would be terrible
+
+
+[2024/06/23 0:48] apokalypse6
+kunai is uncommon now tho 亊
+
+
+[2024/06/23 0:49] apokalypse6
+also id take mass dmg over single dmg
+
+
+[2024/06/23 0:49] robot093
+That窶冱 fair
+
+
+[2024/06/23 0:49] robot093
+I窶冦 just saying it wouldn窶冲 be too broken if it got balanced
+
+
+[2024/06/23 0:55] da_dogbar
+kunai is both
+
+
+[2024/06/23 1:18] emeraldsplash
+Mono + Shockwave + dmg upgrade = ggez
+
+
+[2024/06/23 1:32] apokalypse6
+nuh uh
+
+
+[2024/06/23 1:32] apokalypse6
+shockwave is one of the worse ones
+
+
+[2024/06/23 1:32] apokalypse6
+use DS or perfect strike
+
+
+[2024/06/23 2:05] robot093
+U can already do this w kunai lol
+
+
+[2024/06/23 2:38] emeraldsplash
+the aoe goes dummy with this chain lightning idea though
+
+
+[2024/06/23 2:39] apokalypse6
+wait poison and ice is really good on this tile
+
+
+[2024/06/23 3:35] robot093
+Since this tile combos well with everything (scar strike, poison, ice, mono, ds, perfect strike) it would probably also be uncommon
+
+
+[2024/06/23 3:35] robot093
+The only downside is low single target damage
+
+
+[2024/06/23 3:36] robot093
+You have to admit it would at least be viable
+
+
+[2024/06/23 3:36] robot093
+So ppl don窶冲 just use kunaimancer
+
+
+[2024/06/23 3:44] apokalypse6
+nah man it would be epic, new rarity :curse:
+
+
+[2024/06/23 3:45] apokalypse6
+seems like a op tile
+
+
+[2024/06/23 3:46] robot093
+Maybe lol
+
+
+[2024/06/23 3:46] robot093
+Just an idea
+
+
+[2024/06/23 4:53] Deleted User
+it could be a limited use tile
+
+
+[2024/06/23 4:54] Deleted User
+the cooldown yellowed out indicating how many uses it has left
+
+
+[2024/06/23 4:55] Deleted User
+unupgradable
+
+
+[2024/06/23 4:55] apokalypse6
+a limited use tile
+
+
+[2024/06/23 4:55] apokalypse6
+so like, you can ue it a x number of times
+
+
+[2024/06/23 4:55] apokalypse6
+basicaly a consumable on steroids
+
+
+[2024/06/23 4:56] Deleted User
+yep
+
+
+[2024/06/23 4:57] Deleted User
+player is given a choice between long term growth or short term success
+
+
+[2024/06/23 4:57] Deleted User
+always offered along with another tile/bought in shop
+
+
+[2024/06/23 5:08] da_dogbar
++2 damage +3 cooldown
+
+
+[2024/06/23 5:08] da_dogbar
+:curse:
+
+
+[2024/06/23 16:03] hisc0re07
+i haven't read everything above so this might have been what yall were talking about
+
+
+[2024/06/23 16:03] hisc0re07
+but
+
+
+[2024/06/23 16:03] hisc0re07
+idea:
+
+
+[2024/06/23 16:03] hisc0re07
+once you get within like 2 cooldown of the max cooldown, the cooldown things go yellow
+
+
+[2024/06/23 16:04] hisc0re07
+possibly same for the damage number too, so at like 7 or 8 damage it'll be yellow
+
+
+[2024/06/23 16:04] hisc0re07
+it could go red at max??? but idk that kinda doesn't sound right
+
+
+[2024/06/23 16:04] hisc0re07
+anyways im goin to bed, sleep well i love yall
+
+
+[2024/06/23 17:42] da_dogbar
+enchant idea
+Timed Strike
++3 damage
++1 cooldown
+When this tile goes on cooldown, it has to be added to the attack queue the same turn. If not, it goes on cooldown again.
+
+
+[2024/06/23 17:42] apokalypse6
+so, if you dont add it the exact turn it becomes available, it gets set back?
+
+
+[2024/06/23 17:42] apokalypse6
+also 3 dmg might be too op
+
+
+[2024/06/23 17:42] da_dogbar
+yeah
+
+
+[2024/06/23 17:43] da_dogbar
+idk what other advantage it could provide though
+
+
+[2024/06/23 17:43] da_dogbar
+wasting an enchantment slot for 3 damage sounds fair imo
+
+
+[2024/06/23 17:44] da_dogbar
+i just realised this shit is just worse poison
+
+
+[2024/06/23 17:46] apokalypse6
+not really
+
+
+[2024/06/23 17:46] apokalypse6
+also poison isnt bad
+
+
+[2024/06/23 17:46] apokalypse6
+you should have said its worse than perfect strike
+
+
+[2024/06/23 17:50] da_dogbar
+i said its worse poison
+
+
+[2024/06/23 17:51] da_dogbar
+its the same damage poison provides but with a bonus downside
+
+
+[2024/06/23 17:51] apokalypse6
+poison does it in intervals bro
+
+
+[2024/06/23 17:51] apokalypse6
+Instant damage is way better
+
+
+[2024/06/23 17:52] da_dogbar
+not when you cannot use the tile 80% of the time
+
+
+[2024/06/23 17:52] apokalypse6
+I think your tile enchant is a good idea
+
+
+[2024/06/23 19:11] chapples4

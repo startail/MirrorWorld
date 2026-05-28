@@ -1,0 +1,2000 @@
+﻿
+[2025/01/08 4:24] da_dogbar
+imagine bringing the shogun to fight the corrupted soul lol
+
+
+[2025/01/08 4:24] randomkeycombinator
+Truly a victory against yourself lol
+
+
+[2025/01/08 4:25] randomkeycombinator
+Miscellaneous, but his day 7 phrase could be something like "I shall suffer no more..."
+
+
+[2025/01/08 4:25] randomkeycombinator
+And be modelled as a slightly different soldier of Shogun army, since he switched sides.
+
+
+[2025/01/08 4:26] randomkeycombinator
+Heh. 
+The guy sounds like a dlc character at this point.
+
+
+[2025/01/08 4:27] da_dogbar
+lol
+
+
+[2025/01/08 4:28] da_dogbar
+i had an idea for hideyoshi as a playable character, but im not sure if i posted it here
+
+
+[2025/01/08 4:28] randomkeycombinator
+Ohhh
+One more thing
+If the guy kills a Warden or Corrupted Progeny this way, their explosions don't do damage to you
+
+
+[2025/01/08 4:29] randomkeycombinator
+Sounds interesting
+
+
+[2025/01/08 4:29] da_dogbar
+yeah i just searched for it, cant find it anywhere
+
+
+[2025/01/08 4:29] randomkeycombinator
+He could be like another dlc character 
+With unique restriction that you can only attack if you have three tiles in queue
+And he has unique bomb equipment
+
+
+[2025/01/08 4:30] randomkeycombinator
+"Bomber run" - move into an enemy to leave an explosive on his tile. It explodes two turns later, dealing two damage to three tiles
+
+
+[2025/01/08 4:30] randomkeycombinator
+And you can't place a bomb in empty tile
+
+
+[2025/01/08 4:32] uilexam
+bomb should be a playable tile
+
+
+[2025/01/08 4:32] uilexam
+it makes sense
+
+
+[2025/01/08 4:32] uilexam
+this is a job for chapples
+
+
+[2025/01/08 4:37] randomkeycombinator
+Is he a modder?
+
+
+[2025/01/08 4:37] uilexam
+he mods save files
+
+
+[2025/01/08 4:38] uilexam
+to get you tiles like volley
+
+
+[2025/01/08 4:38] uilexam
+but idt he can make new ones
+
+
+[2025/01/08 4:38] uilexam
+that would be silly
+
+
+[2025/01/08 4:41] da_dogbar
+cooked something up real quick
+*Hideyoshi the Cunning* as a playable character
+Starting decks: 
+Bomb, Spear
+Meteor Hammer, Dash
+
+You can't move normally (but can turn around). However, you start with 3 random free play tiles in your deck. All free play tiles are randomized to a diffrent free play tile when used (including tiles you put freeplay on). Any tiles randomized keep their upgrades. 
+
+Special move: Sharp turn - Try moving to activate. Turn around and deal 1 damage to all adjacent enemies.
+
+
+[2025/01/08 4:42] randomkeycombinator
+Looking good
+
+
+[2025/01/08 4:42] randomkeycombinator
+Boss Hideyoshi gotta have special reaction to this guy
+
+
+[2025/01/08 4:43] randomkeycombinator
+Something like "You got a sense of style" or something that plays off his gullibility
+
+
+[2025/01/08 4:54] uilexam
+two-faced warrior would be ridiculous
+
+
+[2025/01/08 4:58] da_dogbar
+huh
+
+
+[2025/01/08 5:01] randomkeycombinator
+Ah, yeah
+
+
+[2025/01/08 5:02] randomkeycombinator
+Literally free neighbor damage
+
+
+[2025/01/08 8:19] uilexam
+i thought of an interesting tile idea
+
+
+[2025/01/08 8:21] uilexam
+tate (japanese shield) 0 damage, 7 cooldown
+
+
+[2025/01/08 8:22] uilexam
+strike the cell directly ahead. while in the attack queue, block all oncoming damage to your front. cannot be removed from queue
+
+
+[2025/01/08 8:22] uilexam
+getting hit in the front while this is active still counts as a hit for no hit runs
+
+
+[2025/01/08 15:24] da_dogbar
+would you block attacks from the ground/air like volley or corrupted barrage if you're facing the attacker?
+
+
+[2025/01/08 15:33] uilexam
+no
+
+
+[2025/01/08 18:42] kubah2008.
+BUFF it more
+
+
+[2025/01/08 18:42] kubah2008.
+https://tenor.com/view/now-i-want-total-power-goku-dbz-big-green-dub-kaio-ken-gif-25869713
+
+{Embed}
+https://tenor.com/view/now-i-want-total-power-goku-dbz-big-green-dub-kaio-ken-gif-25869713
+https://images-ext-1.discordapp.net/external/4JVlfGjruN2EBkyblILE2r57cSmyeS3BOodd9vpr-iw/https/media.tenor.com/cOYMKdLhHW0AAAAe/now-i-want-total-power-goku.png
+
+
+[2025/01/08 18:43] randomkeycombinator
+I don't want it to be unbalanced
+
+
+[2025/01/08 23:01] kubah2008.
+Them add something more to it
+
+
+[2025/01/08 23:02] kubah2008.
+That isn't a buff but not a nerf
+
+
+[2025/01/08 23:02] kubah2008.
+More mechanicks
+
+
+[2025/01/08 23:02] kubah2008.
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1326551636809744497/3dgifmaker13338.gif?ex=6a1650bc&is=6a14ff3c&hm=2207bc43a150255a15b8bdb646f18d00d7a616bbdc94bb868ad86810be1e5097&
+
+
+[2025/01/08 23:03] kubah2008.
+Insanity
+
+
+[2025/01/08 23:05] kubah2008.
+It needs more
+
+
+[2025/01/08 23:05] kubah2008.
+https://tenor.com/view/star-gif-16789607377123159596
+
+{Embed}
+https://tenor.com/view/star-gif-16789607377123159596
+https://images-ext-1.discordapp.net/external/LGJmF5FVYUI1QjyxQ7s87wSbZ0aUoXcfH-MnX4ZrmSo/https/media.tenor.com/6QCq9E-0LiwAAAAe/star.png
+
+
+[2025/01/08 23:06] kubah2008.
+https://tenor.com/view/scout-goes-insane-gif-25382090
+
+{Embed}
+https://tenor.com/view/scout-goes-insane-gif-25382090
+https://images-ext-1.discordapp.net/external/exKOyNsXm4E0AYSGWRU7k7GXXgxRvsjPYTPN8f_Pebo/https/media.tenor.com/hABtWagf8u4AAAAe/scout-goes-insane.png
+
+
+[2025/01/09 8:58] uilexam
+fumiko probably wants to kill you
+
+
+[2025/01/09 15:05] kubah2008.
+https://tenor.com/view/star-gif-16789607377123159596
+
+{Embed}
+https://tenor.com/view/star-gif-16789607377123159596
+https://images-ext-1.discordapp.net/external/LGJmF5FVYUI1QjyxQ7s87wSbZ0aUoXcfH-MnX4ZrmSo/https/media.tenor.com/6QCq9E-0LiwAAAAe/star.png
+
+
+[2025/01/10 17:31] kubah2008.
+Cook more from concept of insanity
+
+
+[2025/01/10 17:31] kubah2008.
+https://tenor.com/view/breaking-bad-chemistry-experiment-scientific-walter-white-gif-17820266
+
+{Embed}
+https://tenor.com/view/breaking-bad-chemistry-experiment-scientific-walter-white-gif-17820266
+https://images-ext-1.discordapp.net/external/41n3suyweKX4EFKNF-Xm-itVYWU1hOOs8Ms5mwPdEww/https/media.tenor.com/hRxU7RYOlMkAAAAe/breaking-bad-chemistry.png
+
+
+[2025/01/10 17:31] kubah2008.
+https://tenor.com/view/cat-insane-cat-meme-insanity-losing-grip-gif-2901353152573298214
+
+{Embed}
+https://tenor.com/view/cat-insane-cat-meme-insanity-losing-grip-gif-2901353152573298214
+https://images-ext-1.discordapp.net/external/YA4o5AKtVjxTffMmF4uK8zHtBV4FlcpEUYnd6mx3Aj4/https/media.tenor.com/KEOtUfsXViYAAAAe/cat-insane-cat.png
+
+
+[2025/01/10 17:32] kubah2008.
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1327193356870352916/3dgifmaker13338.gif?ex=6a16ac22&is=6a155aa2&hm=1031b1be4912e02fd132eb551209721e791b546df889625c8e212f2dad875120&
+
+
+[2025/01/11 8:23] uilexam
+tile concept - pike 3 dmg, 5 cd strike the third cell ahead, deal one damage to the first two tiles ahead
+
+
+[2025/01/11 8:25] apokalypse6
+Hey I made pike before
+
+
+[2025/01/11 8:26] apokalypse6
+Even some art and anims
+
+
+[2025/01/11 8:26] apokalypse6
+lmao
+
+
+[2025/01/11 8:26] apokalypse6
+yours is a interesting concept but way to niche
+
+
+[2025/01/11 9:30] uilexam
+W H A T
+
+
+[2025/01/11 10:18] Deleted User
+Character - Assassin
+Passive: After using signature move, instantly execute your queue in the same turn.
+Signature: Swap and turn (6 or less CD, if there's too much difficulty with ranged lineups)
+Set 1 - Nagiboku, Katana
+Set 2 - Sai, Shuriken
+https://cdn.discordapp.com/attachments/1327885061055578185/1330984557473960028/assassin.png?ex=678ff776&is=678ea5f6&hm=27fed16612c6847a684f07f14ee51d2c2d0e694e5fd0348908b116d3d8c0d787&
+https://cdn.discordapp.com/attachments/1327885061055578185/1353444574873391297/assassindisplay.png?ex=67e1acfc&is=67e05b7c&hm=e03c1f5fc690de4443d8a30fdc9d57c35df556c88082dac99f8921bd241d5ae8&
+
+{Embed}
+https://cdn.discordapp.com/attachments/1327885061055578185/1330984557473960028/assassin.png?ex=678ff776&is=678ea5f6&hm=27fed16612c6847a684f07f14ee51d2c2d0e694e5fd0348908b116d3d8c0d787&
+https://media.discordapp.net/attachments/1327885061055578185/1330984557473960028/assassin.png?ex=6a169f36&is=6a154db6&hm=6940aca74f36e10bb52b89b2220853891e888d7c3f4cd2f178cec5e405aa2679&
+
+{Embed}
+https://cdn.discordapp.com/attachments/1327885061055578185/1353444574873391297/assassindisplay.png?ex=67e1acfc&is=67e05b7c&hm=e03c1f5fc690de4443d8a30fdc9d57c35df556c88082dac99f8921bd241d5ae8&
+https://media.discordapp.net/attachments/1327885061055578185/1353444574873391297/assassindisplay.png?ex=6a1697bc&is=6a15463c&hm=7e87036099c332cf53edea27a3e26fbccefd520138942743fa07ffc01334ae52&
+
+{Reactions}
+櫨 (4) ､・
+
+[2025/01/11 10:20] Deleted User
+Intended strategy: Fast killtime at close range but has a harder time dealing with ranged enemy lineups
+Intended Set 1 strategy: Use nagiboku to weaken all enemies, sword to finish off
+Intended Set 2 strategy: Synergizes with sai
+
+
+[2025/01/11 11:06] uilexam
+WHAT
+
+
+[2025/01/11 11:06] uilexam
+NO CURSE KATANA 亊
+
+
+[2025/01/11 11:07] uilexam
+bro is desicrating the character 亊
+
+
+[2025/01/11 11:07] Deleted User
+but cmon that barely has ranged capability
+
+
+[2025/01/11 11:07] Deleted User
+nagiboku can get shockwave/poison
+
+
+[2025/01/11 11:07] uilexam
+what ranged capibility do juju decks have
+
+
+[2025/01/11 11:08] uilexam
+i guess throw
+
+
+[2025/01/11 11:08] uilexam
+also that just means hunt for a ranged tile after bamboo grove 1
+
+
+[2025/01/11 11:08] uilexam
+which is literally 5 cells big
+
+
+[2025/01/11 11:08] uilexam
+no need for range
+
+
+[2025/01/11 11:08] uilexam
+I CAN SEE THE BACKSTABBER SYNERGY
+
+
+[2025/01/11 11:11] me_heliotrope
+Seems like a character that's deliberately reliant on the usage of their passive synergy with escape tiles, the direction changing likely makes them thrive in the center
+
+
+[2025/01/11 11:12] me_heliotrope
+Would probably be very fun
+
+
+[2025/01/11 11:13] me_heliotrope
+But I don't think it needs the extra skill CD if you think about it, because it's not that they have a harder time dealing with ranged enemy lineups, they can't really dent them on their own and the extra CD could reduce the melee dps focus
+
+{Reactions}
+糟
+
+[2025/01/11 11:18] uilexam
+signature should be swap with the furthest enemy ahead
+
+
+[2025/01/11 11:21] uilexam
+deck one is curse + katana (maybe sai?)
+
+
+[2025/01/11 11:21] uilexam
+deck two is back strike + shadow kama
+
+
+[2025/01/11 23:06] apokalypse6
+yeah
+
+
+[2025/01/11 23:06] apokalypse6
+here
+
+
+[2025/01/12 1:44] randomkeycombinator
+Alternate Boss Idea: Udai the Untraceable
+Place: Theatre Of Illusions
+Moveset: Arsenal Mimicry, Blending In
+Attack Pattern: Udai starts the fight by using Arsenal Mimicry (random attack of a random enemy) . After attacking, Udai uses Blending In: The board shifts to a unique  seven-space board with two Statues (movable four for Corrupted) , one of which is Udai in disguise and the other is strong enemy imprisoned within. The player can select a statue to strike. Striking the statue that is not Udai releases an enemy. Striking Udai while other Statues that are not him are present starts battle both with him and hidden enemies. Udai can use Blending In twice during the battle, rest of time using Arsenal Mimicry.  He can't use Blending In if there are other enemies alongside him. 
+Description: A renowned master of disguise and sculpting, this artist weaponized his skills to bring pain in name of the Shogun.
+
+
+[2025/01/12 1:45] randomkeycombinator
+Statue Description: A handcrafted prison housing a warrior ready to strike.
+
+
+[2025/01/12 1:45] apokalypse6
+Name isnt a alliteration and isnt a noun
+
+
+[2025/01/12 1:46] apokalypse6
+also isnt one of the daimyos
+
+
+[2025/01/12 1:46] randomkeycombinator
+No
+
+
+[2025/01/12 1:46] randomkeycombinator
+His Sato's alternate
+
+
+[2025/01/12 1:46] apokalypse6
+The only exception is kowa but thats normal
+
+
+[2025/01/12 1:46] apokalypse6
+No
+
+
+[2025/01/12 1:46] apokalypse6
+im talking about the name.
+
+
+[2025/01/12 1:46] randomkeycombinator
+Ah
+
+
+[2025/01/12 1:46] apokalypse6
+It has to be a alliteration
+
+
+[2025/01/12 1:46] apokalypse6
+or a noun
+
+
+[2025/01/12 1:46] apokalypse6
+or a daimyo
+
+
+[2025/01/12 1:47] apokalypse6
+like, **R**ei the **R**uthless, **The** Statue, Ieyasu the Patient
+
+
+[2025/01/12 1:47] randomkeycombinator
+Udai The Untraceable/ Cudao The Chameleon
+
+
+[2025/01/12 1:48] apokalypse6
+i LIKE THE FIRST ONE
+
+
+[2025/01/12 1:48] apokalypse6
+oops caps
+
+
+[2025/01/12 1:48] apokalypse6
+Why did you just copy sato tho
+
+
+[2025/01/12 1:48] apokalypse6
+And made the game do a whole other playstyle
+
+
+[2025/01/12 1:48] apokalypse6
+it seems like a weird minigame and wouldnt fit
+
+
+[2025/01/12 1:49] apokalypse6
+I like the idea of having statues tho
+
+
+[2025/01/12 1:49] apokalypse6
+maybe they release special stronger enemies
+
+
+[2025/01/12 1:49] randomkeycombinator
+Ah
+When you put it that way...
+
+
+[2025/01/12 1:49] apokalypse6
+How about
+
+
+[2025/01/12 1:49] apokalypse6
+2 statues
+
+
+[2025/01/12 1:49] apokalypse6
+either side
+
+
+[2025/01/12 1:50] randomkeycombinator
+Yeah, that's better
+
+
+[2025/01/12 1:50] apokalypse6
+corrupted has 4
+
+
+[2025/01/12 1:50] apokalypse6
+and they can moved
+
+
+[2025/01/12 1:50] apokalypse6
+so its possible to acces the other two
+
+
+[2025/01/12 1:50] randomkeycombinator
+Sounds good!
+
+
+[2025/01/12 1:51] randomkeycombinator
+I just thought that if it's theatre of illusions, you gotta have a guy actually utilizing them in a way
+
+
+[2025/01/12 1:51] randomkeycombinator
+Lemme edit my text
+
+
+[2025/01/12 1:51] apokalypse6
+yeah
+
+
+[2025/01/12 1:51] apokalypse6
+What if the enemies get harder the more you take the wrong statues
+
+
+[2025/01/12 1:52] apokalypse6
+like maybe instead of the usual enemies, udai has special enemies that get stronger tiles and more health the more you fail
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1327681678537396305/image.png?ex=6a1678ab&is=6a15272b&hm=27deed902e0c17a4d41d5988e8b2a2101fc6d189c32bfdeb9d6bcb71e28247c3&
+
+
+[2025/01/12 1:53] apokalypse6
+||(maybe even my dream of double elites?)||
+
+
+[2025/01/12 1:53] randomkeycombinator
+That would mean the Statues gotta renew themselves until correct one is picked
+
+
+[2025/01/12 1:54] randomkeycombinator
+Then the rising health thing would work
+
+
+[2025/01/12 1:54] randomkeycombinator
+I don't see why not
+
+
+[2025/01/12 1:54] randomkeycombinator
+Except that probably wouldn't be thing on day 1
+
+
+[2025/01/12 1:54] randomkeycombinator
+It'd be nightmare there
+
+
+[2025/01/12 1:54] apokalypse6
+yeah
+
+
+[2025/01/12 1:54] apokalypse6
+how do you unlock the alts spawning?
+
+
+[2025/01/12 1:55] apokalypse6
+rei only starts spawning after beating day 1
+
+
+[2025/01/12 1:55] randomkeycombinator
+Well, Rei was unlocked for Shogun kill
+I'd say alternates are unlocked if you beat the original bosses
+Maybe once, maybe thrice
+
+
+[2025/01/12 1:55] apokalypse6
+they dont
+
+
+[2025/01/12 1:55] apokalypse6
+that would be unfair
+
+
+[2025/01/12 1:56] apokalypse6
+afterr picking a wrong one, your chancer of getting trhe correct one is h8igher
+
+
+[2025/01/12 1:56] randomkeycombinator
+Oh
+Then that's gotta apply to Corrupted version only where there's more of them
+
+
+[2025/01/12 1:56] apokalypse6
+yes
+
+
+[2025/01/12 1:58] apokalypse6
+but theres should be a pity system
+
+
+[2025/01/12 1:58] apokalypse6
+after getting 5 wrong ones
+
+
+[2025/01/12 1:58] apokalypse6
+cuz the chances can get ridicolous
+
+
+[2025/01/12 1:58] randomkeycombinator
+Yeah
+
+
+[2025/01/12 1:58] apokalypse6
+I like your idea
+
+
+[2025/01/12 1:58] apokalypse6
+but maybe
+
+
+[2025/01/12 1:59] apokalypse6
+replace copycat mirror with smth else
+
+
+[2025/01/12 1:59] apokalypse6
+some attack tiles
+
+
+[2025/01/12 1:59] randomkeycombinator
+Ight
+
+
+[2025/01/12 2:00] randomkeycombinator
+Say
+What if he looks like mix of many enemies
+And instead of copying your moves, he randomly selects one of attacks enemies have?
+
+
+[2025/01/12 2:00] randomkeycombinator
+Except smoke bomb of Shinobi
+
+
+[2025/01/12 2:00] randomkeycombinator
+And grapple
+
+
+[2025/01/12 2:01] randomkeycombinator
+He's master of disguise, so he mimics attacks of foes you met rather than your own
+
+
+[2025/01/12 2:14] randomkeycombinator
+Faro The Flamebreather
+Place: Hot Springs
+Moveset: Sword, Smoke Bomb, Flame Breath
+Attack Pattern: The fight takes place in nine tile arena, with one Hot Spring at each end (player can't enter tiles with Springs). Faro advances to the opposing Spring, using Sword and Smoke Bomb if necessary. Upon reaching the Spring, Faro turns around and switches to Flame Breath. This move targets two tiles on the board similar to Barrage, but without specifically targeting the player. Upon landing, the Flame Breath projectiles also spawn a flame that spreads to two neighboring tiles (similar to Shogun's pillars, but weaker and with less space covered). Corrupted Faro's flames cover more tiles. The cycle then repeats. 
+Description: After spending too much time bathing in magma, Faro was granted an ability to channel it... as long as it's nearby. 
+Hot Spring: Heated to the maximum, it gives strength to the master of flames.
+
+
+[2025/01/12 2:14] randomkeycombinator
+Here's alternate to Kowa for balance
+
+
+[2025/01/12 2:14] randomkeycombinator
+Btw, I don't think Daimyos can have alternates since it doesn't fit in the lore
+
+
+[2025/01/12 2:37] uilexam
+alliteration is close enough
+
+
+[2025/01/12 2:37] uilexam
+also ruthless is not a noun
+
+
+[2025/01/12 2:38] uilexam
+neither is fallen
+
+
+[2025/01/12 2:39] uilexam
+i was thinking about making their children their alternates
+
+
+[2025/01/12 2:40] randomkeycombinator
+Imagine killing a child because his father killed yours
+
+
+[2025/01/12 2:40] randomkeycombinator
+This post was made by Ronin gang
+
+
+[2025/01/12 2:40] uilexam
+well that would make them from the same generation
+
+
+[2025/01/12 2:41] uilexam
+so it doesnt seem too flawed if they are trying to stop him
+
+
+[2025/01/12 2:41] uilexam
+its not like hes strangling a minor
+
+
+[2025/01/12 2:43] randomkeycombinator
+True that
+
+
+[2025/01/12 22:29] da_dogbar
+clarity - freeplay 8 cooldown tile
+the rest of your attack queue is put on cooldown. all tiles put on cooldown are executed at the beginning of your next attack.
+
+
+[2025/01/13 9:59] me_heliotrope
+Would help out in procing combo coin/heal for additional meta-scaling when your deck is thriving.
+
+
+[2025/01/13 10:00] me_heliotrope
+But in terms of actively using it to avoid hits, the cooldown might not need to be that long considering how one usage of the tile would delay action economy by 2-3 turns (1 or 2 turns to queue up tiles unless some are freeplay, another turn to activate its effect)
+
+
+[2025/01/13 10:01] me_heliotrope
+8 CD pressures the player to be extremely opportunistic with getting value out of the tile on top of needing to plan a solution carefully to avoid a hit.
+
+
+[2025/01/13 10:11] Deleted User
+but if the cooldown is shortened, the player would probably spam clarity on one or more ranged tiles to obliterate an enemy lineup
+
+
+[2025/01/13 10:16] me_heliotrope
+Yes that is something to consider, marking a tile mulitiple times can be unintuitive and probably be the source of a million bugs/errors. Maybe the marked tile cooldowns are put on pause?
+(Unless you're talking about if duplication isn't allowed, but the player is running a high reach deck, in which the game discourages via kabukai) 
+But then again ､・ you wouldn't be able to start cooldown sooner to use the tile immediately after
+
+
+[2025/01/13 10:17] Deleted User
+I don't think CD or action economy would become the focus, the aspect of increasing burst damage would probably be the most prominent.
+
+Or you could just have the player only have 1 clarity tile at max, and have that tile be cooled down indefinitely till another attack is played
+
+
+[2025/01/13 10:20] me_heliotrope
+Alright true. Yeah I somehow didn't consider that this tile would probably mainly be used for setting up clears for an extra long ranged enemy lineup or something.
+Maybe the game should find more ways to prevent the player from huddling behind a melee enemy and spending time queueing.
+
+
+[2025/01/13 10:21] me_heliotrope
+That might in one way or another give CD upgrades more value.
+
+
+[2025/01/13 10:32] Deleted User
+might also justify longer queue length, making room for freeplay movement tiles to avoid oncoming damage
+
+
+[2025/01/15 0:41] solhollow_
+i got idea for a character called "the monk", what should his sig move be
+
+
+[2025/01/15 0:42] solhollow_
+thinking of putting bo into default deck
+
+
+[2025/01/15 0:53] randomkeycombinator
+"The Great Wisdom"
+Move into an enemy to make him question his life choices, stunning for three turns.
+
+
+[2025/01/15 1:11] randomkeycombinator
+Alternate Boss: Dadjakuro the Deadeye 
+Location: Moonlit Port
+Moveset: Arrow, Trick Arrow, Swap Toss, Mirror, Back Dash
+Attack Pattern: Dadjakuro uses the reverse strategy of the Twins: while they sandwich you and beat to death in melee, Dadjakuro tries to stay far away while also insuring you're in his attack range.  His main attacks are either Arrow or Trick Arrow (which randomly mimics the effect you can get from upgrades(except for perfect strike, shockwave and ice)). Trick Arrow of Corrupted Dadjakuro can have Double Strike Effect. If you try to sandwich him, he can use Mirror to change sides, while using Back Charge for getting out of your melee range and swap toss if you somehow end up behind him. In the end, he serves as check of your ability to deal with ranged enemies. 
+Description: A marksman who honed his aim for many years, he serves as commander and master of all archers. 
+Quotes:
+"No escape from my sights. "
+"My aim is flawless. "
+"It's only a sting. "
+"The eagle strikes swiftly. "
+"It's hail of steel. "
+Hero-exclusive:
+"End of the road. " (Wanderer) 
+"Could have as well painted a mark on you. " (Ronin) 
+"Dodge this. " (Shadow) 
+"Don't bring a fist to a bow fight." (Jujitsuka) 
+"Was it me who got your eye?" (Chainmaster)
+Corrupted:
+"I CAN SEE... EVERYTHING!"
+"THE MOON DIRECTS IT'S PIERCING GAZE..."
+
+
+[2025/01/15 1:11] randomkeycombinator
+Guardians have their boss version, here's one for Ashigaru Archer.
+
+
+[2025/01/15 1:12] solhollow_
+trick arrow, you mean volley?
+
+
+[2025/01/15 1:12] randomkeycombinator
+No
+
+
+[2025/01/15 1:14] randomkeycombinator
+It's like normal arrow, but with added effect
+It can have Curse, Poison, Ice Double-Strike(for corrupted version) effects
+
+
+[2025/01/15 1:14] randomkeycombinator
+Volleys are kinda the thing of Baru already
+
+
+[2025/01/15 1:16] solhollow_
+oh btw, you have any good mod? I never tried a mod before
+
+
+[2025/01/15 1:18] randomkeycombinator
+No, sadly
+
+
+[2025/01/15 2:42] gooby_0._
+Character idea medusa ability freeze the enemy in front of you (did some concept art)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1328781331068358760/Untitled_243.png?ex=6a16844c&is=6a1532cc&hm=962be020e16e8c3cd2fd2c397dec60d95e5d211c01df5e90ef556e98027cbe7c&
+
+
+[2025/01/15 2:45] gooby_0._
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1328782005642465371/Untitled_243.png?ex=6a1684ed&is=6a15336d&hm=818662510c556df892466c0673deb16c2af3654e2a1f9814d22148bac01d8f03&
+
+
+[2025/01/15 12:37] solhollow_
+May I do a redesign?
+
+
+[2025/01/15 16:40] gooby_0._
+Sure
+
+
+[2025/01/23 9:55] elcabeo
+maybe it could debuff enemies in a different way bcuz a freeze application character would be easy to use early on but relies completely on movement tiles to get past unfreezeable bosses
+
+
+[2025/01/23 9:56] elcabeo
+a character that immobilizes could be a ranged focused character
+
+
+[2025/01/23 9:57] elcabeo
+what if: passive - enemy you face cannot move or turn around unless you move or queue in the same turn, signature - push enemy in any direction back 1 cell.
+the caveat is that they have to stand still similarly so targeted tile attacks like corrupted barrage or volley can interrupt, so can whatever is behind them
+
+
+[2025/01/23 10:16] elcabeo
+yoo it is that character from the itch.io page
+
+
+[2025/01/23 10:18] elcabeo
+I think the shop should give more upgrade options like blacksmith areas in the predecessor, only being able to use one type of upgrade once in the shop before the price skyrockets feels limiting
+
+
+[2025/01/23 10:19] elcabeo
+another upgrade statue to choose from would be nice, especially when going for specific enchants
+
+
+[2025/01/30 9:58] duelist9263
+I find it weird that the Twins have the same health bar and die at the same time when you fight them, so here's my idea for a Twins redesign:
+
+Each Twin has their own separate healthbar, both displayed at the top. They each have HP equal to half of what their combined HP currently is and take damage separately. If you don't kill both at the same time, the surviving twin enrages, gaining an extra trait and new attacks. His aim is to now push you into the edge of the arena to hit you.
+
+Normal form: Gains Quick, and uses the attack patterns (Dash + Dragon Punch) or (Twin Tessen + Spear)
+Corrupted form: Gains Double Strike, and uses the attack patterns (Dash + Corrupted Wave Left/Right) or (Twin Tessen + Spear) or (Dragon Punch + Meteor Hammer)
+
+New voice lines when the twin becomes enraged:
+
+Normal form: "My Twin! I will avenge you!" "You will pay for that!"
+Corrupted Form: "I CAN END THIS MYSELF!" "FEEL THE POWER OF THE SHARDS!"
+
+{Reactions}
+､・(2)
+
+[2025/01/30 10:22] me_heliotrope
+It gives an objective to manage your focus on each twin if damaging one does not directly affect the other, would increase the amount of planning needed in order to equalize the damage done to each twin.
+
+
+[2025/01/30 10:25] me_heliotrope
+Though tiles that can hit both twins would also become more essential in having a smooth fight when you don't have to change targets.
+
+
+[2025/01/30 10:32] elcabeo
+you could avoid getting hit for a short while with your signature move and some movement tiles
+
+
+[2025/01/30 10:32] elcabeo
+but lowering their health first would definitely make it easier
+
+
+[2025/02/02 0:25] kefuneo
+Essentialy: my Idea is more 窶彭ivergent窶・art for enchanted weapons.
+I remember in the beta that cards would change the form of the weapon.
+Currently, the weapons only change their tint. I was thinkng that weapons could change more when enchanted.
+Double strike and Curse weapons seem to have a 窶廛emonlike窶・aspect, so leanng in to that with spikes being added, hilts being turned red, the like.
+Electric weapons could become more angular, or surround the weapon with a lighnting aura. 
+Poison weapons could have the tint only cover a portion of the weapon, making it look like it was dipped in poison, or could be shaped like bones and or Skulls or scythes(wich represent death and disease)
+Ice weapons could have more Jagged, uneven shapes, look like the Icon is partialy see through and tinted like ice.
+Perfect strike weapons seem to have a magic feel to them, so making the weapon be made of floating peices, have purple runes, or have circular holes cut out of them could look interseting.
+
+Finaly, a note on double strike.
+We have Every rainbow color enchantment exept for orange, and double strike, while currently leaning towards its high damage output/bloodlust with red, could instead lean towards its energeticness with Deep Orange as its color, with 窶徘hantom窶・orange dupliates appearing behind the weapon, and making the second hit of double strike have an orange tint. This could also lead to a new achivment: Taste the Rainbow. Have one of every enchantment type.
+
+
+[2025/02/02 0:27] kefuneo
+*besides instant play, wich could become white with speed lines around it to represent how fast you take it out
+
+
+[2025/02/02 0:29] kefuneo
+Obviously, this is a lot of work
+
+
+[2025/02/02 0:29] kefuneo
+but I think it would be really cool
+
+
+[2025/02/02 0:55] apokalypse6
+Guess what I did
+
+
+[2025/02/02 0:56] apokalypse6
+https://discord.com/channels/965169818309369858/1044158791492583464/1296201000474116287
+
+
+[2025/02/02 0:56] apokalypse6
+I made a custom sprite for every enchanted weapon
+
+
+[2025/02/02 0:57] apokalypse6
+Respriting every enchanted weapon is very much work and wouldnt affect gameplay, so the developer likely wont do anything any time soon
+
+
+[2025/02/02 3:41] kefuneo
+Bro
+
+
+[2025/02/02 3:41] kefuneo
+Is it possible to mod them in?
+
+
+[2025/02/02 3:44] kefuneo
+I would love to get these
+
+
+[2025/02/02 4:50] apokalypse6
+Yes!
+
+
+[2025/02/02 4:50] apokalypse6
+Its a bit complicated but it pays off
+
+
+[2025/02/02 4:51] apokalypse6
+I have a tutorial video about it on my channel and Ill send you the file of the sprites when you want
+
+
+[2025/02/02 8:27] seeminglyunrelated
+Or it could be something like Elden ring窶冱 godskin duo
+
+
+[2025/02/02 8:27] seeminglyunrelated
+They both share a boss health bar which depletes when you hit them
+
+
+[2025/02/02 8:27] seeminglyunrelated
+But they also each have a personal healthbar
+
+
+[2025/02/02 8:28] seeminglyunrelated
+When one of them dies, the other can summon him back in
+
+
+[2025/02/02 8:28] seeminglyunrelated
+But when the boss health bar depletes completely, they both properly die
+
+
+[2025/02/02 8:30] seeminglyunrelated
+Should maybe release the mod or make a general texture pack changing mod to make the process easier with other texture packs in the future
+
+
+[2025/02/02 8:30] apokalypse6
+I dont know to code anything apart from scratch ・
+
+
+[2025/02/02 8:30] seeminglyunrelated
+､｣ maybe I窶冤l get to it someday
+
+
+[2025/02/02 8:31] seeminglyunrelated
+||(Someday=never)||
+
+
+[2025/02/02 8:31] apokalypse6
+steam workshop but community made sounds fucking awesome
+
+
+[2025/02/02 8:31] apokalypse6
+especiually for ss
+
+
+[2025/02/02 8:31] seeminglyunrelated
+Agreed
+
+
+[2025/02/02 8:31] apokalypse6
+Just imagine opening the app
+
+
+[2025/02/02 8:31] apokalypse6
+and it shows some cool mods and texture packs
+
+
+[2025/02/02 8:31] apokalypse6
+a better unity mod manager
+
+
+[2025/02/02 8:31] seeminglyunrelated
+Steam workshop support would be amazing, should be next update if devs ever get back to it from their break
+
+
+[2025/02/02 8:32] apokalypse6
+dev
+
+
+[2025/02/02 8:32] apokalypse6
+only one coder
+
+
+[2025/02/02 8:32] seeminglyunrelated
+Well Mirko is the only coder
+
+
+[2025/02/02 8:32] apokalypse6
+yup
+
+
+[2025/02/02 8:32] seeminglyunrelated
+Yeah I guess the art helpers wouldn窶冲 really help here ・
+
+
+[2025/02/02 8:32] apokalypse6
+ig pen and ivan
+
+
+[2025/02/02 8:32] apokalypse6
+and even... the french one
+
+
+[2025/02/02 8:32] apokalypse6
+Im so sorry i forgot your name 亊
+
+
+[2025/02/02 8:32] apokalypse6
+the backgrounds youve made are awesome
+
+
+[2025/02/02 8:33] seeminglyunrelated
+Agreed whoever your name was the backgrounds are awesome ｫ｡
+
+
+[2025/02/02 8:33] apokalypse6
+I love the vibe of the hot springs
+
+
+[2025/02/02 8:33] apokalypse6
+it conveys the heat so well idk how to explain it
+
+
+[2025/02/02 8:34] apokalypse6
+The other art theyve made is so awesome
+
+
+[2025/02/02 8:35] seeminglyunrelated
+Ohhhh you know what would be a great addition?
+
+
+[2025/02/02 8:36] seeminglyunrelated
+A shaders mod
+
+
+[2025/02/02 8:36] seeminglyunrelated
+So the hot springs can get a bit of a ripple effect to convey the heat
+
+
+[2025/02/02 8:36] seeminglyunrelated
+Or does it already?
+
+
+[2025/02/02 8:36] seeminglyunrelated
+Idk I have the memory of a goldfish 摺
+
+
+[2025/02/02 9:05] Deleted User
+hot kowa mod
+
+{Reactions}
+櫨 (2)
+
+[2025/02/02 9:06] apokalypse6
+Cant wait to play max resolution shogun showdown with shaders on a rtx 5090 that I definitelly own frfr
+
+{Reactions}
+櫨
+
+[2025/02/02 9:06] apokalypse6
+Ultra realistic enemies
+
+
+[2025/02/02 9:06] apokalypse6
+grapplers just have those tattoed eyeballs
+
+
+[2025/02/02 9:06] apokalypse6
+https://tenor.com/view/i-can-see-you-see-see-you-black-eye-tattoo-gif-11592067143931418673
+
+{Embed}
+https://tenor.com/view/i-can-see-you-see-see-you-black-eye-tattoo-gif-11592067143931418673
+https://images-ext-1.discordapp.net/external/rHPHaNJgbT9kJjpS89wnuzsGZO1vUI1_s77wVMt35W8/https/media.tenor.com/oN9LpmaCWDEAAAAe/i-can-see-you-see.png
+
+
+[2025/02/02 9:06] apokalypse6
+This
+
+
+[2025/02/02 9:06] apokalypse6
+but grappler
+
+
+[2025/02/02 9:07] apokalypse6
+god thats so gross 亊
+
+
+[2025/02/02 9:25] elcabeo
+day 7 exclusive enchant idea 
+Disincarnate: buffs the weapon greatly, weapon can no longer damage bosses and corrupted elites (can still attack spawned progeny). Buff to the weapon can come in the form of +2 damage // +1 damage -2 cooldown // -4 cooldown
+
+
+[2025/02/02 9:40] elcabeo
+enchant makes the weapon have more damage output but loses the ability to damage corrupted enemies
+
+
+[2025/02/02 9:46] elcabeo
+can buff a tile to be more up to speed with your main tiles, but can only be used to help clear enemy spawns not part of a select group
+
+
+[2025/02/02 11:02] seeminglyunrelated
+Why is this a thing 亊
+
+
+[2025/02/02 11:02] seeminglyunrelated
+Holy blade, maybe?
+
+
+[2025/02/02 11:02] seeminglyunrelated
+Oh actually
+
+
+[2025/02/02 11:03] seeminglyunrelated
+Idea for holy enchant: buffs damage by +1 against corrupted enemies
+
+
+[2025/02/02 12:15] apokalypse6
+*Camille Unknown
+
+
+[2025/02/02 12:15] apokalypse6
+Seriously look them up their art is awesome
+
+
+[2025/02/02 12:16] apokalypse6
+https://www.artstation.com/artwork/GXrBvd
+
+{Embed}
+https://www.artstation.com/artwork/GXrBvd
+BARCELONA 21XX, Camille Unknown
+https://images-ext-1.discordapp.net/external/TPU1nuNQckkKlSUj877tM6b2GQ-vNK6uIfHAHkU4tnc/%3F1587389281/https/cdnb.artstation.com/p/assets/images/images/025/933/107/large/camille-unknown-barcelona-21xx.jpg
+
+
+[2025/02/02 12:16] apokalypse6
+This is one of my favourite ones
+
+
+[2025/02/02 12:17] apokalypse6
+wish they would do timelapses of their works lmao
+
+
+[2025/02/02 12:19] seeminglyunrelated
+Thought so, wasn窶冲 sure
+
+
+[2025/02/02 12:20] apokalypse6
+Theres also a third artist but I dont know what the contributed
+
+
+[2025/02/05 16:56] solhollow_
+Tile idea: Hurricane Gunbai
+Swap the direct enemy ahead no matter distant, dealing collision dmg as the swapped enemy hits another in the opposite position, player turns around at the same time
+
+
+[2025/02/05 16:59] solhollow_
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1336607073278103562/Screenshot_2025-02-05-14-58-58-728_com.miui.notes-edit.jpg?ex=6a16a457&is=6a1552d7&hm=26fc8d0e4a6db6ce19f1db0fa9f00bd88010c32dd53cfc4e069ec564cd60a2e2&
+
+
+[2025/02/05 17:00] solhollow_
+Basically jujitsuka as a weapon but no need to be close and steps reduced
+
+
+[2025/02/07 0:11] duelist9263
+My ideas for new enchants:
+
+Bloodlust: When this tile kills an enemy, increase the base damage of this tile by 1 for the rest of the fight. - 2 damage
+Vampirism: When this tile kills an enemy, heal 1 health. +3 cooldown
+Rampage: When this tile kills an enemy, all your tiles have their cooldown recharged by 2. + 2 cooldown
+Charge: You move 1 tile in the direction you are facing before using this tile. +1 cooldown
+Retreat: You move 1 tile in the opposite direction that you are facing before using this tile. -1 cooldown
+Chaos: This tile gains a random enchantment effect that changes every turn until placed in the attack queue.
+Mirror: This tile is used both ahead and behind you. +3 cooldown
+Weaken: Enemies hit by this tile deal 1 less damage (can not stack). Effect goes away after the affected enemy attacks.
+Berserk: Curse yourself when using this tile. +3 damage
+
+
+[2025/02/07 0:16] apokalypse6
+Vampirism is to op and to situational
+
+
+[2025/02/07 0:17] apokalypse6
+How does mirror work with tiles like swirl?
+
+
+[2025/02/07 0:17] apokalypse6
+I like berserk though
+
+
+[2025/02/07 0:17] apokalypse6
+Might be way to op tho
+
+
+[2025/02/07 0:17] duelist9263
+Does nothing, you'd simply not have the option to add it to such tiles
+
+
+[2025/02/07 0:18] duelist9263
+I don't think so, because we already have an option that gives +2 damage with no downside, so this is slightly higher damage than that but with a downside
+
+
+[2025/02/07 0:19] duelist9263
+Agreed on the vampirism though, you'd probably become unkillable with reactive shield
+
+
+[2025/02/07 1:51] apokalypse6
+Huh?
+
+
+[2025/02/07 1:51] apokalypse6
+Pretty sure +3 cd is a downside?
+
+
+[2025/02/07 1:52] apokalypse6
+And getting cursed is not dangerous, just dont get hit
+
+
+[2025/02/07 1:52] apokalypse6
+Which will be easy when you get a kunai for example, with 5 dmg only cuz of the enchantment
+
+
+[2025/02/07 1:52] duelist9263
+Sometimes I see an upgrade option that's literally +2 dmg and nothing else. It's pretty rare, I mostly see it after bosses
+
+
+[2025/02/07 1:52] apokalypse6
+Your enchantments focus to much on hp and getting hit
+
+
+[2025/02/07 1:53] apokalypse6
+Its not very hard when youre better to.. just not
+
+
+[2025/02/07 1:53] apokalypse6
+Nah
+
+
+[2025/02/07 1:53] apokalypse6
+That doesnt exist
+
+
+[2025/02/07 1:53] apokalypse6
+Its +2 dmg +3 cd
+
+
+[2025/02/07 1:53] duelist9263
+Hmm okay maybe I'm not remembering right
+
+
+[2025/02/07 1:53] apokalypse6
+Or youre thinking of -2 cd
+
+
+[2025/02/07 1:54] duelist9263
+Only 3 enchantments there that have anything to do with health
+
+
+[2025/02/07 1:54] apokalypse6
+Just in general unkillable, you gotta compare it to combo heal where it heals you for the same amount but you need 3 kills in one turn
+
+
+[2025/02/07 1:55] duelist9263
+But anyway it was just some ideas I was throwing out, did my best to balance but can't always get it right
+
+
+[2025/02/07 1:55] apokalypse6
+How far are you
+
+
+[2025/02/07 1:55] apokalypse6
+In the game
+
+
+[2025/02/07 1:56] duelist9263
+I beat day 7 with one character so far
+
+
+[2025/02/07 1:56] apokalypse6
+Yeah might need to play some more
+
+
+[2025/02/07 1:56] duelist9263
+That's fair
+
+
+[2025/02/07 1:57] apokalypse6
+I like the idea of a enchantment which gives you pure stats but a downside
+
+
+[2025/02/07 1:57] apokalypse6
+With more balancing you could make awesome ideas
+
+
+[2025/02/07 1:57] apokalypse6
+Keep cooking
+
+
+[2025/02/07 1:57] duelist9263
+So I guess berserk + 2 damage but curse would be okay probably
+
+
+[2025/02/07 1:57] duelist9263
+Thanks, will do!
+
+
+[2025/02/07 1:59] duelist9263
+Tbh I'm also trying to factor in cost, the enchantments are 20 coins in the shop which means you usually have to give up a skill for them, unless you got the coin on combo kill and are swimming in money
+
+
+[2025/02/07 4:43] apokalypse6
+Dont forget you can get them for free when they appear as a upgrade
+
+
+[2025/02/07 4:49] duelist9263
+True, I see that so rarely though, like maybe 1 free enchantment per run, shops are the main source of enchantments for me
+
+
+[2025/02/12 8:36] isapphired.
+More traps!
+*disclaimer: these arent proper names, but short terms to refer to them as.*
+
+Explosive Trap: when stepped on, explodes in a 3-tile radius centered on the trap for 2 damage. Can damage the player.
+
+Repulsive Trap: When stepped on, throws the enemy in the direction the trap faces, dealing collision damage. Trap direction is the same direction the player was facing when they placed the trap.
+
+Smoke Trap: when stepped on, creates a 3 tile smoke cloud. The smoke cloud lasts for 3 turns, and any enemies within will have their movements randomized. (They can turn around, move a direction, use their attacks, or add a tile available to them to their queue. This could result in odd queues, like a normal archer with two arrows, or a grappler with two grappling hooks followed by a sword.)
+
+
+[2025/02/12 8:39] isapphired.
+Like the normal trap, these would deploy one tile in front of the player when used.
+
+{Reactions}
+総
+
+[2025/02/26 21:51] duckie5266
+Add in a new character called Yasuke: he will attack his foes by offending them.
+
+
+[2025/02/28 19:34] duckie5266
+Add in a new character called the last samurai:
+
+He only gets 1 life.
+
+Oh, you already have one life, I hear you say?
+
+No see when he dies, the game uninstalls and you have the buy the game again.
+
+
+[2025/02/28 20:34] duckie5266
+At the end of the round, replay each step taken in quick succession. Each step should take about 0.2ms. It would look so badass ・
+
+
+[2025/03/01 4:46] uilexam
+wait yes
+
+
+[2025/03/01 4:46] uilexam
+this is so necessary
+
+
+[2025/03/01 4:47] duckie5266
+I know I know, I'm a genius ・
+
+
+[2025/03/01 6:33] Deleted User
+been suggested since 2023, should get modders to make it instead
+
+
+[2025/03/01 11:23] duckie5266
+New weapon ieaa: Nuke. Single use (Trust me, you won't need a second one).
+
+
+[2025/03/01 12:22] chapples4
+Based on real life Japanese culture
+
+
+[2025/03/01 12:22] chapples4
+Except in real life
+
+
+[2025/03/01 12:22] chapples4
+We still used a second one
+
+
+[2025/03/02 7:34] blurbiz
+give corrupted baru the chance to do the dragon punch/wall placement move *even* when there is a wall in front, to yeet the wall like rei as an alternate means of attack ()
+
+
+[2025/03/02 8:36] uilexam
+i think the point is that he doesn't do that because it is nearly undodgeable
+
+
+[2025/03/02 8:36] uilexam
+if you swap with the barrier, you get punched, and if you don't, you get smacked by a wall
+
+
+[2025/03/02 8:37] uilexam
+baru summons less enemies than rei, meaning it is harder for you to hide behind enemies, and also has more health, so it takes longer to defeat him
+
+
+[2025/03/02 8:37] uilexam
+i feel like punching the wall would make baru ruin any day 7 hitless run
+
+
+[2025/03/02 8:45] blurbiz
+just blow the wall (kinda dps check tho?) or make it super rare (gestures)
+
+
+[2025/03/02 8:45] blurbiz
+plus baru also do arrow rain regularly and all
+
+
+[2025/03/02 9:19] uilexam
+wdym blow the wall
+
+
+[2025/03/02 9:19] uilexam
+wouldn't you have to pull it away from baru so he doesn't punch it into you?
+
+
+[2025/03/02 9:20] blurbiz
+it's only 5 hp
+
+
+[2025/03/02 9:21] blurbiz
+just, uh...blow it after he places it before he chooses the dragon punch-wall combo again
+
+
+[2025/03/02 9:21] uilexam
+wdym blow it
+
+
+[2025/03/02 9:21] uilexam
+you mean kill it?
+
+
+[2025/03/02 9:21] blurbiz
+or insert a hard timer to make a lower limit for how often dragon-punch wall spam is ()
+
+
+[2025/03/02 9:22] blurbiz
+ye
+
+
+[2025/03/02 9:22] uilexam
+oh i thought you meant ki push
+
+
+[2025/03/02 9:22] uilexam
+逐
+
+
+[2025/03/02 9:22] blurbiz
+:curse:
+
+
+[2025/03/07 15:22] solhollow_
+I want a mirror sig hero
+
+
+[2025/03/18 3:03] kushiel2479
+I just got this game, and it's phenomenal! It ate my whole weekend.
+Two suggestions I'd love to see:
+1) Please show boss HP as numbers in addition to the health bar
+2) I'd pay money for a DLC that replays each encounter in real-time after it's completed, a la Superhot
+Sorry if these have probably both been suggested before.
+
+
+[2025/03/18 4:56] double_dot
+there was a mod for HP as numbers iirc
+
+
+[2025/03/18 9:40] voidfulfool
+Honestly if it replayed the whole game through like a movie, I窶囘 pay good money for it too lol
+
+{Reactions}
+総
+
+[2025/03/26 11:09] Deleted User
+Ki Discharge - 1 dmg, 4 CD
+Fire a projectile passing through one target before striking the next. Enemies adjacent to the struck target are damaged and pushed away, potentially dealing collision damage.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1354276076091605166/Ki_Discharge.png?ex=6a165261&is=6a1500e1&hm=6d24970bcf31c6915896730e7a01fd5ec6eba7a859407b1cb9009d2e83b1c298&
+
+{Reactions}
+櫨 (7)
+
+[2025/03/26 11:09] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1354276089832144906/Ki_Discharge_demo.gif?ex=6a165265&is=6a1500e5&hm=3539efb9668112221d959d5631f18cc3bc5a0c8c3e5cacc84f8d3d288d10b975&
+
+
+[2025/03/26 14:08] voidfulfool
+Ong making an demonstration gif is peak
+
+
+[2025/03/26 14:43] diamonddj37
+Storm - 2 dmg 7 CD
+Random attack three enemies for 2 Damage (Same Enemy can be hit twice)
+
+
+[2025/03/26 14:45] diamonddj37
+Its like lighting but Random
+
+
+[2025/03/26 22:30] mythicalgriffy
+this is sick yoooo
+
+
+[2025/03/30 18:02] samuraino.28
+I think we should have companions and should be able to turn enemies with a specific kind of weapon if they are low on HP
+
+
+[2025/03/30 18:03] samuraino.28
+Or be able to unlock both
+
+
+[2025/03/30 18:03] samuraino.28
+those would be cool editions at a later stage
+
+
+[2025/03/30 18:16] leopardwoman
+Like they fight long side with you?
+
+
+[2025/03/30 18:49] me_heliotrope
+generally I don't think they're as easy to implement in a 1-dimensional game
+
+
+[2025/03/30 18:53] me_heliotrope
+nor without complexity, seeing as they would be an entirely different way of dealing damage
+edit: nvm. Or it can be a copy of existing stuff, which is pretty tame I guess
+
+
+[2025/03/30 22:21] samuraino.28
+they can do different things I think, my idea is like 3 small animals that can sit on your head or next to you, one that can give you extra coins, one that can deal a small amount if damage and one that gives you an item or something along those lines
+
+
+[2025/03/30 22:22] samuraino.28
+I'm not the greatest when it comes to coding but you could make anything that would deal damage basically the same class of item as a regular weapon and it would act exactly the same
+
+
+[2025/03/31 4:03] diamonddj37
+would it work like ranged trap where if something is close to it will attack like a turret
+
+
+[2025/03/31 4:08] samuraino.28
+I'm thinking a multitude of different things, the trap idea is cool, but I was thinking more that we first need to decide if it's a pacive or active trait
+Meaning does it go onto the stack when you select the tiles, if not then it's passive and will do an ability every few turns
+If it's active then for the trap idea I think it should place a trap on a random tile that does 1 damage (more if you upgrade the pet)
+And if it's passive then it gives you a trap that spawns somewhere randomly on one of the tiles (but that'll be more like a weapon)
+
+
+[2025/03/31 4:53] diamonddj37
+the question is will it take space on the board or will it be a skill?
+
+
+[2025/03/31 4:54] samuraino.28
+Skill probably
+
+
+[2025/03/31 4:54] samuraino.28
+I just like the idea of a pet occupying the same tile as you that aids you in combat or in the shop somehow
+
+
+[2025/04/02 13:11] me_heliotrope
+Elite trait idea
+Vigilant: Does not use their attack if it would not hit you. (Preserving it in their queue)
+Only compatible with: Twin Tachi, Yari Master, Strider.
+
+
+[2025/04/02 13:18] mythicalgriffy
+oooooooooooo cool
+
+
+[2025/04/02 13:35] Deleted User
+it could be implemented into Sato acts
+
+
+[2025/04/02 13:36] Deleted User
+ex. a vigilant yari master on both ends of the grid, one vigilant yumi sniper among other enemies
+
+
+[2025/04/02 13:37] mythicalgriffy
+yeaaa
+
+
+[2025/04/02 22:28] samuraino.28
+Would it still activate if there was an enemy instead(If mirror was used for instance)
+
+{Reactions}
+笨・
+
+[2025/04/03 4:12] diamonddj37
+make charkram stay between fights
+
+
+[2025/04/03 4:12] diamonddj37
+I WANT TO ONE SHOT BOSSES
+
+
+[2025/04/03 4:14] voidfulfool
+CHILLLL
+
+
+[2025/04/03 4:15] voidfulfool
+SOBS
+
+
+[2025/04/03 4:15] diamonddj37
+NAH
+
+
+[2025/04/03 4:15] diamonddj37
+I WANT IT NOW
+
+
+[2025/04/03 4:16] voidfulfool
+Five -1 cooldowns upgrades in a row
+
+
+[2025/04/03 4:16] diamonddj37
+that does really one shoot though
+
+
+[2025/04/03 4:16] diamonddj37
+I need people to die so the boss dies
+
+
+[2025/04/03 4:18] voidfulfool
+Fr fr
+
+
+[2025/04/03 5:36] samuraino.28
+Patience swords with double strike go brrrr
+
+
+[2025/04/03 6:09] diamonddj37
+sure but
+
+
+[2025/04/03 6:09] diamonddj37
+IM NOT PATIENCET
+
+
+[2025/04/03 6:26] mythicalgriffy
+i love perfect strike on dragon punch
+
+
+[2025/04/03 8:38] voidfulfool
+Frrr
+
+
+[2025/04/03 10:46] mythicalgriffy
+"we have jiujitsuka at home"
+jiujitsuka at home:
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1357169376939479050/image.png?ex=6a164cfa&is=6a14fb7a&hm=86e9b7e9e78f78e29781e430f6d428024357d133d2b9d9be828569a1a4b7a38d&
+
+
+[2025/04/03 14:48] samuraino.28
+Recharging instantly?
+
+
+[2025/04/03 14:48] samuraino.28
+lolll
+
+
+[2025/04/03 23:36] samuraino.28
+An upgrade that gives you a larger Que
+
+
+[2025/04/03 23:36] samuraino.28
+Queue*
+
+
+[2025/04/03 23:37] samuraino.28
+So you can use 4 items
+
+
+[2025/04/03 23:38] samuraino.28
+Or more
+
+
+[2025/04/03 23:38] samuraino.28
+Maybe a temporary one that does 5
+
+
+[2025/04/03 23:38] samuraino.28
+Idea: Character that has only 2 slots but looses health to add more slots
+
+
+[2025/04/03 23:39] samuraino.28
+54 damage on 1 turn
+
+
+[2025/04/03 23:40] samuraino.28
+I've only done it once
+
+
+[2025/04/04 0:18] mythicalgriffy
+Cool idea but i feel like not having a movement option is a bit strange
+
+
+[2025/04/04 0:34] voidfulfool
+Sai with double strike and at least 8-9 damage while the enemy is attacking you, don窶冲 forget to curse them and have warring skills
+
+
+[2025/04/04 0:34] voidfulfool
+That窶冱 how you abuse bosses
+
+
+[2025/04/04 6:07] samuraino.28
+moving backward steals the enimy's active tile
+
+
+[2025/04/04 6:08] samuraino.28
+Nice
+
+
+[2025/04/04 6:08] voidfulfool
+Yeee
+
+
+[2025/04/04 6:08] samuraino.28
+Sounds good
+
+
+[2025/04/04 6:08] samuraino.28
+Its 11pm here
+
+
+[2025/04/04 6:20] voidfulfool
+4pm here
+
+
+[2025/04/04 17:15] samuraino.28
+Nice
+
+
+[2025/04/06 22:24] mythicalgriffy
+Ranged backwards tile
+
+
+[2025/04/06 22:24] mythicalgriffy
+The only one we have iirc are the ones that shoots in both directions
+
+
+[2025/04/06 23:56] undurable
+Backwards smoke bomb is a ranged backwards tile
+
+
+[2025/04/07 0:38] mythicalgriffy
+I was thinking something stationary
+
+
+[2025/04/07 6:16] glw
+Like paper or pens or some other sort of stationary?
+
+
+[2025/04/07 7:31] me_heliotrope
+I believe they meant the character remains stationary when using the tile
+
+
+[2025/04/07 7:31] mythicalgriffy
+^
+
+
+[2025/04/07 9:03] glw
+It was a joke
+
+
+[2025/04/07 9:04] mythicalgriffy
+lol
+
+
+[2025/04/08 0:34] mythicalgriffy
+-Tiles that just inflict poison/ice/debuffs similar to the curse tile
+-Copycat Tile that functions the same as Sato's
+-That one bomb tile Hideyoshi has
+
+
+[2025/04/08 2:18] mythicalgriffy
+Also add achievents onto the GOG version of the game
+
+
+[2025/04/08 5:06] diamonddj37
+a effect that give you life steal
+- 50% life steal equal to base damage
+- +4 cooldown
+
+
+[2025/04/08 5:06] diamonddj37
+this would act like an enchantment
+
+
+[2025/04/08 6:37] mythicalgriffy
+Potential balancing could be only healing if you get the kill
+
+
+[2025/04/08 7:51] diamonddj37
+kinda like perfect kill but instead of reloading it heals you
+
+
+[2025/04/08 7:52] mythicalgriffy
+Yeah that would be awesome
+
+
+[2025/04/08 11:15] diamonddj37
+Burning - New effect - Deals damage like poison but can spread, last 2 turns and deal 1 damage each time, spread if another enemies/player is next to it.
+Flame thrower - New tile - Burn any enemies that are 3 tiles ahead you of you - Cooldown 6 and 0 Damage
+Fireball - New tile - Attacks the first enemy ahead and give it burning - Cooldown 4 and 3 Damage
+
+
+[2025/04/08 12:18] mythicalgriffy
+peak
+
+
+[2025/04/09 2:22] robot093
+Cool idea but I think it窶冱 a little too similar to poison
+
+
+[2025/04/09 2:23] robot093
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1359216978639720498/IMG_2605.png?ex=6a167fb4&is=6a152e34&hm=9e320b3afdd4f8516ec4512833184864e278410537b7fb026a6e5e021236804c&
+
+
+[2025/04/09 2:23] robot093
+Hear me out
+
+
+[2025/04/09 2:35] diamonddj37
+or it just deal damage to enemies next to it kinda like a bomb but not really
+
+{Reactions}
+笶､・・
+
+[2025/04/09 3:04] mythicalgriffy
+It'd be cool to be able to apply knockback on any weapon. If that's too OP you can always limit it to 1 space or maybe 1 space per damage
+
+
+[2025/04/09 3:12] mythicalgriffy
+It'd be cool to be able to apply knockback on any weapon. If that's too OP you can always limit it to 1 space or maybe 1 space per damage
+
+
+[2025/04/09 3:48] mythicalgriffy
+Sorry i had shitty wifi
+
+
+[2025/04/15 4:11] wuzet
+This sounds OK, would need good research into balancing. But I find that the ultimate stamps are mostly gotten on day 1 (I sure am guilty of that) and it would be a nice challenge with no additional content needed if the stamps had day-tiers as well. So the ultimate challenge would be getting the ultimate stamps on day 7. For now, I would be happy to grind them on day 2, but without it being recognized somehow in the game, it doesn't feel all that rewarding.
+
+Another unhinged idea in a similar vein: an achievement/stamp for getting all stamps during a single run (the lower ones should count IMO, or the new stamp would only be gold if all others were).
+
+Combined, whoever would get the golden all-stamps-in-a-run during day 7 would be crowned the god of Shogun Showdown ・
+
+
+[2025/04/15 4:59] mythicalgriffy
+Omg is the last one even possibl3
+
+
+[2025/04/15 5:04] wuzet
+Judging by what speedrunners regularly achieve in other games, I wouldn't be too surprised if someone pulled that off. I think for a regular player getting all golds on a day 1 run would probably be an achievement on a level roundabout as current 100%ing the game.
+
+
+[2025/04/15 6:34] voidfulfool
+I mean I窶况e gotten all the stamps at once for Itch.io, so I窶冤l try to take up the challenge some time soon lmao
+
+
+[2025/04/18 21:45] averagefoxenthusiast
+how does lightning work on dragon punch/knockback tiles. I have a vague memory that it is not very good
+
+
+[2025/04/18 21:55] dragon_of_celts
+It occurs on hit, IIRC, not on knock back collision (so if you are knocking something back over at least one empty space, you aren't going to get anything out of it).
+
+
+[2025/04/18 22:53] mythicalgriffy
+I use it if theres guys in the back i need to kill before the guys in the front like archers or grapplers
+
+
+[2025/04/18 23:15] dragon_of_celts
+He meant the lightning upgrade (shock -- turns tile icon yellow), not the tile.
+
+
+[2025/04/18 23:35] mythicalgriffy
+Ooo
+
+
+[2025/04/18 23:36] mythicalgriffy
+It's not optimal probably i just like using it cuz its fun
+
+
+[2025/04/18 23:36] mythicalgriffy
+Perfect strike is usally my go to
+
+
+[2025/04/21 13:26] Deleted User
+**Karasu** - "With intent reflex and firm attention, the Karasu sunders their target with immaculate accuracy."
+First appearance - Ieyasu's Garden
+HP - **4** (**5** with increased health)
+Base Traits - **Quick**, **Vigilant** (Will cancel their readied state and preserve their queue if none of their tiles would hit the player, @Heliotrope's idea)
+Incompatible Elite Variants - **Quick**
+Routine:
+1. If queue is empty, queue Shadow Kama
+2. Position themselves and attempt to land an attack
+
+Strategy - This enemy's attack is avoidable in most scenarios, however the Vigilant trait allows them to pose a threat every other turn if the player continues to avoid their attack, the player can back this enemy against an inaccessible part of the grid to prevent the Karasu from targeting them.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1363732569392414740/Karasu_Display.gif?ex=6a16726d&is=6a1520ed&hm=c8be3f2e20940f904762d95ddaeeab30744638e73cb6f4d1b18e4a051cc4cb01&
+
+{Reactions}
+櫨 (2) 総 (3)
+
+[2025/04/21 13:26] mythicalgriffy
+SICKKKK
+
+
+[2025/04/21 13:26] mythicalgriffy
+Which attack was shadow karma again
+
+
+[2025/04/21 13:27] scoutguy
+its the one that hits 2 tiles in front of you
+
+
+[2025/04/21 13:27] scoutguy
+for 3 damage iirc
+
+
+[2025/04/21 13:27] mythicalgriffy
+Oo the scythe?
+
+
+[2025/04/21 13:27] mythicalgriffy
+Gotcha
+
+
+[2025/04/21 13:27] scoutguy
+yeah

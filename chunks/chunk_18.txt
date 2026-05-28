@@ -1,0 +1,2000 @@
+﻿
+[2024/11/01 3:47] fireeye.
+I feel like it might be too situational because 1. Hurting the enemy you will be farthest away from but not the ones in the middle isn't that useful. and 2. Often if theirs more than 2 enemies (so when this would be different then SD), their might not be much space on the other side and you could trap yourself
+
+
+[2024/11/01 3:47] fireeye.
+I do like doing more with enemy piles though
+
+{Reactions}
+漕
+
+[2024/11/01 3:49] d3v0553
+you're right, dont get me wrong, but i've faced quite a few times in this game where im unable to deal with a bulky grappler/shadow charger in the middle. maybe this could help with it?
+also, i think this could be a pretty versatile attack, since it deals spread damage.
+shadow dash and back shadow dash can also easily trap you, right? but they're still quite useful, since you'll pair them up with damaging tiles. i would think you would also pair up shadow sneak with hgiher damaging tiles
+
+
+[2024/11/01 3:50] d3v0553
+imagine double-strike shadow sneak lmao :curse:
+
+
+[2024/11/01 3:51] d3v0553
+amazing movement. it would be like double-strike kaitenryuken/sharp turn
+
+
+[2024/11/01 3:51] n.h.l
+Shadow Sneak is like a combination of tiles already in the game, I would prefer new tiles with unique effects
+
+
+[2024/11/01 3:52] d3v0553
+yea, but more familiar tiles wouldn't be the worst addition, imo
+
+
+[2024/11/01 3:53] d3v0553
+and specifically dealing with middle-enemies isn't explored *too* hard in SS. but yea, i'll be designing tiles with more interesting effects in the future
+
+
+[2024/11/01 3:53] Deleted User
+what if it was a movement tile that always teleports behind the first enemy in front of you?
+
+
+[2024/11/01 3:54] n.h.l
+and if the space is occupied you swap spaces?
+
+
+[2024/11/01 3:54] Deleted User
+yes
+
+
+[2024/11/01 3:54] Deleted User
+some sort of a heavy counter
+
+
+[2024/11/01 3:55] Deleted User
+(unless there's a lineup of 2 heavies, which I haven't really seen)
+
+
+[2024/11/01 3:55] n.h.l
+this sounds interesting, and simple
+
+
+[2024/11/01 3:55] d3v0553
+that was the original idea of shadow sneak, but i made it deal with enemy piles rather than single enemies
+
+
+[2024/11/01 3:55] d3v0553
+maybe simpler is better?
+
+
+[2024/11/01 3:57] d3v0553
+what about:
+shadow sneak, 1 dmg, 5 cd
+teleport directly behind the first enemy ahead, swapping positions with a target if needed, deal damage to the enemy its swapping with
+
+
+[2024/11/01 3:58] d3v0553
+#notliketheothergirls smoke bomb
+
+
+[2024/11/01 4:00] n.h.l
+why not:
+*Teleport behind the first target ahead. Exchanging positions with a target if present.*
+
+
+[2024/11/01 4:00] d3v0553
+yea, thats what it is
+
+
+[2024/11/01 4:00] d3v0553
+but like, worded 10x better
+
+
+[2024/11/01 4:00] d3v0553
+but it also deals damage to the swapping enemy if needed
+
+
+[2024/11/01 4:01] n.h.l
+I would make it a movement-tile with no damage
+
+
+[2024/11/01 4:02] d3v0553
+nice, so:
+4 cooldown, freeplay (maybe 5 cd?)
+teleport behind the first target ahead, exchanging positions with a target if present.
+
+
+[2024/11/01 4:02] d3v0553
+sounds like a food variant of mirror, which i like, since mirror kinda sucks pretty bad
+
+
+[2024/11/01 4:03] d3v0553
+and they gave it to the alt deck of my lad, shadow, which makes me hate it further
+
+
+[2024/11/01 4:03] n.h.l
+if its similar to mirror, it should have similar CD? so 6?
+
+
+[2024/11/01 4:04] da_dogbar
+i wish shadow's starting decks were actually unique ngl
+
+{Reactions}
+漕
+
+[2024/11/01 4:04] da_dogbar
+both start with tiles that other characters already start with
+
+
+[2024/11/01 4:04] da_dogbar
+what if shadow got katana instead of swirl in his main deck?
+
+
+[2024/11/01 4:04] d3v0553
+but the thing is that mirror is already bad enough
+
+
+[2024/11/01 4:05] d3v0553
+that wouldnt help it too much,. at least how i use it, is that swirl deals a lil damage with swirl to the enemy behind, then combos with grappling hook + swirl to kill two enemies at once. also, it synergizes with shadow's dash
+
+
+[2024/11/01 4:05] n.h.l
+I think mirror is a fun tile, makes the fight very puzzly
+
+
+[2024/11/01 4:05] da_dogbar
+the 0 cooldown would more than make up for it imo
+
+
+[2024/11/01 4:06] da_dogbar
+katana is very good on shadow
+
+
+[2024/11/01 4:06] d3v0553
+yes, it does, it makes the game more fun, but you can only sacrifice so much reliability on gameplay for fun, till it just isn't, well, reliable anymore
+
+
+[2024/11/01 4:07] d3v0553
+yea, it could also synergize with shadow's passive ability
+
+
+[2024/11/01 4:07] d3v0553
+speaking of passive abilities, more heros should have them, tbh
+
+
+[2024/11/01 4:07] da_dogbar
+i had an idea for accessories but idk if they would fit the game tbh
+
+
+[2024/11/01 4:07] d3v0553
+i would presonally just go for shadow dash or smoke bomb
+
+
+[2024/11/01 4:08] n.h.l
+shadow is the only one with a passive ability, right?
+
+
+[2024/11/01 4:08] d3v0553
+yea
+
+
+[2024/11/01 4:08] da_dogbar
+you could say chain master has one too
+
+
+[2024/11/01 4:08] d3v0553
+not really? what is it
+
+
+[2024/11/01 4:08] da_dogbar
+two way move by default
+
+
+[2024/11/01 4:09] d3v0553
+ig, but its not as game-changing as moving as far as possible
+
+
+[2024/11/01 4:09] n.h.l
+maybe because Shadows Special Ability is the weakest
+
+{Reactions}
+漕
+
+[2024/11/01 4:09] d3v0553
+it doesnt change the gameplay style *too* hard
+
+
+[2024/11/01 4:09] d3v0553
+yea, but its at least fun!
+
+
+[2024/11/01 4:10] d3v0553
+but again, as i stated before, you can only sacc so much gameplay for fun. but, imo, shadow crosses the fine line between 'so bad its worthless' and 'fun enough to try'
+
+
+[2024/11/01 4:12] d3v0553
+behold, the new version of...
+
+***Shadow Sneak***
+
+Freeplay, 5/6 cd
+
+Teleport directly behind the first enemy ahead, swapping positions with a target if present.
+
+*the perfect sneak attack*
+
+(some credit to nihil!)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1301624865308016703/ShadowSneak.gif?ex=6a16995e&is=6a1547de&hm=13a9a839a64b976bded053317342f4615d106cedea27f0e8d64ec017f49e82db&
+
+{Reactions}
+操
+
+[2024/11/01 4:13] n.h.l
+I like it
+
+{Reactions}
+潮
+
+[2024/11/01 4:14] d3v0553
+maybe even a back shadow sneak
+
+
+[2024/11/01 4:16] n.h.l
+so you flip the arrow 180ﾂｰ?
+
+
+[2024/11/01 4:17] d3v0553
+maybe, but it would definetly cause some confusion
+
+
+[2024/11/01 4:18] d3v0553
+thats why the smoke bomb and charge sprites have changed to show direction
+
+
+[2024/11/01 4:18] d3v0553
+imo, shadow sneak doesnt really need a back version
+
+
+[2024/11/01 4:18] n.h.l
+after a back shadow dash you face the enemy, after a shadow dash not, right?
+
+
+[2024/11/01 4:18] d3v0553
+its freeplay already, it takes one move to turn around. 0 if you have that one dancer skill
+
+
+[2024/11/01 4:19] d3v0553
+ye
+
+
+[2024/11/01 4:20] n.h.l
+i think both have justification for existence, because each one allows direfferent combos?
+
+
+[2024/11/01 4:22] d3v0553
+the thing is that back shadow dash and shadow dash are fundamentally different, since one makes the player face the enemy while the other doesnt.
+
+shadow sneak always makes you face the enemy, so a back shadow sneak would be redundant
+
+
+[2024/11/01 4:22] d3v0553
+thats why it says 'directly behind the enemy' rather than just 'behind the enemy'. the attacker turns to face the enemy
+
+
+[2024/11/01 4:23] n.h.l
+oh ok, then you are right, they would be too similar
+
+
+[2024/11/01 4:27] d3v0553
+also, i definitely didnt steal the idea of shadow sneak from pokemon, hahahahahha why would u think thatt
+
+
+[2024/11/01 4:28] n.h.l
+make Substitute next
+
+
+[2024/11/01 4:28] d3v0553
+haha
+
+
+[2024/11/01 4:29] d3v0553
+perish song, the ultimate curse nobody saw coming
+
+
+[2024/11/01 4:29] n.h.l
+teleporting away and placing Thorns on your old cell
+
+{Reactions}
+漕
+
+[2024/11/01 4:30] d3v0553
+i dont thikn we should add pokemon to SS, idk what tera fairy choice specs boosted sp.atk trained fluttermane would do
+
+
+[2024/11/01 4:30] d3v0553
+the horrors
+
+
+[2024/11/01 4:30] d3v0553
+or incineroar ・
+
+
+[2024/11/01 4:31] n.h.l
+lowering attack with intimidate
+
+
+[2024/11/01 4:32] d3v0553
+dont even get me STARTED at rapid strike urshifu
+
+
+[2024/11/01 4:33] d3v0553
+a new enemy, that will always hit you, regardless of how much damage or how many movement/defence tiles you go for ・ oooh, im already shivering my timbers
+
+
+[2024/11/01 7:19] n.h.l
+why not non-playable characters:
+one with only 1 HP spawns at the beginning of a level behind you and you have to protect him to get a reward
+enemies attack you but if the NPC is closer they attack him
+
+
+[2024/11/01 10:24] robot093
+that sounds like hell lol
+
+
+[2024/11/01 10:24] robot093
+great ideo tho
+
+
+[2024/11/01 10:24] robot093
+only downside is that it could be way to difficult without proper balancing
+
+
+[2024/11/01 11:52] andrew.s616
+遜 *BOOOOO* POISON TERA RAPID STRIKE URSHIFU WITH AN ADAMANT NATURE AND ITS GONNA SPAM SURGE STRIKE AND WIPE YOUR FOCUS SASH *BOOOOO* 遜
+
+
+[2024/11/01 14:36] d3v0553
+NOOOOOOOOOOOOOOOOOOO
+
+
+[2024/11/01 14:46] voidfulfool
+New buyable skill from the Moonlit Port: **Dragon spirit**, cost 25 coins
+
+Allows you to use a 4th tile in your queue
+
+May be overpowered but it窶冱 just an idea lol
+
+
+[2024/11/01 14:46] voidfulfool
+Maybe different name too but this is the best I could come up with lol
+
+
+[2024/11/01 15:06] d3v0553
+being able to add a 4th tile to the queue definitely seems to powerful
+
+
+[2024/11/01 15:07] d3v0553
+i mean, a lot of the strategy in ss comes from being able to only launch 3 tiles
+
+
+[2024/11/01 15:09] d3v0553
+maybe:
+dragon spirit, warring skill. 15 coins
+
+all tiles with 1 damage go twice
+
+
+[2024/11/01 15:09] d3v0553
+this way, you could combo double-strike with poison, curse, shockwave, etc.
+
+
+[2024/11/01 15:10] d3v0553
+but it wouldnt be too op since it only works with 1 dmg enemies
+
+
+[2024/11/01 15:26] voidfulfool
+Oooo nice idea
+
+
+[2024/11/01 15:27] voidfulfool
+Better fitting name for that warring skill lol
+
+
+[2024/11/01 19:19] n.h.l
+Name: Mimikry
+Damage: ?
+Cooldown: 7
+Description: Repeat the last Tile you activated this turn.
+
+
+[2024/11/01 19:23] d3v0553
+so, the exact same effect that occured with the last tile will happen again? for e.x, if i go for double-strike 9 damage gun, will mimicry do 9 damage double gun?
+
+
+[2024/11/01 19:23] n.h.l
+yes with all upgrades
+
+
+[2024/11/01 19:23] d3v0553
+oooh
+
+
+[2024/11/01 19:23] d3v0553
+that seems interesting
+
+
+[2024/11/01 19:24] d3v0553
+is it compatible with double-strike, ice, etc.?
+
+
+[2024/11/01 19:24] d3v0553
+as in can mimicry have double-strike, shockwave, poison, etc.?
+
+
+[2024/11/01 19:24] voidfulfool
+So it窶冱 similar to signature move
+
+
+[2024/11/01 19:25] voidfulfool
+I see
+
+
+[2024/11/01 19:25] d3v0553
+signature move, but for tiles ig
+
+
+[2024/11/01 19:25] voidfulfool
+Ye lol
+
+
+[2024/11/01 19:26] n.h.l
+no, because it would make strange scenarios, adding an upgrade to a repeated already upgraded tile
+
+
+[2024/11/01 19:27] da_dogbar
+what if instead it used an unupgraded version of the tile and every upgrade you apply to it would be applied on the tile it copied
+
+
+[2024/11/01 19:27] n.h.l
+this could be interesting too
+
+
+[2024/11/01 19:28] d3v0553
+this idea is really cool and versatile
+
+
+[2024/11/01 19:29] d3v0553
+you could have one really good mimicry, and use it to make your currently mid tiles better
+
+
+[2024/11/01 19:29] n.h.l
+Name: Dogbar Mimikry
+Damage: +0
+Cooldown: 4
+Description: Repeat the basic version of the last Tile you activated this turn. Add this Tiles Upgrades.
+
+
+[2024/11/01 19:30] voidfulfool
+Lmao
+
+
+[2024/11/01 19:30] voidfulfool
+The name change
+
+
+[2024/11/01 19:30] d3v0553
+mmm dogbar mimicry, favorite name
+
+
+[2024/11/01 19:31] voidfulfool
+It窶冱 my favorite tile to use
+
+
+[2024/11/01 19:31] voidfulfool
+Lmao
+
+
+[2024/11/01 19:36] n.h.l
+its much weaker i think
+because it forces you to activate a tile before you get the upgraded version
+
+
+[2024/11/01 19:39] voidfulfool
+Technically any tile lol
+
+
+[2024/11/01 19:40] voidfulfool
+It could work like chakram, because if you have it in your queue it still charges up damage as you do your turn lol
+
+
+[2024/11/01 19:40] d3v0553
+that would just be one of the costs for using mimicry you could basically duplicate an alrdy op tile and make it more op and use it again
+
+
+[2024/11/01 19:41] d3v0553
+anyway, @Nihil
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1301858533456871455/MimicryTile.gif?ex=6a16ca3d&is=6a1578bd&hm=a681fd3ba989caf8691f468c04afd2729cf356ef9ce88a56e09133f38dddf821&
+
+
+[2024/11/01 19:41] d3v0553
+mimicry art
+
+
+[2024/11/01 19:41] n.h.l
+wow you are fast
+
+
+[2024/11/01 19:41] d3v0553
+i couldnt resist ・
+
+
+[2024/11/01 19:41] d3v0553
+making tile art isnt that difficult, tbh. the thing that was mostly difficult was arranging the background tile and the theatre of illusion bg
+
+
+[2024/11/01 19:42] voidfulfool
+That was insanely fast
+
+
+[2024/11/01 19:42] n.h.l
+Dogbar Mimicry has only CD: 4 because its weaker
+
+
+[2024/11/01 19:42] voidfulfool
+Bruh
+
+
+[2024/11/01 19:44] d3v0553
+i think this should have 5 cd instead. 4 makes this too op, 7 makes it too useless
+
+
+[2024/11/01 19:44] voidfulfool
+Balanced
+
+
+[2024/11/01 19:44] n.h.l
+5 would work too
+
+
+[2024/11/01 19:44] voidfulfool
+As it should be
+
+
+[2024/11/01 19:44] voidfulfool
+lol
+
+
+[2024/11/01 19:45] d3v0553
+hehehehehe
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1301859614899306607/MimicryTile.gif?ex=6a16cb3f&is=6a1579bf&hm=fd5689706d53f3b668f893d7bd8daf9e159f02042c2c51882ca1fb3c83010173&
+
+
+[2024/11/01 19:45] n.h.l
+it has nice synergy with Crossbow because it doesnt need to recharge
+
+
+[2024/11/01 19:45] voidfulfool
+Fr
+
+
+[2024/11/01 19:46] voidfulfool
+Now it would be technically possible for 3 cross窶凉
+
+
+[2024/11/01 19:46] voidfulfool
+Lets gooooo
+
+
+[2024/11/01 19:54] n.h.l
+the basic version of Crossbow is the charged one, so you can even copy the uncharged one in your queue to mimic the charged one
+
+
+[2024/11/01 21:06] d3v0553
+https://imgur.com/a/HWRgW2j
+hmmmmmmmm is that my trickster idea in game? hmmmmmmmmm (thanks @Fumiko )
+
+{Embed}
+https://imgur.com/a/HWRgW2j
+Untitled Album
+https://images-ext-1.discordapp.net/external/Z6RqXX_aezoRXQIOghEaHZgioyw2hMzqcPnX5Bu8pJ0/https/i.imgur.com/rwhn7Mdh.jpg
+
+
+[2024/11/01 21:12] voidfulfool
+lol
+
+
+[2024/11/01 21:12] voidfulfool
+Bro is very happy
+
+
+[2024/11/01 21:28] d3v0553
+what? the trickster's just a reskinned chain master with different tiles??
+nooo
+
+
+[2024/11/01 21:29] d3v0553
+well, seeing her do her lil' squash and stretch animations in game is pretty cool soooo
+
+
+[2024/11/01 22:45] d3v0553
+**Rats**
+
+Cooldown: 3 (oops, it shows 7 cd in the freeplay tile, forget about it lmao)
+Damage: 1
+Rarity: Somewhat uncommon
+
+Summon rats equal to damage amount in the nearest unoccupied cells. Rats can share cells with enemies and the player, and will deal 1 damage on contact with enemies.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1301904859573915659/Rats.gif?ex=6a164ca2&is=6a14fb22&hm=d92d004b4fec3c83a66ce25ed2270c3472fedb5ae82dc6658e79d1cdcafc25a1&
+
+
+[2024/11/01 22:45] voidfulfool
+Wild
+
+
+[2024/11/01 22:46] voidfulfool
+Poison rat getting ready to start the plague
+
+
+[2024/11/01 22:46] d3v0553
+yes
+
+
+[2024/11/01 22:46] d3v0553
+it comes from europe
+
+
+[2024/11/01 22:46] d3v0553
+european rats (that cook italian food)
+
+
+[2024/11/01 22:46] voidfulfool
+https://tenor.com/view/ratatouille-gif-11076737
+
+{Embed}
+https://tenor.com/view/ratatouille-gif-11076737
+繝ｬ繝溘・ 繝・ぅ繧ｺ繝九・縲譁咏炊縲繝阪ぜ繝・
+https://images-ext-1.discordapp.net/external/FjjDJfoq8hQhXCAsrOicOJ_UxZHfKx8JLcgS5YG-5Uo/https/media.tenor.com/82rzvAm6G68AAAAe/ratatouille.png
+
+
+[2024/11/01 22:46] voidfulfool
+Lmaooo
+
+
+[2024/11/01 22:48] d3v0553
+rats goes wild with enchantments
+
+
+[2024/11/01 22:48] d3v0553
+curse everything, poison everything, freeze everything
+
+
+[2024/11/01 22:48] d3v0553
+maybe it should be 5 or 6 cd?
+
+
+[2024/11/01 22:48] voidfulfool
+Same cooldown as kunia since
+
+
+[2024/11/01 22:49] voidfulfool
+It has a similar gimmick
+
+
+[2024/11/01 22:50] d3v0553
+doesnt kunai have 7
+
+
+[2024/11/01 22:50] voidfulfool
+**Exactly.**
+
+
+[2024/11/01 22:50] voidfulfool
+If you think abt it
+
+
+[2024/11/01 22:50] voidfulfool
+It窶冱 very overpowered
+
+
+[2024/11/01 22:50] d3v0553
+yea
+
+
+[2024/11/01 22:50] voidfulfool
+Reminds me of the monomancer nerf because of kunia窶ｦ
+
+
+[2024/11/01 22:50] d3v0553
+what was the nerf again
+
+
+[2024/11/01 22:51] voidfulfool
+You can only buy it once
+
+
+[2024/11/01 22:51] d3v0553
+oh
+
+
+[2024/11/01 22:51] voidfulfool
+It used to be 3 times stacked
+
+
+[2024/11/01 22:51] d3v0553
+right u could stack it before
+
+
+[2024/11/01 22:51] voidfulfool
+Ye ye
+
+
+[2024/11/01 22:51] d3v0553
+i forgor, mb
+
+
+[2024/11/01 22:51] voidfulfool
+It窶冱 k
+
+
+[2024/11/01 22:51] voidfulfool
+lol
+
+
+[2024/11/01 22:51] voidfulfool
+Have you tried buying ALL dancer perks yet???
+
+
+[2024/11/01 22:51] voidfulfool
+It窶冱 very fun
+
+
+[2024/11/01 22:51] voidfulfool
+Best with chain master tho lol
+
+
+[2024/11/01 22:52] voidfulfool
+It also pairs up with central domain for extra damage窶ｦ
+
+
+[2024/11/01 22:52] d3v0553
+i have
+
+
+[2024/11/01 22:52] d3v0553
+all dancer perks at once?
+
+
+[2024/11/01 22:52] voidfulfool
+Yep!
+
+
+[2024/11/01 22:52] d3v0553
+oh my
+
+
+[2024/11/01 22:53] voidfulfool
+Trust me you need some combo coins, combo boon, and rogue retail for the money for it
+
+
+[2024/11/01 22:53] voidfulfool
+Lmao
+
+
+[2024/11/01 22:53] d3v0553
+curse, deal damage and then poison. kills basically everything?
+
+
+[2024/11/01 22:53] voidfulfool
+TRUST ME IT WAS AWESOME
+
+
+[2024/11/01 22:53] d3v0553
+oh, and more damage for ronin and jujitsuka
+
+
+[2024/11/01 22:53] voidfulfool
+I KEPT ON SWAPPING THE SHOGUN AROUND LIKE A TOY
+
+
+[2024/11/01 22:53] voidfulfool
+BAHAHAHAHAAHAHHAA
+
+
+[2024/11/01 22:53] d3v0553
+sounds crazy af
+
+
+[2024/11/01 22:53] d3v0553
+oh my lord
+
+
+[2024/11/01 22:53] voidfulfool
+HE DIDNT STAND A CHANCE
+
+
+[2024/11/01 22:53] voidfulfool
+I HAD SIGNSHAISHS
+
+
+[2024/11/01 22:54] voidfulfool
+The uhhh
+
+
+[2024/11/01 22:54] voidfulfool
+Foot tile
+
+
+[2024/11/01 22:54] voidfulfool
+lol
+
+
+[2024/11/01 22:54] d3v0553
+...a-a-a-are you... the... new... shogun now?
+
+
+[2024/11/01 22:54] voidfulfool
+Dance with death to find out
+
+
+[2024/11/01 22:54] voidfulfool
+https://cdn.discordapp.com/attachments/1208126730339098695/1284304226314489906/628goj4j03ja1.gif
+
+{Embed}
+https://cdn.discordapp.com/attachments/1208126730339098695/1284304226314489906/628goj4j03ja1.gif
+https://media.discordapp.net/attachments/1208126730339098695/1284304226314489906/628goj4j03ja1.gif?ex=6a163584&is=6a14e404&hm=0cd62e2ab13247a83546456eed34e3fb45f47e04647d8f0d87804f1683514a99&
+
+
+[2024/11/01 22:54] d3v0553
+AAAAAAHAHSADHSdhliaufh
+
+
+[2024/11/01 22:54] voidfulfool
+LMAOOO
+
+
+[2024/11/01 22:54] voidfulfool
+lol
+
+
+[2024/11/01 22:54] d3v0553
+elp
+
+
+[2024/11/01 22:55] voidfulfool
+Now I窶冦 going to pull on your hair to cook
+
+
+[2024/11/01 22:55] voidfulfool
+https://tenor.com/view/ratatouille-rats-remy-rocket-league-cooking-gif-20747924
+
+{Embed}
+https://tenor.com/view/ratatouille-rats-remy-rocket-league-cooking-gif-20747924
+https://images-ext-1.discordapp.net/external/mHfTCTddXlqcr25JpAsXgID_ElO7FOp3_54olxFT1HM/https/media.tenor.com/4U-1Gn-r22EAAAAe/ratatouille-rats.png
+
+
+[2024/11/01 22:56] d3v0553
+better?
+
+
+[2024/11/01 22:56] voidfulfool
+Ooooo
+
+
+[2024/11/01 22:56] voidfulfool
+Ye
+
+
+[2024/11/01 22:56] voidfulfool
+Double strike on it would be wild
+
+
+[2024/11/01 22:57] voidfulfool
+Especially with 8 damage on it窶ｦ
+
+
+[2024/11/01 22:59] voidfulfool
+Huh?
+
+
+[2024/11/01 22:59] d3v0553
+wait im redrawing it
+
+
+[2024/11/01 22:59] voidfulfool
+Ok lol
+
+
+[2024/11/01 23:00] d3v0553
+**Rats**
+
+Damage: 2
+Cooldown: 4
+Rarity: Uncommon
+
+Summon rats equal to half the amount of damage. Rats share cells with enemies and the player. They roam around and deal 2 damage to enemies on contact.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1301908831848239145/Rats.gif?ex=6a165055&is=6a14fed5&hm=bf183f534cef507d04869f3160c540f2d5e045c168380ef3bf347e6feca0227c&
+
+
+[2024/11/01 23:02] voidfulfool
+Nice
+
+
+[2024/11/01 23:02] voidfulfool
+Yk what would be funny!??!?!?!?
+
+{Reactions}
+笶・
+
+[2024/11/01 23:02] voidfulfool
+https://tenor.com/view/jujutsu-kaisen-shibuya-arc-mahoraga-shibuya-arc-gif-14345339483327262720
+
+{Embed}
+https://tenor.com/view/jujutsu-kaisen-shibuya-arc-mahoraga-shibuya-arc-gif-14345339483327262720
+https://images-ext-1.discordapp.net/external/_IUXXZHkkT12_rziCGCII0Hd4hVnP_hrG63KmL19vb4/https/media.tenor.com/xxTiQVYbcAAAAAAe/jujutsu-kaisen-shibuya-arc-mahoraga-shibuya-arc.png
+
+
+[2024/11/01 23:03] voidfulfool
+Adding him as a tile
+
+
+[2024/11/01 23:03] voidfulfool
+LMAO
+
+
+[2024/11/01 23:03] d3v0553
+what is he
+
+
+[2024/11/01 23:03] d3v0553
+what am i looking at? is it nsfw
+
+
+[2024/11/01 23:03] voidfulfool
+The divine general
+
+
+[2024/11/01 23:03] voidfulfool
+Mahogara
+
+
+[2024/11/01 23:03] d3v0553
+apologies, i was unable to recognize
+
+
+[2024/11/01 23:03] voidfulfool
+He adapts to anything
+
+
+[2024/11/01 23:03] voidfulfool
+BRUHH
+
+
+[2024/11/01 23:03] voidfulfool
+Watch jjk
+
+
+[2024/11/01 23:03] voidfulfool
+Free truma
+
+
+[2024/11/01 23:03] d3v0553
+yay
+
+
+[2024/11/01 23:03] voidfulfool
+lol
+
+
+[2024/11/01 23:04] voidfulfool
+His icon would be the ring around his head
+
+
+[2024/11/01 23:04] voidfulfool
+lol
+
+
+[2024/11/01 23:04] voidfulfool
+https://tenor.com/view/mahoraga%27s-adaptation-mahoraga%27s-wheel-divine-general-mahoraga-makora-gif-6549350953160866281
+
+{Embed}
+https://tenor.com/view/mahoraga%27s-adaptation-mahoraga%27s-wheel-divine-general-mahoraga-makora-gif-6549350953160866281
+https://images-ext-1.discordapp.net/external/kqgWuEFsw5fpvTLi11_CFzHndDsc8dr5pZRptDGfUjc/https/media.tenor.com/WuP3_fCE-ekAAAAe/mahoraga%2527s-adaptation-mahoraga%2527s-wheel.png
+
+{Reactions}
+curse
+
+[2024/11/02 1:40] d3v0553
+new enemy idea:
+
+**The Avenger**
+
+*This vengeful spirit moves so unnoticeably and deceivingly that anyone mildly resembling her wrongdoer is to be hit.*
+
+3 base HP.
+
+Traits:
+- **Quick**: *Can attack immediately after adding a tile to the attack queue.*
+- **Swift Sneaker**: *Can attack before the player acts.*
+
+Tiles:
+- **Dragon Punch**
+- **Shadow Sneak**: Teleport directly behind the target ahead, swapping positions with an ally if present.
+
+Behavior: She alternates between using Shadow Sneak first, and then Dragon Punch. I didn't animate the dragon punch animation, but it would be her shoving/pushing the player with her hands. She will always go for the Dragon Punch attack, regardless of whether if hits an ally enemy or not. Her Dragon Punch can synergize with other enemies attack, most with melee enemies, since they would be in range to attack the player. This would especially pair up with Yari Masters to be a huge nuisance. She'll walk to the player if Dragon Punch is 1 or 2 tiles out of range. If too out of range, she will cancel the Dragon Punch and go for Shadow Sneak. She is compatible with the Corrupted, Heavy and Reactive Shield elite traits. However, since the Warden and the Shielder are not compatible with just 2 traits, and therefore can not be elite, the Avenger would most likely be unable to be elite.
+
+Lore: She is based off of the south-Asian trope of a ghost woman in a white dress, twisted feet and long dark her in front of her who was done wrong by some corrupt people. There are many different interpretations of what this ghost lady is, though in this scenario, the Avenger was a usual woman, who after the scarring and blah blah blah, got killed by the Shogun as he grew more furious, which made her think that almost all humans are evil. She has beef with all the playable characters, as well as the bosses. She's only chill with the Strider, Warden and regular enemies of that sort.
+
+Region: From Hot Springs/Theatre of Illusions
+
+
+[2024/11/02 1:41] d3v0553
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1301949302683340881/ShadowSneak.gif?ex=6a167606&is=6a152486&hm=45abc518a4e3e2d73d5bfa984a23fe05347e6efd5cd7da3db3540c1c61672e28&
+https://cdn.discordapp.com/attachments/965176630588882954/1301949303203434537/VindictShowcase.gif?ex=6a167606&is=6a152486&hm=29ff3a9269f5ad52319ecb5aeeed0f69d18ac1e9fd83d7447cd3521d462c1a68&
+
+
+[2024/11/02 1:46] apokalypse6
+Bruh I didnt even need to animate the trickster, you can animate better than me
+
+{Reactions}
+亊
+
+[2024/11/02 1:48] apokalypse6
+Seems like a balanced enemy idea, but you should include more info, like which region does she start spawning (I suppose hot springs because of the background), what interaktion she has with differtent enemies (for example: does she punch enemies in front of her into you?) and if she has any restrictions in elites (for example: she cant be yellow since she already is quick)
+
+
+[2024/11/02 1:49] d3v0553
+ah, ur right, lemme write all of that
+
+
+[2024/11/02 1:50] voidfulfool
+Attacking before the player would mess me up so much at first lmao
+
+
+[2024/11/02 1:53] d3v0553
+added more info
+
+
+[2024/11/02 1:54] voidfulfool
+You cooked
+
+
+[2024/11/02 1:54] voidfulfool
+I love this so much lol
+
+{Reactions}
+笙･・・
+
+[2024/11/02 1:58] d3v0553
+een added a lore section hehehe
+
+
+[2024/11/02 1:59] voidfulfool
+Woohoo! Nice
+
+
+[2024/11/02 2:01] d3v0553
+waht do u think of the extra info and lore?
+
+{Reactions}
+総
+
+[2024/11/02 18:15] d3v0553
+both trickster and reaper in game!
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1302199447014346833/ShowcaseReaper.gif?ex=6a16b63d&is=6a1564bd&hm=44fbb01138de6a32a75a4c6a142c4ca4fca75bf530109e761b7aa2ffdecc410f&
+
+{Reactions}
+櫨
+
+[2024/11/02 18:36] apokalypse6
+Include your avenger idea next
+
+
+[2024/11/02 19:12] d3v0553
+yea, but that's supposed to be an enemy, and i dont know how to implement that ､ｷ
+
+
+[2024/11/02 19:14] apokalypse6
+Replace... a enemy instead of a hero?
+
+
+[2024/11/02 19:15] d3v0553
+ik, but i dont know how to change the enemy's tiles
+
+
+[2024/11/02 19:15] d3v0553
+or behavior
+
+
+[2024/11/02 19:15] d3v0553
+or traits
+
+
+[2024/11/02 19:15] d3v0553
+or anything like that
+
+
+[2024/11/02 19:46] apokalypse6
+I meant replace shadow charger or smth
+
+
+[2024/11/02 19:46] apokalypse6
+If you want custom tiles you will have to learn modding
+
+
+[2024/11/02 19:47] d3v0553
+yea, but that's the thing. maybe i'll learn modding soon, but currently, im just gonna be adding players ig. i would either completely make avenger in game (or the closest thing to her), or not do it at all. or at least thats what i think currently
+
+
+[2024/11/02 20:59] n.h.l
+Swift Sneaker is a strange ability
+The Avanger takes his turn earlier and only if you activated your queue (she interrupts your attack with her attack?), does she make another turn if she survives your attack?
+
+
+[2024/11/02 21:01] d3v0553
+Swift Sneaker allows her to launch her attack before you do.
+
+Usually, you launch your tiles in your attack queues, and then the enemies do in sequential order. The avenger goes before your attack.
+
+
+[2024/11/02 21:03] n.h.l
+normal:
+you, enemy, you, enemy
+
+with Swift Sneaker:
+you, enemy, before your attack only Swift Sneaker attacks, you (already pressed attack button), enemy (but not the Swift Sneaker because he already did something?)
+
+
+[2024/11/02 21:04] d3v0553
+The order goes:
+
+Swift Sneaker -> Player -> Enemy. that's it, every turn
+
+
+[2024/11/02 21:04] d3v0553
+imagine you push the 'launch attack button', she does her attack first, then you launch your tiles, and then all the other enemies do their things
+
+
+[2024/11/02 21:05] n.h.l
+but does the Swift Sneaker user act in the enemy turn?
+
+
+[2024/11/02 21:05] d3v0553
+i would say, no
+
+
+[2024/11/02 21:06] d3v0553
+swift sneakers have their own turn order thingy
+
+
+[2024/11/02 21:06] d3v0553
+as in.: all swift sneakers have their own turn order altogether.
+
+
+[2024/11/02 21:06] d3v0553
+For example:
+Imagine that avenger has shadow sneak in her queue. You try to kill her with a ranged attack, but she appears behind you, and you miss your attack. after that, if you dont kill her in time, via back strike, twin tessen, etc. she dragon punches you
+
+
+[2024/11/02 21:06] n.h.l
+so its not just for her attacks but for everything she does?
+
+
+[2024/11/02 21:06] d3v0553
+no, only for attacks
+
+
+[2024/11/02 21:07] d3v0553
+in the case for avernger, movement is done with enemy orders, whereas attacks are done in swift sneaker order
+
+
+[2024/11/02 21:08] n.h.l
+you count shadow sneak as attack?
+
+
+[2024/11/02 21:08] d3v0553
+here, i'm using the word 'attack' as any tile usage
+
+
+[2024/11/02 21:08] n.h.l
+oh ok
+
+
+[2024/11/02 21:09] d3v0553
+in game, this is how she would funciton
+
+
+[2024/11/02 21:10] n.h.l
+so if she has shadow sneak in her queue you can attack behind you and she acts befor you and you hit her?
+
+
+[2024/11/02 21:10] d3v0553
+yes
+
+
+[2024/11/02 21:10] n.h.l
+sounds fun
+
+
+[2024/11/02 21:10] d3v0553
+thats one of the ways of countering her. you go for back strike, nagiboku, twin tessen, etc. to inflict AOE damage. she still takes 1 turn to put tiles in her attack queue, so you can kill her with a ranged attack then
+
+
+[2024/11/02 21:14] n.h.l
+does she keep Dragon Punch in her queue if there is nothing to punch?
+
+
+[2024/11/02 21:16] d3v0553
+that's interesting...
+she would cancel her attack into shadow sneak again.
+thanks! i'll add that to her behavior list.
+
+
+[2024/11/02 21:17] n.h.l
+she only uses Shadow Sneak to move? and only if the player is the target?
+
+
+[2024/11/02 21:17] d3v0553
+yea
+
+
+[2024/11/02 21:17] d3v0553
+i think i'll change her attack from dragon punch to ki push? you could very easily dodge her, i've realized.
+
+or, i should make it so that shadow sneak allows her to attack before the player does anything
+
+
+[2024/11/02 21:17] d3v0553
+ill probably do the latter
+
+
+[2024/11/02 21:19] n.h.l
+if you stand with your back to the wall she cant use Shadow Sneak on you
+she shouldnt use push attacks so this counterplay isnt easy to do
+
+
+[2024/11/02 21:20] d3v0553
+im sorry, but wdym with the second sentence?
+
+
+[2024/11/02 21:20] n.h.l
+if she pushes you against a wall you are save after facing her and she cant do anything
+
+
+[2024/11/02 21:21] n.h.l
+because there is no cell behind you to move to
+
+
+[2024/11/02 21:22] d3v0553
+yea, that's also one way you can counter her. she becomes a huge threat when enemies are in front of the player (especially yari masters/spear enemies)
+
+
+[2024/11/02 21:22] n.h.l
+ok so she is just a support unit
+
+
+[2024/11/02 21:23] n.h.l
+no threat by itself
+
+
+[2024/11/02 21:24] d3v0553
+yea, basically. she does little damage, but can threaten while comboing with other enemies
+
+in the same way how realistically, shinobis arent too difficult to dealt with due to their low damage output. But, they become a nuisance in later days when you have low HP, or when he pops your shield
+
+
+[2024/11/02 21:24] d3v0553
+if she can combo with a yari master, you're basically taking 4 damage under 2 turns
+
+
+[2024/11/02 21:25] d3v0553
+and you would only be able to dodge the yari master with wanderer's swap, chain master's swap toss or some freeplay movement tiles
+
+
+[2024/11/02 21:26] d3v0553
+it could give range to melee enemies. while you take down a high HP. enemy you were pushed against, like the guardian or shadow charger, the avenger will have enough time to push you again, which would be undodgeable due to sneaker ability
+
+
+[2024/11/02 21:27] d3v0553
+so yeah, in concusion, avengers aren't going to be a threat by themselves. however, they can cause chip damage or pair up with other enemies to be one
+
+
+[2024/11/02 21:28] d3v0553
+maybe you would meet her first in the fourth region instead of the fifth? but, i think she could be a contender of a shielder or smth.
+Anything, but the shielder :curse:
+
+
+[2024/11/02 21:31] d3v0553
+turning hibiku wastelands into submerged ruins
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1302248802035433552/image.png?ex=6a163b75&is=6a14e9f5&hm=98726c2d8b841a7240b23706f60920ea403ba3f68f80f44e70143234afafd804&
+
+
+[2024/11/02 21:41] n.h.l
+the diagonally pillar on the right looks strange
+it is higher but in front of the bigger one
+
+
+[2024/11/02 21:42] d3v0553
+oh yeah, thanks for pointing that out
+
+
+[2024/11/02 21:56] n.h.l
+most enemys are easy to dodge, I would keep dragon punch
+
+
+[2024/11/02 22:11] n.h.l
+wait she can block you back movement? you move back when she has Shadow Sneak queued and she blocks the cell you wanted to move to
+
+
+[2024/11/02 22:14] d3v0553
+basically. if she's goes for shadow sneak as you move back, you wont be able to move
+
+
+[2024/11/02 22:14] d3v0553
+maybe, if you're chain master, you swap toss her
+
+
+[2024/11/02 22:15] n.h.l
+or if you have "Two-Way Move"
+
+
+[2024/11/02 22:16] d3v0553
+yes
+
+
+[2024/11/02 22:22] n.h.l
+new enemy variant:
+
+Name: Ice Warden
+same as Warden but with a different Trait: Ice Explosion
+Instead of damage his Exposion freezes all Characters in range.
+
+
+[2024/11/02 22:23] d3v0553
+this seems pretty interesting, but freeze is much less harder to deal with than damage imo
+
+
+[2024/11/02 22:23] n.h.l
+maybe other enemys can bully you while frozen
+
+
+[2024/11/02 22:26] d3v0553
+sorry, i meant less harder, not less easier
+but yeah, ig enemies gaining free turns could be annoying
+
+
+[2024/11/02 22:27] n.h.l
+do you think enemies dont have enchantments like poision and freeze because its frustrating for the player?
+
+
+[2024/11/02 22:32] d3v0553
+double-strike already exists as an enchantment, you could get around with shockwave easily, perfect strike would be useless for enemies, and enemies don't get cursing tiles, but some, like warden, have curse in the move pool.
+
+The only real compatible effects would be freeze and poison. since poison just adds a +3 damage boost to the attack, which is already similar to double-strike, the only *real* enchantment would be ice. 
+
+tbh, i would like to see an enemy using ice in their move pool. it would make the game more interesting imo
+
+
+[2024/11/02 22:35] n.h.l
+the enemy should not be able to freeze you permanently
+
+{Reactions}
+漕
+
+[2024/11/02 22:36] d3v0553
+but that's one of the problems, ig.
+if an enemy could freeze with a tile, then they would get enough turns to get the freeze tile again.
+ice-related enemies would have to be designed carefully
+
+
+[2024/11/02 22:36] d3v0553
+ice wardens are a cool way to implement that
+
+
+[2024/11/02 22:44] n.h.l
+I could see a Poison Warden work too
+
+
+[2024/11/02 22:45] d3v0553
+that would just be a 3 damage warden, right?
+
+
+[2024/11/02 22:48] n.h.l
+there are more differences to a 3 damage Warden
+
+it it hits enemies it is different
+if you have 2 life and it hits you you could heal up before it kills you
+it interacts different with shields
+
+
+[2024/11/02 22:50] d3v0553
+i know that, but it does things that are very similar
+
+
+[2024/11/02 22:51] d3v0553
+its only different in terms of shielding and maybe being able to survive more
+
+
+[2024/11/02 22:51] d3v0553
+i would say that ice warden is much better
+
+
+[2024/11/02 23:11] n.h.l
+New enchantment:
+
+Vampiric,  +3 Cooldown: If you deal at least double damage of the target's remaining HP, heal 1 HP.
+
+
+[2024/11/02 23:20] n.h.l
+maybe not so fun because it encourages stalling
+
+
+[2024/11/03 1:26] double_dot
+lmfaooo I never go there, so it may be engoulfred into water I wouldn't notice :curse:
+
+
+[2024/11/03 1:26] d3v0553
+:curse:
+
+
+[2024/11/03 1:27] voidfulfool
+Yooooo sick
+
+
+[2024/11/03 8:05] n.h.l
+Tile idea:
+
+Name: Kusarigama
+Damage: 2
+Cooldown: 5
+Description: Strike the first target up to 3 cells ahead. Deal double damage if the enemy is about to move this turn.
+
+
+[2024/11/03 8:27] voidfulfool
+Oooo about to move is a new one
+
+
+[2024/11/03 8:27] voidfulfool
+Cool idea! :DD
+
+
+[2024/11/03 9:07] plimboscrimbly
+this seems just a little powerful
+
+
+[2024/11/03 9:12] voidfulfool
+Remember they have to be moving as in turning around or moving back or forth
+
+
+[2024/11/03 9:12] voidfulfool
+I see this being effective against guardians
+
+
+[2024/11/03 9:12] voidfulfool
+Lmao
+
+
+[2024/11/03 9:14] plimboscrimbly
+well yes but the downside to the other tile with this gimmick is you have to actually also make sure you窶决e not getting hit by the action you窶决e punishing, and most enemies including bosses like to move back and forth and enemies moving is typically when you窶决e attacking anyways
+
+
+[2024/11/03 9:14] voidfulfool
+Mhmmm
+
+
+[2024/11/03 9:14] plimboscrimbly
+plus it has range
+
+
+[2024/11/03 9:15] voidfulfool
+Yea I can see the downsides now lol
+
+
+[2024/11/03 9:15] plimboscrimbly
+it also works against ||corrupted soul|| unlike the other tile i forget the name of
+
+
+[2024/11/03 9:30] voidfulfool
+Oh lol
+
+
+[2024/11/03 9:31] voidfulfool
+The uhhhh
+
+
+[2024/11/03 9:31] voidfulfool
+Sai
+
+
+[2024/11/03 9:31] voidfulfool
+Ye ye
+
+
+[2024/11/03 10:28] thefloralhurrikale
+Guy managed to make Sai but better in every way
+
+
+[2024/11/03 11:02] voidfulfool
+lol
+
+
+[2024/11/03 13:08] blazier7673
+elite trait: life steal
+if the enemy kills a enemy it gets +1hp
+hp gain doesn't go above max hp
+1 hit to the player (not on a sheild) = +1hp
+
+
+[2024/11/03 13:45] voidfulfool
+This would totally mess up combos for us players
+
+
+[2024/11/03 13:46] voidfulfool
+Lmao
+
+
+[2024/11/03 14:47] voidfulfool
+Combo shop skill, combos shield
+
+3 kill combo just like combos heal
+
+
+[2024/11/03 14:47] voidfulfool
+More broken skills to add to that shop lol
+
+
+[2024/11/03 18:11] dragon_of_celts
+New Enemy idea:
+**Kappa** 
+3 HP (+2 HP on Day 5+), can be found near Moonlit Port, the Hot Springs, and Ieyasu's Garden
+Tiles: Torrential Push (see below), Torrential Pull (see below), Mirror
+
+Torrential Push and Torrential Pull target like Yumi Sniper's Volley, but push or pull the target toward or away from the caster, respectively. The damage of each starts at 1, and increases by 1 with every miss, but resets when a target (intended or not) is hit. They may also cause collision damage from the push or pull.
+
+Kappa prefer to remain behind other enemies, and will use Mirror (and movement) to affect such, if possible. If Mirror is queued and the destination side of the board will no longer hide them, they will not remove it from their queue, but will not execute it without also queuing an attack. 
+
+If there are no enemies between Kappa (or Kappa's destination, if Mirror is equipped) and player, and they cannot move behind an enemy with Mirror (and movement), Kappa will use Torrential Push to try to keep player away (and maybe collide with an enemy on the far side from the player). If there is an enemy between Kappa and player, he will use Torrential Pull to try to make player collide with an enemy between him and the player. 
+
+Special passive attribute: Every time a tile damages (or vanquishes) Kappa, its cool down increases by 1 (for the remainder of the area; will revert to normal upon leaving the area). No effect on tiles with max cool down.
+
+
+[2024/11/03 21:08] d3v0553
+seems like a pretty cool idea, but tbh, this also seems like a bunch of ideas mashed into one.
+
+imo, if this just did the push/pull mechanic without the passive ability, it could get better
+
+
+[2024/11/03 23:10] d3v0553
+new player idea:
+
+**The Dancer**
+
+Unlocked by beating Sato the Stagemaster under the first act, the dancer gracefully moves from tile to tile, most benefitting from dancing skills.
+
+**Ability**: Since I'm planning to add this player as a mod/edit in the game, and I don't want to code in and add new abilities, her ability in-game would be the Jujitsuka's ability. If I were to implement a special ability, it would be:
+*Move into an enemy to swap toss it if there's an empty cell behind. Then, dash as far as possible, dealing 1 damage to a target if present.* (damage works with Dyanmic Boost)
+
+**Main Deck**: Charge, Twin Tessen
+**Second Deck**: Back Charge, Nagiboku
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1302636030167486555/Dancer.png?ex=6a165297&is=6a150117&hm=f0cdb209cd62ca8221d6ef39e0226c1223c93453b8e4bbc6d90efb1f8c85ff5e&
+
+
+[2024/11/04 0:23] d3v0553
+(also, the trickster gets Back Shadow Dash + Katana as her secondary deck instead of Back Shadow Dash + Twin Tessen, since Tessen fits the dancer better)
+
+
+[2024/11/04 0:39] n.h.l
+first region with only Twin Tessen and the Ability could be very sluggish (very low damage output)
+
+
+[2024/11/04 1:11] apokalypse6
+Second deck is probably even worse than first deck, since the only way to kill enemies is through back charge. I would rather include shadow dash, as it fits way better with nagiboku. This would also fix the second special move, as it cant even reliably clear bosses (same problem as shadows special, but even worse)
+
+
+[2024/11/04 1:12] d3v0553
+on second thought, im probably just going to keep the first ability as a hypothetical ability
+
+
+[2024/11/04 1:13] apokalypse6
+I dont know about special move having damage.
+
+
+[2024/11/04 1:13] d3v0553
+i'm currently trying to not use the same tiles over again and again for making it more unique, so coming up with tilesets is getting a lil difficult
+
+
+[2024/11/04 1:13] apokalypse6
+Without it it would actually be a pretty creative ability
+
+
+[2024/11/04 1:13] d3v0553
+aah, do you think i should remove the damage, then?
+
+
+[2024/11/04 1:14] d3v0553
+btw, ronin and jujitsuka deal damage with their abilities
+
+
+[2024/11/04 1:14] apokalypse6
+Thats collision damage
+
+{Reactions}
+漕
+
+[2024/11/04 1:14] apokalypse6
+Not pure damage
+
+
+[2024/11/04 1:14] d3v0553
+yeah, but its still damage. when are you really going to use ronin's ability defensively aside from getting away from guardians or yari masters?
+
+
+[2024/11/04 1:16] d3v0553
+(btw, these tiles are created in the thought for both the new and the older jujitsuka's abilities)
+
+
+[2024/11/04 1:16] d3v0553
+i gave her twin tessen since it would fit her thematically, but on second thought, maybe she could get katana/sword instead?
+
+
+[2024/11/04 1:18] d3v0553
+In the case for the throw ability, i would say the second deck would be alright, since you could go for back charge and/or nagiboku and throw to kill with collision dmg
+
+
+[2024/11/04 1:20] d3v0553
+btw, ik that sharing the same tilesets would probably not match up with different abilities, but im trying to make the tilesets fit both abilties rn, so that there wouldnt be too many tilesets to make/deal with
+
+
+[2024/11/04 1:21] d3v0553
+but yeah, if you have any tilesets that would fit gameplay-wise and thematically, suggest them
+
+
+[2024/11/04 1:29] d3v0553
+while i think abt how to improve the dancer hero, here's an idea for an enemy that i've not thought a design for:
+
+**Karma Bringer** or something like that
+
+Appearance: first at moonlit port
+hp: 2 (3 if elite, 4 from day 5+, 5 from day 5+ and elite)
+
+Traits: none
+
+Tiles: Karma
+While this tile is in the attack queue, the attacker absorbs all damage. After getting hit once, this tile transforms into a shuriken with damage equal to damage taken.
+
+Behavior: this enemy faces the player, and keeps the karma tile on its queue forever. once it gets hit, it gets ready to attack
+
+
+[2024/11/04 1:39] apokalypse6
+You do know Karma is the name of a skill already
+
+
+[2024/11/04 2:57] n.h.l
+but because there is the "Damaging Move" skill, it wouldnt be too strange
+why not a Character with this Ability:
+
+Can inflicts 1 damage to an enemy in front of him by moving forward.
+
+
+[2024/11/04 2:57] voidfulfool
+Bro is a true yapper
+
+{Reactions}
+curse
+
+[2024/11/04 3:05] d3v0553
+since my yapping truly never stops, here's the final dancer idea:
+
+Ability: The Jijutsuka's Throw OR
+*If there's an empty cell aheadd, swap toss the enemy behind and dash as far back as possible.* (though this ability is mostly an after-thought)
+
+Main deck: Charge, Spear
+Secondary deck: Nagiboku, Sharp Turn
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1302695102111547473/Dancer.png?ex=6a16899b&is=6a15381b&hm=b5187e48181c8c3d6b821b3e6a9fe8b7ec81d69e16b4c79c5754bf34ea3811ac&
+
+
+[2024/11/04 3:06] apokalypse6
+Idk why you changed it to dash as far back instead of forward
+
+
+[2024/11/04 3:06] d3v0553
+...cuz it swaps the target ahead...?
+
+
+[2024/11/04 3:07] apokalypse6
+Then how can there be a empty cell behind?
+
+
+[2024/11/04 3:07] d3v0553
+(mb, i didnt word it properly)
+
+
+[2024/11/04 3:07] apokalypse6
+No collision dmg, right?
+
+
+[2024/11/04 3:08] apokalypse6
+nvm im dumb, everything good
+
+{Reactions}
+curse
+
+[2024/11/04 3:08] voidfulfool
+Bro is the chosen one, coming up with new characters every few hours
+
+
+[2024/11/04 3:08] voidfulfool
+Bruhhhh
+
+
+[2024/11/04 3:09] d3v0553
+this is what i do instead of focusing in math class hehehe
+
+
+[2024/11/04 3:09] voidfulfool
+Get this man a mod maker-
+
+
+[2024/11/04 3:09] voidfulfool
+YOU
+
+
+[2024/11/04 3:09] voidfulfool
+GET OUT!!!!
+
+
+[2024/11/04 3:09] d3v0553
+are u my math teacher in disguise or smth
+
+
+[2024/11/04 3:09] voidfulfool
+Yea.
+
+
+[2024/11/04 3:09] voidfulfool
+https://tenor.com/view/getou-gif-26727299
+
+{Embed}
+https://tenor.com/view/getou-gif-26727299
+https://images-ext-1.discordapp.net/external/MqQbVHYIY3-J5TH7gFszqOacQtq-K1ohqRhLHF530oE/https/media.tenor.com/MdDxgJFwwE8AAAAe/getou.png
+
+
+[2024/11/04 3:09] d3v0553
+nooo
+
+
+[2024/11/04 3:09] n.h.l
+I think something with flipping would fit a dancer, maybe:
+
+Can flip an enemy in front of him by moving forward
+
+
+[2024/11/04 3:10] d3v0553
+that was the original idea, but that funks up with trickster's bo
+
+
+[2024/11/04 3:10] d3v0553
+(im creating all of these characters - reaper, trickster, dancer, etc. etc. - in context to each other)
+
+
+[2024/11/04 3:10] voidfulfool
+lol
+
+
+[2024/11/04 3:10] voidfulfool
+Nice
+
+
+[2024/11/04 3:11] n.h.l
+Bo is a tile, but this would be the ability
+
+
+[2024/11/04 3:11] n.h.l
+trickster has a dice ability, right?
+
+
+[2024/11/04 3:11] d3v0553
+yes
+
+
+[2024/11/04 3:12] d3v0553
+but having the same sort of technique to dodge attacks is something i want to avoid
+
+
+[2024/11/04 3:12] d3v0553
+imagine both shadow and ronin having smoke bomb, it would be not fun, imo
+
+
+[2024/11/04 3:12] d3v0553
+even tho, hypothetically, it would be great
+
+
+[2024/11/04 3:13] d3v0553
+also, flip as an ability with enemies like shadow charger or grappler would completely counter them :curse:
+
+
+[2024/11/04 3:13] n.h.l
+so does the swap of the wanderer?
+
+
+[2024/11/04 3:14] d3v0553
+yea, but they play different enough, imo. using wanderer's swap is much more dangerous than smoke bomb, especially since smoke bomb has range
+
+
+[2024/11/04 3:14] d3v0553
+bo and a flip special ability would literally be the same
+
+
+[2024/11/04 3:15] n.h.l
+there are many ability and tile overlaps already
+
+
+[2024/11/04 3:15] d3v0553
+that is not a problem that i have, the problem i have are multiple heroes having similar synergies
+
+
+[2024/11/04 3:16] d3v0553
+attack evasion and making enemies hit each other is something im trying to make a trickster-exclusive thingy
+
+
+[2024/11/04 3:16] d3v0553
+(although it would thematically fit dancer)
+
+
+[2024/11/04 3:16] n.h.l
+I think a flip ability is simple and feels like could already be part of the base game
+
+
+[2024/11/04 3:17] d3v0553
+it definitelyy could
+
+
+[2024/11/04 3:17] d3v0553
+but dancer is not one of them (currently)
+
+
+[2024/11/04 3:18] voidfulfool
+THE AMERICAN
+
+ABILITY TO SHOOT A GUN WHEN PRESSING FORWARD ON A ENEMY
+
+
+[2024/11/04 3:18] voidfulfool
+BAM
+
+
+[2024/11/04 3:18] voidfulfool
+WE窶儚E SO BACK LOL
+
+
+[2024/11/04 3:18] d3v0553
+YES
+ｦ・ｦ・
+
+
+[2024/11/04 3:18] d3v0553
+'MURICA!!
+
+
+[2024/11/04 3:18] voidfulfool
+LETSGOOOOOOOOO
+
+
+[2024/11/04 3:21] da_dogbar
+Starting decks: 
+Tanegashima and Tanegashima
+AK-47 and Crossbow
+
+
+[2024/11/04 3:21] voidfulfool
+LMAOOOO
+
+
+[2024/11/04 3:21] voidfulfool
+FR FR
+
+
+[2024/11/04 3:22] voidfulfool
+THE NEXT DAY STARTS IN AMERICA OF MILITARY SHOWDOWN!!!
+
+
+[2024/11/04 3:24] n.h.l
+do you make a Character with a focus on cards or other Consumables?
+
+
+[2024/11/04 3:25] voidfulfool
+I have an idea
+
+
+[2024/11/04 3:25] voidfulfool
+I窶冦 thinking out side the box
+
+
+[2024/11/04 3:26] voidfulfool
+New character has long cooldown of 5, but can make self shield therefore no damage inflicting skills or curse and such from dancer shop
+
+
+[2024/11/04 3:26] voidfulfool
+This also makes them get a new key bind to use this passive
+
+
+[2024/11/04 3:26] voidfulfool
+AM I COOKING OR AM I BURNING THE KITCHEN????
+
+
+[2024/11/04 3:27] da_dogbar
+Mouse only users crying in the corner
+
+
+[2024/11/04 3:27] voidfulfool
+BAHAHAHAHHAUA
+
+
+[2024/11/04 3:34] n.h.l
+Character: Duel Master
+
+Starts with a random card
+
+Ability: Uses the effect of a random card he has on an enemy in front of him without consuming it by moving forward.
+
+
+[2024/11/04 3:34] voidfulfool
+Ooo nice
+
+
+[2024/11/04 3:35] voidfulfool
+Question is if there are multiple cards, which one will he use?
+
+
+[2024/11/04 3:35] voidfulfool
+All of them? Or a random?
+
+
+[2024/11/04 3:35] n.h.l
+random
+
+
+[2024/11/04 3:36] voidfulfool
+Damn
+
+
+[2024/11/04 3:36] n.h.l
+he has to believe in the heart of the Cards
+
+
+[2024/11/04 3:36] voidfulfool
+The chance to get curse card means you get hit
+
+
+[2024/11/04 3:36] voidfulfool
+LMAO
+
+
+[2024/11/04 3:40] n.h.l
+his starting tiles:
+Trap and Mon
+
+
+[2024/11/04 3:44] voidfulfool
+Crazy窶ｦ
+

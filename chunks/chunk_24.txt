@@ -1,0 +1,347 @@
+﻿I love this idea
+
+
+[2026/01/19 13:49] apokalypse6
+It introduces another way to get money other than combo coin, and gives shields a reason to break, not just sit around waiting for a hit
+
+
+[2026/01/19 14:20] thefloralhurrikale
+10 coins for infinite money?!?!!
+
+
+[2026/01/19 14:21] thefloralhurrikale
+Hell yeah, this will go nicely with my fortress for my no hit runs.
+
+
+[2026/01/19 14:21] rdfish
+hmm
+
+
+[2026/01/19 14:21] thefloralhurrikale
+Makes a profit after just 2 battles
+
+
+[2026/01/19 14:21] rdfish
+actually I just realized
+
+
+[2026/01/19 14:21] rdfish
+you can make chargers give you 81 coins on day 1 :curse:(with reactive shield)
+uh maybe it could grant just 2 coins upon collection
+
+another additional way to balance it could be limiting it to activate once/twice per battle, skill level # would be repurposed to indicate remaining activations instead
+
+
+[2026/01/19 14:21] thefloralhurrikale
+､・
+
+
+[2026/01/19 14:22] thefloralhurrikale
+Even Day 7 lol, Chargers still only do 1 damage there.
+
+
+[2026/01/19 14:22] thefloralhurrikale
+Though I guess the 5 max HP does slow it down a little bit
+
+
+[2026/01/22 6:14] apokalypse6
+Omfg not again 剌
+
+
+[2026/01/23 11:59] uilexam
+real
+
+
+[2026/01/23 12:00] uilexam
+its the same scam every time too
+
+
+[2026/01/24 18:28] evabi
+so if i made a conlang for this, for no reason whatsoever...
+even though its set in japan
+
+
+[2026/01/24 21:38] apokalypse6
+Might be dumb, but what is conlanging?
+
+
+[2026/01/24 21:51] da_dogbar
+a conlang is a constructed language
+
+
+[2026/01/24 21:51] da_dogbar
+basically a made up language
+
+{Reactions}
+総
+
+[2026/01/25 5:34] that_one_err0r
+Ooo nice! I love conlangs. I've made so many of them. Do you have a writing system for it?
+
+
+[2026/01/25 6:37] evabi
+I don't have many writing systems, the most I've really done is that one sinolang I did with another person
+
+
+[2026/01/25 6:38] evabi
+And I think canonically, they usually wrote with hair strands (which was hard to read, but really easy to do because they'd usually soak them), but carved into animal bones as a prestige way to communicate through far distances?
+
+
+[2026/02/01 12:53] rdfish
+**Meditative** - Tile Enchantment
+竅ｨ竅ｨ竅ｨ竅ｨ竅ｨ竅ｨ竅ｨ```ansi
+[2;31m[0m-5 CD   [2;31mMinimum CD increased to 1, leftmost tile of this type replenishes CD through waited turns.
+[0m
+
+```竅ｩ竅ｩ竅ｩ竅ｩ竅ｩ竅ｩ竅ｩ竅ｩ竅ｩ竅ｩ竅ｩ
+Compatible with all other enchants except for freeplay.
+Unmentioned: Utilizes CD voids.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1467367297286012948/MeditativeExample.png?ex=6a166aca&is=6a15194a&hm=da5ce958096ca5000b06bc41d4063450ab1209320f2358e6e034f0678b075c07&
+
+{Reactions}
+櫨
+
+[2026/02/01 12:53] rdfish
+Edit: Dangit I put the tile activation in the wrong order :curse::curse::curse::curse::curse:
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1467367349786116258/meditativeDemo.webm?ex=6a166ad6&is=6a151956&hm=eb85c636a16311f8f9f56b86787b492c7245415ae5019117b02b6dafc671db41&
+
+{Reactions}
+櫨 (2)
+
+[2026/02/01 12:59] rdfish
+Voids: A tile attribute that is visible outside of combat, voids will cancel out CD increments above the minimum when upgrading, CD decrements below the minimum get stored as voids.
+
+I guess maximum # of stored voids would be 7 on a Meditative enchanted tile, and 8 if it were to be enabled on a regular tile.
+Attached are examples of a regular tile with 3 voids, and a Meditative tile with 3 voids
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1467368629539700757/VoidExample1.png?ex=6a166c07&is=6a151a87&hm=1f0cbb57529902bc9fa294184375250693b511ee9641c0496521e03f2d3ce759&
+https://cdn.discordapp.com/attachments/965176630588882954/1467368629933838438/VoidExample2.png?ex=6a166c07&is=6a151a87&hm=adc00ddaeaeca3bfed0f5f75b7f3d961790a4fa06df68fc54e160a5f84789035&
+
+
+[2026/02/01 13:49] rdfish
+*Interacts with Mindfulness/Combo Recharge/Perfect Strike in the same manner as a regular tile
+
+
+[2026/02/03 4:03] thefloralhurrikale
+What's the interaction with normal tiles? Do they both recharge at the same time?
+
+
+[2026/02/03 6:43] rdfish
+doesn't interact, both types function independently
+
+
+[2026/02/03 6:45] rdfish
+the part where only the leftmost recharges is just a feature pertained to the Meditative system to balance out having multiple, so that each is equally a commitment instead of having the replenish value of each wait action be essentially multiplied when they're all on cooldown
+
+
+[2026/02/03 6:47] rdfish
+main effect of the meditative enchant is the downside of only being able to cooldown tiles of this type after a wait action
+
+
+[2026/02/03 11:30] miasma1
+i feel like it could use more cooldown reduction because tiles enchanted by it are affected by upgrades that add cooldown to a more relevant degree
+
+
+[2026/02/03 11:31] miasma1
+what if it adds innate void slots as part of its upside? maybe like +4 void along with -4 cd
+
+
+[2026/02/03 11:37] miasma1
+so it doesn't immediately make a tile much more spammable, but insures that it won't become quickly debiliated by upgrades that add to the cd
+
+
+[2026/02/03 12:27] rdfish
++voids on its own for an upgrade would be pretty unique, yeah that may be a better way to further utilize the negative CD system for the enchant
+
+
+[2026/02/06 17:03] rdfish
+**Finesse** (20 coins, appears in Dancer Shop): Gain a random movement tile. Gained tile starts out with 0 upgrade slots.
+**Attuning** (15 coins, appears in any shop): +25% chance of upgrades being enchants, can re-enchant without incrementing cooldown or depleting upgrade slots.
+**Transmute** (15 coins, appears in any shop): When you skip an upgrade, add an upgrade slot to two random tiles.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1469242166650863748/tilebasedSkills.png?ex=6a16a565&is=6a1553e5&hm=93a2ac7a15bc2cf2bc78f889d4068a4f265d9f706e43a58e027607a695abcb2b&
+
+{Reactions}
+轟
+
+[2026/02/06 17:20] rdfish
+\*All skills are limited to 1 level
+\*Attuning allows the replacement of tile enchants without CD additions upon subsequent re-enchant, yes that allows you to do stuff like enchant with shockwave -> then re-enchant with doublestrike to avoid +3 CD, as for freeplay I'm not sure if it should count along with the upon-hit enchants, would be nice if it could enable & be affected by CD/upgrade slot nullification as well
+\*Transmute doesn't activate on the same tile twice or upon a tile with max upgrade slots already
+
+
+[2026/02/06 17:58] apokalypse6
+Transmute would fit better into the astronomer shop, like feather and scale
+
+
+[2026/02/06 17:59] apokalypse6
+and maybe recolor Attuning to fit with big bags and rogue retails colors
+
+
+[2026/02/06 17:59] apokalypse6
+Imagine a build where you get as many empty up[grade slots as possible cuz they synergize with another skill... +1 damage for each 2 empty upgrade sklots or smth
+
+
+[2026/02/07 3:53] normalizednoob
+Finesse looks like a banana so I窶冦 eating finesse :>
+
+
+[2026/02/07 3:53] normalizednoob
+Really cool ideas!!!!
+
+
+[2026/03/29 12:21] rdfish
+Tile variants thread
+
+
+[2026/04/12 11:24] rdfish
+bad idea
+
+
+[2026/04/12 11:24] rdfish
+https://tenor.com/view/ip-grabber-ip-grabber-thanos-gif-21846609
+
+{Embed}
+https://tenor.com/view/ip-grabber-ip-grabber-thanos-gif-21846609
+https://images-ext-1.discordapp.net/external/MIQruJO-m5aCrvnGO3DkzCQlvtlFKFNC_8OnFTQO70w/https/media.tenor.com/P25kOmeH3qQAAAAe/ip-grabber-ip-grabber-thanos.png
+
+
+[2026/04/23 20:01] another_ralsei
+after beating day 7 the first time, the credits should be auto skipped
+
+
+[2026/05/23 8:18] tsarbeliever
+Ozutsu (starting damage 5, starting cooldown 7)
+Shoot through 2 enemies, with the second enemy recieving half the damage (rounded down). Essentially, you fire it at 2 enemies, the first recieves 5 damage and the second recieves 2 damage.
+
+Bohiya (starting damage 0, starting cooldown 6)
+Shoot at an enemy, and detonate on contact with the enemy (same explosion as warden and suisei). Damage upgrades don't effect explosion, only initial hit. 
+
+Based off of the following weapons:
+
+https://en.wikipedia.org/wiki/Bﾅ・hiya
+https://en.wikipedia.org/wiki/ﾅ慧zutsu
+
+
+[2026/05/23 8:26] tsarbeliever
+I am going to try and mod these in, but I want general suggestions on how these can be balanced.
+
+
+[2026/05/23 8:53] apokalypse6
+5 starting damage is too high, consider dropping it to 3/4
+
+
+[2026/05/23 8:53] apokalypse6
+Probably 3, 4 would still be too much, this would make crossbow obsolete
+
+
+[2026/05/23 8:54] robot093
+Also does the bohiya detonate around the enemy or on the tile in front of them
+
+
+[2026/05/23 8:54] robot093
+I think 0 dmg 6 cooldown is kinda much for just an explosion you窶决e gonna have to avoid anyway
+
+{Reactions}
+漕
+
+[2026/05/23 8:55] apokalypse6
+Its probably on the same tier as blazing suisei
+
+
+[2026/05/23 8:55] robot093
+Ok that makes sense
+
+
+[2026/05/23 10:50] tsarbeliever
+I think that that is fair. I would like to make something though that has a different effect to the tanegashima, and properly represents the idea of an odzutsu cannon, which was a massive musket. otherwise, i was thinking if maybe it could become like the barrier (ie a stationary object that you somehow interact with) and have some massive damage potential but be really slow.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1507561368923013242/tumblr_o49f2oPHuY1rwjpnyo4_640.png?ex=6a164def&is=6a14fc6f&hm=d54a2297335c512360fd8e99592d2b663a9c8612e87584a2328595cc1c3fcc8d&
+
+
+[2026/05/23 10:52] tsarbeliever
+(this would make the bohiya probably absolete)
+
+
+[2026/05/24 9:55] tsarbeliever
+sprite ideas, based on image above.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1507909755992277042/image.png?ex=6a1640e5&is=6a14ef65&hm=91e97ded278ba7e3ec75037b07cbb71cef5b063f9f357a949f1b3dfe469d9e51&
+
+{Reactions}
+櫨 (3)
+
+[2026/05/24 10:07] miasma1
+epic
+
+
+[2026/05/24 10:51] uilexam
+*pulls whole cannon out of ass*
+
+
+[2026/05/24 10:52] uilexam
+ngl this should make you recoil ALL of the way back
+
+
+[2026/05/24 12:45] tsarbeliever
+I was thinking of making it have massive recoil, but I窶冦 worried that even though there is effectively 2.6.2 damage (4 damage plus guaranteed explosion) I was worried that if I make it both that you have to wait a turn to fire from when you hit attack and that there is recoil then it wouldn窶冲 be worth it. Thoughts?
+
+
+[2026/05/24 13:47] dragon_of_celts
+Considering it would take longer to reload a bohiya than a crossbow, maybe have it need other tiles to "feed" it (e.g., requires at least 4 CD on another tile(s?) to fire it, which would be unreadied when the bohiya is used. Of course, then the question becomes "how to determine what tiles get unreadied when it is fired", the answer to which could vary from "randomly" (not ideal) to "you have to put it in your queue before the bohiya" (which would also slow the firing process, and effectively reduce your queue size when using the bohiya)).
+
+
+[2026/05/24 14:30] tsarbeliever
+While I do think that that might be better, generally speaking, I don't want the tiles to be too complex as I'm not a great coder and I want the tiles to not have too many features so that I can later make more. My general plan is to start out with this odzutsu (7 cooldown, 4 dmg + explosion, and you are essentially locked into firing it for 1 turn bc it only fires the turn after you attack). That will help me get some more experience. I don't want to make it too powerful, but I also don't want to make it not worth it.
+
+
+[2026/05/26 11:38] rdfish
+**Sleight** (12 coins, appears in Combo Shop or Dancer Shop, max lvl. 1): When your queue is full of tiles descending in cooldowns (bottom to top), the top tile remains after use.
+**Overture** (8 coins, appears in Combo Shop or Warring Shop, max lvl. 1): When your queue is full of tiles ascending in cooldowns (bottom to top), +2 DMG to the bottom tile.
+-# Note: The effects from either skill are removed if the tiles are rearranged so that they no longer fulfill the activation criteria.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1508660521866629201/queueOrderBasedSkills.png?ex=6a165919&is=6a150799&hm=2db0fd8fc079de7debcd3450fe01f350934df3858f08c101be60ca157d8ce9e4&
+
+
+[2026/05/26 11:38] rdfish
+Sleight demo:
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1508660549905547304/SleightDemonstration.webm?ex=6a165920&is=6a1507a0&hm=9d2201cbb5cf69e813b7e02b748ecdd51a314fc278ed255a267bf706ebd35829&
+
+
+[2026/05/26 11:38] rdfish
+Overture demo:
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1508660583803781200/OvertureDemonstration.webm?ex=6a165928&is=6a1507a8&hm=7fea1aa38308d184fc6dc8d595ee12422a564ae0292e4148b13db1e1a7faf0a3&
+
+{Reactions}
+櫨
+
+[2026/05/26 11:39] uilexam
+wait that border effect is so cool
+
+
+[2026/05/26 11:40] uilexam
+ngl stuff like that (temp buffs on tiles from skills) should totally be in the base game
+
+
+[2026/05/26 11:40] uilexam
+i love it
+
+{Reactions}
+総
+
+==============================================================
+Exported 10,362 message(s)
+==============================================================

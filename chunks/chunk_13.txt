@@ -1,0 +1,2000 @@
+﻿I窶囘 have to see it in action to form a final opinion but it窶冱 got potential
+
+
+[2024/06/23 19:14] dieuwt
+Void enchantment: also deals 1 damage to a random, non-targeted enemy
+
+
+[2024/06/23 19:15] apokalypse6
+sounds like a skill
+
+
+[2024/06/23 19:15] apokalypse6
+evry time you attack with a tile, do 1 damage to any other random target
+
+
+[2024/06/23 19:15] dieuwt
+sounds a bit too powerful/random as a skill
+
+
+[2024/06/23 19:15] dieuwt
+but maybe
+
+
+[2024/06/23 19:26] da_dogbar
+maybe it could go in a pattern
+
+
+[2024/06/23 19:26] da_dogbar
+like
+
+
+[2024/06/23 19:26] apokalypse6
+WAIT
+
+
+[2024/06/23 19:26] apokalypse6
+maybe it has all the buffs, but it activates automatically
+
+
+[2024/06/23 19:26] apokalypse6
+like, it auro plays
+
+
+[2024/06/23 19:27] da_dogbar
+at first it deals damage to the enemy with the highest hp, then the furthest, then the one with least hp, then the closest and then it repeats
+
+
+[2024/06/23 19:27] da_dogbar
+that seems pretty cool
+
+
+[2024/06/23 19:27] apokalypse6
+Your enchantement
+
+
+[2024/06/23 19:28] da_dogbar
+i know
+
+
+[2024/06/23 19:28] apokalypse6
+im,agine
+
+
+[2024/06/23 19:28] apokalypse6
+kunai
+
+
+[2024/06/23 19:28] apokalypse6
+just get into a corner lol
+
+
+[2024/06/23 20:13] dieuwt
+we just need more characters
+
+
+[2024/06/23 20:13] dieuwt
+and i still havent figured out how to mod the game
+
+
+[2024/06/23 20:13] dieuwt
+just installing unity cheat engine?
+
+
+[2024/06/23 20:16] apokalypse6
+no
+
+
+[2024/06/23 20:16] apokalypse6
+@Rot
+
+
+[2024/06/23 20:16] apokalypse6
+Please Explain it to our fella :)
+
+
+[2024/06/23 20:16] dieuwt
+i am googling it
+
+
+[2024/06/23 20:16] apokalypse6
+oh no youre not gonna get far
+
+
+[2024/06/23 20:16] apokalypse6
+#笏modding笞・
+
+
+[2024/06/23 20:16] dieuwt
+>links to a thread explaining mods currently do not work
+
+
+[2024/06/23 20:25] dieuwt
+correct, there is nothing about this i understand
+
+
+[2024/06/23 20:25] dieuwt
+ah well
+
+
+[2024/06/23 20:26] apokalypse6
+Youre gonna need visual studio
+
+
+[2024/06/24 8:46] the_rot_bot
+@Dieuwt Hey, hope you're doing well. If you're interested in getting started making mods you might look at some of the messages me and Fumiko had about when they started making mods. Here's the link: https://discord.com/channels/965169818309369858/1124351030025535650/1191212394794459186
+
+I hesitate to really make anything concrete concerning the "right" way to make them as we might as a community switch to a different mod loader likely after full release.
+
+If you have questions don't hesitate to shoot me a message in #笏modding笞・or DM me if that would be more comfortable.
+
+
+[2024/06/24 9:55] dieuwt
+i *would*, but i dont have the time to actually learn something completely new right now
+
+
+[2024/06/24 9:55] dieuwt
+in August I'll get some time, if you can manage to make a stable-ish mod loader by then I could give making some simple stuff a shot
+
+
+[2024/06/24 9:55] dieuwt
+i do have funny ideas for weapons/characters but i've never even touched unity so
+
+
+[2024/06/24 15:50] apokalypse6
+You dont need unity
+
+
+[2024/06/24 15:50] apokalypse6
+Ubity modloader is not unity
+
+
+[2024/06/24 15:50] apokalypse6
+Youll just need visual studio
+
+
+[2024/06/24 15:50] dieuwt
+sure but it still requires C++ code
+
+
+[2024/06/24 15:51] apokalypse6
+Visual studio
+
+
+[2024/06/24 15:51] dieuwt
+and an understanding how the game works in general
+
+
+[2024/06/24 15:51] apokalypse6
+Its not that hard
+
+
+[2024/06/24 15:51] apokalypse6
+If rot could teach me how to make a mod, you can too
+
+
+[2024/06/24 15:58] Deleted User
+Nobunaga's fortress boss
+"Disfigured by many of Nobunaga's trials in pursuit of a reliable method to reanimate deceased as his followers. Though initially subservient, Nobunaga dulled their instinct once their former vigor began to return."
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1254692085915844618/meiji1.png?ex=6a169610&is=6a154490&hm=8c4eba670e7de9175e82731b0afb0af47a87648c21f86ed706b0fdab41291df4&
+
+{Reactions}
+櫨 (4)
+
+[2024/06/24 15:58] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1254692110364311594/meiji2.png?ex=6a169616&is=6a154496&hm=a4bfa4aec20ada0dbe09c59087ef6c41d3a95c0ecdbc25d1fbe05cc5f3170501&
+
+
+[2024/06/24 15:58] Deleted User
+Regular stats: 45 HP, Has Unfreezable
+Regular behaviour:
+- Upon starting the fight, attempts to place a Snare behind them
+- If attacked, pursue player while queuing a Snare, try to land a spear attack on the player
+Then continue to repeat the following in order
+- Move in any direction where there is a cell with no Snare and try to place a Snare there, if they are attacked窶廃ursue player while queuing a snare & try to land a Earth Impale or Shadow Kama attack
+- If they can send the player on top of a Snare, queue and use Mirror Bolt/Superposition
+- Often, queue and use Summon, summons Guardians or Ashigarus, if they are attacked窶杯ry to land a spear attack on the player.
+- Sometimes, queue either snare, grappling hook窶俳r snare, turn around, snare
+
+Corrupted stats: 38 HP, Has Quick, Unfreezable
+Corrupted behaviour:
+- Upon starting the fight, pursue player while queuing a Snare, try to land a spear attack on the player
+- If attacked, attack then queue and use corrupted wave, queue and use point of origin, queue and use corrupted wave of same direction as previous corrupted wave
+Then continue to repeat the following in order
+- Move/Dash to a space with no snares adjacent while queueing Snare, Turn Around, Snare. If attacked窶妊ash into player, queue and use spear regardless of whether or not player is in range, then queue and use Snare, Turn Around, Snare
+- Often, queue and use Mirror Bolt/Superposition, queue mirror first if they are obstructed and attack.
+- Often, queue and use Summon, sometimes queue double strike summon. Summons guardians or Ashigaru or Yari Masters
+- If Mirror Bolt/Superposition causes player to end up within 3 tiles in front of them, queue and use corrupted wave, queue and use point of origin, queue and use corrupted wave of same direction as previous corrupted wave
+
+
+[2024/06/24 15:59] Deleted User
+Regular Dialogue:
+". . .Permit my peace.", "Peculiar place. . . ", "Meiji. . . a legacy.", "Head empty. . .", ". . . My slumber ceases."
+
+Corrupted Dialogue:
+"Lost in time, bound by duty."
+
+
+[2024/06/24 15:59] Deleted User
+Snare (unobtainable) - Place a snare in the cell directly ahead. Snares trigger upon the next turn when the player steps on them.
+- Prongs on the snare extend and move apart when the player steps on them to indicate they will trigger on the next turn
+- Doesn't stack, the original snare is instantly triggered when a another one is placed in the same tile as it
+Potential obtainable Snare version could function as a trap but last for three turns. When a snare is placed on the ground, it loses one of its three prongs each turn to show how many turns it has left.
+
+Mirror Bolt - Target directly ahead will be mirrored on the grid.
+
+Superposition - Teleport target directly ahead to the central cell in the grid
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1254692313352110080/Meiji_Tiles.png?ex=6a169646&is=6a1544c6&hm=7078a7bbf961f51cfb53210dd30dc22461592257859d310340247fbf6af54934&
+
+
+[2024/06/24 20:24] apokalypse6
+Hey wtf this is great! The art is wonderful, especially the tiles
+
+
+[2024/06/24 20:55] apokalypse6
+Ok, I red this rn, and I think its a great idea
+
+
+[2024/06/24 23:54] robot093
+This is a sick boss idea wtf
+
+
+[2024/06/24 23:54] robot093
+This is crazy
+
+
+[2024/06/24 23:55] robot093
+And a good idea too
+
+
+[2024/06/24 23:55] robot093
+The art is amazing
+
+
+[2024/06/24 23:56] da_dogbar
+im loving the two freeplay tile concepts
+
+
+[2024/06/24 23:56] da_dogbar
+this is sick
+
+
+[2024/06/25 0:49] Deleted User
+ty
+
+
+[2024/06/25 4:23] da_dogbar
+btw shouldn't the corrupted version have more hp?
+
+
+[2024/06/25 4:24] thefloralhurrikale
+Was thinking this too
+
+
+[2024/06/25 4:24] thefloralhurrikale
+Especially since Day 5 buffs HP
+
+
+[2024/06/25 4:24] apokalypse6
+I think the corrupted version is way harder
+
+
+[2024/06/25 4:24] apokalypse6
+idk
+
+
+[2024/06/25 4:24] apokalypse6
+wait wth
+
+
+[2024/06/25 4:24] apokalypse6
+corrupted bosses dont gain or loose hp
+
+
+[2024/06/25 4:24] thefloralhurrikale
+Simple solution would just be to have the base HP be 38 and the Day 5+ HP be 45
+
+
+[2024/06/25 4:25] thefloralhurrikale
+This
+
+
+[2024/06/25 4:25] thefloralhurrikale
+Otherwise, this is an incredible idea.
+
+
+[2024/06/26 4:08] da_dogbar
+would be sick if some bosses could have some sort of ultimate attack, where they can queue like 10 tiles in their queue
+
+
+[2024/06/26 4:08] da_dogbar
+but only once
+
+
+[2024/06/26 5:41] robot093
+Visually that wouldn窶冲 work
+
+
+[2024/06/26 5:42] robot093
+But if it was a single tile I can see it happening
+
+
+[2024/06/26 5:42] apokalypse6
+similar to shoguns corrupted barrage ig
+
+
+[2024/06/26 5:42] robot093
+Yea
+
+
+[2024/06/27 14:52] Deleted User
+could add a lot of depth to bossfights if players needed to avoid it through timing
+
+ex iwao does an Earth Tremor tile every 9 turns, with turns before the attack indicated under the boss, where cells surrounding the original earth impale get impaled as well
+
+
+[2024/06/28 0:23] robot093
+This entire game is avoiding things through timing lol
+
+
+[2024/06/28 0:24] robot093
+But I see what ur saying
+
+
+[2024/06/28 0:24] robot093
+Like an attack that auto triggers every 9 turns
+
+
+[2024/06/28 0:24] robot093
+Without a tile
+
+
+[2024/06/28 0:25] robot093
+Interesting idea, idk how it would translate into the game
+
+
+[2024/06/28 0:29] thefloralhurrikale
+It would need to be an ability that can be read with the help tab.
+
+
+[2024/06/28 0:29] thefloralhurrikale
+And I'm against the idea in general
+
+
+[2024/06/28 0:43] da_dogbar
+maybe something like a tile that just makes the boss do his attack queue multiple times?
+
+
+[2024/06/28 1:58] robot093
+Yea I have no clue
+
+
+[2024/06/28 1:58] robot093
+This wasn窶冲 my idea lol
+
+
+[2024/06/28 2:01] robot093
+I still don窶冲 know if it would work that way because the attack queue only has 3
+
+
+[2024/06/28 2:01] robot093
+I was thinking it would be more like shoguns corrupted barrage, where it just hits a lot of squares
+
+
+[2024/06/28 2:01] apokalypse6
+small icon beside the boss that gets charged would work for the attack.
+
+
+[2024/06/28 2:01] apokalypse6
+but it should be a one time only mechanic, for a alt boss
+
+
+[2024/06/28 2:02] apokalypse6
+This one
+
+
+[2024/06/28 2:02] apokalypse6
+Like, the attack could maybe damage all fields in a direction
+
+
+[2024/06/28 9:10] Deleted User
+the icon could also tell the player what the boss will do once it fills if they hover over it
+
+
+[2024/06/29 7:02] godsunit
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1256369111923953744/Screenshot_20240628_164208_YouTube.jpg?ex=6a16c12a&is=6a156faa&hm=d1b99ee38fd8f38aede4b1b3445b48412f071e453a5e5ba2ad8fb019e768815c&
+
+
+[2024/06/29 8:14] robot093
+New character: the kisai (translates to prodigy or wizard)
+
+Ability: Godai 窶・use the randomly selected ability shown by the staff. After use, switch staff element to a random element that has not been used yet. After all elements have been used, queue a random element to staff and reset all other abilities to unused. 
+Gust (wind) 窶・turns around all enemies in front of him by moving forward
+Anchor (earth) 窶・strikes the enemy in front of him by moving forward, dealing one damage and pushing the enemy back one tile (possibly dealing collision damage). Gain stoneskin (cannot be moved) for 2 turns. 
+Flow (water) 窶・can flow through enemies in front of him by moving forward (shadow dash).
+Rush (fire) 窶・can dash backward and strike the first target behind (1 damage) by moving forward.
+Strike (void) 窶・strikes the first cell ahead by moving forward (2 damage). On crit, reset ability cooldown. 
+
+Tiles: katana + shuriken; swirl + mirror
+Unlock: obtain all stamp masteries with a single character. 
+More information: the Godai is the Japanese 5 elements.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1256387164883783790/Screenshot_2024-06-28_153425.png?ex=6a16293a&is=6a14d7ba&hm=598eea450674eb34352094e8d4a60066cf222c301750f16d6958aa08dce21f53&
+
+
+[2024/06/29 8:14] robot093
+sry for my bad art
+
+
+[2024/06/29 8:15] robot093
+basically a character whose ability is always changing
+
+
+[2024/06/29 8:15] godsunit
+Interesting idea
+
+
+[2024/06/29 8:16] godsunit
+Reminds me of Nico Minoru from marvel snap
+
+
+[2024/06/29 8:18] apokalypse6
+nice idea, combining ronin, shadow and some other abilities is really interesting
+
+
+[2024/06/29 21:40] da_dogbar
+what does on crit mean
+
+
+[2024/06/29 21:40] da_dogbar
+you mean on kill?
+
+
+[2024/06/29 22:47] robot093
+Yea mb
+
+
+[2024/06/29 23:10] robot093
+4cd btw
+
+
+[2024/06/30 7:12] the_talha
+OH SHIT
+
+
+[2024/06/30 19:15] apokalypse6
+Got a Idea while playing the binding of isaac: What if bosses have champion forms? They would function similarily to elites, but on bosses. The binding of isaac for example has lets say a boss that can either shoot or summon, and a champion form of him could change his summons, his attack, or basic stats like hp for size, or vise versa, etc. Imagine the twins could have a champion form which would make them only one, or maybe kowa who can attack with a sword but only summons 1 enemy instead of 2. Think of the possibilities! (Champion types of bosses in isaac are mostly portrayed through colour palette swaps, so maybe the boses could have white masks, or smth.)
+
+
+[2024/06/30 19:37] da_dogbar
+uhh
+
+
+[2024/06/30 19:37] da_dogbar
+corrupted bosses
+
+
+[2024/06/30 19:37] apokalypse6
+did you even read it
+
+
+[2024/06/30 19:37] apokalypse6
+corrupted forms are advanced forms of bosses
+
+
+[2024/06/30 19:37] apokalypse6
+champions would be mre interesting ones
+
+
+[2024/06/30 19:38] apokalypse6
+you would know what Im talking about if you knew tboi
+
+
+[2024/06/30 19:40] hadron6646
+Prob suggested already,
+Boss rush mode fight only bosses and other bosses may spawn between fight depending on turns. Before the fight starts you have a set amount of currency which can be used for upgrades items etc before the fight
+
+
+[2024/06/30 19:42] da_dogbar
+so just
+
+
+[2024/06/30 19:43] da_dogbar
+alternate bosses
+
+
+[2024/06/30 20:07] apokalypse6
+no
+
+
+[2024/06/30 20:07] apokalypse6
+kowa could get a tile that lets him attack more discretly, but he can summon less troops, basically a elite with a downside
+
+
+[2024/06/30 20:07] apokalypse6
+it will make it more diverse
+
+
+[2024/06/30 20:08] da_dogbar
+so just sidegrades of bosses
+
+
+[2024/06/30 20:08] apokalypse6
+what
+
+
+[2024/06/30 20:08] da_dogbar
+they get something new but lose something
+
+
+[2024/06/30 20:08] apokalypse6
+yeah, or smth else fun
+
+
+[2024/06/30 20:08] apokalypse6
+like less hp
+
+
+[2024/06/30 20:08] apokalypse6
+or there are two of them
+
+
+[2024/06/30 20:08] da_dogbar
+iii meaaaan
+
+
+[2024/06/30 20:08] apokalypse6
+tf you mean alt bosses?
+
+
+[2024/06/30 20:09] apokalypse6
+Rei is completly different from dai
+
+
+[2024/06/30 20:09] apokalypse6
+omfg
+
+
+[2024/06/30 20:09] da_dogbar
+yeah nah i was joking this time
+
+
+[2024/06/30 20:09] da_dogbar
+its alternate bosses on a budget
+
+
+[2024/06/30 20:10] apokalypse6
+play isaac
+
+
+[2024/06/30 20:10] da_dogbar
+i might
+
+
+[2024/06/30 20:12] apokalypse6
+Cant find a good vid of the champions
+
+
+[2024/06/30 20:14] apokalypse6
+The first clip is a champion form of that worm
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1256930921974857819/20240630-1113-28.8810440.mp4?ex=6a162964&is=6a14d7e4&hm=03d9471cd55a9daaf9706459c0e7d2238f622dff20cf648b9c4b34ad2da5269c&
+https://cdn.discordapp.com/attachments/965176630588882954/1256930922310140026/20240630-1114-09.6560922.mp4?ex=6a162964&is=6a14d7e4&hm=f2d87b3da90ef3c5b1542d5f0b378954017ef73b0536ca02e57fb6958fd25a1b&
+
+
+[2024/06/30 20:14] apokalypse6
+See now what I mean
+
+
+[2024/07/01 16:12] dieuwt
+this has probably been suggested before, but i'd love more game modes. could be activated one by one, or all at once? via like colored flames or whatever. for example:
+- blue: you and all enemies have 1 hp. bosses have halved health
+- red: instead of 6, you end up with 9 tiles (3 upgrades replaced with tiles)
+- yellow: income is doubled but consumables no longer drop
+- green: traverse EVERY area in a set order
+- purple: all tiles are always enchanted with Perfection but have 7 cooldown
+- white: all playing fields are 9 tiles large
+- black: after every boss, you are forced to randomize 2 tiles
+
+
+[2024/07/01 16:16] dieuwt
+basically, something to spice runs up. things that are fun, not necessarily balanced. think enter the gungeon blessed/cursed/rainbow/turbo/challenge mode
+
+
+[2024/07/01 16:17] apokalypse6
+Blue seems extremely strong
+
+
+[2024/07/01 16:17] apokalypse6
+Most people dont get damaged in runs anyways
+
+
+[2024/07/01 16:18] apokalypse6
+Red and green together is crazy combo
+
+
+[2024/07/01 16:18] dieuwt
+especially on higher difficulties, it's very *very* hard to do hitless. but yeah if everyone's 1 health, kunai just gets op
+
+
+[2024/07/01 16:18] apokalypse6
+I personally domt take dmg on day 6
+
+
+[2024/07/01 16:18] dieuwt
+you'd need to balance all of these to make sense, but it's about the general idea, yeah?
+
+
+[2024/07/01 16:18] apokalypse6
+Yellow is cool
+
+
+[2024/07/01 16:18] apokalypse6
+A bit op
+
+
+[2024/07/01 16:19] dieuwt
+i just want run variety ok :(
+
+
+[2024/07/01 16:19] apokalypse6
+Purple is... Eh
+
+
+[2024/07/01 16:19] apokalypse6
+White is cool, idk how that would work spawn wise
+
+
+[2024/07/01 16:19] apokalypse6
+Especially on the small fast spawning ones
+
+
+[2024/07/01 16:19] dieuwt
+better get a ranged weapon
+
+
+[2024/07/01 16:20] apokalypse6
+Black is fun
+
+
+[2024/07/01 16:20] apokalypse6
+Warriors gamble twice after boss
+
+
+[2024/07/01 22:13] the_talha
+How about one that's kinda like pandoras box in sts where your starting tiles get randomized (double gun go crazy)
+
+
+[2024/07/03 2:52] definitelynotajojoreference
+Idea: A tile that's the only one you can enchant twice. Got the idea from Elden Ring and others where people have two swords, one fire and one ice. Probably dumb but something I thought about.
+
+
+[2024/07/03 7:39] Deleted User
+what if you are allowed to enchant something twice but with the same enchantment
+
+much less art needed to be made
+
+
+[2024/07/03 7:41] Deleted User
+- double strike -> triple strike (self explanatory - Costs 2 upgrade slots instead of 1)
+- shockwave -> tremor (shockwaves deal 2 dmg - Costs 2 upgrade slots instead of 1)
+- freeze -> frostbite (additionally curses when freezing - Reduce tile dmg by 1)
+- poison -> plague (plagued target additionally infects adjacent enemies with POISON, not plague, - per turn (refreshes their poison duration when proc'd as well) - Increase tile cd by 2)
+- perfect strike -> finisher (any killing blow refills) or execution (tile is also refilled if the enemy is left on 1 hp) - Reduce tile dmg by 2 or 1
+
+
+[2024/07/03 7:45] Deleted User
+further inc CD or reduce dmg along with enchantment if needed for balancing
+
+
+[2024/07/03 8:15] robot093
+Honestly this would be incredibly hard to balance but super fun
+
+
+[2024/07/03 8:15] robot093
+If it was on certain tiles I can see it possibly happening
+
+
+[2024/07/03 8:15] robot093
+But this would just be so broken lol
+
+
+[2024/07/03 8:16] robot093
+But some of these could be turned into skills
+
+
+[2024/07/03 8:16] robot093
+Like frostbite works amazingly as a skill
+
+
+[2024/07/03 8:17] robot093
+But some of the other ones are just too broken
+
+
+[2024/07/03 14:03] definitelynotajojoreference
+Is there a Naginata tile?
+
+
+[2024/07/03 14:04] definitelynotajojoreference
+If not what about one that does first a slash in the front tile with then a yari-style pierce
+
+
+[2024/07/03 17:11] hisc0re07
+no not yet
+
+
+[2024/07/03 17:11] hisc0re07
+like a double attack?
+
+
+[2024/07/03 17:12] hisc0re07
+im not sure i understand what you mean by that im sorry
+
+
+[2024/07/03 17:12] hisc0re07
+naginata rocks i really wanna see it in the game but idk how it would work that isn't just a spear
+
+
+[2024/07/03 18:35] dragon_of_celts
+It does not appear that naginata were used to pierce like a spear, so they should function different anyway.
+
+
+[2024/07/03 23:34] Deleted User
+backwards spear attack?
+
+
+[2024/07/03 23:34] Deleted User
+animate a spin then pierce first two tiles behind
+
+
+[2024/07/03 23:39] definitelynotajojoreference
+Like combine the Katana with the Spear tile and that's what I mean. First a slash to the space in front of you, then pierce the two in front
+
+
+[2024/07/03 23:43] apokalypse6
+finisher is the most broken thing ever
+
+
+[2024/07/03 23:43] apokalypse6
+yes there is
+
+
+[2024/07/03 23:44] apokalypse6
+IT IS
+
+
+[2024/07/03 23:51] definitelynotajojoreference
+Maybe I'm blind lol or I don't play the right character. Can you share it?
+
+
+[2024/07/03 23:53] Deleted User
+attacks first two tiles front and behind
+nvm it was nabo-smthing
+
+
+[2024/07/04 0:00] apokalypse6
+thats bo
+
+
+[2024/07/04 0:00] apokalypse6
+no its not added yet
+
+
+[2024/07/04 0:02] definitelynotajojoreference
+Oooooooooooh okay then. I'll wait anxiously for it O_O
+
+
+[2024/07/04 0:02] apokalypse6
+itll release very soon
+
+
+[2024/07/07 4:34] apokalypse6
+Idea: Maybe special challenges you can do to unlock tiles and skills or maybe even alt bosses, etc. Actually, maybe they could be enabled instead, and beating a boss with one enabled will bring + 1 Skull? Maybe more coins? I dont know, there are many options!
+Here are some I came up with (The unlock conditions are just ideas... ig?):
+- 2fast4u: All enemies and bosses have quick witted. Unlocked After beating Day 2
+- Rock without Roll: All enemies are heavy. Unlocked After beating Day 2
+- Sniper Showdown: Snipers appear way more frequently, higher hance to be elite. Unlocked after beating Baru
+- Untrained: You cant use Special Move. Always Unlocked
+- The best Offense is Defense: Warring Shops are replaced by Guarding Shops. Damage upgrades appear extremely rarely. Unlocked after shielding 50 hits (through shield potions)
+- Become a Sniper!: You start with a 2 dmg volley and signature move. You are the wanderer. (Only works as a challenge) Unlocked after killing 200 Snipers
+- No Limits: Enemies can have multiple elite statuses. Unlocked after bating day 2 with all characters
+- More types: Enemies have 1-2 random traits. This could include something like dasher, explosive or even aggro. No diea for a unlock tbh
+
+{Reactions}
+笨・
+
+[2024/07/07 6:11] da_dogbar
+make it so that you can toggle multiple at onxe
+
+
+[2024/07/07 6:11] da_dogbar
+and add an achievement for doing 5+ at once
+
+{Reactions}
+・
+
+[2024/07/07 7:25] dackid
+Rock w/o roll sounds terrifying!
+
+
+[2024/07/07 7:26] dackid
+These do all sound like they'd tweak with the gameplay a lot! I'm definitely interested!
+
+{Reactions}
+・
+
+[2024/07/09 6:55] vanilvanil
+2 ideas for one use tiles that are created by specific tiles. kindoff like putting a combo in 2 parts.
+
+Example one, origin of symmetry could give you a freeplay turn around tile while it's on the stack?
+
+
+or maybe playing certain tiles gives you follow up tiles to be used at later points in the game, example:
+
+How about explosive tag tile, if it successfully hits on an opponent, it doesn't explode, but you get a detonate tile that allow you to safely blow up the tagged enemy later in the game ?
+
+
+[2024/07/09 7:32] robot093
+Just make it like crossbow
+
+
+[2024/07/09 7:32] robot093
+Or have two separate tiles (mark and detonate)
+
+
+[2024/07/09 7:32] robot093
+Interesting idea for oos
+
+
+[2024/07/09 7:37] Deleted User
+tile production concept seems interesting, a damaging tile that has freeplay on default, gives you multiple options to follow up after usage
+
+
+[2024/07/09 7:43] Deleted User
+this could be a way to make yumi sniper's tile be controllable without adding new controller inputs
+
+
+[2024/07/09 7:45] vanilvanil
+i like the idea of tileset changing mid fight, seems like it could create more dimensions of gameplay
+
+
+[2024/07/09 7:53] dragon_of_celts
+Sniper tile could target a different enemy based on its queue position (and it could put "dummy" tiles in as needed, if they aren't already filled (that could subsequently be covered by another tile if you decide to add a tile to previous position or swap them around)): 1st position for the first ahead, 2nd position for the next, etc.
+
+
+[2024/07/09 8:56] dieuwt
+Divine Wrath
+Use to Hex next enemy in line, swaps to Smite
+Smite 
+Deal 5 damage to any Hexed enemy, swaps to Divine Wrath
+
+
+[2024/07/09 8:56] dieuwt
+Base 5 damage and 4 cooldown
+
+
+[2024/07/09 9:08] dieuwt
+If the hexed enemy dies in another way, it just do nothin'.
+
+
+[2024/07/09 9:09] dieuwt
+Also, double strike, instead of hexing and immediately smiting, hexes the next two enemies. They are both smitten at once.
+
+
+[2024/07/09 9:10] Deleted User
+:curse:
+
+
+[2024/07/09 9:11] Deleted User
+ranged tetsubo
+
+
+[2024/07/09 9:11] dragon_of_celts
+You have to hit them twice, though, and it fails if they die in-between.
+
+
+[2024/07/09 9:12] dragon_of_celts
+Well, not exactly "hit them twice", since they can swap away and you can still hit them the second time, but you have to cast it twice.
+
+
+[2024/07/09 9:13] dieuwt
+it would work great on bosses
+
+
+[2024/07/09 9:17] dragon_of_celts
+You have to have a direct line to them in order to Hex them, which means you could hit them with something else just as easily. It is in effect a delayed strike, which could potentially be useful in some limited scenarios (Hexing a Warden, Smite when other enemies are near them; Smite with Shock, maybe), but I don't see how it would be better than a direct hit in most cases...
+
+
+[2024/07/09 9:47] Deleted User
+thought about giving it tile production for marking multiple enemies simultaneously but it becomes too similar in spirit to trap tile gameplay
+
+
+[2024/07/09 9:52] Deleted User
+tiles using the concept of requiring multiple usages for one blow needs more mechanics for it to be differentiated from just doing the same with multiple non-delayed attacks
+
+
+[2024/07/09 9:55] Deleted User
+however, these guaranteed-hit tiles could become much more desirable if more enemies had capabilities to prevent more attacks, such as ieyasu swapping with their cloudy looking thing
+
+
+[2024/07/09 10:21] Deleted User
+I do see that it works quite well for preparing combos though
+
+maybe this tile could solely be offered by the combo shop so the player can purchase synergies along with it?
+
+
+[2024/07/09 14:33] apokalypse6
+C4
+
+
+[2024/07/09 14:51] dieuwt
+not very samurai, but I dig it
+
+
+[2024/07/09 19:38] vanilvanil
+5 damage 4cool down seems pretty mid already, giving it ranged but making it take 2 casts is not a good trade imo, what's the tactical bonus of using this 2 turn tile?
+
+
+[2024/07/09 19:38] dieuwt
+we need more 2 turn tiles tbh, there's only crossbow
+
+
+[2024/07/09 19:39] dieuwt
+ig you could turn the damage into 6 or 7 but then it'd be a bit... strange to be such a damage outlier
+
+
+[2024/07/09 19:39] dieuwt
+considering the highest base damage tile is 4
+
+
+[2024/07/09 19:39] dieuwt
+well 5 if you could mon ig
+
+
+[2024/07/09 19:41] vanilvanil
+2 casts is a massive debuff, action economy is incredibly important in this game. but also, at a certain point more damage becomes less and less useful as it only helps with elites and bosses.
+
+I think any 2 cast combo should have a straight benefit (like explosive / detonator) or enemy manipulation
+
+
+[2024/07/09 19:42] dieuwt
+maybe enemies while Hexed have some sort of thing going on? like being frozen or fleeing from you
+
+{Reactions}
+ｧ
+
+[2024/07/09 19:43] vanilvanil
+idea: swap tag.
+
+0 damage free play(?) tile, when you hit an enemy, this tag transforms into a free play teleport tag. As long as that enemy is alive, you can switch positions with them using the second tile. when the tagged enemy dies the tile resets. great for bosses and long fights maybe?
+
+
+[2024/07/09 19:43] dieuwt
+originally i was thinking instakill for... well, anything. but that doesn't work with bosses
+
+
+[2024/07/09 19:44] vanilvanil
+maybe 5 damage but while they're tagged they have a mind control debuff or something. so they're your minion that you can delete at any time? then high damage high cool down makes sense and it also makes sense why you wouldn't want to cast it as one move
+
+
+[2024/07/09 19:44] dieuwt
+the maximum health any enemy can have is 8 (5 base health, 7 on day 5+, +1 for elite). having an instakill *option* would be powerful for these enemies alone, but how you balance that?
+
+
+[2024/07/09 19:45] vanilvanil
+doesn't work on bosses maybe?
+
+
+[2024/07/09 19:45] dieuwt
+in this case you could just hex one enemy and make them kill everyone else, which is a cool idea but should be somewhere else
+
+
+[2024/07/09 19:45] vanilvanil
+i don't know if exceptions are cool though
+
+
+[2024/07/09 19:45] dieuwt
+yeah, it'd need to be like "deal set 5 damage" or whatever
+
+
+[2024/07/09 19:45] vanilvanil
+well no because you'll ve surrounded mostly, and maybe he gets hit?
+
+
+[2024/07/09 19:46] dieuwt
+enemies never hit each other, it would require a pretty significant change to AI i think
+
+
+[2024/07/09 19:46] vanilvanil
+i meant mind controlling a boss would be op
+
+
+[2024/07/09 19:46] vanilvanil
+I'm just the idea guy ､ｷ窶坂凰・・
+
+
+[2024/07/09 19:47] dieuwt
+this would also work as a separate thing
+
+
+[2024/07/09 19:47] dieuwt
+1 damage hit tag, then swap with hit enemy
+
+
+[2024/07/09 19:47] dieuwt
+so you can bait another enemy, from a distance, to attack you
+
+
+[2024/07/09 19:49] vanilvanil
+sure, but having it as 2 pieces allows you to swap with a strong enemy multiple times
+
+
+[2024/07/09 19:49] dieuwt
+here's another one: Decoy (freeplay)
+move 1 tile back, set a 1 health Decoy in your place. fails when you can't move backwards
+
+
+[2024/07/09 19:49] dieuwt
+needs more finetuning but i want to be able to place decoys
+
+
+[2024/07/09 19:53] vanilvanil
+i feel like that will mostly get used as a move tile, but also it would be super useful against those freaking grappling hook guys
+
+
+[2024/07/10 21:05] apokalypse6
+Idea: Tile Effect (Like free play) that makes your tile not consume a turn. So if you play it, it wont pass a turn
+
+
+[2024/07/10 21:13] vert_vert
+how would that work if you played a tile without turn pass and a tile with turn pass at the same time?
+
+
+[2024/07/10 21:15] apokalypse6
+it would pass a turn
+
+
+[2024/07/11 3:20] da_dogbar
+give each character one *freaky* alternate deck thats just very gimmicky
+
+
+[2024/07/11 3:20] da_dogbar
+like 2x special move for ronin or smth
+
+
+[2024/07/11 3:21] apokalypse6
+lol why not
+
+
+[2024/07/11 3:22] da_dogbar
+or volley and special move for wanderer
+
+
+[2024/07/11 14:26] chapples4
+Honestly, make it mirror instead. I窶况e found in my obsessive amount of volley wanderer runs, it窶冱 far too easy if you get cursing move, mirror makes it require a lot more thought and it窶冱 how I窶况e started doing volley challenges and it窶冱 made me think things through more and made it a lot more interesting.
+
+
+[2024/07/12 1:19] roboatino
+Hey! I'm considering adding an attack pattern or two to the second phase of the Shogun fight. Do you have some ideas?
+Ideally:
+- the patterns should be avoidable if you have a basic toolset and know the patterns
+- stick to the "1 vs 1 duel" vibe of the fight
+- stick mostly to the current attack tiles set
+Comment in the thread:spin:
+
+
+[2024/07/12 5:04] apokalypse6
+Dumb idea: Free play tile, no damage value, 2 cooldown.
+Name: Fishing Hook
+Grappling hook but without damage, could be used in some attacks to allow pulling and dealing all dmg in one. This would destroy reactive shield builds >:)
+
+
+[2024/07/12 8:02] da_dogbar
+idea
+Cursed Illusion
+25 gold dancer shop skill
+Whenever you move, leave behind a shadow of yourself where you moved from for 1 turn. If an enemy hits the shadow, but not you, they get cursed. Get cursed at the beginning of each turn.
+
+
+[2024/07/12 9:52] robot093
+This sounds way op
+
+
+[2024/07/12 9:52] robot093
+Maybe only after movement tiles or special moves?
+
+
+[2024/07/12 9:53] robot093
+It messes with the ai of literally every enemy lol
+
+
+[2024/07/12 9:53] robot093
+And it destroys all close range enemies
+
+
+[2024/07/12 9:54] robot093
+Also no one is taking that much damage so the debuff doesn窶冲 matter
+
+
+[2024/07/12 15:29] da_dogbar
+how so?
+
+
+[2024/07/12 16:37] robot093
+Like this would have to be factored into the enemy so
+
+
+[2024/07/12 16:37] robot093
+*ai
+
+
+[2024/07/12 16:38] robot093
+Right now, there is only one target they have to attack
+
+
+[2024/07/12 16:38] robot093
+Change that, and the enemy ai might have to be reworked
+
+
+[2024/07/12 16:57] da_dogbar
+its not a target for enemies
+
+
+[2024/07/12 16:57] da_dogbar
+its not even a physical object
+
+
+[2024/07/12 17:13] robot093
+Oh that makes more sense
+
+
+[2024/07/12 17:13] robot093
+I thought it was like a decoy that enemies tried to attack
+
+
+[2024/07/12 17:14] robot093
+What if an enemy and an illusion share a cell?
+
+
+[2024/07/12 18:00] da_dogbar
+The illusion just dissapears
+
+{Reactions}
+総
+
+[2024/07/13 0:49] apokalypse6
+*Bro this isnt closed beta chat*
+
+
+[2024/07/13 5:41] apokalypse6
+Idea: Could we get a small variation between the shop themes? Like for warring a quiet drum and a bass could play with the theme while for guarding a flute could play...? Just small changes would be really cool to see :P
+
+
+[2024/07/14 0:38] hisc0re07
+.,.,.....,,,,...,,.,.
+
+
+[2024/07/14 0:38] hisc0re07
+i know what i want to work on next ....
+
+{Reactions}
+亠
+
+[2024/07/14 1:10] chapples4
+1% chance for guarding shop to play weezer
+
+
+[2024/07/14 3:10] hisc0re07
+HAHAAAD;SLFKJ
+
+
+[2024/07/14 3:31] ice_cold_icer
+New skills:
+Adrenline Rush: +1 damage for each enemy about to attack. As in their attack queue is yellow.
+
+
+[2024/07/14 3:35] ice_cold_icer
+Wretched Fate: All your attacks inflict curse. Start combat cursed and become cursed every 4 turns.
+
+
+[2024/07/14 3:59] chapples4
+That's actually pretty cool
+
+
+[2024/07/14 3:59] chapples4
+but this is far too over powered
+
+
+[2024/07/14 4:00] apokalypse6
+yeah
+
+
+[2024/07/14 4:00] apokalypse6
+We mostly dont even get hit anyway, so its basically a reward for good players
+
+
+[2024/07/14 4:04] apokalypse6
+oh and not to forget... uhh... something
+
+
+[2024/07/14 4:05] apokalypse6
+I cant say anything out here but you two know what I mean
+
+
+[2024/07/14 4:12] ice_cold_icer
+Not sure if this skill would work considering how it would be non-functional on day 1 but...
+Known Presence: Doubles spawn rate of elite enemies. All elite enemies will drop a coin.
+
+
+[2024/07/14 4:14] ice_cold_icer
+Wretched Fate V2: All your attacks inflict curse. Your hp is capped at one and can no longer gain shield.
+
+
+[2024/07/14 4:56] chapples4
+This sounds more like a challenge rather than a skill, which personally I'd love there to be challenges like this to be added.
+
+
+[2024/07/14 4:57] apokalypse6
+feels very "isaac-ish" which I love
+
+
+[2024/07/14 4:58] apokalypse6
+Yeah agreed, Idk about ti being a skill
+
+
+[2024/07/14 4:58] double_dot
+Day 1 most useless skill be like
+
+
+[2024/07/14 4:58] chapples4
+Still better than shield retention.
+
+
+[2024/07/14 4:59] double_dot
+shield retention? more like fart retention
+
+
+[2024/07/14 4:59] apokalypse6
+ayo mirko said its good
+
+
+[2024/07/14 4:59] double_dot
+jokes aside shield retention is good with reactive shield
+
+
+[2024/07/14 4:59] double_dot
+litterally doubles your life
+
+
+[2024/07/14 5:00] chapples4
+Or
+
+
+[2024/07/14 5:00] chapples4
+Simply don't get hit
+
+
+[2024/07/14 5:00] chapples4
+(great advice I know)
+
+
+[2024/07/14 5:00] apokalypse6
+Overrides that skill where you get shield at the beginning, literally useless with it
+
+
+[2024/07/14 5:00] double_dot
+me on my way to run you @Monomancist  over with a truck (don't get hit)
+
+
+[2024/07/14 5:00] apokalypse6
+Rework: Shield retention allows for double shields 根
+
+{Reactions}
+笨・
+
+[2024/07/14 5:01] chapples4
+Would a truck naturally have the heavy elite effect?
+
+
+[2024/07/14 5:01] double_dot
+can't smoke bomb this one
+
+
+[2024/07/14 5:01] apokalypse6
+where would origin of symmetry bring you?
+
+
+[2024/07/14 5:02] apokalypse6
+to the core of the earth?
+
+
+[2024/07/14 5:02] double_dot
+at the opposite of where you're looking
+
+
+[2024/07/14 5:02] double_dot
+not the opposite
+
+
+[2024/07/14 5:03] apokalypse6
+whats witrh mirror
+
+
+[2024/07/14 5:03] double_dot
+oh yeah that's mirror mb
+
+
+[2024/07/14 5:04] apokalypse6
+so whats with origin
+
+
+[2024/07/14 5:05] apokalypse6
+would it just put you into your mothers womb?
+
+
+[2024/07/14 5:05] apokalypse6
+hol up tile idea
+
+
+[2024/07/14 5:05] apokalypse6
+teleports you to the tile you have been on 3 turns ago
+
+
+[2024/07/14 5:06] chapples4
+It would take you to the 16th century, where in the 16th century is unknown, as it's very hard to pin point the location of where it was first used.
+
+
+[2024/07/14 5:06] apokalypse6
+What 亊
+
+
+[2024/07/14 5:06] apokalypse6
+thats crazy
+
+
+[2024/07/14 5:06] chapples4
+Symmetry is an old word
+
+
+[2024/07/14 5:07] apokalypse6
+no but what is the middle point of earth
+
+
+[2024/07/14 5:07] chapples4
+Originating from the 16th century
+
+
+[2024/07/14 5:07] apokalypse6
+aha so funny
+
+
+[2024/07/14 5:07] chapples4
+doesn't matter, the earth isn't symmetrical
+
+
+[2024/07/14 5:08] apokalypse6
+I just realised there are only like 8 melee tiles compared to the 20 ranged tiles
+
+
+[2024/07/14 5:09] apokalypse6
+Imagine dashing and missing your target and going on forever into empty vast space 亊
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1261776501590720623/image.png?ex=6a16a6b0&is=6a155530&hm=553de2e27dc6a442c667a58454729796cb9a94d116cd6be60ac593333b020d79&
+
+
+[2024/07/14 5:10] chapples4
+Marth and Lucina's final smash
+
+
+[2024/07/14 5:10] apokalypse6
+Imagine getting cursed, a 2 meter drop would break your bones
+
+
+[2024/07/14 5:10] apokalypse6
+or smth
+
+
+[2024/07/14 5:11] apokalypse6
+Imaging stuff from shogun showdown irl is crazy
+
+
+[2024/07/14 5:20] double_dot
+shogun showdown IRL but you're doing tax evasion and the IRS tries to catch you
+
+
+[2024/07/14 6:07] dieuwt
+laucher:
+deals 7 damage to the next enemy. lose 1 consumable
+
+
+[2024/07/14 6:20] da_dogbar
+also applies the effect of the consumable used
+
+
+[2024/07/14 6:20] da_dogbar
+to the enemy
+
+
+[2024/07/14 6:24] thefloralhurrikale
+So what happens if I throw a health potion?
+
+
+[2024/07/14 6:29] da_dogbar
+deal 7 damage
+
+
+[2024/07/14 6:29] da_dogbar
+heal 3
+
+
+[2024/07/14 6:29] da_dogbar
+doesnt heal if the 7 damage killed
+
+
+[2024/07/14 6:29] da_dogbar
+so just worse for bosses
+
+
+[2024/07/14 6:29] apokalypse6
+what happenes if quick potion is thrown
+
+
+[2024/07/14 6:29] apokalypse6
+does the enemy egt... faster?
+
+
+[2024/07/14 6:29] da_dogbar
+they instantly perform their action
+
+
+[2024/07/14 6:29] apokalypse6
+whats with poison card
+
+
+[2024/07/14 6:30] apokalypse6
+you get poisoned?
+
+
+[2024/07/14 6:30] apokalypse6
+or d6
+
+
+[2024/07/14 6:30] apokalypse6
+dice
+
+
+[2024/07/14 6:30] apokalypse6
+Do you do a unvoluntery action?
+
+
+[2024/07/14 6:31] da_dogbar
+they get poisoned
+
+
+[2024/07/14 6:31] da_dogbar
+they get the effect of the d6
+
+
+[2024/07/14 6:33] apokalypse6
+why thats so dumb, sometimes the potion works as if they would have used it and sometiems as if they did
+
+
+[2024/07/14 6:34] apokalypse6
+so inconsistent
+
+
+[2024/07/14 6:34] apokalypse6
+grrr
+
+
+[2024/07/14 6:47] dieuwt
+just dont do the effect
+
+
+[2024/07/14 6:47] dieuwt
+it only works when you drink it, not when you smash it in someone's face
+
+
+[2024/07/14 6:47] dieuwt
+give people a reason to hoard potions
+
+
+[2024/07/14 6:48] apokalypse6
+its supposed to activate from the enemy
+
+
+[2024/07/14 6:48] apokalypse6
+so a enemy would heal themself for example
+
+
+[2024/07/14 6:48] da_dogbar
+it applies the effect on them, like they are its target
+
+
+[2024/07/14 6:49] dieuwt
+yeah or you could make the ability actually useful and not do that
+
+
+[2024/07/14 6:50] apokalypse6
+7 damage without downsides... I mean mon exists so im fine with it
+
+
+[2024/07/14 6:51] apokalypse6
+remove the inconsistent effect
+
+
+[2024/07/14 6:51] apokalypse6
+and done :)
+
+
+[2024/07/14 6:52] dieuwt
+without downside? it requires a consumable
+
+
+[2024/07/14 6:52] dieuwt
+there's not that many of them especially on day 2+
+
+
+[2024/07/14 6:52] dieuwt
+you can use it like, 2 or 3 times per fight at best
+
+
+[2024/07/14 6:53] dieuwt
+not to mention high cooldown and poor enchantments
+
+
+[2024/07/14 6:53] apokalypse6
+Yeah I meant the effect
+
+
+[2024/07/14 9:36] robot093
+idea: soul tiles
+
+
+[2024/07/14 9:36] robot093
+instead of having a cooldown where they recharge over time
+
+
+[2024/07/14 9:37] robot093
+they recharge with each enemy killed
+
+
+[2024/07/14 9:37] robot093
+(doesnt recharge while in queue)
+
+
+[2024/07/14 9:40] robot093
+give me a few days for proof of concept and this could actually be a rly good idea
+
+
+[2024/07/14 9:40] robot093
+or a rly bad one idk
+
+
+[2024/07/14 9:47] apokalypse6
+if you only have soul tiles, How do you get them charged after you use them once
+
+
+[2024/07/14 9:47] hisc0re07
+NO THAT'S A GTEAT IDEA ACTUALLY
+
+
+[2024/07/14 9:47] hisc0re07
+oh good point
+
+
+[2024/07/14 9:47] apokalypse6
+but ig that would be a fun challenge if challenges get implemented, like watching when you use em
+
+
+[2024/07/14 9:47] thefloralhurrikale
+You get soft locked, simple
+
+
+[2024/07/14 9:47] apokalypse6
+blegh.
+
+
+[2024/07/14 9:48] hisc0re07
+maybe they could have a cooldown too?
+
+
+[2024/07/14 9:48] apokalypse6
+Bro what
+
+
+[2024/07/14 9:48] dragon_of_celts
+You get the enemies to kill each other or kill them with your special action.
+
+
+[2024/07/14 9:48] hisc0re07
+it's cooldown could be more than the max cooldown of a normal one tho
+
+
+[2024/07/14 9:48] hisc0re07
+that's why you would use the soul stuff instead
+
+
+[2024/07/14 9:48] apokalypse6
+what if I dont have any damaging move or there is 1 enemy left
+
+
+[2024/07/14 9:48] hisc0re07
+so like 3 soul cd 15 cd
+
+
+[2024/07/14 9:48] thefloralhurrikale
+8 CD :curse:
+
+
+[2024/07/14 9:48] dragon_of_celts
+Then you did something stupid by only having soul tiles. 凾
+
+{Reactions}
+漕
+
+[2024/07/14 9:49] apokalypse6
+bro not having cooldown was their whoel point
+
+
+[2024/07/14 9:49] hisc0re07
+yeah i mean yeah
+
+
+[2024/07/14 9:49] apokalypse6
+what if im a new player?
+
+
+[2024/07/14 9:49] apokalypse6
+not knowing
+
+
+[2024/07/14 9:49] hisc0re07
+you learn
+
+
+[2024/07/14 9:49] dragon_of_celts
+Git gud.
+
+
+[2024/07/14 9:49] hisc0re07
+yeah
+
+
+[2024/07/14 9:49] hisc0re07
+git gud.
+
+
+[2024/07/14 9:49] hisc0re07
+>:3
+
+
+[2024/07/14 9:49] dragon_of_celts
+Even as a new player, you should be able to read.
+
+
+[2024/07/14 9:49] apokalypse6
+you guys dont realise this cuz you are "good" at the game, but new players cant just "get gud".
+
+
+[2024/07/14 9:50] hisc0re07
+yeah true
+
+
+[2024/07/14 9:50] hisc0re07
+well i think both of those are true
+
+
+[2024/07/14 9:50] apokalypse6
+then why arent all players day 6 on all characters wit hall stamps hm?
+
+
+[2024/07/14 9:50] hisc0re07
+a player should understand, even as a new player, that that would be a bad idea
+
+
+[2024/07/14 9:50] hisc0re07
+and even then getting only soul cd tiles would be hard
+
+
+[2024/07/14 9:50] apokalypse6
+It still shouldnt be fucking possible
+
+
+[2024/07/14 9:50] hisc0re07
+because a starting set would only have one soul cd one at most
+
+
+[2024/07/14 9:50] dragon_of_celts
+For the same reason that I know how to play chess but am not a grandmaster?
+
+
+[2024/07/14 9:50] hisc0re07
+you can sac tiles
+
+
+[2024/07/14 9:51] thefloralhurrikale
+Remember when someone sacrificed their smoke bomb as Ronin and then got soft locked against Nobunaga
+
+{Reactions}
+漕
+
+[2024/07/14 9:51] hisc0re07
+oh
+
+
+[2024/07/14 9:51] hisc0re07
+nvm
+
+
+[2024/07/14 9:51] hisc0re07
+i read taht wrong
+
+
+[2024/07/14 9:51] thefloralhurrikale
+You have to make mechanics to alleviate that
+
+
+[2024/07/14 9:51] apokalypse6
+Exactly, no matter how much you "read", accidents happen
+
+
+[2024/07/14 9:51] hisc0re07
+okay then how about this:
+
+
+[2024/07/14 9:52] hisc0re07
+introduce soul cd with a new characer and a new starting deck, but the soul cd tile would only have 1 scd and the other tile would do damage
+
+
+[2024/07/14 9:52] hisc0re07
+that way you can introduce the mechanic before you can get softlocked
+
+
+[2024/07/14 9:52] apokalypse6
+there will be no new characters
+
+
+[2024/07/14 9:52] hisc0re07
+wait fr?
+
+
+[2024/07/14 9:52] apokalypse6
+I have my ways of knowing that I cant disclose
+
+
+[2024/07/14 9:52] hisc0re07
+:C
+
+
+[2024/07/14 9:52] apokalypse6
+But *lore* is a good way to know
+
+
+[2024/07/14 9:52] thefloralhurrikale
+Unless Mirko decides to work on the game post 1.0 which is highly unlikely
+
+
+[2024/07/14 9:53] hisc0re07
+okay lets just add DLCs or mods ･ｺ
+
+
+[2024/07/14 9:53] apokalypse6
+(atleasdt  for a long time as it would need to have all lore and story changed, and theyd have to be speciual blah blah)
+
+
+[2024/07/14 9:53] dragon_of_celts
+Just wait for Shoguner Showdowner, the sequel.
+
+
+[2024/07/14 9:53] thefloralhurrikale
+Mods are going to be the way for people to explore new ideas
+
+
+[2024/07/14 9:53] hisc0re07
+well i mean, you can always have spin off stories
+
+
+[2024/07/14 9:53] hisc0re07
+you dont have to be *locked down* by lore
+
+
+[2024/07/14 9:54] apokalypse6
+With the new programm @Monomancist is working on, all that save data moding should be easier aswell
+
+
+[2024/07/14 9:54] apokalypse6
+Bro delete that\
+
+
+[2024/07/14 9:54] hisc0re07
+i know nothing :P
+
+
+[2024/07/14 9:55] hisc0re07
+i want more new characters tho :P
+
+
+[2024/07/14 9:55] apokalypse6
+Mod
+
+
+[2024/07/14 9:55] apokalypse6
+ing
+
+
+[2024/07/14 9:55] hisc0re07
+WOAH :D
+
+
+[2024/07/14 9:55] hisc0re07
+does that mean i could make my OWN new characters...?
+
+
+[2024/07/14 9:55] hisc0re07
+:DDD
+
+
+[2024/07/14 9:55] apokalypse6
+uh no
+
+
+[2024/07/14 9:55] dragon_of_celts
+Yeah, I need to mod myself a dalek.
+
+
+[2024/07/14 9:55] apokalypse6
+You dont know what save data modding is?
+
+
+[2024/07/14 9:55] hisc0re07
+idfk
+
+
+[2024/07/14 9:56] hisc0re07
+i could learn
+
+
+[2024/07/14 9:56] apokalypse6
+Boo.
+
+
+[2024/07/14 9:56] hisc0re07
+:(
+
+
+[2024/07/14 9:56] apokalypse6
+Thats what masamune is for
+
+
+[2024/07/14 9:56] apokalypse6
+no complicated shit
+
+
+[2024/07/14 9:56] hisc0re07
+im gonna work on the music idea
+
+
+[2024/07/14 9:56] apokalypse6
+have fun
+
+
+[2024/07/14 9:56] apokalypse6
+maybe you can turn it into a mod sometimes
+
+
+[2024/07/14 10:22] robot093
+there could be a lot of ways to fix this
+
+
+[2024/07/14 10:23] robot093
+maybe the game just doesnt let you have only soul tiles
+
+
+[2024/07/14 10:23] robot093
+like if you try to sacrafice it the game just doesnt let you
+
+
+[2024/07/14 10:23] robot093
+idk just an idea
+
+
+[2024/07/14 10:24] apokalypse6
+I dont like *exceptions* in games, I think something should always somehow have a backup included
+
+
+[2024/07/14 10:24] robot093
+fair
+
+
+[2024/07/14 10:24] apokalypse6
+Something that just makes it no possible to softlock
+
+
+[2024/07/14 10:24] apokalypse6
+Hm... How about using your special move charges the meter by 1?
+
+
+[2024/07/14 10:24] robot093
+that would actually work quite well
+
+
+[2024/07/14 10:25] robot093
+you arent softlocked but just in a really tough spot
+
+
+[2024/07/14 10:25] robot093
+ill get a proof of concept by tmrw (drawing and details)
+
+
+[2024/07/14 10:26] apokalypse6
+Nice
+
+
+[2024/07/14 10:59] Deleted User
+you'd either need to have a separate form of recharge time reduction upgrades or have a another way for CD upgrades to apply as reducing the amount of kills for recharge would have a lot more value in comparison
+
+
+[2024/07/14 11:02] robot093
+Agreed
+
+
+[2024/07/14 11:02] Deleted User
+I'd still keep the regular CD in place but have it require a fewer # of kills
+
+{Reactions}
+総
+
+[2024/07/14 11:02] robot093
+I窶冤l try to balance this crazy idea
+
+
+[2024/07/14 11:31] dieuwt
+Flurry of Punches
+Deal 1 damage to the enemy in front of you for every damage this tile has. last hit deals 1 knockback
+
+
+[2024/07/14 11:31] dieuwt
+basically kunai but melee
+
+
+[2024/07/14 11:49] robot093
+Nunchucks?
+
+
+[2024/07/14 11:49] robot093
+That would be sick to see nunchucks in the game
+
+
+[2024/07/14 11:50] dieuwt
+could also be fun yeah
+
+
+[2024/07/14 11:50] dieuwt
+i would prefer nunchucks to be like
+> 2 damage, reduces all cooldowns by 1
+or something
+
+{Reactions}
+総
+
+[2024/07/14 11:51] dieuwt
+maybe +1 damage for each other tile before it?
+
+
+[2024/07/14 11:52] robot093
+Idk there窶冱 a lot of different tile ideas that still haven窶冲 been implemented yet
+

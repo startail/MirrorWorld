@@ -1,0 +1,2000 @@
+﻿櫨 (2)
+
+[2024/03/31 10:46] seeminglyunrelated
+Single-handed Warrior is similar to the achievement where you can only use your starter tiles
+
+
+[2024/03/31 10:49] eve_7808
+it's true
+
+
+[2024/03/31 10:49] eve_7808
+I won't deny it
+
+
+[2024/03/31 10:50] eve_7808
+now that I think about it, the Dancer shop can unlock the possibility of defeating Shogun with no tiles at all
+
+
+[2024/03/31 10:50] eve_7808
+I'm not sure if anyone has done that before
+
+
+[2024/03/31 11:28] seeminglyunrelated
+that's an interesting challenge run
+
+
+[2024/03/31 11:29] seeminglyunrelated
+although you'd probably have to pass through the shield shop just in case
+
+
+[2024/03/31 18:43] da_dogbar
+a cool idea for a skill would be something like
+Poisoned duration is permanent as long as you maintain eye contact with the enemy
+
+
+[2024/03/31 18:43] da_dogbar
+could be pretty funny to use
+
+
+[2024/03/31 20:37] dragon_of_celts
+I like the Toxic Clouds idea, but freeze is so strong as it is (and certain things are immune to it *because* it is so strong) that I think Frostbite shouldn't extend duration *or* make immune enemies even slightly vulnerable to its stun. I would rather Frostbite include a damage value with freeze that *would* affect otherwise freeze-stun immune enemies (it would also be more in tune with the name, IMO -- wait, I see you have that as a separate thing: "Heated Fragility"). 
+I want to say that %-chance stuff is not something that this game goes for (which I like), but I'm not entirely certain that there aren't any other %-chance things in the game off the top of my head... Oh, except the "can drop a card" thing (and incoming enemies)... So, I'm not sure if Zapping Bolt or Chain Effect would be something implemented. Anyway, as I wrote somewhere else on this discord (someone made a suggestion for an upgrade that makes the Shock enhancement do more damage), I would prefer an upgrade that increased the potential jump distance from each character hit to be able to affect the next one. 
+Do you mean that enemies take damage *when you Curse them*, or that they take a little extra damage from getting hit while they are Cursed (besides the double damage; I initially thought the latter, but now I'm thinking you meant the former)? 
+For Chain Effect, I'm assuming that Kunai or Meteor Hammer, for example, do not qualify, because they do not hit multiple enemies "at  once" (unless you mean "in a single attack" (or more accurately, "from a single attack tile")?), correct?
+
+
+[2024/03/31 22:06] seeminglyunrelated
+but if you look away it instantly ends? Even if it's not done it's usual three turns?
+
+
+[2024/03/31 22:56] da_dogbar
+basically the duration is frozen when youre doing it
+
+
+[2024/03/31 22:56] da_dogbar
+so for example if you start eye contact when it still has 2 turns it will last for 2 turns after you stop
+
+
+[2024/04/01 11:46] eve_7808
+1. you're right, I should tone back the Frostbite a bit, so it doesn't freeze the immune enemies
+2. %-chance was meant to balance certain things, otherwise they would be ridiculously overpowered
+3. a little extra damage for the cursed enemies
+4. I meant "in a single attack", so weapons like spear, swirl, earth impale and crossbow would work with that
+
+
+[2024/04/02 21:21] roboatino
+Nice ideas 糟
+
+
+[2024/04/02 21:25] eve_7808
+thank you
+
+
+[2024/04/02 21:27] eve_7808
+I was also considering suggesting some new weapons but I'm not sure if weapons from across the whole world would fit in the game
+
+
+[2024/04/02 21:34] eve_7808
+Like a broadsword, which could function like this:
+- Recharged in 7 turns
+- Deals 2 damage
+- Strikes the cells directly ahead and behind. If no enemy was hit from behind, strike the 2 cells directly ahead. Piercing.
+
+
+[2024/04/02 21:42] eve_7808
+Or a cleaver, which can function like this:
+- Recharge in 6 turns
+- Deal 2 damage
+- Strike the first target ahead. If the target is adjacent, strike the cell directly ahead with +1 damage.
+
+
+[2024/04/03 9:05] stillborn
+New weapon: Kusarigama ( 縺上＆繧翫′縺ｾ /  骼夜詞 )
+Attack: X-2 damage in front and X damage behind (if the weapon has 3 damages: 1 damage in front and 3 damages behind)
+weapon ability: flip enemy directly ahead and strike enemy behind up to 3 cells
+Cooldown : 4
+Level : 2
+
+OR reverse : strike target up to 3 cells ahead ( X damage ) and flip target directly behind ( X -2 damages )
+
+OR : flip the first target up to 2 cells and behind to 2 cells the user ( 1 damage )
+
+What do you think about it?
+
+( P.S: we need more weapon flip effect )
+
+||https://www.youtube.com/watch?v=mZam6axdGh8||
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1224872450236354732/Kusarigama.png?ex=6a16355d&is=6a14e3dd&hm=5748559dbf8f05c18d14335d2eee98a670fb252060c2b7ab20ef556ddc2ea3ba&
+https://cdn.discordapp.com/attachments/965176630588882954/1224872450546995322/NG3_Kusari-Gama.webp?ex=6a16355d&is=6a14e3dd&hm=afcba944cb714628625a4adeb34f23530fbf85fcbe525b8dedbe60665acea10b&
+https://cdn.discordapp.com/attachments/965176630588882954/1224872450873884863/T1C0g6Ue2YmG7dxxO0uxOZDfIvKTKVV8mhvZ-mKBKs8.webp?ex=6a16355d&is=6a14e3dd&hm=7deabf56482a8345405e14239c712648eb8c9ba06295ebb6e50c2fa532913795&
+
+{Embed}
+Luis Felipe Valdez
+https://www.youtube.com/watch?v=mZam6axdGh8
+Ninja Gaiden 2-All Kusari-gama Basic Combos
+This is a full compilation of the basic combos Ryu has with Kusari-gama
+in Ninja Gaiden 2 Master Edition
+
+The background
+Artist: Razor22072010
+https://www.deviantart.com/razor22072010/art/Ruy-Hayabusa-the-Kusarigama-Master-887265736
+
+The Intro-Outro Music
+Warriyo - Mortals (feat. Laura Brehm)
+
+The Middle Music
+叱 Canciﾃｳn: Snowy Field
+Mﾃｺsica propo...
+https://images-ext-1.discordapp.net/external/jyMpH6yuwZ74in5BW0XgSCL1HYbN8257Ga7N-3TW9TM/https/i.ytimg.com/vi/mZam6axdGh8/maxresdefault.jpg
+
+{Reactions}
+箝・(2)
+
+[2024/04/03 9:17] seeminglyunrelated
+looks like what I have in the mod already, if I can find it
+
+{Reactions}
+総
+
+[2024/04/03 9:18] seeminglyunrelated
+@StillBorn here
+
+
+[2024/04/03 9:18] seeminglyunrelated
+it's not exactly the same, rereading your description, but I can probably modify it to get that behaviour
+
+{Reactions}
+総
+
+[2024/04/03 9:20] stillborn
+you can take " Shadow Kama " and " Grappling hook" or " Meteor Hammer " for exemple, I think.
+
+
+[2024/04/03 9:46] stillborn
+The Son of Poison Ivy himself xD https://discord.com/channels/965169818309369858/965169819081117757/1217586870112747652
+
+
+[2024/04/03 12:51] apokalypse6
+Idea: Spoon but it forces the enemy that got hit to attack
+
+
+[2024/04/03 12:51] apokalypse6
+idk lmao
+
+
+[2024/04/03 13:01] Deleted User
+made this thing some time ago
+
+
+[2024/04/05 7:08] hisc0re07
+my first time making something in a while, but here goes
+
+
+[2024/04/05 7:14] hisc0re07
+Halberd - 4 cooldown, 3 damage,
+swings down from above, dealing 3 damage to the tile 2 tiles away, and 1 damage to the tile directly in front, as shown in the poorly drawn diagram
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1225569259195863161/pixil-frame-0_1.png?ex=6a16c411&is=6a157291&hm=542ce43e9e1ff32b6ce809135f3f459cad4ee117c673cd97877d0a06bb8c7824&
+https://cdn.discordapp.com/attachments/965176630588882954/1225569259510562936/image.png?ex=6a16c411&is=6a157291&hm=36515f085e127e686731960d8852fced4e37aee2fe6d8c0784d6ff24be04c101&
+https://cdn.discordapp.com/attachments/965176630588882954/1225569259866951731/image.png?ex=6a16c411&is=6a157291&hm=86cc49c5bd94474993e82fb362f30ff546ea3e328eadf61110f207db752e9642&
+
+
+[2024/04/05 7:15] hisc0re07
+i tried *so* hard to draw that halberd but i didn't have a color palette so it looks wonky 亊
+
+
+[2024/04/05 7:48] apokalypse6
+Looks a bit like the weapon my custom enemy had
+
+
+[2024/04/05 7:48] apokalypse6
+lemme find it
+
+
+[2024/04/05 7:49] apokalypse6
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1225577896312307722/image.png?ex=6a16235c&is=6a14d1dc&hm=b2dac06b7e6149093a3f51845ef4ab00e8e1e6da4943626e3a0e75e18863b653&
+
+
+[2024/04/05 7:49] apokalypse6
+Also It looks like the weapon is basically reverse pierce
+
+
+[2024/04/05 7:49] apokalypse6
+which is interesting
+
+
+[2024/04/05 7:51] hisc0re07
+oh yeah that looks a lot like a modified war hammer/halberd
+
+
+[2024/04/05 7:51] hisc0re07
+wait my name is normal person?
+
+
+[2024/04/05 7:52] hisc0re07
+oh yeahhhhh,,,
+
+
+[2024/04/05 7:52] hisc0re07
+that's fair
+
+
+[2024/04/05 7:52] hisc0re07
+but yh
+
+
+[2024/04/05 7:53] hisc0re07
+low quality picture but it looks like a combination of this and a halberd
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1225578926416592896/ZGUtYi5qcGc.png?ex=6a162452&is=6a14d2d2&hm=474cd0fc7167b038681f0e4e13acaf929bcc943ed847db2ef220a181aa1bb963&
+
+
+[2024/04/05 7:53] hisc0re07
+that's actuall really cool though
+
+
+[2024/04/05 7:53] hisc0re07
+can you tell me like, how it attacks and whatnot? :O
+
+
+[2024/04/05 7:54] hisc0re07
+that's also some really cool art by the way
+
+
+[2024/04/05 7:54] hisc0re07
+did you draw it yourself or somethin?
+
+
+[2024/04/05 7:57] apokalypse6
+thx
+
+
+[2024/04/05 7:58] apokalypse6
+It was my first fanmade enemy, I copied the spear enemy and changed stuff
+
+
+[2024/04/05 7:59] apokalypse6
+Im not exactly sure what it did back then, but I actually think it was the exact same idea but with 2 damage instead of 3
+
+
+[2024/04/05 7:59] hisc0re07
+oh that's actually hilarious what 亊
+
+
+[2024/04/05 7:59] hisc0re07
+that's probably more balanced though yeah
+
+
+[2024/04/05 7:59] apokalypse6
+or normal spear but the first tile did 2 damage and the second 1 idk
+
+
+[2024/04/05 7:59] apokalypse6
+im  not sure haha
+
+
+[2024/04/05 8:00] hisc0re07
+that's really cool tho
+
+
+[2024/04/05 8:01] hisc0re07
+also hey how do you do pixel art i'm like fully stumped
+
+
+[2024/04/05 8:10] Deleted User
+you could just draw the head so the handle doesn't shrink it too much
+
+
+[2024/04/05 8:10] hisc0re07
+truuueeee
+
+
+[2024/04/05 8:23] hisc0re07
+like this then?
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1225586481511403630/pixil-frame-0_2.png?ex=6a162b5b&is=6a14d9db&hm=58cfe2a5333821fcf3b1b029fe76c575992066156acd84a89d10c33395532ecf&
+
+{Reactions}
+総 (2)
+
+[2024/04/05 8:23] hisc0re07
+it's a lil messed up
+
+
+[2024/04/05 8:23] hisc0re07
+but like
+
+
+[2024/04/05 8:23] hisc0re07
+wait hold on am i allowed to curse in this server?
+
+
+[2024/04/05 8:23] hisc0re07
+seems fine actually but whoops
+
+
+[2024/04/05 8:31] seeminglyunrelated
+Maybe a bit more handle?
+
+
+[2024/04/05 9:23] hisc0re07
+yea yea
+
+
+[2024/04/05 9:24] hisc0re07
+hmmm,,,, i think i'll try that a little bit later actually
+
+
+[2024/04/05 10:07] double_dot
+:curse:
+
+{Reactions}
+亊
+
+[2024/04/05 10:29] Deleted User
+shogun showdown could actually work on a discord bot ､・
+
+
+[2024/04/05 12:05] apokalypse6
+I just go with the flow
+
+
+[2024/04/05 12:05] apokalypse6
+I dont even use any pixel art programm
+
+
+[2024/04/05 12:05] apokalypse6
+I use gimp
+
+
+[2024/04/05 12:05] apokalypse6
+||~~youre allowed to say fuck~~||
+
+
+[2024/04/05 20:11] seeminglyunrelated
+The barring and shielding is actually crazy
+
+
+[2024/04/05 20:11] seeminglyunrelated
+Ngl when I first read the message that窶冱 instantly what went through my head
+
+
+[2024/04/05 23:18] da_dogbar
+fuck yeah (i think)
+
+{Reactions}
+・ (2)
+
+[2024/04/06 3:51] seeminglyunrelated
+Remember kids; 窶彷or now, be cool and nice窶・
+
+
+[2024/04/07 7:08] hisc0re07
+and then it's like pfp could be the curse symbol lol
+
+
+[2024/04/07 7:08] hisc0re07
+fuck yeah :D
+
+
+[2024/04/07 7:09] hisc0re07
+逐
+
+
+[2024/04/07 7:09] hisc0re07
+also yeah i don't think i've lost a single playthrough that i had the kunai
+
+
+[2024/04/07 7:09] hisc0re07
+and every single time it ends up being the main focus because every enchant works so good with it
+
+
+[2024/04/07 7:10] hisc0re07
+double strike, perfect strike, shock wave, ice, poison,
+
+
+[2024/04/07 7:10] hisc0re07
+ice and poison are the only ones that don't dramatically improve it, but they sure as hell make it better
+
+
+[2024/04/07 7:10] hisc0re07
+and don't get me started with combo cooldowns
+
+
+[2024/04/07 7:29] hisc0re07
+I'm not sure what this weapon would be called, but the idea is that it would hit the cell directly in front of it, and then cause a chain of knockbacks after the first enemy that each deal one damage for each collision. the chain might be too powerful, in which case that could just be ignored because honestly the more i think about it the more op is sounds but still
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1226297700866064394/pixil-frame-1.png?ex=6a16c77b&is=6a1575fb&hm=98b0b680afe6b1e54fa4fcedfffe82aed57423e155ff73dec863a2cb747740e1&
+https://cdn.discordapp.com/attachments/965176630588882954/1226297701268979712/image.png?ex=6a16c77b&is=6a1575fb&hm=78b520c65744a5c435576610b552492d9e485d538d39019884a68303da7086c8&
+https://cdn.discordapp.com/attachments/965176630588882954/1226297701742674051/image.png?ex=6a16c77b&is=6a1575fb&hm=6f775f12e4ec6e9014ab2cc907205fd001dc49ed6baab6f892bff59e1f27a358&
+https://cdn.discordapp.com/attachments/965176630588882954/1226297702103650304/image.png?ex=6a16c77b&is=6a1575fb&hm=076e7e3c1bb103a2f9669cbfccb7942c3d298c633739ceacbb66c9243a67b72d&
+
+
+[2024/04/07 7:29] hisc0re07
+aw man the drawing is really blurry :c
+
+
+[2024/04/07 7:30] hisc0re07
+here we go
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1226297949265330276/pixil-frame-1.png?ex=6a16c7b6&is=6a157636&hm=5830602b0ac0917a45f840a103b25bab1669c7fa58c852aeba2b6d1a72cc5046&
+
+{Reactions}
+総
+
+[2024/04/07 7:31] miyucomics
+A tile that while in your attack queue can parry an attack? For example, while it's there and an enemy hits you, you take -1 damage and it enters cooldown
+
+
+[2024/04/07 7:38] seeminglyunrelated
+how about it deflects as much damage as it's attack value?
+
+
+[2024/04/07 8:17] hisc0re07
+that would be a little too powerful
+
+
+[2024/04/07 8:17] hisc0re07
+cause you could pretty easily get it up to where it's just a shield in the queue
+
+
+[2024/04/07 8:18] hisc0re07
+maybe if after you were hit it would be "used" and have to go through it's cooldown or something, but just a shield card might work better?
+
+
+[2024/04/07 8:52] double_dot
+my first impression was a cigar honestly
+
+
+[2024/04/07 9:10] hisc0re07
+oh i see that actually 亊
+
+
+[2024/04/07 16:01] hisc0re07
+yeah that's the name i was wanting
+
+
+[2024/04/08 1:15] seeminglyunrelated
+battering ram
+
+
+[2024/04/08 3:11] hisc0re07
+okay *really* bad drawings for this one, but the naginata. deals 2 damage, and can go up to 3 squares away, but only go through up to 2 enemies, as shown in the diagram. a lil silly but eh
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1226595339037839472/pixil-frame-2.png?ex=6a168b2d&is=6a1539ad&hm=ab0c2890ee43fbcf6353f1e17e0a6f8c3c914c04f18b8ad7087bad59b52ddd60&
+https://cdn.discordapp.com/attachments/965176630588882954/1226595339453337713/image.png?ex=6a168b2d&is=6a1539ad&hm=e9d338b4fdca78059023ea00978699f51fab11f699b37d2788ee17199da8d560&
+https://cdn.discordapp.com/attachments/965176630588882954/1226595340145135648/image.png?ex=6a168b2e&is=6a1539ae&hm=3e1858d71f48b760ad4ce326ca138cc3c0483ac7919f5d434da93546ce57d13b&
+
+{Reactions}
+総
+
+[2024/04/08 3:12] hisc0re07
+yeah you right
+
+
+[2024/04/08 3:12] hisc0re07
+3 was definitely too much for it
+
+
+[2024/04/08 3:12] hisc0re07
+it could also probably have one more cooldown to be honest
+
+
+[2024/04/08 3:13] hisc0re07
+that was unintentional when i made it, but i think i took more after the japanese one than the european one actually lol
+
+
+[2024/04/08 3:17] hisc0re07
+redid the art
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1226596623539245186/pixil-frame-0_4.png?ex=6a168c60&is=6a153ae0&hm=57a0b5fde1471c2456b9ebbfeb5bba2165b8ab537951de868a86b990a9f301f9&
+
+{Reactions}
+笶､・・(3) 総 (2)
+
+[2024/04/08 3:17] hisc0re07
+maybe a lil better?
+
+
+[2024/04/08 3:17] hisc0re07
+oh it's still three one sec
+
+
+[2024/04/08 3:18] hisc0re07
+there we go
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1226596947712938094/pixil-frame-0_5.png?ex=6a168cad&is=6a153b2d&hm=77b126b3dc2187c76c8ebc269b63f4963cd91b9facd10523a615f1e54435d4ea&
+
+{Reactions}
+笶､・・(3)
+
+[2024/04/08 5:34] stillborn
+Name tile: Cloud
+Damage : 1
+Cooldown : 4
+
+Effect: rains the cell at distance 3 ahead, take 1 damage at the end of the turn. Duration: 3 turns
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1226631203625635942/Nuage.png?ex=6a16ac94&is=6a155b14&hm=553c5610afb7fd6773cc47e57ebc6f86946d391e3fef3b2e3f008947085ab5c7&
+
+
+[2024/04/08 5:43] stillborn
+Name tile : Makibishi ( 謦偵″闖ｱ )
+Damage : 1
+Cooldown : 4
+Effect : throw a caltrop at distance 2 and 3 ahead. trigger when a target steps on them.
+
+( its a " range " trap )
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1226633365906526298/Tetsubishi.png?ex=6a16ae98&is=6a155d18&hm=86057f782a456d36457ef82ddf3929845fb258f88be4b04936a5da9dfb85de70&
+
+
+[2024/04/08 6:01] stillborn
+Name : Bird-Master
+Damage : N/A
+Cooldown : 6
+
+Effect : Call the " Bird-Master " and to disturb first target ahead. Stop action on the queue tile and turn the ennemy )
+
+( @Deleted User @The Shadow )
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1226638109345583254/Bird_Master.png?ex=6a16b303&is=6a156183&hm=dc60d956370b281287bb27e43e94fe550b58cfc672f3b6894bff37c8b7afb6b2&
+
+
+[2024/04/08 6:05] seeminglyunrelated
+亞 :curse:
+
+{Reactions}
+総 (3)
+
+[2024/04/08 6:09] roboatino
+This is amazing
+
+{Reactions}
+ｫ｡ 剌 笶､・・
+
+[2024/04/08 6:09] hisc0re07
+oh my god
+
+{Reactions}
+､｣ 剌
+
+[2024/04/08 6:09] hisc0re07
+:O
+
+
+[2024/04/08 6:10] roboatino
+All hail the bird master
+
+{Reactions}
+､｣ (2) 痩 (2) 争 (2) 笶､・・剌
+
+[2024/04/08 6:10] hisc0re07
+this one is a little bit like, it feels like it doesn't fit in the game as much as the other two? but it's also really creative and i feel like it adds a lot of depth :3
+
+{Reactions}
+ｫ｡
+
+[2024/04/08 6:11] hisc0re07
+yyyyesssss,,,, the trap is one of the coolest cards in the game i love that there's something else following a similar archetype with this one
+
+{Reactions}
+総 糟
+
+[2024/04/08 6:11] hisc0re07
+this one is really useful!!! and cool!!! i like it :D
+
+{Reactions}
+剌
+
+[2024/04/08 10:49] another_ralsei
+mirko add it or the game will never feel complete
+
+{Reactions}
+笨ｨ 総 (2) 剌 (2) 笶､・・
+
+[2024/04/08 13:32] hisc0re07
+genuinely though like it's so good
+
+
+[2024/04/08 17:19] stillborn
+or if he doesn't add it, the modders can add ､ｷ
+
+
+[2024/04/08 21:17] seeminglyunrelated
+I'll try if I get the time to do it, it's a bit complex though 豫 amazing idea and art on the other hand
+
+
+[2024/04/08 21:17] seeminglyunrelated
+be nice if we can get someone to pin it
+
+
+[2024/04/10 8:57] hisc0re07
+could @ someone?
+
+
+[2024/04/11 2:45] dragon_of_celts
+https://discord.com/channels/965169818309369858/965169819081117758/1227669110863954031
+New character: Old Man
+Attack queue is 2 tiles maximum
+Character's tile damage is halved, rounded up
+Non-damaging tiles have half cool down, rounded down
+Starting tiles: Bo and Mirror
+Alternate tiles: Sword of Patience and Origin of Symmetry
+Signature move: Disarms ready attacker by moving (forward) into them
+
+其
+
+{Reactions}
+総 (4) ･ｶ
+
+[2024/04/11 5:13] stillborn
+Copy Mirror cat or Mirror ?
+
+
+[2024/04/11 8:31] dragon_of_celts
+Mirror movement tile.
+Though, if player can get the copy tile (there would need to be rules on what it can pull), Sword of Patience could be replaced with that, maybe...
+
+{Reactions}
+総 笶､・・脹 (2)
+
+[2024/04/12 12:37] apokalypse6
+Special trait: Arthritis
+Literally uses two rounds to move a space
+
+{Reactions}
+亊 (2)
+
+[2024/04/12 19:56] seeminglyunrelated
+Alzheimers: Has to unequip tiles if he doesn't get the chance to attack with them in 2 turns
+
+
+[2024/04/12 20:17] apokalypse6
+Vision problems: if we wants to read a description, he needs to put on glasses
+
+
+[2024/04/12 20:17] apokalypse6
+Else all text in the game is blurry
+
+{Reactions}
+逐 (2)
+
+[2024/04/13 4:37] seeminglyunrelated
+Glasses are microtransaction and cost 9,99
+
+
+[2024/04/13 4:38] seeminglyunrelated
+it's EA
+
+
+[2024/04/13 4:38] apokalypse6
+He is the only playable character in the demo
+
+
+[2024/04/14 4:42] rhinitis.9797
+Suggestion: make inventory/skills visible on mouse over (or something alike)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1228792502786457680/shogun.png?ex=6a16a072&is=6a154ef2&hm=18554f33ee4788fa4b9fda3c83f04571062a82622a54db13d473bbda935268a6&
+
+{Reactions}
+糟 (2)
+
+[2024/04/14 4:58] double_dot
+i'm pretty much against this idea, there's a cool animation on skill trigger and having pot list on a quickglance is a must for speedrun
+
+
+[2024/04/14 5:05] rhinitis.9797
+I'm not sure you get my idea. My problem is that I do not see the skills when I'm in a shop and the text bubble covers them
+
+
+[2024/04/14 5:06] apokalypse6
+Sounds more like a visual bug instead of a intended feature.
+
+
+[2024/04/14 17:14] roboatino
+Indeed, the fact that the description covers the skills is kind of a bug. On my todo list 総
+
+{Reactions}
+笶､・・(5)
+
+[2024/04/17 2:45] elfonte
+Hey big fan of the game but I have some feedback regarding unlockable skills 
+
+Many of the 20-skull unlockable skills look really fun and cool, but I almost never get to play with them due to a few reasons:
+1. Game encourages stacking upgrades on 1 or 2 skills, so players naturally upgrade skills they get early (skills found late are usually sacrificed/not used)
+2. Players are only offered one skill per biome and there are more weak/boring skills than fun/cool ones, so there aren't many chances to see the cool skills 
+3. Gold is better spent on buying/rerolling upgrades than on rerolling for skills
+4. It feels like there's a rarity system for skills such that fun and cool skills appear less often, especially early on
+
+Because of this, most of my runs are very similar, where I focus on upgrading my starting skill plus whatever skill I picked up early (usually a weak/boring skill)
+
+It's such a shame since many of the later skills are really cool but I never properly use them
+
+My suggestions to improve this situation:
+1. Increase number of skill choices to 3, more player choice = more agency on our builds = more fun
+2. Sell skills on shops (except for Sacrifice shops)
+3. Offer players upgraded skills (upgrades can be random) for later stages, so they are not completely useless
+
+Hopefully my feedback is helpful, happy to have a conversation about it ・
+
+{Reactions}
+総 (2)
+
+[2024/04/17 3:46] double_dot
+by skill do you mean tiles?
+
+
+[2024/04/17 4:46] seeminglyunrelated
+Honestly these are also issues I was experiencing at the start, but if you play long enough you start to see the upsides and the advantages to rerolling too.
+
+{Reactions}
+総
+
+[2024/04/17 4:59] elfonte
+Yeah, tiles
+
+
+[2024/04/17 7:05] apokalypse6
+To 1., Skills like monomancer were nerfed to be only obtainable once. Also I dont know what you mean by sacrificing skills? 2., Honestly I wish there where more cool skills which would synergize with other ones but where not there yet. (maybe in the future as the game didnt even full release yet) 3., I dont have anything to say to this 4.,There is a rarity system lol. Im not sure if it applies too skills tho?
+
+
+[2024/04/17 7:06] apokalypse6
+Or like, do you mean skills by upgrades?
+
+
+[2024/04/17 7:06] apokalypse6
+You phrased it kinda weird lol
+
+
+[2024/04/17 7:39] seeminglyunrelated
+I think he meant tiled
+
+
+[2024/04/17 7:40] apokalypse6
+oh
+
+
+[2024/04/17 7:40] apokalypse6
+well uh for 4 there is rarity-
+
+
+[2024/04/17 18:51] stillborn
+how do you know that the monomancer can only be obtained once, it's indicated on the last patchnote ?
+
+
+[2024/04/17 18:51] stillborn
+(this is for the wiki, can be indicated above)
+
+
+[2024/04/17 20:09] roboatino
+Thanks for the feedback! Yeah, "offer players upgraded tiles in later stages" is something I've been thinking about too... I do agree that the tiles that you pick up late during the run tend to be underutilized/underupgraded.
+
+
+[2024/04/17 21:04] thefloralhurrikale
+I think that maybe we'd just need a bit more coins
+
+
+[2024/04/17 21:05] thefloralhurrikale
+The last tile offered is right after the 4th boss, and it usually isn't horrible (unless it's origin)
+
+
+[2024/04/17 21:57] apokalypse6
+Suggestion, you could maybe make the rarity system fluctuate through the game, for example at the beginning you get more common tiles, but by the end you could get more uncommon ones.
+
+
+[2024/04/17 22:07] roboatino
+Yeah, have the rarity system fluctuate through the run might indeed be a way to steer things ､・
+
+
+[2024/04/17 22:14] roboatino
+To make things more varied, I'm also thinking about something along this line (I still need to figure out some details)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1230144363968069703/SPOILER_wip.mp4?ex=6a164577&is=6a14f3f7&hm=f7f6f17ca153b2cd1285d52ea65d4de050045f0a0328308404fd07cb66201bc9&
+
+{Reactions}
+総 (7) 笶､・・(7) ｫｶ (5)
+
+[2024/04/17 22:18] _pacca
+*The corruption is spreading...*
+
+
+[2024/04/17 22:25] stillborn
+I like your game more and more 笶､・・･ｰ
+
+{Reactions}
+笶､・・
+
+[2024/04/17 23:42] double_dot
+STARTING THE GAME WITH KUNAIS
+
+
+[2024/04/17 23:42] double_dot
+YEEEHAAAW
+
+
+[2024/04/18 0:11] kenoboi
+https://tenor.com/view/deven-jimi-gif-22454522
+
+{Embed}
+https://tenor.com/view/deven-jimi-gif-22454522
+https://images-ext-1.discordapp.net/external/vIA4aK1RwDKvoL6HcwD5wpT0HSDUaxXcIruP-Wc5b9A/https/media.tenor.com/cnvXAQxPm8IAAAAe/deven-jimi.png
+
+
+[2024/04/18 0:11] kenoboi
+it窶冱 spreading
+
+
+[2024/04/18 2:08] da_dogbar
+make it so that the first tile is always a weapon while the other one is an utility or something like that
+
+
+[2024/04/18 2:09] da_dogbar
+AND make it so you cant start with kunai
+
+
+[2024/04/18 2:19] apokalypse6
+SNEAK PEEK!!!
+
+
+[2024/04/18 2:19] apokalypse6
+Oh ma gawd
+
+
+[2024/04/18 2:20] apokalypse6
+@The Shadow look too the right! KEY BINDINGS!
+
+
+[2024/04/18 3:29] the_rot_bot
+Someone's going to make a hour long analysis video of that 17 second clip ・
+
+
+[2024/04/18 3:39] seeminglyunrelated
+亞 亞 刄 亞
+
+
+[2024/04/18 3:40] seeminglyunrelated
+Took me a second to realize what was happening here, that looks wild! Not to be the pessimist but what about speed running though?
+
+
+[2024/04/18 3:41] seeminglyunrelated
+*and in frame thirty-one we see that the pixel at coordinates 56, 76 is a little bit brighter than a rabbit窶冱 hide. Possible superman update for CSGO? 亞*
+
+
+[2024/04/18 3:43] apokalypse6
+Hello Internet, Welcome to game theory!
+
+
+[2024/04/18 3:44] apokalypse6
+､｣
+
+
+[2024/04/18 3:46] seeminglyunrelated
+*Maybe this will hint at who will win trackmania cup of the day March 25 2025*
+
+
+[2024/04/18 3:46] seeminglyunrelated
+Theorizing sometimes gets to something so goofy and unrelated that窶冱 why I love it ､｣
+
+
+[2024/04/18 3:46] apokalypse6
+_Actually in frame twenty seven we can see a slight discoloration in the birds animation, which means that a atomic bomb will be added to the game!_
+
+
+[2024/04/18 3:47] apokalypse6
+Maybe ill make a youtube video about it lol
+
+
+[2024/04/18 3:47] seeminglyunrelated
+The hour long theorizing 逐
+
+
+[2024/04/18 3:47] seeminglyunrelated
+Bros gonna turn into that guy that makes Elden ring theories
+
+
+[2024/04/18 3:47] apokalypse6
+Ill just go over it lol
+
+
+[2024/04/18 3:47] apokalypse6
+Probably gonna get 30 views max lmao
+
+
+[2024/04/18 3:48] seeminglyunrelated
+What was his name
+
+
+[2024/04/18 3:48] seeminglyunrelated
+Uhh
+
+
+[2024/04/18 3:48] apokalypse6
+Isk
+
+
+[2024/04/18 3:48] apokalypse6
+Idk
+
+
+[2024/04/18 3:48] seeminglyunrelated
+I think it was VaatYiVidyaa or smth like that
+
+
+[2024/04/18 3:48] seeminglyunrelated
+You know what I love tho
+
+
+[2024/04/18 3:48] seeminglyunrelated
+Indie games often have the most convoluted stories
+
+
+[2024/04/18 3:48] seeminglyunrelated
+Compared to AAA
+
+
+[2024/04/18 3:49] apokalypse6
+We need lore
+
+
+[2024/04/18 3:49] apokalypse6
+A arg
+
+
+[2024/04/18 3:49] apokalypse6
+For shogun showdown
+
+
+[2024/04/18 3:49] apokalypse6
+Mirko pls add lore
+
+
+[2024/04/18 3:50] seeminglyunrelated
+剌
+
+
+[2024/04/18 3:50] apokalypse6
+(I mean there is corruption)
+
+
+[2024/04/18 3:50] apokalypse6
+The corruption seems to be a type of plague
+
+
+[2024/04/18 3:50] apokalypse6
+It literally turned a land into corruption
+
+
+[2024/04/18 3:51] apokalypse6
+Forsaken grounds and theatre
+
+
+[2024/04/18 3:51] apokalypse6
+I wonder what mirko meant with the corruption spreads on day 7...
+
+
+[2024/04/18 4:01] stillborn
+we need Bird-Master Lore and his emoji on discord 剌 ､・
+
+
+[2024/04/18 4:07] seeminglyunrelated
+One sec I need to find a video that was on this subject of lore stuff
+
+
+[2024/04/18 4:07] apokalypse6
+Send me all videos with lore!!!
+
+
+[2024/04/18 4:07] apokalypse6
+Im makign the video rn
+
+
+[2024/04/18 4:11] seeminglyunrelated
+It窶冱 not really lore it窶冱 about AAA games lore vs Indie games lore
+
+
+[2024/04/18 4:11] seeminglyunrelated
+I can窶冲 find it though 亊
+
+
+[2024/04/18 4:11] apokalypse6
+Well uh
+
+
+[2024/04/18 4:12] seeminglyunrelated
+Ah well
+
+
+[2024/04/18 4:12] seeminglyunrelated
+Basically AAA games will have a bunch of loose ends
+
+
+[2024/04/18 4:12] seeminglyunrelated
+Meanwhile indie games will have stories
+
+
+[2024/04/18 4:12] seeminglyunrelated
+With absolutely no connection to the gameplay
+
+
+[2024/04/18 4:13] seeminglyunrelated
+But somehow there窶冱 three gods fighting two Demons that loosely explains why a specific flower patch turns green for five frames each day
+
+
+[2024/04/18 4:13] seeminglyunrelated
+(I just made that up, but George RR Martin, you can use this free of charge)
+
+
+[2024/04/18 4:18] apokalypse6
+lmao
+
+
+[2024/04/18 4:18] apokalypse6
+Mirko is cooking something up 櫨
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1230235953692545074/image.png?ex=6a169ac4&is=6a154944&hm=e1bdf36e9b1066f52c1f8576c3a72e4e4852383117b14e50dd9887965464ff82&
+
+
+[2024/04/18 4:37] seeminglyunrelated
+櫨
+
+{Reactions}
+櫨 (3)
+
+[2024/04/18 4:57] stillborn
+the 3rd set (the random one with the skulls), do we have to unlock it?
+
+
+[2024/04/18 4:59] seeminglyunrelated
+I窶囘 assume yes
+
+
+[2024/04/18 5:04] stillborn
+and, day 7, what is meaning of " spreading ", all ennemis are corrupted? OR all bosses are corrupted, OR in the end, Shogun is corrupted ､・､・
+
+
+[2024/04/18 5:05] apokalypse6
+jo bro can i ask you something
+
+
+[2024/04/18 5:17] seeminglyunrelated
+ye sure wassup?
+
+
+[2024/04/18 9:19] another_ralsei
+who knows, maybe all 3
+
+{Reactions}
+操 亞 ｫ｡
+
+[2024/04/18 16:18] stillborn
+https://tenor.com/view/himym-how-i-met-your-mother-neil-patrick-harris-barney-challenge-gif-4820522
+
+{Embed}
+https://tenor.com/view/himym-how-i-met-your-mother-neil-patrick-harris-barney-challenge-gif-4820522
+Challenge Accepted
+https://images-ext-1.discordapp.net/external/bF48dwa5Wq6T0sw4opaj4RarEj63qDRa9We3bO78oNE/https/media.tenor.com/BQoe8QRc0wsAAAAe/himym-how-i-met-your-mother.png
+
+
+[2024/04/18 23:30] balakay0725
+YOU are corrupted now. what does this do? good question
+
+{Reactions}
+､・(2) 総 (2)
+
+[2024/04/18 23:33] balakay0725
+you only have one health. better get the obliteration stamp
+
+
+[2024/04/18 23:34] balakay0725
+our whatever is called
+
+
+[2024/04/19 0:09] apokalypse6
+@笨ｨ 4 slots縲尻unai縲鯛惠 you automatically spawn blight chargers like the warden 逐
+
+
+[2024/04/19 0:13] Deleted User
+50% chance for a tile to turn into summon blight charger
+
+
+[2024/04/19 0:13] Deleted User
+:smile:
+
+
+[2024/04/19 1:37] apokalypse6
+49% chance to curse yourself and explode on death
+
+
+[2024/04/19 1:48] da_dogbar
+perk idea
+Whenever you prepare a tile, it gains +2 damage until used. 
+Every 3 turns, skip your turn and activate all tiles in your attack queue.
+
+
+[2024/04/19 5:03] seeminglyunrelated
+I have worse
+
+
+[2024/04/19 5:04] seeminglyunrelated
+50% chance of a tile turning into shinobi summon
+
+
+[2024/04/19 5:04] seeminglyunrelated
+gl
+
+
+[2024/04/19 5:27] apokalypse6
+99.9999% chance to spawn a corrupted ultra shogun
+
+
+[2024/04/19 5:27] apokalypse6
+Wait why did the message send twice lmao
+
+
+[2024/04/19 7:02] arneyrie
+hatsune miku
+
+
+[2024/04/19 15:28] apokalypse6
+Just noticed your message while scrolling, sry for the late response:
+Yrles, Im pretty sure after community feedback over the dreaded kunaimancer combo, monomancer got nerfed a bit to make it fairer
+
+{Reactions}
+総
+
+[2024/04/19 17:06] balakay0725
+whenever an enemy spawns there is a 50% chance they gain +1 health. this chance is repeated until it fails
+
+
+[2024/04/19 20:09] seeminglyunrelated
+So did a few other tiles such as tanegashima, mirror, etc
+
+
+[2024/04/19 20:35] another_ralsei
+na boutta get a 25 hp dasher in the first area
+
+
+[2024/04/20 19:18] apokalypse6
+Also, the idea of getting random decks with skulls is pretty neat, but In my opinion, another way to unlock permanent stuff with skulls would be nice. Like for example maybe Camp skins or decoration for the camp. Maybe even character skins? New modeas???
+
+{Reactions}
+､・(3)
+
+[2024/04/20 21:46] seeminglyunrelated
+Some purely cosmetic stuff would be nice, because that way you窶决e not gatekeeping too many things from new players
+
+
+[2024/04/21 3:58] keaton__mask
+I窶囘 love to be able to spend skulls on skins/palette swaps/particle effects
+
+
+[2024/04/21 4:45] apokalypse6
+Skins could cost different skulls depending on their looks, like a simple recolour is just 50 skulls but a complete overhaul with special effects coould cost 1000
+
+
+[2024/04/21 4:45] apokalypse6
+Maybe a golden version for 9999 skulls
+
+{Reactions}
+総 ､｣
+
+[2024/04/22 1:35] da_dogbar
+an achievement for killing a boss without using tiles
+
+{Reactions}
+総 (2)
+
+[2024/04/22 2:38] double_dot
+actually very fun idea
+
+
+[2024/04/22 2:39] double_dot
+i kinda know how i can do this one
+
+
+[2024/04/22 2:41] stillborn
+" Pacifist " 総  like Undertale
+
+
+[2024/04/22 5:34] apokalypse6
+But you are still killing them lol
+
+{Reactions}
+､・
+
+[2024/04/22 5:55] stillborn
+indirectly .... yes .... but it's not my fault. 樗
+
+
+[2024/04/22 10:53] Deleted User
+a run utilizing friendly fire to fullest extent
+
+
+[2024/04/22 10:53] Deleted User
+
+
+{Stickers}
+https://cdn.discordapp.com/stickers/927707665205956678.png
+
+
+[2024/04/22 19:06] apokalypse6
+Thats... Actually a fun idea
+
+
+[2024/04/23 18:15] apokalypse6
+#Idea:#
+Enemies on maybe like... Day 8, can have skills.
+For example: imagine a yumi sniper with monomancer, or central domination. Maybe even a twin tachi with combo curse? Idk probably has to be reworked
+
+
+[2024/04/23 18:31] double_dot
+How do you visually draw it?
+
+
+[2024/04/23 18:34] apokalypse6
+Either the skill is over the enemies head, or under the enemy
+
+{Reactions}
+総
+
+[2024/04/24 1:54] da_dogbar
+perk idea
+enemies retaliate when attacked by other enemies, -1 damage on every attack.
+
+
+[2024/04/24 1:54] da_dogbar
+not sure which shop this could fit into though
+
+
+[2024/04/24 2:09] stillborn
+Warring shop ､ｷ
+
+
+[2024/04/24 2:14] seeminglyunrelated
+Warring shop is really op for more experienced players
+
+
+[2024/04/24 2:14] apokalypse6
+Wdym
+
+
+[2024/04/24 2:14] apokalypse6
+Warring shop is dogshit tbh
+
+
+[2024/04/24 2:15] apokalypse6
+It never has the right combo of stuff i want'
+
+
+[2024/04/24 2:15] da_dogbar
+if an enemy attacks another enemy, that enemy will target the enemy that hit them instead of the player
+
+
+[2024/04/24 2:15] seeminglyunrelated
+*B-bbut big dam-ma-ge number look cool*
+
+
+[2024/04/24 2:16] apokalypse6
+Monomancer is trash now
+
+
+[2024/04/24 2:16] apokalypse6
+you wanna see a new tactic I found out?
+
+
+[2024/04/24 2:16] seeminglyunrelated
+Grudges
+
+
+[2024/04/24 2:16] seeminglyunrelated
+Sure
+
+
+[2024/04/24 2:16] apokalypse6
+~~Kunaimancer~~ KunaiSniper
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1232379688257720320/SniperKunaiIsOP.mp4?ex=6a167e46&is=6a152cc6&hm=0a332b8b895d43bfc73e24fa381eb2a99bd7703009b20fc253a19c3805544dda&
+
+
+[2024/04/24 2:17] apokalypse6
+Sniper actually isnt that bad
+
+
+[2024/04/24 2:17] seeminglyunrelated
+Not bad
+
+
+[2024/04/24 2:17] da_dogbar
+maybe it would be better as a dancer shop thing idk
+
+
+[2024/04/24 2:17] seeminglyunrelated
+Agreed
+
+
+[2024/04/24 2:17] apokalypse6
+Dancer is only for special
+
+
+[2024/04/24 2:17] apokalypse6
+moves
+
+
+[2024/04/24 2:18] apokalypse6
+Also that seems extremly overpowered
+
+
+[2024/04/24 2:18] apokalypse6
+Btw look at this pls
+
+
+[2024/04/24 2:18] seeminglyunrelated
+Yeah that窶冱 kind of like unfriendly fire but op
+
+
+[2024/04/24 2:19] apokalypse6
+Purple skills?
+
+
+[2024/04/24 2:19] seeminglyunrelated
+亞
+
+
+[2024/04/24 2:19] seeminglyunrelated
+That窶囘 be interesting
+
+
+[2024/04/24 2:19] seeminglyunrelated
+Mirko dropping teasers here
+
+
+[2024/04/24 2:19] apokalypse6
+I think I found a eye purple skill too
+
+
+[2024/04/24 2:19] apokalypse6
+it was literally just a eye but purple
+
+
+[2024/04/24 2:19] seeminglyunrelated
+Sounds interesting
+
+
+[2024/04/24 2:19] seeminglyunrelated
+But what could the new section be??
+
+
+[2024/04/24 2:20] stillborn
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1232380489940340747/image.png?ex=6a167f05&is=6a152d85&hm=e73610cc300eebd27709cc5eecd8753f5eea0dfdc9af0e4dfe68b9f292c01853&
+
+
+[2024/04/24 2:20] seeminglyunrelated
+Like there isn窶冲 much other skill sections there are
+
+
+[2024/04/24 2:20] apokalypse6
+.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1232380517610033182/SkillsIcons.png?ex=6a167f0b&is=6a152d8b&hm=b622005ace57334c1f49726c2ab09d9b9d9c54c6b06a85521a2dc55d79003acc&
+
+
+[2024/04/24 2:20] apokalypse6
+Found it <3
+
+
+[2024/04/24 2:20] seeminglyunrelated
+櫨
+
+
+[2024/04/24 2:20] apokalypse6
+They look out of place tho
+
+
+[2024/04/24 2:21] apokalypse6
+are they maybe in the old version?
+
+
+[2024/04/24 2:21] apokalypse6
+idk I only played the new one
+
+
+[2024/04/24 2:23] seeminglyunrelated
+Prologue or alpha?
+
+
+[2024/04/24 2:23] seeminglyunrelated
+Because I didn窶冲 see it in either
+
+
+[2024/04/24 2:23] apokalypse6
+i didnt play both but i mean aplha
+
+
+[2024/04/24 2:23] seeminglyunrelated
+Idk
+
+
+[2024/04/24 2:24] seeminglyunrelated
+I can窶冲 remember it
+
+
+[2024/04/24 2:24] da_dogbar
+untrue
+
+
+[2024/04/24 2:25] da_dogbar
+dancer has +1 collision damage
+
+
+[2024/04/24 2:25] apokalypse6
+no
+
+
+[2024/04/24 2:25] apokalypse6
+tr
+
+
+[2024/04/24 2:25] apokalypse6
+ue
+
+
+[2024/04/24 2:25] da_dogbar
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1232381854058020904/image.png?ex=6a16804a&is=6a152eca&hm=d09ed664f4b95cd9ebbdbb6c4c7386acd82af02daa676cd627978d67d4150031&
+
+
+[2024/04/24 2:25] seeminglyunrelated
+That窶冱 because it窶冱 supposed to fit in with the ronin
+
+
+[2024/04/24 2:25] seeminglyunrelated
+But I agree it窶冱 a bit of a loose definition
+
+
+[2024/04/24 2:26] da_dogbar
+and jujitsuka
+
+
+[2024/04/24 2:26] da_dogbar
+what if dancer shop loot was character specific
+
+
+[2024/04/24 2:26] seeminglyunrelated
+That too
+
+
+[2024/04/24 2:27] apokalypse6
+nitpick
+
+
+[2024/04/24 4:03] apokalypse6
+New starting deck idea
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1232406579127521433/20240423-1903-01.1528035.mp4?ex=6a169751&is=6a1545d1&hm=bf3bec81b0532eb3e7c0079b2d559f6285f4fd06a9df7d65632d847a7514cf03&
+
+{Reactions}
+総 (3)
+
+[2024/04/24 4:03] apokalypse6
+(Its more off a challenge more than a deck lmao)
+
+
+[2024/04/24 4:07] seeminglyunrelated
+Looks sick but really difficult Ngl
+
+
+[2024/04/24 4:07] apokalypse6
+It is, I died in the first arena
+
+
+[2024/04/24 4:12] stillborn
+I like your idea, take ennemy tiles againt them, nice.
+
+
+[2024/04/24 4:14] apokalypse6
+Did you see the new hookblade tile?
+
+
+[2024/04/24 4:14] apokalypse6
+Imagine the synergies with it
+
+
+[2024/04/24 4:15] apokalypse6
+Now we just need a backward grappling hook
+
+
+[2024/04/27 2:11] apokalypse6
+Why isnt this in the game!!
+
+
+[2024/04/27 2:12] apokalypse6
+A good idea ngl
+
+
+[2024/04/27 4:55] seeminglyunrelated
+yeah not bad it'd scale well with difficulty
+
+
+[2024/04/27 4:55] seeminglyunrelated
+also @Fumiko you have no life 逐
+
+{Reactions}
+亞 操
+
+[2024/04/27 4:56] apokalypse6
+:(
+
+
+[2024/04/27 4:56] seeminglyunrelated
+・
+
+
+[2024/04/27 4:56] seeminglyunrelated
+I love that emoji
+
+
+[2024/04/27 4:56] apokalypse6
+Why are you insulting me tho
+
+
+[2024/04/27 4:57] seeminglyunrelated
+nah bro I'm just teasing
+
+
+[2024/04/27 4:57] seeminglyunrelated
+damn though how bored were you that you started going through old messages that far back 料
+
+
+[2024/04/27 4:58] apokalypse6
+Literally just wanted to find the beginning of this chat
+
+
+[2024/04/27 4:59] seeminglyunrelated
+so you *scrolled* all the way through
+
+
+[2024/04/27 4:59] apokalypse6
+no
+
+
+[2024/04/27 4:59] apokalypse6
+tf
+
+
+[2024/04/27 4:59] apokalypse6
+im not a psycho
+
+
+[2024/04/27 4:59] seeminglyunrelated
+good
+
+
+[2024/04/27 4:59] apokalypse6
+i searched
+
+
+[2024/04/27 4:59] seeminglyunrelated
+remember the elden ring
+
+
+[2024/04/27 4:59] seeminglyunrelated
+we shalt not participate in such maidenless activities
+
+
+[2024/04/27 4:59] seeminglyunrelated
+good job
+
+
+[2024/04/27 7:57] Deleted User
+Dancer shop skill - Commando - Costs 1 tile, remove a tile of your choice when purchasing
+Skill cd +1 (turns needed to recharge skill). -3 skill cooldown when health is full. Buff is disabled when you get hit in current level, resets in the next level if health is full.
+
+Combo shop skill - Reconquest - Costs 1 tile
+Permanent +1 max hp for every level you complete without taking more than 1 point of damage. 
+
+Warring shop skill - Equipoise - 20 coins
+Restore 2 cooldown to disabled tiles closest to the left for each enemy spawned, can overflow to adjacent tiles.
+
+
+[2024/04/27 8:07] apokalypse6
+what is skill cooldown
+
+
+[2024/04/27 8:08] apokalypse6
+Oh yeah Conquest seems stupidly unbalanced lol
+
+
+[2024/04/27 8:09] apokalypse6
+How does equipoise even work
+
+
+[2024/04/27 8:38] Deleted User
+conquest could be capped at 5 and require full health
+
+cooldown is the 4 white slits below your character
+
+
+[2024/04/27 8:38] Deleted User
+equipose activates when an enemy spawns
+
+
+[2024/04/27 8:39] Deleted User
+closest tile to the left of your inventory gains +2 cd replenish so you can plan ahead
+
+
+[2024/04/27 20:25] apokalypse6
+nahh all of these are broken
+
+
+[2024/04/28 0:28] double_dot
+the something OP is a fresh 4 slots kunai with monomancer and combo recharge
+
+
+[2024/04/28 4:32] Deleted User
+Auspicion - 3 current health, not health cap
+Your next purchase is free once you spend 50 coins. Slot where skill level is shown instead shows how many coins you need to spend.
+
+
+[2024/04/28 4:37] Deleted User
+Power Bank - 15 coins
+Shield is temporary but negates all hits in a turn.
+
+
+[2024/04/28 4:37] Deleted User
+shield could last 6-10 turns?
+
+
+[2024/04/28 6:29] apokalypse6
+Actually, seems balanced
+
+
+[2024/04/28 6:29] apokalypse6
+But youd have to aquire it early to make use of it
+
+
+[2024/04/28 6:40] apokalypse6
+Idea: Rare chance for a tile mixer too appear. It could be a guy or a special stone which could replace the Upgrades (like +1 damage or -2 cooldown etc.). It could also very rarely appear on its own instead of the upgrades you receive. It could be guaranteed on the last upgrade in shoguns castle. It works as you think it would, but you would need to have low enough cooldown on both of your tiles. This could give you 1369 new options if you can combine two of the same tile, and 666 new options if you can not combine the same tile. Imagine how many monstrosities you can make! (Without the free play tiles like dash or mirror, there would be 435 options if tiles cant be the same, and 900 if they could.)
+(The tiles I merged here are Sai and meteor hammer)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1233895603902091324/Meteor_Sai_scaled_3x_pngcrushed.png?ex=6a16bc14&is=6a156a94&hm=d5251af5286d9b81596faaa5c05fd1228d5c35d5382794842df21a9ddfd183a5&
+
+
+[2024/04/28 6:43] apokalypse6
+((Oh btw with the upgrades [And the non upgraded form] there are 3996 options without the same tiles beeing merged))
+
+
+[2024/04/28 6:52] stillborn
+good idea, but making 1369 new tiles by merging 2 tiles together, just a daunting job
+
+
+[2024/04/28 6:53] apokalypse6
+435 if free play and merging the same is not included
+
+
+[2024/04/28 6:53] apokalypse6
+Any ideas for fun tiles?
+
+
+[2024/04/28 6:54] apokalypse6
+I wanna make one for fun
+
+
+[2024/04/28 7:05] seeminglyunrelated
+I think has already been suggested
+
+
+[2024/04/28 7:05] apokalypse6
+nah fr?
+
+
+[2024/04/28 7:05] apokalypse6
+Damn
+
+
+[2024/04/28 7:05] seeminglyunrelated
+yeah 逐
+
+
+[2024/04/28 7:05] apokalypse6
+When
+
+
+[2024/04/28 7:05] seeminglyunrelated
+nah but it's always the same
+
+
+[2024/04/28 7:05] seeminglyunrelated
+always scope
+
+
+[2024/04/28 7:05] seeminglyunrelated
+as stillborn said
+
+
+[2024/04/28 7:06] seeminglyunrelated
+1369 new tiles 逐
+
+
+[2024/04/28 7:06] apokalypse6
+I mean
+
+
+[2024/04/28 7:06] seeminglyunrelated
+I just remember I think ﾂｯ\_(繝・_/ﾂｯ
+
+
+[2024/04/28 7:06] apokalypse6
+Mirko can aslo ignore the boring mutations
+
+
+[2024/04/28 7:06] seeminglyunrelated
+time to get to work
+
+
+[2024/04/28 7:06] seeminglyunrelated
+yeah but then it'd be really inconsistent
+
+
+[2024/04/28 7:06] apokalypse6
+MAN IDK
+
+
+[2024/04/28 7:06] seeminglyunrelated
+I guess you could seperate the tiles into seperate classes
+
+
+[2024/04/28 7:06] seeminglyunrelated
+like melee
+
+
+[2024/04/28 7:06] apokalypse6
+IT WAS JUST A COOL IDEA
+
+
+[2024/04/28 7:06] seeminglyunrelated
+and ranged
+
+
+[2024/04/28 7:06] seeminglyunrelated
+and then you can only mix those together
+
+
+[2024/04/28 7:07] seeminglyunrelated
+melee + ranged
+
+
+[2024/04/28 7:07] seeminglyunrelated
+ﾂｯ\_(繝・_/ﾂｯ
+
+
+[2024/04/28 7:07] apokalypse6
+Also
+
+
+[2024/04/28 7:07] apokalypse6
+I feel like
+
+
+[2024/04/28 7:07] apokalypse6
+Forward dash  + Knockback punch should be a normal tile in the game
+
+
+[2024/04/28 7:08] apokalypse6
+Imagine ramming into enemies
+
+
+[2024/04/28 7:10] sam3452
+what about a shop where you can combine tiles
+
+
+[2024/04/28 7:11] sam3452
+nvm i looked up in chat
+
+
+[2024/04/28 7:12] Deleted User
+what if you could lock the order of two tiles for them to only take 1 turn to queue and 1 queue slot
+
+
+the first tile can be used as long as its cooldown is filled, 2nd tile can only activate if cooldown of 1st is fulfilled
+
+
+[2024/04/28 7:13] apokalypse6
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1233903857172484156/Ram.png?ex=6a16c3c4&is=6a157244&hm=14d10da9a5c946e088e0fd0b3c78719a685a2e9e9ea17c4b1c3673e7d1f69da9&
+
+
+[2024/04/28 7:13] apokalypse6
+actually
+
+
+[2024/04/28 7:13] apokalypse6
+seems like a simple version of it
+
+
+[2024/04/28 7:13] apokalypse6
+but
+
+
+[2024/04/28 7:14] apokalypse6
+mirko shouldnt have to make sprites
+
+
+[2024/04/28 7:14] apokalypse6
+But that kinda ruins the aspect of merging the,
+
+
+[2024/04/28 7:14] apokalypse6
+cuz u want the effects yk?
+
+
+[2024/04/28 7:14] apokalypse6
+lmao
+
+
+[2024/04/28 7:19] Deleted User
+what if these tiles were just rarer, indicated with a yellow outline ､・
+instead of finding the merge station and procuring any possible combination, have them show up in the run with a price. You can trade in tiles or skills to streamline your build
+
+
+[2024/04/28 7:22] double_dot
+superman
+
+
+[2024/04/28 7:22] double_dot
+Oh uncommon tiles should indeed have a visual hint
+
+
+[2024/04/28 7:23] double_dot
+i think it's a bit wasted not to have a visual clue for this mechanic
+
+
+[2024/04/28 7:30] apokalypse6
+i have been thinking of a yellow like enhancement like free play for a tile
+
+
+[2024/04/28 7:30] apokalypse6
+but what could it do
+
+
+[2024/04/28 7:30] apokalypse6
+idk
+
+
+[2024/04/28 7:31] apokalypse6
+(Also yeah, common and uncommon tiles should totally be differentiated)
+
+
+[2024/04/28 7:38] apokalypse6
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1233910077040234536/image.png?ex=6a16c98f&is=6a15780f&hm=1d61ff1538efb56db64f82c470316dc328b100d5ec894f4ebbee9f26cd64d337&
+
+
+[2024/04/28 7:48] double_dot
+yeah but it should be done dynamically
+
+
+[2024/04/28 7:49] double_dot
+so if mirko add something to the uncommon list it shows up
+
+
+[2024/04/28 8:45] seeminglyunrelated
+so just tint the sprite in unity?
+
+
+[2024/04/28 8:46] double_dot
+yeah i'm probably dumb
+
+
+[2024/04/28 8:47] double_dot
+I've done too much GBA programming recently, its getting me
+
+
+[2024/04/28 9:00] apokalypse6
+Same way as elite enemies and corrupted bosses get their colour changed dynamically?
+
+
+[2024/04/28 9:00] apokalypse6
+That would be easy
+
+
+[2024/04/28 9:27] Deleted User
+or just a border placed on top of the tile
+
+blue for rare effect and yellow for combined effect
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1233937500507213834/yellowborder.png.png?ex=6a163a59&is=6a14e8d9&hm=b89882931f76351c378aa4124182b757ff3bd10879779c67843a9344aa6437ac&
+https://cdn.discordapp.com/attachments/965176630588882954/1233937500754415639/blueborder.png.png?ex=6a163a59&is=6a14e8d9&hm=3c52af8dd849785630eb3e0f58f6ee69e9d1f9b262a9965a5ab845257867a879&
+
+
+[2024/04/28 9:28] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1233937821408952490/yellowtile.png.png?ex=6a163aa6&is=6a14e926&hm=ca0cf7d70955ee615334e60e9f6c456e28c25d21a8cd2fba9ff798cc9a798977&
+https://cdn.discordapp.com/attachments/965176630588882954/1233937821832581232/bluetile.png.png?ex=6a163aa6&is=6a14e926&hm=d2a322f8c51eb546103e4e37824febceb37a76e9a786b36ce2a740fc95dc381e&
+
+{Reactions}
+笶､・・櫨
+
+[2024/04/28 9:47] double_dot
+I like that more
+
+
+[2024/04/28 9:48] double_dot
+Doesn't overlap with the other mechanics, but I say that as a munchkin maybe this would confuse new players?
+
+
+[2024/04/28 9:50] Deleted User
+they'll need to play a few games to purchase them with skulls so they can focus on learning gameplay first
+
+
+[2024/04/28 9:52] Deleted User
+&/ blue/yellow text of combined/rare can show up next to the tile name
+
+
+[2024/04/28 9:57] seeminglyunrelated
+as part of the tooltip. yeah
+
+
+[2024/04/28 15:49] apokalypse6
+I actually like that alot
+
+
+[2024/04/28 15:50] apokalypse6
+Looks really good and doesnt destroy the look
+
+
+[2024/04/28 20:09] eve_7808
+I got this idea for Day 8 which, after defeating a boss, will force the player to choose 1 out of 2 cursed relics that can give both a small advantage and a bigger disadvantage, and here's what I had in mind:
+## Relic 1:
+### - Deal +1 damage from all sources.
+### - Enemies can't take damage of an even number.
+## Relic 2:
+### - Some weapons can appear with some level filled.
+### - Upgrading weapons is twice as expensive.
+## Relic 3:
+### - Deal +1 damage and consume a coin.
+### - Deal -1 damage if there are no coins to be consumed.
+
+
+[2024/04/28 20:10] eve_7808
+I don't know what other functions can be suggested for those relics
+
+
+[2024/04/28 20:20] eve_7808
+I also thought of some special tile types that can function like this:

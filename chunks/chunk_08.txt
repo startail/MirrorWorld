@@ -1,0 +1,2000 @@
+﻿### - Time tiles - as we all know, tiles that can charge per turn.
+### - Bloodlust tiles - tiles that can charge per enemy killed.
+### - Opportunist tiles (rare) - tiles that do not recharge and will permanently disappear when all charges are used, usually equipped for a good weapon.
+### - Narcissistic tile (cursed) - functions as a Time tile but it will be selected first for the attack queue when you try to equip any other weapon, cannot be upgraded or sacrificed.
+
+
+[2024/04/28 20:36] apokalypse6
+day 8 wont exist tho
+
+
+[2024/04/28 20:36] apokalypse6
+probably
+
+
+[2024/04/28 20:37] eve_7808
+https://tenor.com/view/crying-emoji-dies-gif-21956120
+
+{Embed}
+https://tenor.com/view/crying-emoji-dies-gif-21956120
+https://images-ext-1.discordapp.net/external/Dq2l7MPUAGqfeGeKueArRifRpvf82KFh9S-nn-7suf4/https/media.tenor.com/9PTGVf4BLwYAAAAe/crying-emoji-dies.png
+
+
+[2024/04/28 20:37] eve_7808
+I had such an idea
+
+
+[2024/04/28 20:37] eve_7808
+and it might never be implemented
+
+
+[2024/04/28 20:45] seeminglyunrelated
+also it kind of goes against the roguelike theme, if I understood correctly
+
+
+[2024/04/28 20:45] seeminglyunrelated
+cool idea though
+
+
+[2024/04/28 21:47] double_dot
+nah it's because normally there's only 7 days in the week, as all days have a different kanji representing one day
+
+
+[2024/04/29 0:17] Deleted User
+what if there was a day 0 that worked as an endless mode ､・
+
+{Reactions}
+笘晢ｸ・(2)
+
+[2024/04/29 0:28] dragon_of_celts
+"Normally"
+
+
+[2024/05/01 18:01] da_dogbar
+unexpected enemy spawns on higher days could be pretty cool
+
+
+[2024/05/01 18:01] da_dogbar
+like randomly facing a shadow charger in world 1
+
+
+[2024/05/01 18:30] the_talha
+unless it spawns behind something else its probably impossible to kill a 7 health shadow charger with 2-3 unupgraded weapons
+
+
+[2024/05/01 18:31] da_dogbar
+would be funny though
+
+
+[2024/05/01 18:33] the_talha
+it would yeah
+
+
+[2024/05/01 18:49] averagefoxenthusiast
+I recall Mirko saying that they were thinking about adding alternate bosses to some locations after the full game is released, so I decided to come up with an alternate boss concept for moonlit port (since moonlit port probably needs it most).
+
+Title: Akkorokamui of the Deep. (Akkorokamui is a kraken type creature in Ainu mythology)
+
+Arena size: 9
+
+Visual design: I窶冦 bad at art so I窶冤l give a description. I窶冦 imagining the boss sprite being in the background slightly off-centre, with one eye facing forward. Attack queue emanates from the eye, eye tracks the player窶冱 general location.
+
+Moveset:
+-    Tentacle slam: Uses the 窶弋entacle slam窶・tile.
+When the title is placed in the queue, bronze warning signs appear on the space occupied by the player + three other randomly chosen spaces (maybe with some restrictions to prevent them being too bunched up). 
+Next turn the signs turn yellow.
+Nex turn when the tile is actually used, tentacles will slam down on these 4 spaces for 2 (or 3?) damage. If they hit a target but do not kill them, they will immediately retract. Otherwise they will stay there for a turn. Tentacles are vulnerable to damage (this the only way of dealing damage).
+-    Summon: Kowa-type summoning with the following pool: Ashigaru, Sniper, Yari, Guardian
+
+Lore: 窶廣n ancient evil summoned from the depths. They serve the Shogun willingly out of pure malice.窶・Lowers into the water when defeated instead of being killed (probably easier to animate? idk)
+
+{Reactions}
+櫨 (2)
+
+[2024/05/01 22:14] undurable
+Chance of mon appearing proportionate to how much money you have
+
+
+[2024/05/04 6:03] da_dogbar
+make enemy corpses get flung forward based on how much overkill damage you dealt
+
+
+[2024/05/04 6:04] da_dogbar
+and make some tiles affect enemy corpses (just visually)
+
+
+[2024/05/04 6:04] da_dogbar
+like corpses getting pushed to the sides by earth impale and stuff
+
+
+[2024/05/04 6:04] da_dogbar
+would be pretty sick
+
+
+[2024/05/04 8:52] apokalypse6
+Too much work
+
+
+[2024/05/04 8:52] apokalypse6
+Mirko should spend time on gameplay updates
+
+
+[2024/05/04 8:52] apokalypse6
+And notbunimportant stuff like this
+
+
+[2024/05/04 15:54] da_dogbar
+it would be so cool though
+
+
+[2024/05/04 23:45] roboatino
+9-damage-blade-of-patience sending spike chargers into the stratosphere would be pretty fun ・ (let's put it in the "maybe" bucket)
+
+{Reactions}
+､｣
+
+[2024/05/05 0:14] double_dot
+https://tenor.com/view/smash-bros-melee-super-smash-bros-melee-bat-homerun-homerun-bat-gif-26180968
+
+{Embed}
+https://tenor.com/view/smash-bros-melee-super-smash-bros-melee-bat-homerun-homerun-bat-gif-26180968
+https://images-ext-1.discordapp.net/external/1QfcdAnpqoI3am2giqRqA4RYKAaVqunRBD7tdO3f2YU/https/media.tenor.com/DPAfK24SiH8AAAAe/smash-bros-melee-super-smash-bros-melee.png
+
+{Reactions}
+､｣ (2) 総
+
+[2024/05/05 1:24] apokalypse6
+Maybe it could be like this ､｣
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1236352711788855490/20240504-1624-02.0347035.mp4?ex=6a1671f0&is=6a152070&hm=d75cf74dd6b1dabd29f35dae20137855f2dbb5890111fb0ea6f922a89bdbcdb1&
+
+
+[2024/05/05 1:26] apokalypse6
+Or maybe they could fly into the screen instead lol :
+
+
+[2024/05/05 12:09] opinternet
+battle cats jumpsacre
+
+
+[2024/05/05 12:10] opinternet
+english switch battle cats jumpscare for some reason
+
+
+[2024/05/06 20:47] apokalypse6
+Duomancer and triplemancer
+
+
+[2024/05/06 20:47] apokalypse6
+Boosts damage
+
+
+[2024/05/06 20:47] apokalypse6
+Depending on amount on tiles
+
+
+[2024/05/06 20:47] apokalypse6
+Like monomancer
+
+
+[2024/05/06 20:47] apokalypse6
+:curse: :spin:
+
+{Reactions}
+curse (4) spin (4)
+
+[2024/05/06 22:26] chapples4
+I窶况e actually thought of this before. Dinomancer (if we窶决e using mono then we should also use di and tri) would add + 1 to the second tile in the que and only work if there窶冱 exactly 2 tiles. Same for trimancer but + 1 to the third tile obviously instead obviously. But there窶囘 need to be something added to make it significant enough to add because right now they窶决e just worse monomancers.
+
+
+[2024/05/06 22:33] apokalypse6
+mhm
+
+
+[2024/05/06 22:33] apokalypse6
+true
+
+
+[2024/05/07 0:19] the_talha
+Plus 2 for duomancer and plus three for trimancer would work thematically and also make them not bad monomancers
+
+
+[2024/05/07 0:20] chapples4
+Is that over powered though?
+
+
+[2024/05/07 0:20] chapples4
+Kunai would go insane in third slot
+
+
+[2024/05/07 0:21] the_talha
+It's a big investment for damage that will go into overkill 75 percent of the time so I don't think so unless it's kunai but kunai is kunai
+
+
+[2024/05/07 0:56] apokalypse6
+Also trying to get three tiles in, even tho you only qwant one, can get you killed
+
+
+[2024/05/07 0:56] apokalypse6
+so its kinda risky
+
+
+[2024/05/07 2:20] da_dogbar
+rename monomancer to polymancer and allow it to be upgraded up to level three
+at lv 2 adds +2 damage but only when you have 2 tiles in your queue
+at lv 2 adds +3 damage only when you have 3 tiles in your queue
+
+
+[2024/05/07 2:23] chapples4
+Now THIS is something I can get behind
+
+
+[2024/05/07 2:23] chapples4
+Take all my skulls
+
+
+[2024/05/07 4:02] da_dogbar
+imagine if someone got 3 9 damage kunai with lv. 3 polymancer
+
+
+[2024/05/07 4:08] apokalypse6
+With double strike on all of them
+
+
+[2024/05/07 4:11] apokalypse6
+144 Damage
+
+
+[2024/05/07 4:11] apokalypse6
+Without any other skills that is
+
+
+[2024/05/07 4:11] apokalypse6
+(Thats enough to kill both phases of the shogun on day 6)
+
+
+[2024/05/07 4:11] da_dogbar
+thats 54 kunais
+
+
+[2024/05/07 4:11] da_dogbar
+wait no
+
+
+[2024/05/07 4:12] da_dogbar
+wait yeah
+
+
+[2024/05/07 4:12] da_dogbar
+54 kunai
+
+
+[2024/05/07 4:12] da_dogbar
+216 damage with just polymancer
+
+
+[2024/05/07 4:13] apokalypse6
+how
+
+
+[2024/05/07 4:14] apokalypse6
+its plus 3
+
+
+[2024/05/07 4:14] da_dogbar
+so each kunai deals 4 damage
+
+
+[2024/05/07 4:14] apokalypse6
+so its triple not quadruple
+
+
+[2024/05/07 4:14] apokalypse6
+Oh m so dumb
+
+
+[2024/05/07 4:14] apokalypse6
+Whats wrong with me today
+
+
+[2024/05/07 4:14] apokalypse6
+:curse:
+
+
+[2024/05/07 6:11] dragon_of_celts
+Dinomancer turns all of your attacks into dinosaurs. ・
+
+{Reactions}
+・
+
+[2024/05/07 6:12] seeminglyunrelated
+I was about to say
+
+
+[2024/05/07 19:26] the_talha
+Idk if it goes against the core ideas of the game but I think having tiles unique to the characters would help build archetypes for the characters and would also help with the most frequent criticism I've seen which is repetitiveness
+
+
+[2024/05/07 19:52] apokalypse6
+Hm
+
+
+[2024/05/07 19:52] apokalypse6
+Tahts a cool idea
+
+
+[2024/05/07 19:52] apokalypse6
+But I dread that people will paly characters only for that tile
+
+
+[2024/05/07 19:52] apokalypse6
+Maybe the leaked chain hero has one
+
+
+[2024/05/07 19:54] seeminglyunrelated
+yeah some characters might just get a unique advantage
+
+
+[2024/05/07 19:55] seeminglyunrelated
+another idea would be that each character buffs a specific type of tile
+
+
+[2024/05/07 19:55] seeminglyunrelated
+but now maybe that - eh
+
+
+[2024/05/07 19:55] seeminglyunrelated
+idk
+
+
+[2024/05/07 19:59] da_dogbar
+would be cool if dancer shop was character specific ngl
+
+
+[2024/05/07 19:59] da_dogbar
+would allow for some really cool perks
+
+
+[2024/05/07 20:05] apokalypse6
+Now THATS a good idea
+
+
+[2024/05/07 20:05] apokalypse6
+Ronin quadruples kunai damage
+
+
+[2024/05/07 20:07] da_dogbar
+kunai becomes only available for jujitsuka
+
+
+[2024/05/07 20:07] da_dogbar
+and can only be obtained after world 5
+
+
+[2024/05/07 21:04] apokalypse6
+No thats horrible pls no
+
+
+[2024/05/07 21:04] apokalypse6
+I hate jujitsuka
+
+
+[2024/05/07 21:05] apokalypse6
+Also, other idea:
+
+
+[2024/05/07 21:06] apokalypse6
+Tiles that you can get only from warriors gamble
+
+
+[2024/05/07 21:06] apokalypse6
+As a lil secret
+
+
+[2024/05/08 5:39] seeminglyunrelated
+Unironically probably one of the *less* broken things in this game ､｣
+
+
+[2024/05/08 5:40] apokalypse6
+true
+
+
+[2024/05/08 5:40] seeminglyunrelated
+Ok now this is good
+
+
+[2024/05/08 5:40] apokalypse6
+right?
+
+
+[2024/05/08 16:48] da_dogbar
+Dancing shop skill:
+Marking move
+20 gold
+Using a special move on an enemy marks that enemy for turns equal to the cooldown of your special move. 
+Enemies target marked enemies instead of the player, if the marked enemy is closer to them than the player. 
+Only one enemy can be marked at a time.
+
+
+[2024/05/08 16:55] apokalypse6
+Thats hella interesting, but
+
+
+[2024/05/08 16:56] apokalypse6
+I dont know if that would fit into the games mechanics
+
+
+[2024/05/08 16:56] apokalypse6
+But its true that we need more ways to let enemies kill each other
+
+
+[2024/05/08 16:59] da_dogbar
+some way to make enemies infight would be hella cool though
+
+
+[2024/05/08 16:59] da_dogbar
+or just allies in general
+
+
+[2024/05/08 17:43] apokalypse6
+Skill: Brainwash, 25 coins
+If you perform a combo kill, a random enemy gets to fight on your side for 7 turns
+
+
+[2024/05/08 17:43] apokalypse6
+Or smth idk
+
+
+[2024/05/08 17:44] apokalypse6
+Skill: Summoning bell, 20 coins
+If you attack with three tiles, summon a blight charger that fights for you
+
+
+[2024/05/08 17:44] apokalypse6
+Idk
+
+
+[2024/05/08 17:48] da_dogbar
+Warring shop skill: Ashigaru Mercenary
+25 gold
+At the start of each stage, summon a quick witted ashigaru that fights on your side. 
+
+Guarding shop skill: Guardian Mercenary
+25 gold
+At the start of each stage, summon a guardian that fights on your side.
+
+
+[2024/05/08 17:48] da_dogbar
+would be pretty cool idk
+
+
+[2024/05/08 18:21] apokalypse6
+Actually
+
+
+[2024/05/08 18:21] apokalypse6
+I like that
+
+
+[2024/05/08 19:47] chapples4
+Imagine sacrificing your summon for a combo
+
+
+[2024/05/08 20:04] da_dogbar
+Tile Idea: Summon Pipe Bomb
+0 damage, 7 cooldown. 
+Summon a permanently frozen warden with 2 health in the first empty tile ahead of you. On death, its explosion will deal bonus damage based on the damage of this tile.
+
+
+[2024/05/08 20:05] da_dogbar
+also the warden will not count for combos
+
+
+[2024/05/09 5:48] chapples4
+Honestly I would love for the player to have a barricade tile, make it only have 3hp instead of 5, and make it either have a timer or make enemies target it, but every time I modify my game and give myself that it窶冱 really fun.
+
+
+[2024/05/10 0:46] apokalypse6
+Enemy Idea: There is a swapper enemy in the files, so id assume it gets added with ieyasus garden. Now the problem would be that Hideyoshis keep and nobunagas fortress add the same enemy. So I thought for one that could replace the shadow charger in one of the regions. I call it "Watcher", and his main gimmick is that he supports other troops, by pulling you closer with his attack. He will always try running away, similar to the shielder or yumi sniper. He can pull you one tile at a time, but can do it through enemies. His pull does no damage. I dont know how much hp he should have tho
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1238155198170529842/Watcher-Idle.gif?ex=6a166923&is=6a1517a3&hm=8d4812bda163defec0ad45d72a4c69c70c47aa4d1ccfc3f7ac26af9543186a2c&
+https://cdn.discordapp.com/attachments/965176630588882954/1238155198581706814/Watcher-AboutToPull.gif?ex=6a166923&is=6a1517a3&hm=6282fc361ca1add660c32b86b9a9601a07fec5eadd51dceae73ee6b092e24489&
+
+
+[2024/05/10 0:47] apokalypse6
+( This was just a excuse to test aseprite a bit :P )
+
+
+[2024/05/10 1:27] da_dogbar
+i dont think you should leak game files
+
+{Reactions}
+総 (3)
+
+[2024/05/10 1:41] apokalypse6
+I mean, its open to the public
+
+
+[2024/05/10 1:41] apokalypse6
+its just in the files
+
+
+[2024/05/10 1:42] apokalypse6
+Its datamining, not leaking theoretially
+
+
+[2024/05/10 2:10] chapples4
+I窶囘 at least put a spoiler tag or something
+
+
+[2024/05/10 2:13] apokalypse6
+I made that myself tho
+
+
+[2024/05/10 2:13] chapples4
+I meant about the files stuff in general, not this, btw this cool as hell
+
+
+[2024/05/10 2:14] apokalypse6
+ah alright, i will in teh future
+
+
+[2024/05/10 4:28] seeminglyunrelated
+yeah cool but spoiler tag would be nice (I don't mind but I guess other people)
+
+
+[2024/05/12 14:52] Deleted User
+Rare tile - Hu Gou (Twin Hookswords)
+Could possibly:
+-When queued, block and counterattack first hit from an adjacent enemy. (Cross hooks and block first hit from an enemy ahead or behind, then attack that enemy.)
+-Could potentially unload the rest of the queue as well, triggering them when you get hit. Only turning to attack based on its order in queue.
+
+or just
+-Stike first target up to 2 cells ahead. (Swing like a sword when first cell ahead, link the hooks and swing when two cells ahead. Increase damage and reduce cooldown)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1239092725924761650/Hu_Gou.png?ex=6a168687&is=6a153507&hm=007edd4cced8d252fd6eec6d9561f36e3899c03b30d880566193873bfafd38ce&
+
+
+[2024/05/12 14:52] Deleted User
+(double strike doubles the counter attack, can't block twice unless you have multiple of the tiles, in which the counterattack turn arounds are based on the order in which you got hit)
+
+
+[2024/05/12 15:27] Deleted User
+found a video of a guy using one
+https://www.youtube.com/watch?v=HGjIpF4cHSU
+
+{Embed}
+Sifu Kuttel
+https://www.youtube.com/watch?v=HGjIpF4cHSU
+Kung Fu Combo - Hookswords Swinging Long Range Sweep
+Pick up your Twin Hook Swords and let's get to work! In this technique we will be using the hooks to link the blades together using the longest range of the weapon. If you want to know more about Hook Swords, be sure to read my article in Kung Fu Tai Chi Magazine. Be safe and HAVE FUN!!!
+
+#kungfucombo #hookswords #sifukuttel
+
+笆ｺ Other Ways to Fin...
+https://images-ext-1.discordapp.net/external/hgkf8gNBKp-_vj6Y1fE-GXhkNIWDYVCb9-ePdvdFODM/https/i.ytimg.com/vi/HGjIpF4cHSU/maxresdefault.jpg
+
+
+[2024/05/12 15:42] Deleted User
+& could be additionally limited to only block hits from directly ahead but have the sweep function
+
+
+[2024/05/12 15:43] Deleted User
+can do nothing if you don't get hit for balancing
+
+
+[2024/05/12 19:17] stillborn
+amazing pixelart
+
+
+[2024/05/12 20:55] seeminglyunrelated
+actually pretty cool
+
+
+[2024/05/12 21:03] apokalypse6
+that spin under the feet was impressive
+
+
+[2024/05/12 21:03] seeminglyunrelated
+yeah
+
+
+[2024/05/12 21:07] apokalypse6
+this is like 3 months ago, but the weird whirlpool on the map could be one
+
+
+[2024/05/12 21:07] apokalypse6
+this
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1239187274055548928/image.png?ex=6a1635d5&is=6a14e455&hm=05b838e2e3e2769c121df8a3b3156b54579f0b27408814d57dd249044474ba42&
+
+
+[2024/05/13 0:31] seeminglyunrelated
+､・
+
+
+[2024/05/13 0:49] chapples4
+With some slight chances, I really love this. 100% should be added
+
+
+[2024/05/13 2:47] seeminglyunrelated
+､｣ calm @BitterLemons I was just kidding. Of course Kung Fu is chinese, but that doesn't mean we could maybe have some fun with it, even in a japanese game. Even if kung fu originated in china, that doesn't mean only chinese people can practice it.
+
+
+[2024/05/13 3:43] seeminglyunrelated
+Nah man I agree I was just joking when I said ､・you're right.
+
+
+[2024/05/13 5:16] chapples4
+@BitterLemons So it needs name change and different art for the tiles, but the tile itself is still really good, it probably wouldn't be too difficult to change it to form to fit shogun showdowns setting
+
+
+[2024/05/13 5:18] double_dot
+good mod Idea
+
+
+[2024/05/13 5:19] double_dot
+I mean if you were to do a medieval french game where you can access long bows, even if it was an english weapon, people wouldn't be angry outside of two nerds in a corner
+
+
+[2024/05/13 5:20] chapples4
+***I*** wouldn't complain if there was a Bazooka RPG-7 in shogun
+
+
+[2024/05/13 5:21] double_dot
+Day 8 weapons be like
+
+
+[2024/05/13 5:34] apokalypse6
+Isnt day 8 supposed to be harder
+
+
+[2024/05/13 5:35] double_dot
+you're not the one that gets the Bazooka
+
+
+[2024/05/13 5:35] apokalypse6
+*Shogun with bazooka*
+
+
+[2024/05/13 5:35] Deleted User
+it could be a jo staff or a wakizashi, wakizashi would be harder to differentiate though from the short katana
+
+
+[2024/05/13 5:36] apokalypse6
+8 damage, explodes like warden*
+
+
+[2024/05/13 5:36] Deleted User
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1239315298985840660/jo-1.png.png?ex=6a16ad10&is=6a155b90&hm=ca74b02306c45e5d293429745eabdad338107b3ba0f86a638906d7fbe11856a3&
+
+{Reactions}
+笨・
+
+[2024/05/13 5:36] apokalypse6
+what this
+
+
+[2024/05/13 5:36] Deleted User
+jo staff
+
+
+[2024/05/13 5:36] apokalypse6
+what do it do
+
+
+[2024/05/13 5:37] Deleted User
+this function
+
+
+[2024/05/13 5:37] Deleted User
+to fit setting
+
+
+[2024/05/13 5:37] apokalypse6
+then why did you make another sprite
+
+
+[2024/05/13 5:37] Deleted User
+hu gou is chinese
+
+
+[2024/05/13 7:02] chapples4
+I like it, definitely a unique tile
+
+
+[2024/05/14 4:53] shober123
+ghost-like enemy that can move over other enemies?
+
+
+[2024/05/14 4:53] shober123
+idk if this idea has merit
+
+
+[2024/05/14 4:53] shober123
+but maybe they can't be damaged while they're on a square with another enemy
+
+
+[2024/05/14 4:54] apokalypse6
+shadow dash: Hello
+
+
+[2024/05/14 4:54] apokalypse6
+But idk how that would work?
+
+
+[2024/05/14 4:54] apokalypse6
+Is there a limit
+
+
+[2024/05/14 4:55] shober123
+maybe one ghost per enemy
+
+
+[2024/05/14 4:55] seeminglyunrelated
+how about an enemy that can only be damaged every other turn, and can only attack you every other turn
+
+
+[2024/05/14 4:56] seeminglyunrelated
+the rest of the turns it just sits there
+
+
+[2024/05/14 4:56] apokalypse6
+maybe parasite like nemy
+
+
+[2024/05/14 4:56] apokalypse6
+who clings onto other enemies
+
+
+[2024/05/14 4:56] shober123
+i wasn't sure if it would be better to do as a possession/buffer sort if thing or as a separate entity
+
+
+[2024/05/14 4:57] shober123
+yeah that makes sense too
+
+
+[2024/05/14 4:57] shober123
+that would be pretty cool
+
+
+[2024/05/14 4:57] apokalypse6
+nobunaga exists-
+
+
+[2024/05/14 4:57] shober123
+it's like that one boss almost
+
+
+[2024/05/14 4:57] shober123
+yeah
+
+
+[2024/05/14 4:58] shober123
+but as a common enemy it would change the concept a bit
+
+
+[2024/05/14 4:58] apokalypse6
+it could spawn instead of the duplicated shadow charger in nobnagas fortress
+
+
+[2024/05/14 4:59] seeminglyunrelated
+料
+
+
+[2024/05/14 4:59] apokalypse6
+still kinda bummed out that its just duplicated
+
+
+[2024/05/14 4:59] seeminglyunrelated
+no but this one is just a ghost half of the time and an enemy the other
+
+
+[2024/05/14 4:59] seeminglyunrelated
+it could be a special trait too
+
+
+[2024/05/14 4:59] seeminglyunrelated
+how about *Nobunaga's warriors*?
+
+{Reactions}
+curse
+
+[2024/05/14 4:59] apokalypse6
+translucent/ethereal
+
+
+[2024/05/14 5:02] apokalypse6
+kinda cringy lol
+
+
+[2024/05/14 5:02] apokalypse6
+and nobunaga is more like he gets invincible because of darkness
+
+
+[2024/05/14 5:02] apokalypse6
+and not tur nwise lol
+
+
+[2024/05/14 7:52] Deleted User
+nobunaga fortress enemies that have to stay next to an entity in order to be damaged?
+
+
+[2024/05/14 7:54] Deleted User
+& have dash tile in their moveset
+
+
+[2024/05/14 7:54] Deleted User
+"Silhouette"
+
+
+[2024/05/14 7:54] thefloralhurrikale
+Me when the game spawns that enemy in the back and it's the last enemy alive, and it's wave 10/10 (Now invulnerable permanently)
+
+
+[2024/05/14 7:55] Deleted User
+I was thinking it would take damage every turn as well
+
+
+[2024/05/14 7:55] Deleted User
+unless they latch onto another enemy
+
+
+[2024/05/14 7:55] Deleted User
+or you
+
+
+[2024/05/14 8:09] Deleted User
+has neutral enemies ever been suggested? Enemies that only attack whoever hits them
+
+
+[2024/05/14 8:09] Deleted User
+Lament
+enemy that can appear in nobunaga/hideyoshi regions
+5 base hp, spawns with quick witted
+Doesn't move by itself, or could wander within 1 cell from its starting point. The entity that damages it will be targeted by it (tiles that do 0 damage don't aggro it, it will target the entity that it collided with for collision/shockwave damage)
+
+When targeting an enemy, queues shadow dash and backstab. Will instead move towards the target with a shadow kama if shadow dash can't succeed.
+
+
+[2024/05/14 8:09] apokalypse6
+that kinda ruins the game tho
+
+
+[2024/05/14 8:09] apokalypse6
+they fit in open world
+
+
+[2024/05/14 8:09] apokalypse6
+not in strategies like this...
+
+
+[2024/05/14 8:10] apokalypse6
+oh and there can be softlocks
+
+
+[2024/05/14 8:11] Deleted User
+or it could just only aggro towards you to make it more of an enemy
+
+
+[2024/05/14 8:12] apokalypse6
+eh
+
+
+[2024/05/14 8:12] Deleted User
+they're a harder to deal with obstacle that you can choose to not engage until you've taken care of other dangers
+
+
+[2024/05/14 8:12] apokalypse6
+so a worse barricade
+
+
+[2024/05/14 8:13] Deleted User
+it could mirror every once in a while ､・
+
+
+[2024/05/14 8:13] apokalypse6
+ehhh
+
+
+[2024/05/14 8:13] apokalypse6
+the swapper already probably does thta
+
+
+[2024/05/14 8:13] Deleted User
+which enemy?
+
+
+[2024/05/14 8:13] apokalypse6
+the swapper
+
+
+[2024/05/14 8:14] apokalypse6
+i mean'
+
+
+[2024/05/14 8:14] apokalypse6
+its in his name
+
+
+[2024/05/14 8:14] apokalypse6
+he will probably swap positions or tiles
+
+
+[2024/05/14 8:34] thefloralhurrikale
+I'd avoid using unused enemies that aren't finalized to say that the idea is already taken.
+
+
+[2024/05/14 8:35] apokalypse6
+yeah...
+
+
+[2024/05/14 8:35] apokalypse6
+ok ig hideyoshi or shogun uses mirror
+
+
+[2024/05/14 8:35] apokalypse6
+or kabukei
+
+
+[2024/05/15 5:32] shibaaaxd
+new tile: shadow, mirror all attacks to behind your character (so like if u you spear forward a shadow spear attacks behind you for same (or less) damage - if its something like swirl where it hits both, then it will just hit twice maybe? kind of overpowered so may need like reduced damage) (if someone's already said this my bad i dint see)
+
+
+[2024/05/15 5:33] apokalypse6
+so what would it do to tiles like swirl?
+
+
+[2024/05/15 5:33] shibaaaxd
+just make it like a doubleshot
+
+
+[2024/05/15 5:33] shibaaaxd
+or maybe like it hit an extra time behind
+
+
+[2024/05/15 5:34] apokalypse6
+"A good enchantment should work on all tiles" 
+
+                                                                       - Sun tzu or someone
+
+
+[2024/05/15 5:34] shibaaaxd
+honestly smthng like an enchantment that works diff on different weapons wud be kinda cool
+
+
+[2024/05/15 5:35] shibaaaxd
+like an enchant that increases spear length by 1, but on ranged it makes you shoot an extra projectile behind u
+
+
+[2024/05/15 5:35] apokalypse6
+to much work for our lazy mirko >.<
+
+
+[2024/05/15 5:35] shibaaaxd
+lmao
+
+
+[2024/05/15 5:35] double_dot
+Too complex for people that aren't veteran too
+
+
+[2024/05/15 5:36] shibaaaxd
+yeah
+
+
+[2024/05/15 5:36] shibaaaxd
+but alsow ith the way tiles are unlocked
+
+
+[2024/05/15 5:36] shibaaaxd
+u might only unlock it once u have a good enough grasp
+
+
+[2024/05/15 5:36] double_dot
+It's also not very elegant to have a "but" in a game mechanic , I'm not sure if I explain it well
+
+
+[2024/05/15 5:37] apokalypse6
+Im pretty sure the only reason the guy seels you new tiles for skulls is so that people dont get overwhelmed by the ammount of tils they can unlokc
+
+
+[2024/05/15 5:37] shibaaaxd
+tru
+
+
+[2024/05/15 5:37] shibaaaxd
+yeah
+
+
+[2024/05/15 5:38] apokalypse6
+I mean- One of my favorite tiles uses a but
+
+
+[2024/05/15 5:38] double_dot
+Which one?
+
+
+[2024/05/15 5:39] apokalypse6
+I... cant say
+
+
+[2024/05/15 5:39] apokalypse6
+its not in the game yet
+
+
+[2024/05/15 5:39] shibaaaxd
+hookblade?
+
+
+[2024/05/15 5:39] apokalypse6
+and i checked and it doesnt use a but, it splits the negative part into a second sentencwe
+
+
+[2024/05/15 5:40] apokalypse6
+nuh uh
+
+
+[2024/05/15 5:40] apokalypse6
+you fellas dont know about it :3
+
+
+[2024/05/15 5:40] double_dot
+Oh dear
+
+
+[2024/05/15 5:40] apokalypse6
+and im not leaking stuff again!
+
+{Reactions}
+清 (3)
+
+[2024/05/15 5:40] double_dot
+Horse react them
+
+
+[2024/05/15 5:40] shibaaaxd
+also hookblade has a but in it kinda?
+
+
+[2024/05/15 5:40] apokalypse6
+||~~(You could also just go to my yt channel to see it :curse: )~~||
+
+
+[2024/05/15 5:41] apokalypse6
+kinda is not but
+
+
+[2024/05/15 5:41] shibaaaxd
+shame levels 悼
+
+
+[2024/05/15 5:41] apokalypse6
+definitely not a shameless plug :3
+
+
+[2024/05/15 5:42] apokalypse6
+oh god why am i using those face emojis so much today
+
+
+[2024/05/15 5:43] shibaaaxd
+also with so many tiles in the game, it could be interesting to add a new shop that sells tiles for like 40 coins and you can only get one
+
+
+[2024/05/15 5:43] apokalypse6
+eh
+
+
+[2024/05/15 5:43] shibaaaxd
+i really like kunai, but i never see it and when i do its kinda hard to find like
+
+
+[2024/05/15 5:43] shibaaaxd
+a build around it
+
+
+[2024/05/15 5:43] apokalypse6
+You get enough throughout the run
+
+
+[2024/05/15 5:43] apokalypse6
+yeah its uncommon
+
+
+[2024/05/15 5:43] shibaaaxd
+or like
+
+
+[2024/05/15 5:43] apokalypse6
+Thats why its rarer than other tiles
+
+
+[2024/05/15 5:43] shibaaaxd
+something like in hades with the heirlooms that increase your odds of getting a boon
+
+
+[2024/05/15 5:43] shibaaaxd
+idk how it wud be implemented
+
+
+[2024/05/15 5:44] shibaaaxd
+like buying charms at a shop or smthng like a charm that raises your odds for a ranged tile or smthng
+
+
+[2024/05/15 5:44] shibaaaxd
+maybe have it fill a potion slot?
+
+
+[2024/05/15 5:44] shibaaaxd
+idk
+
+
+[2024/05/15 5:44] apokalypse6
+i dont play hades-
+
+
+[2024/05/15 5:44] shibaaaxd
+o
+
+
+[2024/05/15 5:49] chapples4
+Lies and deceit, when aren窶冲 you leaking stuff
+
+
+[2024/05/15 5:49] apokalypse6
+atleast i report the loopholes to mirko!!!
+
+
+[2024/05/15 5:50] apokalypse6
+Also can we have yoshiaki sometime in the future
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1240043515191234601/image.png?ex=6a16b044&is=6a155ec4&hm=105ac15a8494dfdea47fe4752da5395e39d63f1076effbc65f81096ba90e3815&
+
+
+[2024/05/15 12:29] miyucomics
+A perk called Momentum, where if you use your special move, it recharges all your tiles by one cooldown. To balance, it adds an extra cooldown to your special move
+
+
+[2024/05/15 13:40] Deleted User
+free perks with higher emphasis on debuff?
+
+
+[2024/05/15 17:26] dot00.
+New semi-last boss?
+
+
+[2024/05/15 17:29] apokalypse6
+Maybe the map will have islands there in the future
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1240219564344606750/image.png?ex=6a16ab7a&is=6a1559fa&hm=8dddc361f33f434a26ba09087c02e4c1f4160ea73c4d503ceb107c4959ef74d3&
+
+
+[2024/05/15 17:29] apokalypse6
+that would be pretty cool
+
+
+[2024/05/15 17:30] dot00.
+Are those stages going to be harder than the statue and kowa?
+
+
+[2024/05/15 17:32] apokalypse6
+i dont know llol
+
+
+[2024/05/15 17:32] dragon_of_celts
+Shogun Showdown sea battles
+
+
+[2024/05/15 17:35] apokalypse6
+wait do you mean the purple one?
+
+
+[2024/05/15 17:35] dot00.
+No the crimson one
+
+
+[2024/05/15 17:35] apokalypse6
+Thats statue and kowa
+
+
+[2024/05/15 17:36] dot00.
+The purple one consists of Fumiko lol
+
+
+[2024/05/15 17:36] apokalypse6
+and sato
+
+
+[2024/05/15 17:37] dot00.
+Yeah
+
+
+[2024/05/15 17:39] dot00.
+Anyway it would be rllly fun tho
+
+
+[2024/05/15 17:40] apokalypse6
+I had a idea where rather than going tro sato after fumiko, you go to the "abandoned Mausoleum", where you fight "The Yokai" as the boss. The yokai would be a big warden with a oni mask and a blazing suisei instead of a lantern
+
+
+[2024/05/15 17:41] apokalypse6
+like this
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1240222444992860261/image.png?ex=6a16ae29&is=6a155ca9&hm=e8af1c8eba25b6693d0622ca9c5a57757d085b56606b731ff483ad7927074de9&
+
+
+[2024/05/15 17:42] apokalypse6
+(Oni mask)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1240222655433543680/691961018_max.png?ex=6a16ae5b&is=6a155cdb&hm=18721406a8971f20626207814352364d1862673ff42e6abbbda3d812f08258f6&
+
+
+[2024/05/15 17:43] dot00.
+Hmm
+
+
+[2024/05/15 17:44] dot00.
+It's interesting
+
+
+[2024/05/15 17:46] apokalypse6
+I guess like this?
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1240223814596689950/image.png?ex=6a16af6f&is=6a155def&hm=0b717beeb5b5249ff39a4d402b69ec82ac82aaad79aece3f43bf10ca73712955&
+
+
+[2024/05/15 18:21] apokalypse6
+Yhis would be the mausoleum ig
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1240232586257629254/image.png?ex=6a16b79a&is=6a15661a&hm=3d23d2902d1de4974539c92830b2509892a73c0ea21109d0a1ac8e5b2fc39307&
+
+
+[2024/05/15 18:21] apokalypse6
+I think that would be cool :)
+
+
+[2024/05/16 3:39] chapples4
+Okay I like this a lot actually
+
+
+[2024/05/16 3:39] apokalypse6
+yeah right?
+
+
+[2024/05/16 3:40] chapples4
+But I think it窶囘 be cool if that it窶冱 in between stage master and the garden. Like an optional hidden area
+
+
+[2024/05/16 3:40] apokalypse6
+we also need more bosses like twins, daisuke etc. who mimick other enemuies
+
+
+[2024/05/16 3:40] apokalypse6
+nah you choose between stagemaster and yokai
+
+
+[2024/05/16 3:40] apokalypse6
+but you have to go lower shop route
+
+
+[2024/05/17 2:30] the_talha
+heavy blade: deal 5 damage to the first two cells ahead, lose one damage for the rest of combat. 5 cool down
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1240717998742831174/image.png?ex=6a16816e&is=6a152fee&hm=8a3faecbf821fa42ca9d34ca0bc27e3acce23711a5cb0e77eea97daf658d7d57&
+
+
+[2024/05/17 2:30] the_talha
+damn i made it tiny by accident
+
+
+[2024/05/17 2:30] the_talha
+oh well
+
+
+[2024/05/17 2:30] apokalypse6
+did you make this?
+
+
+[2024/05/17 2:31] the_talha
+yeah
+
+
+[2024/05/17 2:31] apokalypse6
+Thats actually...
+
+
+[2024/05/17 2:31] apokalypse6
+FRICKING AMAZING!
+
+
+[2024/05/17 2:31] apokalypse6
+Love the idea
+
+{Reactions}
+剌
+
+[2024/05/17 2:31] apokalypse6
+Its like, dont be to greedy
+
+
+[2024/05/17 2:31] the_talha
+thanks lmao
+
+
+[2024/05/17 2:31] apokalypse6
+Maybe ill animate it
+
+{Reactions}
+剌
+
+[2024/05/17 2:33] the_talha
+i was gonna animate it too at first but 3 years of not using aseprite beat my ass
+
+
+[2024/05/17 2:33] apokalypse6
+You use aseprite too?
+
+
+[2024/05/17 2:33] apokalypse6
+thats nice
+
+
+[2024/05/17 2:40] apokalypse6
+do you maybe have the sprite without it stuck in the ground?
+
+
+[2024/05/17 3:14] the_talha
+I don't sorry
+
+
+[2024/05/17 3:14] apokalypse6
+im nearly done anyways
+
+
+[2024/05/17 3:14] apokalypse6
+its pretty cool imo
+
+
+[2024/05/17 3:14] apokalypse6
+im a beginner
+
+
+[2024/05/17 3:16] apokalypse6
+@T A L H A
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1240729683469926471/MegaBlade.gif?ex=6a168c50&is=6a153ad0&hm=efc6b255b64fe54e1b345db8d6a5a346939ffae9c0232361350a14cb04af01a9&
+
+{Reactions}
+櫨
+
+[2024/05/17 3:16] apokalypse6
+The swoosh animation could be better
+
+
+[2024/05/17 3:17] the_talha
+YO WHAT
+
+
+[2024/05/17 3:17] the_talha
+BBEGINNER MY ASS I BOW DOWN TO YOU
+
+
+[2024/05/17 3:17] apokalypse6
+Nahh i started like a week ago, im not good 亊
+
+
+[2024/05/17 3:18] the_talha
+Dawg you are immensely skilled for only a week this is crazy
+
+
+[2024/05/17 3:27] apokalypse6
+thanks :)
+
+
+[2024/05/17 3:43] double_dot
+yeah the celerity visual are hard to do.
+
+
+[2024/05/17 3:44] double_dot
+Representing the blur humans seems to see when something goes high speed isn't something you see often in game visuals as it is hard to imitate
+
+
+[2024/05/17 21:01] roboatino
+Great sprite 櫨
+
+
+[2024/05/17 21:01] roboatino
+And great animation 櫨
+
+{Reactions}
+笶､・・
+
+[2024/05/17 21:02] roboatino
+I think you can get 1000 X the impact vibe if you just made the whole animation much faster, like this
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1240997835961270364/MegaBlade.gif?ex=6a16348c&is=6a14e30c&hm=15e0405e24ae568b57b7de7ec66582de9cf7c94f1467fbc0a410b8529791b373&
+
+{Reactions}
+櫨 (4) 聡 (2) 総 (2)
+
+[2024/05/17 21:02] apokalypse6
+Oh yeah, that definitely seems really powerful now!
+
+
+[2024/05/17 21:04] roboatino
+not only great sprite, but also great idea
+
+
+[2024/05/17 21:40] _pacca
+Animation slowing down each time you use the tile
+
+
+[2024/05/17 21:40] apokalypse6
+maybe sprite gets damaged
+
+
+[2024/05/17 22:02] stillborn
+Perhaps one day, a susanoo will encompass a character and bring down a huge sword ・
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1241012874294464552/bigmaguc.gif?ex=6a16428e&is=6a14f10e&hm=6454c2f7687690fc7bde2e081162e5eb0933942c28b1929120fe180b22a74d6a&
+
+
+[2024/05/17 22:02] apokalypse6
+Woah wtf that looks dope as hell
+
+
+[2024/05/17 22:02] apokalypse6
+There could be a boss who just chills outside the tiles at the edge and throws attacks at you
+
+
+[2024/05/17 22:03] apokalypse6
+but, the statue exists, so...
+
+
+[2024/05/18 5:09] da_dogbar
+replace the blood service reroll with just a dice consumable
+
+
+[2024/05/18 5:10] apokalypse6
+problem with that is, if you have full inventory
+
+
+[2024/05/18 5:11] apokalypse6
+and you dont want ot get rid of anything
+
+
+[2024/05/18 5:11] da_dogbar
+you can bring the dice to the next shop though
+
+
+[2024/05/18 5:12] apokalypse6
+huh?
+
+
+[2024/05/18 5:12] apokalypse6
+How
+
+
+[2024/05/18 5:12] apokalypse6
+Inverntory is full
+
+
+[2024/05/18 5:29] da_dogbar
+when your inventory isnt full i mean
+
+
+[2024/05/18 5:30] da_dogbar
+getting like 3 dice into the moonlit port shop would be sick
+
+
+[2024/05/18 5:30] apokalypse6
+yeah but still
+
+
+[2024/05/18 6:43] seeminglyunrelated
+you could also try like... a nonlinear speed somehow to make it start slow (as if charging up a powerful attack) and end fast with a slam
+
+
+[2024/05/18 19:51] apokalypse6
+Visual idea: Weather
+I don't know, looking back at the old shogun arena with bamboo background being at night with rain is pretty cool
+Rain shouldn't be hard to code to appear randomly, and there could be a button to disable it in the options for people with performance issues. Other Weather like Thunder or something could be added too
+It definitely would be cool to see and it would remove just a little bit of repetitiveness.
+Making some rare weather events would be even cooler to see in game, it would make hunting for those really cool too. Weather could be changed every combat room or region. Intensivity of rain or other events would be really neat too, but I don't know if that's configurable in code.
+Here are some of my ideas for different weather: Normal (Sunny), Cloudy (More clouds and darker than usual) , light drizzle (a bit dark and unsaturated), Rain (Rain like we see at the shoguns castle), Stormy (Really strong rain), Fog (Maybe just a small overlay with fog, similar to ||Ieyasu's Gardens|| back fog), Thunderstorm (Dark, strong rain and additional thunder), Solar Eclipse (Really rare event were it becomes dark)
+Combinations of weather events would be cool too I guess? Some sound effects for rain and thunder could be really nice to listen too, and they could be disabled in the settings.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1241342447359885385/20230526155202_1.png?ex=6a1623fe&is=6a14d27e&hm=1ec826c59cd9cdf676f5693d488b392bfde881ecfcd712f511d5c5dd24be5ac7&
+
+
+[2024/05/18 21:19] da_dogbar
+weather could be cool if it would also change gameplay
+
+
+[2024/05/18 21:20] da_dogbar
+like a thunderstorm that adds lightning to a random enemy's attack queue every 20~ turns
+
+
+[2024/05/18 21:21] apokalypse6
+no... that actually not a good idea
+
+
+[2024/05/18 21:21] da_dogbar
+why not
+
+
+[2024/05/18 21:21] da_dogbar
+it forces you to stay inbetween enemies to avoid the strikes
+
+
+[2024/05/18 21:22] apokalypse6
+Mirko has been trying to faze out rng in fights
+
+
+[2024/05/18 21:22] da_dogbar
+fair enough ig
+
+
+[2024/05/18 21:45] dragon_of_celts
+https://discord.com/channels/965169818309369858/965176630588882954/1121366935611920396
+
+
+[2024/05/18 21:45] apokalypse6
+yeah but that has effecs...
+
+
+[2024/05/18 21:46] apokalypse6
+Just talking about visual effects in mine
+
+
+[2024/05/19 0:15] seeminglyunrelated
+agreed
+
+
+[2024/05/19 0:30] apokalypse6
+# Senhime the Kind #
+60 HP (70 HP on day 5 and higher)
+Description: Senhime doesn't want to hurt anyone, but the shogun forces her.
+Unfreezable
+Level: 7 cells. Player is on the second one and Senhime on the sixth.
+## Attacks ##
+1: Double Strike Summoning Bell, Double Strike Summoning Bell (4 Summons)
+2: Mass Shielding (Shields everyone beside the her and the hero), Self Shielding
+3: Volley
+4: Nagiboku
+
+Behaviour: Senhime always uses the 1st attack first. Always tries to back up. Only uses 1st attack if all enemies are gone.
+Location: Region 7, Senhime's Bastion
+## Voice Lines ##
+"I'm sorry..."
+"I'll make it quick."
+"Close your eyes..."
+"Fumiko will watch over your Soul..."
+"Thanks for sparing my grandfather..."
+Corrupted Voiceline:
+"Commit Seppuku. Makes this easier for both of us."
+
+||Senhime is actually Ieyasus Granddaughter In real life.||
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1241412496884240454/SenhimeIdle_scaled_5x_minified.gif?ex=6a16653b&is=6a1513bb&hm=b52514f5a52ed6f744dded2b5123628c15d24e8e1371973c5523f587610010f3&
+https://cdn.discordapp.com/attachments/965176630588882954/1241412497492152403/image.png?ex=6a16653b&is=6a1513bb&hm=0cfcf6ec0e53141588085169e766896a30d20af65cfb5328119259b423b3aca5&
+
+
+[2024/05/19 0:31] chapples4
+What if we brutally murder fumiko? How they gonna watch our sould if they dead :curse:
+
+
+[2024/05/19 0:31] chapples4
+Joke aside, looks really good
+
+{Reactions}
+猪 (2)
+
+[2024/05/19 0:33] da_dogbar
+Thats actually sick
+
+{Reactions}
+猪
+
+[2024/05/19 0:35] stillborn
+las plagas fumiko on resident shogun 操
+
+
+[2024/05/19 0:35] stillborn
+good job for a pixelart
+
+
+[2024/05/19 0:42] da_dogbar
+4 enemies would be a lot for a 7 tile level though
+
+
+[2024/05/19 0:43] da_dogbar
+what enemies would she spawn?
+
+
+[2024/05/19 0:44] apokalypse6
+ashigaru, twin tachi, yari, yumi, guardian, shinobi, grappler (Corrupted version adds shadow dasher and kabukei)
+
+
+[2024/05/19 1:27] seeminglyunrelated
+love it
+
+{Reactions}
+猪
+
+[2024/05/19 2:35] miyucomics
+An enchantment that makes you step two tiles forwards ( if possible ) before preforming the tile and then go back to your original position
+
+
+[2024/05/19 2:49] the_talha
+call the enchantment walking stick
+
+
+[2024/05/19 2:49] the_talha
+tho srsly i dont see any way thisd be useful
+
+
+[2024/05/19 7:15] miyucomics
+It lets you get close enough to trigger things like Close Quarters, lets you use your meelee tiles, etc...
+
+
+[2024/05/19 7:15] apokalypse6
+Then just... walk?
+
+
+[2024/05/19 7:15] apokalypse6
+It doesnt even let you dodge anything
+
+
+[2024/05/19 7:15] apokalypse6
+this is worse than perfect strike
+
+
+[2024/05/19 7:23] seeminglyunrelated
+:curse:
+
+
+[2024/05/19 7:23] seeminglyunrelated
+Perfect strike should get buffed
+
+
+[2024/05/19 7:24] apokalypse6
+fun fact, it already got buffed once, didnt change a thing
+
+
+[2024/05/19 7:24] apokalypse6
+rework anyone?
+
+
+[2024/05/19 7:24] seeminglyunrelated
+Given how useless it is it should *remove* 2 cooldown as payback for taking up the enchantment slot
+
+
+[2024/05/19 7:25] apokalypse6
+HAHAHA!
+
+
+[2024/05/19 7:25] apokalypse6
+now that makes it... still horrible
+
+
+[2024/05/19 7:25] apokalypse6
+how about: If a enemy is killed by this tile, recharge all tiles by 2 cd.
+
+
+[2024/05/19 7:25] apokalypse6
++2 cd on tile
+
+
+[2024/05/19 7:27] seeminglyunrelated
+Ok perfect strike but all tiles get recharged by two cooldown
+
+
+[2024/05/19 7:27] apokalypse6
+no, if you kill a enemy in general
+
+
+[2024/05/19 7:27] apokalypse6
+no perfect killing
+
+
+[2024/05/19 7:28] seeminglyunrelated
+逐 bros tryna make the next kunaimancer
+
+
+[2024/05/19 7:28] apokalypse6
+Its not THAT op...
+
+
+[2024/05/19 21:32] apokalypse6
+Made the attack animation for senhime
+I know it looks really weird, buts its specially made for Volley and ||Nagiboku||.
+(Oh yeah, and a attack animations should be short too I think)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1241730234164707378/SenhimeAttack-export_scaled_5x_minified.gif?ex=6a163ba6&is=6a14ea26&hm=8738f5ba439b177f87bb47a073fc2335ad45370b16091290b2b24877f40dd421&
+
+
+[2024/05/19 21:33] apokalypse6
+||idk why the background flashes weirdly||
+
+
+[2024/05/19 21:33] da_dogbar
+remove twin tachis from the list of enemies she can spawn
+
+
+[2024/05/19 21:33] apokalypse6
+why
+
+
+[2024/05/19 21:33] da_dogbar
+easy cheese
+
+
+[2024/05/19 21:33] seeminglyunrelated
+looks like you got a frame with no background
+
+
+[2024/05/19 21:34] da_dogbar
+most bosses dont spawn twin tachis because you would be able to cheese them
+
+{Reactions}
+総
+
+[2024/05/19 21:34] apokalypse6
+This is ||Nagibokus|| animation btw
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1241730823762219048/SPOILER_NagibokuGif.gif?ex=6a163c32&is=6a14eab2&hm=c0cfd1ff59029494a18facc76b0339e4bcea9717a41e1f50c339751b74bcec5d&
+
+
+[2024/05/19 21:35] da_dogbar
+rei and baru can just punch them at you if you tried to do so
+
+
+[2024/05/20 8:37] keaton__mask
+I think an achievement for killing the Shogun with every damaging tile could be interesting
+
+
+[2024/05/20 8:37] apokalypse6
+terrible idea
+
+
+[2024/05/20 8:39] apokalypse6
+(Even if, the achievements are already premade for full release)
+
+
+[2024/05/20 9:04] keaton__mask
+Do you really need to ping me to tell me you think my idea is terrible, without even any elaboration as to why?
+
+
+[2024/05/20 9:04] apokalypse6
+i thought you had me blocked anyway
+
+
+[2024/05/20 9:05] keaton__mask
+And this is why.
+
+
+[2024/05/20 9:05] apokalypse6
+ok bro
+
+
+[2024/05/20 10:47] averagefoxenthusiast
+It might be a good idea to make it so that if you've beaten day n with any character, then day n+1 is unlocked for all other characters (although the default day for each character could still be 1 higher than the highest day you've beaten with said character as it is now). That way if a player finds the first few days too easy they don't have to grind them out for every character in order to unlock the higher days.
+
+{Reactions}
+総梢
+
+[2024/05/20 10:48] apokalypse6
+Now thats a cool idea
+
+
+[2024/05/20 10:49] apokalypse6
+Hated pushing wanderer and jujitsuka because of their low days
+
+
+[2024/05/20 10:49] apokalypse6
+Granting acces to higher days without the stamps is a good idea
+
+
+[2024/05/20 17:41] the_talha
+A character that has the starting tiles curse and katana and has the same special ability  as wanderer
+
+
+[2024/05/20 17:41] the_talha
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1242034577724149800/image0.jpg?ex=6a16ae57&is=6a155cd7&hm=481965ede15c98a399de23f1cf22bef860df77aae338293ec5ca1527ede124c2&
+
+
+[2024/05/20 21:55] da_dogbar
+Give him the bo staff as a special move instead
+
+
+[2024/05/20 23:38] apokalypse6
+idk man
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1242124291940814960/Suspicious_Ieyasu.png?ex=6a165924&is=6a1507a4&hm=30d90ae18e3a0c2c0f25204963bd8fb033fbc7e9ae15fd9488c9654970819860&
+
+
+[2024/05/20 23:39] apokalypse6
+But that bo staff idea is kinda cool
+
+
+[2024/05/21 2:25] apokalypse6
+So, I played some PPG recently with mods, and one of them added some cool melee weapons. One in particular spiked my interest.
+**Double Pike**
+Damage: 2
+Cooldown: 6 or 7 (I know the sprite has 5, ignore that)
+Description: Strike the 2 cells ahead with piercing. If this kills a enemy, turn around and attack again. This loop is repeated until no enemy is able to be killed anymore.
+(Additional Info: Double strike activates after the loop has ended.)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1242166239422320731/DoublePike.png?ex=6a168035&is=6a152eb5&hm=5c62fc6b820614255c5ad2dc54208d7bde50b208f86a2c3a1c910ef698faa535&
+https://cdn.discordapp.com/attachments/965176630588882954/1242166239682629632/DoublePikeDS.png?ex=6a168035&is=6a152eb5&hm=9353bf6a4c74b1c94da0f8118e1c419501d66bc23a252fb18c0fc28add22e347&
+https://cdn.discordapp.com/attachments/965176630588882954/1242166239908860056/DoublePikeIce.png?ex=6a168035&is=6a152eb5&hm=00f1da970e59225ade1e22886bed0ebefcf4533b8565983fae839e2d03cd5e09&
+https://cdn.discordapp.com/attachments/965176630588882954/1242166240156319814/DoublePikeLightning.png?ex=6a168035&is=6a152eb5&hm=583b64d1a76c01eeba46db205de399eeea0127f664bcf956432c35ada9692dfe&
+https://cdn.discordapp.com/attachments/965176630588882954/1242166240370495488/DoublePikePoison.png?ex=6a168036&is=6a152eb6&hm=c4782225f04a2d71e4591335e2a3e3dc460a032dc4815c541a001835477e455f&
+https://cdn.discordapp.com/attachments/965176630588882954/1242166240575885454/DoublePikePS.png?ex=6a168036&is=6a152eb6&hm=ee6fd85f40473e59c78d39a2b2e906b4976ec194b0473929619ee7ce07f19259&
+
+
+[2024/05/21 2:46] apokalypse6
+Here is its animation :P
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1242171524694409297/DoublePikeAnim.gif?ex=6a168521&is=6a1533a1&hm=e7f37542ffb4f9e9fc5c8c506f8bec2dba801ce09d7a104a38806c53e8e58967&
+
+
+[2024/05/21 3:10] the_talha
+Beyblade
+
+
+[2024/05/21 3:26] apokalypse6
+Not at all...
+
+
+[2024/05/21 3:35] apokalypse6
+Omfg I really dont know if im just not intellectual enough to understand what you are saying, but I really dont know what you mean
+
+
+[2024/05/21 5:25] apokalypse6
+What does that even mean 亊
+
+
+[2024/05/21 10:25] seeminglyunrelated
+､ｫ ｧ鞘坂凾・・
+
+
+[2024/05/21 17:03] apokalypse6
+Takoyaki?
+
+
+[2024/05/21 20:40] apokalypse6
+Ok, shut up
+
+
+[2024/05/21 20:40] apokalypse6
+Stop talking like this
+
+
+[2024/05/21 20:40] apokalypse6
+And stop insulting me
+
+
+[2024/05/21 20:51] stillborn
+Can everyone calm down and stay humble? I thank you in advance 剌 総
+
+
+[2024/05/21 23:24] stillborn
+刄
+
+
+[2024/05/21 23:32] apokalypse6
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1242485293366509568/image.png?ex=6a1657da&is=6a15065a&hm=5eeb0b13d8a72877e9218a0ff0b668b7b50a850141c12f88210a06f089dc2c17&
+
+{Reactions}
+curse (2)
+
+[2024/05/22 1:18] apokalypse6
+https://tenor.com/view/autism-gif-9632833
+
+{Embed}
+https://tenor.com/view/autism-gif-9632833
+https://images-ext-1.discordapp.net/external/pBlROZ184WDjb36drUWeP7BxfH9ME9QSKPpnRiWkqKw/https/media.tenor.com/q758mtCFaS4AAAAe/autism.png
+
+
+[2024/05/22 2:11] stillborn
+縺企・讒倥←縺・◇ 繝ｪ繝ｩ繝・け繧ｹ
+
+
+[2024/05/22 2:20] da_dogbar
+at this point just dont feed the trolls
+
+{Reactions}
+総 ､ｷ
+
+[2024/05/22 2:21] apokalypse6
+~~Daddy ~~da dog coming to the rescue
+
+
+[2024/05/22 2:22] da_dogbar
+亠
+
+
+[2024/05/22 4:22] the_talha
+a way to look at previous runs would be nice
+
+
+[2024/05/22 4:23] the_talha
+as in like statistics
+
+
+[2024/05/22 4:23] the_talha
+not a full blown replay
+
+
+[2024/05/22 4:23] apokalypse6
+maybe the last 10 runs, and you can save your favorite runs and rename them
+
+
+[2024/05/22 4:25] apokalypse6
+why not tho
+
+
+[2024/05/22 4:25] apokalypse6
+maybe even a replay so people can record bugs without having to miss them
+
+
+[2024/05/22 4:35] the_talha
+I'm not saying a replay function wouldn't be nice but what I'm suggesting specifically is a way to look back on previous runs seeing what tiles you had, where you took damage which bosses you fought etc. Kinda like how slay the spire or astrea does it
+
+
+[2024/05/22 4:41] thefloralhurrikale
+Run overview would be pretty cool
+
+
+[2024/05/22 22:49] apokalypse6
+I made a mod for senhime! Should I release it to the public?
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1242836837521948693/image0.png?ex=6a164dc0&is=6a14fc40&hm=e1eafe1f164613fa0398e879ad979d053fa1ee1c8ad9729815194cd17fe18f97&
+
+{Reactions}
+剌 櫨 (3)
+
+[2024/05/22 22:50] apokalypse6
+(background is wip)
+
+
+[2024/05/23 0:33] thefloralhurrikale
+What does the boss replace?
+
+
+[2024/05/23 0:38] da_dogbar
+its just another stage 7 i think?

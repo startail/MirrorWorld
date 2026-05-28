@@ -1,0 +1,2000 @@
+﻿
+
+[2025/04/21 13:27] mythicalgriffy
+I always forget the names
+
+
+[2025/04/21 13:29] scoutguy
+I feel like this would fit better in nobunaga's palace
+
+
+[2025/04/21 13:36] mythicalgriffy
+Why not all 3 final areas
+
+
+[2025/04/21 13:36] mythicalgriffy
+Like the other new spawn
+
+
+[2025/04/21 13:37] Deleted User
+I had originally intended for it to be a replacement enemy for the shadow charger to differentiate the region's enemy appearances along with another I was making for Hideyoshi's Keep
+
+
+[2025/04/21 13:37] Deleted User
+but the other one's concept seemed too annoying so I just posted this one
+
+
+[2025/04/21 13:41] me_heliotrope
+what did you have in mind for the hideyoshi's keep enemy?
+
+
+[2025/04/21 13:42] Deleted User
+glass cannon ranged enemy, a quick yumi sniper that fires an arrow if it gains LoS
+
+
+[2025/04/21 13:44] me_heliotrope
+maybe take away quick on default? It'd be less dangerous than an archer in practice, because you can open up LoS while it's firing volley to give yourself more time to kill it
+
+
+[2025/04/21 13:45] Deleted User
+hmm yes that would work
+
+
+[2025/04/21 14:00] scoutguy
+if you add this in a mod or something lmk, I'd love to playtest
+
+
+[2025/04/21 21:24] mythicalgriffy
+Oooo ok gotcha
+
+
+[2025/04/24 4:08] wuzet
+I feel absurdly out of place proposing this, as I have no claim to such titles, but I'm starting to feel some in-build speedrunning tools would be nice; in particular:
+* splits (nice by themselves, with comparisons to PBs would be awesome)
+* fast retry (would be nice to have "restart" be an option available immediately when giving up; I find myself wishing for it when I'm grinding no-hit runs)
+
+
+[2025/04/24 4:25] wuzet
+Even an individual timer (i.e. how long a particular stage has taken) would be nice
+
+
+[2025/04/24 4:37] diamonddj37
+Whirlwind - new weapon - When this attacks it will drag the nearest opponent on both side next to you
+
+
+[2025/04/24 4:37] diamonddj37
+0 Dmg and 6 Cd
+
+
+[2025/04/24 4:38] diamonddj37
+It meant to be a grappling hook for both sides
+
+{Reactions}
+総 (2)
+
+[2025/04/24 6:28] double_dot
+splits are to be done by the community, it's an external software
+
+
+[2025/04/24 6:39] elcabeo
+good for setting up combos but very op for damage scaling, functionally a lower cooldown chakram without enemy kill buffs, it would share the central dominion and combo cooldown synergy along with some enchant shenanigans
+
+
+[2025/04/24 6:39] elcabeo
+it should probably be added as a damageless freeplay tile
+
+
+[2025/04/24 6:45] diamonddj37
+I was thinking about making deal no damage (so i cant gain damage) and making it free play but was trying to base it of more of grappling hook
+
+
+[2025/04/24 6:45] diamonddj37
+i also change it to 6 cus 4 is low
+
+
+[2025/04/24 7:06] mythicalgriffy
+you could make it a non damaging tile and give it free play
+
+
+[2025/04/24 7:06] mythicalgriffy
+but i love the concept
+
+
+[2025/04/24 7:32] diamonddj37
+That what I meant
+
+
+[2025/04/24 7:34] mythicalgriffy
+Oo ok
+
+
+[2025/04/24 15:28] wuzet
+It hasn't always been the case, many older games kept track of your times by themselves. Many current ones keep a detailed archive of past runs' data. And the hassle of starting up external software and needing to bookkeep separately defeats the purpose when you aren't *actually* speedrunning.
+
+
+[2025/04/24 15:29] wuzet
+What I imagine is a "scorecard" along the lines of this rough sketch:
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1364850640379183104/shogun.png?ex=6a168f36&is=6a153db6&hm=af3b54c7254b796c7787d49f7973e458aea796a8945641a8985e97ca3b367c0e&
+
+{Reactions}
+櫨
+
+[2025/04/24 15:29] wuzet
+It would also be pretty nice to share in place of the dim victory screenshots
+
+
+[2025/04/24 15:30] wuzet
+Plus not necessary to think whether or not a run deserves a screnshot at a time of it ending
+
+
+[2025/04/24 17:28] voidfulfool
+Yooo I kinda like this
+
+
+[2025/04/24 20:49] double_dot
+with an external software you could easily do that
+
+
+[2025/04/24 20:50] double_dot
+I had made a software 2 years ago: https://github.com/ForwardFeed/ShogunShowdownRunTracker
+
+{Embed}
+https://github.com/ForwardFeed/ShogunShowdownRunTracker
+GitHub - ForwardFeed/ShogunShowdownRunTracker: a run tracker made w...
+a run tracker made with bambou sticks and papyrus until the dev team provide a proper API - ForwardFeed/ShogunShowdownRunTracker
+https://images-ext-1.discordapp.net/external/ghMEWuaPwpT099-M2waawXDhmjW1sVoh_52CVoc_fog/https/opengraph.githubassets.com/73f82cb940cbae29e81ff09b2300250a898e2b8124a590c39d06605ed18a6a9e/ForwardFeed/ShogunShowdownRunTracker
+
+
+[2025/04/24 20:51] double_dot
+well, more a script than a software, but it's able to track down a player progress by watching the savefile
+
+
+[2025/04/24 20:58] wuzet
+Huh. Didn't realize the game is this old 刄 Fun idea, I'll play around myself too and see if that still works, I wonder what exactly is written in that file. (If I find time for such that is...)
+
+
+[2025/04/24 21:06] double_dot
+if you want to know what it's written, it's json encoded in base64, it's pretty straight forward
+
+
+[2025/04/24 21:08] wuzet
+Yeah, I see that from one of the lines in your code, never thought to look
+
+
+[2025/05/01 4:34] i32xe
+it would be funny if the game also displayed your worst time, turns, hits, and combos with each character
+
+
+[2025/05/01 6:41] mythicalgriffy
+Lol that would be great
+
+
+[2025/05/01 20:41] i32xe
+sato窶冱 窶徭hortest play窶・achievement is pretty cool, but i think there is unexplored potential with analogous achievements for other bosses. here is what i though of (i _think_ all of these are possible, though fumiko窶冱 is pretty hard):
+
+
+[2025/05/01 20:41] i32xe
+Floor is Lava
+Defeat Iwao without standing on tiles which where Earth Impale was previously cast
+
+Impenetrable Fortress
+Defeat Baru with 5 Barricades on the battlefield
+
+Claustrophobia
+Defeat the Twins while always staying between them
+
+Stone Cold Stare
+Defeat the Statue without ever losing sight of it (turning around or having an enemy between you)
+
+Foolishly Brave
+Defeat Kowa with a deck consisting of only melee tiles
+
+Ghostly Presence
+Defeat Fumiko without starting your turn adjacent to her
+
+Intricate Dance
+Defeat Hideyoshi moving only with the help of tiles
+
+Lights Out
+Defeat Nobunaga without the lights ever changing their position
+
+Impatient
+Defeat Ieyasu without dealing more than 5 damage total in a single turn
+
+{Reactions}
+櫨 (5)
+
+[2025/05/01 20:42] i32xe
+it could be nice to have something like this as an additional challenge, especially if you get the difficulty right
+
+
+[2025/05/02 10:10] uilexam
+how is nobunaga possible
+
+
+[2025/05/02 10:11] uilexam
+that's literally otk nobunaga
+
+
+[2025/05/02 10:13] i32xe
+by killing him in one turn. i have actually done that. the best way to do that is probably high damage sai + curse, and timing the attack right before his. this quadruples sai damage, so you can deal about 30 in one blow. finishing the 10 with 2 tiles is relatively easy
+
+
+[2025/05/02 10:13] i32xe
+(uncorrupted nobunaga has 40 hp)
+
+
+[2025/05/02 10:14] uilexam
+Charged with Betrayal
+Defeat Daisuke by having a charger deal the finishing blow.
+
+{Reactions}
+総 (2)
+
+[2025/05/02 10:15] i32xe
+lol that窶冱 actually pretty challenging because of the level being only 5 squares
+
+
+[2025/05/02 10:15] uilexam
+No more than otk nobu
+
+
+[2025/05/02 10:15] i32xe
+that窶冱 fair
+
+
+[2025/05/02 10:18] uilexam
+Friendly Fighter
+Defeat Rei and her minions without them dealing any friendly fire (punching the hero into a minion counts).
+
+
+[2025/05/02 22:52] mythicalgriffy
+those ideas are awesome
+
+
+[2025/05/02 23:04] scoutguy
+sai or kunai
+
+
+[2025/05/03 1:45] i32xe
+oooh that窶冱 a really good one actually
+
+
+[2025/05/03 1:48] mythicalgriffy
+^
+
+
+[2025/05/03 7:24] scoutguy
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1367990132312899624/Nobunaga_OTK.mov?ex=6a16c657&is=6a1574d7&hm=6bb6c0b0d3c9c2a6b9eeec8316d48d8522f738bb22788cd24b414516173a822b&
+
+{Reactions}
+櫨 (3)
+
+[2025/05/03 8:29] voidfulfool
+Peak
+
+{Reactions}
+櫨 (2)
+
+[2025/05/03 9:27] mythicalgriffy
+Hell yeah
+
+
+[2025/05/05 3:46] lcr8
+*sees day 1*
+
+
+[2025/05/05 3:56] scoutguy
+the sato achievement doesn't require you to be on any particular day
+
+
+[2025/05/05 4:12] lcr8
+I know, but still窶ｦ
+
+{Reactions}
+trollskull (2)
+
+[2025/05/05 10:12] uilexam
+wdym
+
+
+[2025/05/05 10:12] uilexam
+are you expecting otk nobunaga on day 7?
+
+
+[2025/05/05 10:44] scoutguy
+I mean tbf it'd still be a otk with that build but still
+
+
+[2025/05/05 10:46] uilexam
+actually, i don't think so
+
+
+[2025/05/05 10:46] uilexam
+if i remember corrupted nobu has 50 health
+
+
+[2025/05/05 10:46] uilexam
+your combo there dealt 42
+
+
+[2025/05/05 10:46] scoutguy
+I think I could've still done it
+
+
+[2025/05/05 10:46] uilexam
+i guess if you fully charged chakram it would have
+
+
+[2025/05/05 10:47] uilexam
+barely with 51
+
+
+[2025/05/05 10:47] scoutguy
+nah I had these too
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1368765945492934706/image.png?ex=6a164d1f&is=6a14fb9f&hm=70057c5fa2f2ca51d3c6e7d985889ca7ff48485a2c3b5a40b89d5a372a650b3d&
+
+
+[2025/05/05 10:47] scoutguy
+although that might still not be enough
+
+
+[2025/05/05 10:47] scoutguy
+if only I got monomancer that run
+
+
+[2025/05/05 10:47] scoutguy
+and I would've needed a mirror card
+
+
+[2025/05/05 10:51] scoutguy
+5 + (10x6) ?
+
+
+[2025/05/06 3:52] wuzet
+I think we can cook up some wild combos to reach that ・ how about three double striker blades of patience loaded to the max? 3x2x9 is 54 already. throw in a curse to start with and we're at 63
+
+
+[2025/05/06 3:53] voidfulfool
+Ykw someone get a mod in where it窶冱 just weapon choices only
+
+
+[2025/05/06 3:53] wuzet
+that's what I find lacking about most achievements though; and once you get them on day 1 there's no tracking (other than by self) for other days
+
+
+[2025/05/06 3:53] voidfulfool
+And remove the cap of maximum of 3 weapons queued at a time
+
+
+[2025/05/06 3:54] voidfulfool
+Now we窶决e cooking fr fr
+
+
+[2025/05/06 3:54] scoutguy
+I'd love a DLC where it goes past the shogun
+
+
+[2025/05/06 3:54] wuzet
+that's not cooking, that's takeout ・
+
+
+[2025/05/06 3:54] voidfulfool
+Ong it窶冱 been a discussion for awhile
+
+
+[2025/05/06 3:54] voidfulfool
+Even an discussion for infinite wave mode
+
+
+[2025/05/06 3:54] voidfulfool
+Cough cough totally wasn窶冲 me that started it-
+
+
+[2025/05/06 3:56] scoutguy
+there are so many times I've gotten to the end with a build wishing that I could use it more
+
+
+[2025/05/06 3:56] scoutguy
+its lowkey genius design as well because most of the time your best builds are only used on the final stage
+
+{Reactions}
+総 (3)
+
+[2025/05/06 3:57] scoutguy
+which makes you want to play again to taste it once more
+
+
+[2025/05/06 4:23] voidfulfool
+Ngl kinda sounding smth familiar窶ｦ
+
+{Reactions}
+于
+
+[2025/05/06 4:23] voidfulfool
+Yk yk窶ｦ
+
+
+[2025/05/06 4:33] wuzet
+Chocolate doesn't have the "build you own taste" appeal though ・
+
+{Reactions}
+笨・
+
+[2025/05/09 23:40] solhollow_
+tile idea: sticky dart
+shoots an enemy directly ahead, inflict a gooey sticky ball, the shot enemies will drag the stuck-on other enemies as they move
+
+
+[2025/05/09 23:42] solhollow_
+and vice versa if the moving enemy didn't get shot but at the end of that sticky line, he will drag the front ones backward (max 3 sticky bois in chunk)
+
+
+[2025/05/10 2:58] i32xe
+lol minecraft sticky pistons
+(actually that does sound fun, even if not extremely useful)
+
+
+[2025/05/10 12:37] solhollow_
+Pull Yumi snipers forward, I hate how they keep backing down
+
+
+[2025/05/10 12:38] solhollow_
+Or if the sniper was the one moving in that turn, you can have the about-to-attack first one in line dragged a step back
+
+
+[2025/05/10 12:38] solhollow_
+It's about reading the movements
+
+
+[2025/05/10 12:39] solhollow_
+And also..
+||stick shogun to the statue for some turns||
+
+
+[2025/05/10 14:30] robot093
+idea for a new status effect: soulbound (very original - no other games have this trust)
+
+{Reactions}
+・
+
+[2025/05/10 14:30] robot093
+soulbound enemies will take equal damage to that being dealt to other soulbound enemies
+
+
+[2025/05/10 14:31] robot093
+so if you attack one enemy for two damage, the other soulbound enemy will also take two
+
+
+[2025/05/10 14:32] robot093
+an infinite amount of enemies can be soulbound together for combos
+
+
+[2025/05/10 15:49] wuzet
+that's not entirely new, The Twins already sort of have that under the hood 凾 I don't see how this would be applied though, only a few weapons hit more than one target without necessarily killing the previous one (Earth Impale, Chakram, Spear, Crossbow); and as a potion it would have to hit everybody, which would probably be OP
+
+
+[2025/05/10 23:53] chapples4
+This could also make for an interesting boss that tries to soul bind you to an enemy
+
+{Reactions}
+総
+
+[2025/05/11 1:52] robot093
+just make it a new tile or an effect similar to curse
+
+
+[2025/05/11 1:53] robot093
+for example: spirit arrow - hit the first target ahead and apply soulbound (0 dmg, 4 cd)
+
+
+[2025/05/11 1:54] robot093
+or make it so that you can enchant tiles to apply soulbound
+
+
+[2025/05/11 1:54] robot093
+this would be a terrifying fight lol
+
+
+[2025/05/11 1:57] chapples4
+Exactly
+
+
+[2025/05/11 3:28] wuzet
+I get that, but this means you need to hit one guy with the arrow, wait 4 turns, hit another guy with the arrow, and only then are you able to start reaping the rewards. Most enemies I would expect to be the dead sooner than within 8 turns of spawning
+
+
+[2025/05/11 3:29] wuzet
+Unless you applied it to a boss and then kept spellbounding his spawns (or statue + his summoner) the rewards seem minimal
+
+
+[2025/05/11 3:45] robot093
+the cooldown is variable
+
+
+[2025/05/11 3:46] robot093
+or just make the arrow hit multiple targets
+
+
+[2025/05/11 21:49] i32xe
+relatively minor suggestion:
+if you get all the gold stamps with a character yoy can pick any starting tiles with them
+
+
+[2025/05/11 21:51] i32xe
+this is effectively already being done through modding / manipulating saves, would not affect the balance, as it窶冱 only unlocked after all gold stamps, and would make the game a lot more fun due to challenges like 窶徘ick two bad tiles and try to beat day 7窶・
+
+{Reactions}
+筮・ｸ・総
+
+[2025/05/12 1:47] mythicalgriffy
+Gold stamps for every day would be cool
+
+
+[2025/05/12 1:48] mythicalgriffy
+For the gold stamp in the middle you get from beating the  shogun at day 7 you could repurpose it by saying regular stamp is beating the shogun - gold stamp is unlocking all other stamps for the day after beating the shogun
+
+
+[2025/05/12 3:10] wuzet
+I said a very similar thing when I first joined here 凾 would be really nice
+
+{Reactions}
+櫨
+
+[2025/05/14 4:14] wuzet
+With some reasonable exclusions, here's a (super original, I know, quite possibly having been proposed already) challenge idea: every time you use a tile, it transforms into a different tile, with random enchantment, level, strength etc. For lowered RNG it could be "similar" in playstyle/damage/level of upgradedness.
+
+
+[2025/05/14 4:18] wuzet
+Or to tone it down even further, make it the Random Enchantment, which changes enchantment type after every use
+
+
+[2025/05/14 4:19] i32xe
+i think this is too little random for the spirit of the challenge and just sort of annoying
+
+
+[2025/05/14 4:19] i32xe
+i窶囘 say it should be equivalent to warriors gamble - same number of upgrades, completely randomised
+
+
+[2025/05/14 4:19] wuzet
+I don't know, a 0 cooldown Random Katana sounds fun
+
+
+[2025/05/14 4:20] mythicalgriffy
+Hell yeah
+
+
+[2025/05/14 4:20] mythicalgriffy
+Id run it
+
+
+[2025/05/14 4:21] i32xe
+it gets the inconsistency of random enchantments, but doesn窶冲 quite get the fun of a new weapon every turn
+
+
+[2025/06/15 9:55] solhollow_
+Imagine double strike bo or swap toss
+
+
+[2025/06/16 6:35] wuzet
+The enemies would get dizzy I guess
+
+
+[2025/06/22 5:29] tommy8635
+i would love to have a blood-dagger thing it heals you if you kill 5 enemy with it ・
+
+
+[2025/06/22 5:35] uilexam
+elaborate
+
+
+[2025/07/01 2:07] da_dogbar
+killer assassin achievement: kill the shogun, while he in shogun's castle
+
+
+[2025/07/01 3:06] normalizednoob
+窶ｦso just kill the shogun?
+
+
+[2025/07/01 4:07] da_dogbar
+while he in shogun's castle
+
+
+[2025/07/01 4:18] mythicalgriffy
+???
+
+
+[2025/07/01 4:58] double_dot
+GUYS, THE SHOGUN ESCAPED!
+
+
+[2025/07/01 5:03] apokalypse6
+Shoguns parable
+
+
+[2025/07/01 6:15] normalizednoob
+???wydm???he窶冱 always in the castle???
+
+
+[2025/07/01 6:15] da_dogbar
+??
+
+
+[2025/07/01 8:40] chapples4
+Can you tell me, when the shogun is *not* in the castle?
+
+
+[2025/07/01 8:40] chapples4
+Don窶冲 say ??? Cause that窶冱 literally a whole different beast
+
+
+[2025/07/01 10:01] double_dot
+no the shogun escaped
+
+
+[2025/07/01 10:01] double_dot
+he's now in mario world 1-1, saving the princess
+
+
+[2025/07/01 10:54] normalizednoob
+D:
+
+
+[2025/07/03 22:24] da_dogbar
+when he in the castle
+
+{Reactions}
+櫨
+
+[2025/07/04 0:14] chapples4
+I窶冦 going to hurt someone
+
+
+[2025/08/07 3:46] da_dogbar
+killer assassin achievement
+
+
+[2025/09/10 13:10] badpuntss
+So uhm... there's a little personal project i'm working on in my spare time, probably gonna take a long while and lots is shaping up on the way, but... just curious about something and whether maybe you guys could share some fun ideas...
+
+If "Shogun Showdown" were to be adapted into a board game - how would you want it to be like?
+
+I'll withhold what i went with so far, since i don't wish to influence any raw ideas you might have here^^'
+
+
+[2025/09/10 13:57] uilexam
+this sounds like a crazyily radical concept
+
+
+[2025/09/10 13:57] uilexam
+how would this work
+
+
+[2025/09/10 15:05] undurable
+the only way this would work is if its player vs player
+
+
+[2025/09/10 16:02] badpuntss
+Tbf thats what i wanted to ask, maybe there happen to be some board game enthusiasts here that have some ideas^^ Ofc its tricky since itd need adapting some concepts instead of going 1:1, but hey, who knows^^
+
+As for what i have, i sketched out a rough deckbuilder with more traditional card and hand management, doing tweaks to track "cooldowns" via not shuffling the discard pile (flipping it instead) and players having actions to move around, queue cards or resolve the queue. Simple, but nothing groundbreaking, hence was curious what ya'll think^^'
+
+
+[2025/09/10 16:05] badpuntss
+I did start a draft with that mode only, but to be fair, there could be ways to try pve co-op or pve "rivalry" (i.e. racing to score last hits for points). Though thatd require setting some rules for spawning enemies and determining their intent via, say, color-coded tokens (e.g. check attack range and angle, if theres an enemy - plan attack, if not, plan a move to turn or close the gap), giving players a turn when they see enemy intents but before they are resolved, reflecting the friendly fire baits^^
+
+
+[2025/09/10 16:06] badpuntss
+Im impressed at how slay the spire captured something like that in its board game adaptation, although it didnt include a 2d board or elaborate tile management.
+
+
+[2025/09/10 16:07] badpuntss
+Whatcha think a shogun showdown would need to get right when adapting? Any parts like bait shenanigans that would be essential for this kind of adaptation?
+
+
+[2025/09/10 16:22] badpuntss
+As a concrete example - the sketch i have does not include upgrading tiles manually, instead there are non-move-tile cards in players' decks that allow some tweaking (i.e. returning a card from discard to hand, queuing an extra card, etc.). Though, i can imagine that tile-building and buffing is quite at the core of ShoSho so... im guessing i should consider sth more appropriate?^^
+
+
+[2025/09/10 20:37] n.h.l
+Do you know the board game: Colt Express?
+In Colt Express you move on one of two one dimensional lines with your character to collect loot and attack players. Everyone has to program his moves first into a common deck and later you execute the common deck.
+
+Maybe something similar would work with your board game adaption.
+
+
+[2025/09/10 21:43] badpuntss
+Haven't heard of it but now i gotta check it out, i'm sure bgg or tts have a rulebook somewhere^^ Thanks a lot for the recommendation! 笶､・・
+
+
+[2025/09/10 22:33] n.h.l
+You can play Colt Express on boardgamearena.com, but it is a "premium" game so you can't open tables with this game yourself but you can join tables for free.
+
+
+[2025/09/10 22:34] n.h.l
+(you still have to learn the rules beforehand)
+
+
+[2025/09/10 23:15] badpuntss
+Interesting, never checked that site, but it seems its fully available on tts due to workshop uploads, so that's more than enough for my needs^^ Also checked out the rulebook and aye, i totally get the recommendation, it's a shame there wasnt a reprint in years cause it looks pretty fun ・
+
+
+[2025/09/10 23:16] badpuntss
+There was seemingly a reissue but it seems to lack the two-layer cars, which is a shame, i wish more games would make use of cardboard standees like these (recently saw that in chronicles of avel and its offshoot dungeon legends, a pleasant surprise and hope other companies pick it up, an easy way to add immersion^^)
+
+
+[2025/09/10 23:16] n.h.l
+there are multiple reprints
+
+
+[2025/09/10 23:17] n.h.l
+Colt Express: 10th Anniversary Edition 窶・English edition (2024)
+
+{Reactions}
+舒
+
+[2025/09/10 23:17] n.h.l
+Colt Express XXL 窶・English/French edition (2025)
+
+
+[2025/09/10 23:38] n.h.l
+@Blu Is this your first attempt to develop a board game?
+
+
+[2025/09/10 23:43] badpuntss
+Not exactly, been trying this and that as a hobby but i'd eventually end up hitting a roadblock where i'd move on (usually life stuff not leaving enough time and energy for the crunchy parts of the design, especially testing). Most of the stuff i managed to finish was reskins of games or fan addons^^'
+
+
+[2025/09/11 0:02] n.h.l
+sounds similar to my attempts
+
+
+[2025/09/11 0:26] badpuntss
+Well, let's be fair, trying to make something more complex by yourself is a tough thing due to how many things there are to make at once^^ And gotta be prepared to do testing, keep up with versions and revisions and all that jazz, it's pretty hard to keep up^^
+
+
+[2025/09/12 16:09] badpuntss
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1415957379509387354/image.png?ex=6a169892&is=6a154712&hm=d11a6804a825911e1c9fb0d723f097f7c0a34ee838a7f44a8b285728993b99f6&
+https://cdn.discordapp.com/attachments/965176630588882954/1415957380105240639/image.png?ex=6a169892&is=6a154712&hm=1568706344d70ebe22aee247fbb7fd92c9fef3640fb8184b0855cb5814c286aa&
+
+{Reactions}
+櫨 (5)
+
+[2025/09/12 16:10] badpuntss
+Well, still not sure if i'll keep the ShoSho setting, but got a prototype to try out, here's hoping it doesn't break, or at least not in unfixable ways・
+
+
+[2025/09/12 17:20] n.h.l
+How does multiplayer work?
+
+
+[2025/09/12 18:18] badpuntss
+Its not much different from solo, i went with 3 major round phases (enemy planning, player turn(s) and enemy resolving plans), condensing turns a bit to allow more stuff to do in a single player turn
+
+
+[2025/09/12 18:19] badpuntss
+So players go one by one and can join in when someone starts a "showdown" (i.e. resolving queued cards), so they can cooperate for team comboes
+
+
+[2025/09/12 18:20] badpuntss
+And for less clutter, players can also enter allied spaces, causing a shift in positions (friendly fire is still present everywhere ofc)
+
+
+[2025/09/12 18:21] badpuntss
+Havent managed to test it out yet though, it might as well require a lot of revamps^^'
+
+
+[2025/09/13 8:19] normalizednoob
+Woagh :O
+
+
+[2025/09/13 16:29] badpuntss
+Well, the initial test resulted in the Ronin wiping the floor with 12 enemies without taking a single hit, which... is pretty source-accurate, but still implies overtweaking^^
+
+@Nihil I might go a different route for the multiplayer since there might still be a lot of clutter-related issues. I'll probably try each player having a parallel lane with its own enemies (and allow swapping between them), since it'd free up space management and also take care of enemy scaling. Not yet sure how bosses would fit into it, but seeing how most can bring reinforcements, there might be something there to offset numerical advantage.
+
+
+[2025/09/14 8:30] normalizednoob
+are u saying that each player will have to fight their own boss? like there is 3 bosses (if they are 3 players) and each one fights each player?
+
+
+[2025/09/14 8:31] normalizednoob
+also btw wydm by "allow swapping between them"?
+
+
+[2025/09/15 17:26] badpuntss
+I havent touched bosses yet, we tested the 1-lane-per-player co-op thing so far and it seems to work pretty well, atm it needs restructuring numbers and setting some more ground to build stuff on afterwards
+
+
+[2025/09/15 17:28] badpuntss
+But atm ill try to figure out how to stick with a single shared boss for all players while scaling with numbers. Atm im considering reinforcements spawning on every lane, but might also account for increasing attacks reach beyond the bosses lane (funnily enough, swirl now strikes sideways too... although its also true for twin tachi, so it kinda evens out heh)
+
+
+[2025/09/15 17:29] badpuntss
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1417064754656313345/image.png?ex=6a16ab65&is=6a1559e5&hm=9825515aa773baf5ce28845349f463a4b8a4b658ebcaa14e4bbd9be05f0105ec&
+
+
+[2025/09/15 17:35] badpuntss
+Most of the time noone can enter a space with a fighter (save for direct placement like mirror or origin of symmetry), but there is a bread and butter movement that both players and npcs use to move/turn around (and, for co-op, to shift to a parallel space in an adjacent lane). Enemies may have exceptions, but players in general can use that action to enter the others space when adjacent, and since here swapping occurs when someone enters anothers space, players can switch between each other freely (the idea being to enforce and reward cooperation and reduce potential roadblocks in the case of unfortunate builds lacking mobility)
+
+
+[2025/09/15 17:38] badpuntss
+Im kinda set on expanding generic enemy capabilities to add some more tactical things - e.g. twin tachi move twice as fast and push aside allies to get to players (the aforementioned entry of their allies' spaces), guardians can do that onto player spaces if they slack and allow being overrun and displaced, etc etc
+
+
+[2025/09/15 17:40] badpuntss
+Though... tbf, im not sure how much of that i can say here heh, it is just a personal passion project still (at least for the foreseeable future until sth looks promising enough), and im not sure if i should spam about it here, especially that the property owners are here too xD
+
+
+[2025/09/16 17:32] n.h.l
+@Blu did you learn something from colt express?
+
+
+[2025/09/17 14:26] badpuntss
+Oh for sure, not really sure if ill take things from it (shosho's pretty particular in some aspects), but i like it a lot on its own, seems like a creatively fun game^^
+
+
+[2025/10/25 18:24] evabi
+i had the dumbest idea just now, oh god
+
+
+[2025/10/25 18:25] evabi
+alternative shogun showdown campaign, different endings and different bosses, bs like that
+
+
+[2025/10/25 18:25] evabi
+though there probably isnt much to change
+
+
+[2025/10/25 18:32] evabi
+if i have any ideas for the campaign, ill post them here because why not lmao
+
+
+[2025/10/25 18:32] evabi
+(watch me make it so that the player has to learn a conlang just to understand the dialogue, even though im already working on 5 conlangs)
+
+
+[2025/10/26 5:59] mythicalgriffy
+Do it!!
+
+
+[2025/11/01 3:43] marcos_lh
+Spam, scammer
+
+
+[2025/11/05 5:06] evabi
+if im able to, ill trrrry to extract the sprites and then make a small thing to show my idea of a campaign
+
+
+[2025/12/09 12:27] rdfish
+Odachi - 3 dmg, 6 CD, Freeplay
+Strike the first cell ahead. Triggers itself in queue after user moves forward. (removes itself from queue and goes on cooldown, activation does not advance another turn after moving forward)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1447791646514348083/CalvS.png?ex=6a16648b&is=6a15130b&hm=5ecb1f166809613691720d478f55dc78922d29808d79622fc5f14d32b4190434&
+
+{Reactions}
+櫨 (8)
+
+[2025/12/10 17:31] uilexam
+interesting concept
+
+
+[2025/12/14 10:02] henrya.benjamina47
+||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓| _ _ _ _ _ _  https://imgur.com/xuKvENe https://imgur.com/9AOwEzq https://imgur.com/qScxfr3 https://imgur.com/BjYM4WV @here
+
+{Embed}
+https://imgur.com/xuKvENe
+https://images-ext-1.discordapp.net/external/42_3EdyrY_WgTqqSPV3ZRxfuPdI3pmtov0xmm0vJ4As/https/i.imgur.com/xuKvENe.jpg
+
+{Embed}
+https://imgur.com/9AOwEzq
+https://images-ext-1.discordapp.net/external/bJkcEshPxgx8_1wByGlEx0a3eSSBuvjo9Yx7dClWsiA/https/i.imgur.com/9AOwEzq.jpg
+
+{Embed}
+https://imgur.com/qScxfr3
+https://images-ext-1.discordapp.net/external/1GgwTizgAEkh_hCiMd4LKB6aiX_wW5ktNzd0tNLD8e8/https/i.imgur.com/qScxfr3.jpg
+
+{Embed}
+https://imgur.com/BjYM4WV
+https://images-ext-1.discordapp.net/external/yAZqR43yB0WXgmfFPAPBMoX5-WfOFy8dX0d0mPgJ5YI/https/i.imgur.com/BjYM4WV.jpg
+
+
+[2025/12/15 6:34] joshia.
+Shadow would be so good with these
+
+
+[2025/12/15 7:59] henrya.benjamina47
+||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓| _ _ _ _ _ _  https://imgur.com/h7UbaVw https://imgur.com/NxYM5ZV https://imgur.com/gxfnZzb https://imgur.com/pwc857Z @here
+
+{Embed}
+https://imgur.com/h7UbaVw
+https://images-ext-1.discordapp.net/external/X-CQiVTcOihHSWELmvyeK6OYsy9AtgYJ6E9vhKCGsws/https/i.imgur.com/h7UbaVw.jpg
+
+{Embed}
+https://imgur.com/NxYM5ZV
+https://images-ext-1.discordapp.net/external/3tw8Bs-FU_X7Y94Dd6WEUXTw_SoYbA9lyWwk66fMsoA/https/i.imgur.com/NxYM5ZV.jpg
+
+{Embed}
+https://imgur.com/gxfnZzb
+https://images-ext-1.discordapp.net/external/XTZO_CsVNYLlKnXSaJt2Y1jSkEjOACVzfs_ZhA5UpoI/https/i.imgur.com/gxfnZzb.jpg
+
+{Embed}
+https://imgur.com/pwc857Z
+https://images-ext-1.discordapp.net/external/U01Lz_48imW_-VOJKVzYlZalH5nkP_24cR_efYBlh7g/https/i.imgur.com/pwc857Z.jpg
+
+
+[2025/12/16 6:40] henrya.benjamina47
+||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓|||窶弓| _ _ _ _ _ _  https://imgur.com/guxVE8D https://imgur.com/NJZXhAo https://imgur.com/xSKML0I https://imgur.com/bkFc1pP @here
+
+{Embed}
+https://imgur.com/guxVE8D
+https://images-ext-1.discordapp.net/external/jMcbZutB60rZBQ2rWQ8MV6xF6JH6rjloj7IFtAPEdfE/https/i.imgur.com/guxVE8D.jpg
+
+{Embed}
+https://imgur.com/NJZXhAo
+https://images-ext-1.discordapp.net/external/zZWOe-jTHh1-tYZoGSOYjxHVTGcm6zVqZFCpdLQjD1U/https/i.imgur.com/NJZXhAo.jpg
+
+{Embed}
+https://imgur.com/xSKML0I
+https://images-ext-1.discordapp.net/external/SvuCf7Y4iq82xnxCaEDkaiSqWKzbAueWVHf5alM7HdQ/https/i.imgur.com/xSKML0I.jpg
+
+{Embed}
+https://imgur.com/bkFc1pP
+https://images-ext-1.discordapp.net/external/mrx2w3Gz52I5_ynyG1A9-LmdILYp3g4VRwSZxm-5gwk/https/i.imgur.com/bkFc1pP.jpg
+
+
+[2025/12/20 16:26] lunatheghost
+# Playable Character - Kappa #
+
+Special Movement: 
+Jumps like a frog and moves 2 tiles at once, able to jump over enemies. If the arena boundary is in the way, jump 1 tile forward instead
+
+Swap Ability:
+Jumping into an enemy swaps the player and enemy position. If the ability is on cooldown Kappa will refuse to move towards an enemy 2 tiles away
+
+Unique:
+All ranged tiles function as dashes to kappa
+...
+Kunai will force repeated 1 dmg dash spam
+Crossbow will become a shadow dash that pierces up to 2 enemies
+Lightning will make him deal damage to the back enemy & swap position with it 
+Chakram will launch a log clone backwards to strike the enemy behind after he dashes, leaving behind a 1 hp log wall to block enemies
+
+Sets:
+Default - Chakram & Spear 
+Alternate - Lightning & Crossbow
+
+{Reactions}
+櫨
+
+[2025/12/23 2:42] uilexam
+Tile Idea:
+Cross Stitch: 1 dmg 7 cd
+The first time you take damage this turn, block it and strike the two cells ahead and behind
+
+
+[2025/12/23 2:42] uilexam
+is this really unbalanced?
+
+
+[2025/12/23 2:42] uilexam
+i have no idea
+
+
+[2025/12/23 3:23] n.h.l
+I don't like the wording. "this turn"? Shouldn't it be "next turn"?
+
+
+[2025/12/23 4:11] da_dogbar
+can it work with shields?
+
+
+[2025/12/23 4:11] da_dogbar
+if not i'd make it proc for every damage taken in the following turn
+
+
+[2025/12/23 5:00] apokalypse6
+does it only work if its in your queue?
+
+
+[2025/12/23 5:02] uilexam
+no, this turn includes your action  and then the enemy action, so you activate it by attacking and it encompasses the enemy turn
+
+
+[2025/12/23 5:02] uilexam
+you have to attack with it
+
+
+[2025/12/23 5:03] uilexam
+its like any other tile like dpunch or spear, except it only does damage if you are hit in the enemy attack phase
+
+
+[2025/12/23 5:04] uilexam
+this might be too broken for hitless...
+
+
+[2025/12/23 5:05] da_dogbar
+killing nagiboku at the cost of a shield? doesn't seem that broken
+
+
+[2025/12/23 5:05] da_dogbar
+oh wait it blocks the attack? that's broken
+
+
+[2025/12/23 5:07] da_dogbar
+i'd remove the attack blocking and make it work when your shield breaks
+
+
+[2025/12/23 5:12] uilexam
+its a tile not a skill...
+
+
+[2025/12/23 5:13] da_dogbar
+i know
+
+
+[2025/12/23 5:13] da_dogbar
+a tile that blocks attacks might be broken
+
+
+[2025/12/23 5:15] uilexam
+thats why its 7 cd 1 dmg
+
+
+[2025/12/23 5:16] uilexam
+you either have it low cd or high dmg, not both unless you have a bunch of upgrade slots
+
+
+[2025/12/23 5:16] uilexam
+low cd is just a smoke bomb and high dmg is just poison nagi, so it isnt broken
+
+
+[2025/12/23 5:17] uilexam
+and it requires some planning
+
+
+[2025/12/23 5:17] uilexam
+and even if you do manage to get like 0 cd high dmg with like 8 upgrade slots i wouldnt say its more broken than a high dmg kunai with a warring skill
+
+
+[2025/12/23 5:18] uilexam
+and also yeah this really doesnt benefit from any skill
+
+
+[2025/12/23 5:18] uilexam
+think about silksong cross stitch
+
+
+[2025/12/23 5:25] uilexam
+also it only blocks one attack
+
+
+[2025/12/23 5:25] uilexam
+so it still takes 2 from grappler and shadow charger
+
+
+[2025/12/23 10:08] lunatheghost
+tbh even without the attack effect this would be completely broken
+
+
+[2025/12/23 10:08] uilexam
+in what way is this different than smoke bomb
+
+
+[2025/12/23 10:09] lunatheghost
+smoke bomb still requires positioning and a little planning ahead
+this? just put free play on it and the run is guaranteed hitless
+
+
+[2025/12/23 10:09] uilexam
+how much can i stress
+
+
+[2025/12/23 10:09] uilexam
+it can only block one attack
+
+
+[2025/12/23 10:09] uilexam
+so it can't block shadow chargers
+
+
+[2025/12/23 10:09] lunatheghost
+yes. that's already broken
+
+
+[2025/12/23 10:09] uilexam
+or grapplers
+
+
+[2025/12/23 10:10] uilexam
+or if theres any situation where you are going to be hit by 2 attacks
+
+
+[2025/12/23 10:10] lunatheghost
+how often do you really get hit in a run?
+
+
+[2025/12/23 10:10] lunatheghost
+people are used to playing with 5 hp
+
+
+[2025/12/23 10:10] lunatheghost
+they might get hit once every few stages
+
+
+[2025/12/23 10:10] lunatheghost
+this removes those situations entirely
+
+
+[2025/12/23 10:10] uilexam
+not much, but most people do a lot
+
+
+[2025/12/23 10:11] lunatheghost
+then you should know how broken this is
+
+
+[2025/12/23 10:11] uilexam
+i don't think so
+
+
+[2025/12/23 10:11] uilexam
+when i do end up getting hit
+
+
+[2025/12/23 10:11] uilexam
+this wouldn't have saved me
+
+
+[2025/12/23 10:11] uilexam
+either its already too late to charge this up or i'm getting hit from 2 sources so its useless
+
+
+[2025/12/23 10:12] lunatheghost
+-_-
+even against shadow chargers and grapplers it reduces a 3 dmg hit to 2 dmg
+this is a huge deal since you only have 5 hp
+
+
+[2025/12/23 10:12] uilexam
+there is almost no situation where this tile produces a better outcome than a smoke bomb
+
+
+[2025/12/23 10:12] lunatheghost
+also you generally have a shield potion on anyway
+
+
+[2025/12/23 10:12] uilexam
+smoke bomb 3dmg->0dmg
+
+
+[2025/12/23 10:12] lunatheghost
+so this means both hits are blocked
+
+
+[2025/12/23 10:12] lunatheghost
+only if you're facing the right direction and predicted the attack
+which admittedly is a low bar
+
+but the parry has an even lower bar
+
+
+[2025/12/23 10:12] uilexam
+ig you could make it consume the shield if you have one on
+
+
+[2025/12/23 10:13] uilexam
+you have to predict the attack for cross stitch too
+
+
+[2025/12/23 10:13] uilexam
+you can't just add it to your queue
+
+
+[2025/12/23 10:13] uilexam
+you have to add it to the queue which is one turn
+
+
+[2025/12/23 10:13] uilexam
+and then attack
+
+
+[2025/12/23 10:13] uilexam
+which is another turn
+
+
+[2025/12/23 10:13] lunatheghost
+just put free play on it
+also this doesnt care which direction you're facing
+
+
+[2025/12/23 10:13] uilexam
+the only difference is that you don't have to be facing the right direction
+
+
+[2025/12/23 10:13] uilexam
+freeplay smoke bomb -_-
+
+
+[2025/12/23 10:13] lunatheghost
+this saves an entire turn unless you have turn around tile or 2face
+
+
+[2025/12/23 10:14] uilexam
+it has 3 higher cooldown...
+
+
+[2025/12/23 10:14] uilexam
+you can't use it to move either
+
+
+[2025/12/23 10:14] lunatheghost
+the cooldown wouldnt matter even if it was 20 turns
+
+
+[2025/12/23 10:14] uilexam
+i do not think this tile is any more broken than kunai
+
+
+[2025/12/23 10:14] lunatheghost
+because you shouldnt be getting hit that much
+
+
+[2025/12/23 10:14] uilexam
+hubris
+
+
+[2025/12/23 10:14] lunatheghost
+kunai is nowhere close to broken
+
+
+[2025/12/23 10:14] uilexam
+..............
+
+
+[2025/12/23 10:15] uilexam
+...............
+
+
+[2025/12/23 10:15] uilexam
+..............................................................
+
+
+[2025/12/23 10:15] lunatheghost
+it's a decent tile that pops off if you get very specific skills or enchants. but is otherwise just so-so
+
+
+[2025/12/23 10:15] lunatheghost
+not reliable in most runs
+
+
+[2025/12/23 10:15] uilexam
+okay thats fair
+
+
+[2025/12/23 10:15] lunatheghost
+arrow is usually better
+
+
+[2025/12/23 10:15] uilexam
+smoke bomb?
+
+
+[2025/12/23 10:16] lunatheghost
+remove the damage effect, and make it so you have to face the direction of the attack for the block to succeed
+
+
+[2025/12/23 10:16] lunatheghost
+then the tile would be strong but probably still balanced
+
+
+[2025/12/23 10:16] uilexam
+...
+
+
+[2025/12/23 10:16] uilexam
+that just makes it objectively worse than smoke bomb
+
+
+[2025/12/23 10:18] uilexam
+its just smoke bomb but you don't move
+
+
+[2025/12/23 10:18] lunatheghost
+smoke bomb is already nearing broken, a tile that removes smoke bomb's one weakness is just too op
+
+
+[2025/12/23 10:18] lunatheghost
+unless you find another way to balance it's either just going to be a weird smoke bomb or just actually broken
+
+
+[2025/12/23 10:18] uilexam
+i really disagree on the fact that smoke bomb's one weakness is orientation
+
+
+[2025/12/23 10:19] lunatheghost
+it's a very small weakness admittedly
+
+
+[2025/12/23 10:20] uilexam
+no i'd say smoke bomb's weakness is it's lack of instancy
+
+
+[2025/12/23 10:20] uilexam
+if you slap freeplay on smoke bomb that is instant hitless
+
+
+[2025/12/23 10:20] uilexam
+the orientation part doesn't matter
+
+
+[2025/12/23 10:21] uilexam
+cross stitch is just equally as broken as smoke bomb
+
+
+[2025/12/23 10:21] uilexam
+it's not more broken
+
+
+[2025/12/23 10:21] lunatheghost
+._.
+just put smoke bomb into your queue while queuing other attacks in case you need it, remove it from the queue to attack if you dont
+
+
+[2025/12/23 10:21] uilexam
+i have never seen someone play like this
+
+
+[2025/12/23 10:22] uilexam
+frankly that feels like too much work
+
+
+[2025/12/23 10:22] lunatheghost
+i havent seen only people play but i assume it's standard practice
+when i do each wave, i kill until i reach the amount of enemies where the spawn is on a timer, then enter the next wave with 3 cards in hand
+
+
+[2025/12/23 10:23] uilexam
+i have NEVER seen anyone play like this
+
+
+[2025/12/23 10:23] uilexam
+this sounds incredibly big brain and my brain aint big enough for it
+
+
+[2025/12/23 10:24] lunatheghost
+i did have a 116 day win streak while grinding 4 characters ive never played from day 1-7
+
+
+[2025/12/23 10:24] lunatheghost
+and tbh i wouldnt have died on that ronin run if i didnt get cocky...
+
+
+[2025/12/23 10:25] lunatheghost
+tbh it was kind of annoying how you have to do day 1-6 on other characters even if youve already done day 7 runs
+
+
+[2025/12/23 10:25] lunatheghost
+but for shadow i guess i was a little more appreciative of that
+
+
+[2025/12/23 10:26] lunatheghost
+his movement changes up how to handle bosses entirely, so if i went into a day 7 with him no experience, i would have 100% just died to some boss
+
+
+[2025/12/23 10:26] lunatheghost
+but since i had to climb 1-6 i relearnt all the bosses and did day 7 just fine
+
+
+[2025/12/23 10:26] uilexam
+well i'm a hitless day 7 speedrunner...
+
+
+[2025/12/23 10:26] uilexam
+i don't really have time to plan every wave
+
+
+[2025/12/23 10:26] uilexam
+i just kill as fast as possible
+
+
+[2025/12/23 10:26] lunatheghost
+i dont really like the idea of speedrunning turn based games tbh
+
+
+[2025/12/23 10:27] uilexam
+i would agree in most cases
+
+
+[2025/12/23 10:27] lunatheghost
+the idea of turn based is being able to plan out and strategise about everything
+
+
+[2025/12/23 10:27] uilexam
+but i believe shogun is a very speedrunnable turn based game
+
+
+[2025/12/23 10:28] lunatheghost
+every shogun speedrun i see is just the speedrunner lucking out on an overpowered build and then spam clicking as fast as they can until they get to shogun
+
+usually they even play on day 1, the most boring day
+
+
+[2025/12/23 10:28] uilexam
+in fact i think eruko's blitz showdown mod is really good
+
+
+[2025/12/23 10:28] lunatheghost
+what's that?
+
+
+[2025/12/23 10:28] uilexam
+haha that's why i play day 7 hitless
+
+
+[2025/12/23 10:28] uilexam
+theres a lot more thinking but theres still luck and speed
+
+
+[2025/12/23 10:29] uilexam
+usually by the time i get to shogun's castle i'm not playing faster than i would normally
+
+
+[2025/12/23 10:29] uilexam
+because if you go too fast you start making mistakes and you can't make mistakes in the soul fight
+
+
+[2025/12/23 10:29] uilexam
+5 seconds every turn
+
+
+[2025/12/23 10:29] lunatheghost
+yeah the secret boss is pretty rough
+
+
+[2025/12/23 10:29] uilexam
+if you perform no action in 5 seconds it automatically waits
+
+
+[2025/12/23 10:29] uilexam
+and i think you can customize the amount of time
+
+
+[2025/12/23 10:30] lunatheghost
+that's fair ig
+
+
+[2025/12/23 10:31] uilexam
+come to think of it i should do 1 second blitz showdown
+
+
+[2025/12/23 10:31] lunatheghost
+necrodancer ah mod
+
+
+[2025/12/23 10:31] uilexam
+i guess thats the plan for the next 2 hours :D
+
+
+[2025/12/23 16:14] rdfish
+could be done by constantly holding out the smokebomb with your mouse after queuing it which grants it "freeplay", but yeah it'd be somewhat tedious.
+
+
+[2025/12/23 16:14] rdfish
+Here I made a thread showcasing the bug: https://discord.com/channels/965169818309369858/1452922125466730638/1452922189828456488
+
+
+[2025/12/23 16:16] lunatheghost
+i wasn't doing that. the thing you mentioned makes that even more op
+
+
+[2025/12/23 16:16] lunatheghost
+if i didnt need to use the smoke bomb i just throw it back into my hand
+
+
+[2025/12/23 16:17] lunatheghost
+i play with keyboard only so this tech isnt something i'd have discovered
+
+
+[2025/12/23 16:17] lunatheghost
+this is definitely unintended and a major glitch
+
+
+[2025/12/23 16:19] rdfish
+looking back at the thread I think it might make for a really cool game mechanic, maybe another 1 singular queue slot to the left of the main queue that automatically drops a tile placed in there onto the main queue upon the next player turn
+
+and to prevent the aforementioned "pseudo-freeplay smokebomb" a tile that was previously "cached" in the singular queue slot can't be cached there a 2nd time. Actually maybe it wouldn't even need to be accounted for due to the tradeoff being the other stuff that you wouldn't be able to do as seen in the thread videos if you just constantly cached a smokebomb.
+
+
+[2025/12/23 16:19] rdfish
+This sort of overshadows freeplay outside of being able to spontaneously queue a tile. I guess freeplay CD increment could be reduced to account for it.  Although it seems like being able to spontaneously queue a tile is the main appeal of freeplay for most players so ig no change is needed.
+
+However I don't think I've ever used freeplay even before I knew about this tech due to how much early-midgame slows down as +3 CD cripples the damage output of a tile, definitely noticeable on day 7, I'd argue freeplay should have its CD increment reduced regardless.
+
+
+[2025/12/23 16:19] lunatheghost
+i think freeplay is pretty good on tiles you dont have to use often
+
+
+[2025/12/23 16:20] lunatheghost
+or if you got the cooldown of a utility tile to 0 and still want to upgrade it
+
+
+[2025/12/23 16:23] lunatheghost
+too overpowered
+
+
+[2025/12/23 16:23] lunatheghost
+but mirko disappeared so i doubt the bug will be fixed
+
+
+[2025/12/23 16:23] lunatheghost
+unless one day he decides to return and give the game an update
+
+
+[2025/12/28 16:53] evabi
+I had this idea some time ago, just, what if there were short cutscenes when performing a Signature Move as a finisher against a Boss, just under specific circumstances
+
+
+[2025/12/28 16:56] evabi
+For example,  Wanderer Swapping the Twins for a Friendly Fire, Ronin Pushing a barricade so hard, it crushes Baru
+
+
+[2025/12/28 16:58] evabi
+Hell, maybe having damage on Shadow's Phase to kill Kowa would trigger a whole horror scene
+
+
+[2025/12/28 17:07] evabi
+Of course, there would be an option to disable ones you've seen already, and the option to watch them again
+
+
+[2025/12/28 19:31] lunatheghost
+thats a lot of budget for scenes that very few ppl will see
+
+
+[2025/12/29 13:17] rdfish
+**Blighted Progeny** - "A hideous mass of shard-fueled flesh. It endures what should kill it, then answers with ruin."
+First appearance - N/A, you guys can reference for concepts if you want
+HP - **2** (**2** with increased health)
+Base Traits - **Fortified I** (Damage taken is reduced by 1), \***Ethereal** (Health loss is reduced to 1 if greater)
+*Ethereal traited enemies have purpleish health
+Behavior: Whenever queue is empty, queue and ready Corrupted Explosion (2 damage)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1455052099384770600/Blighted_Progeny.gif?ex=6a16705e&is=6a151ede&hm=930f66e65529689acb1e6bf13cb0567446ba27fcb963cb16a189069ce602526c&
+
+{Reactions}
+笶､・・(2)
+
+[2025/12/29 13:17] rdfish
+Summon an enemy in a random cell. Ice: Resulting enemy is frozen for 3 turns.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1455052124286353448/iceBell.png?ex=6a167063&is=6a151ee3&hm=81e309474b999908f072f29900d300ba5905de8718801f5e9cd580ed40007787&
+
+
+[2025/12/29 13:17] rdfish
+Demonstration:
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1455052154292408350/progenyBellDemo.mp4?ex=6a16706b&is=6a151eeb&hm=7510c57e674b1f8ee21d5c2d640ca75fc8493f84e2fe1d9920cd24002d0c1a42&
+
+
+[2025/12/29 13:20] lunatheghost
+does that mean 1 dmg hits do 0 dmg to it? this is super nasty and might be overkill lol
+
+
+[2025/12/29 13:20] rdfish
+yes
+
+
+[2025/12/29 13:21] rdfish
+mostly added with the intention of preventing a default kunai from instantly rendering the enemy a non-issue
+
+
+[2025/12/29 17:21] apokalypse6
+Interesting concept, description and abilities sound kinda chatGPT but thats fine lol
+Altough I agree with luna, that ethereal ability is very overkill. It could spawn from a whole new subtype of enemy, maybe bloated enemies which act like mini bosses of their previous selfs?
+
+
+[2025/12/29 17:22] apokalypse6
+(the corrupted elite versions of them I mean, or they could spawn them with the ice bell)
+
+
+[2025/12/29 19:11] n.h.l
+how does Fortified interact with poison?
+
+
+[2025/12/29 20:25] lunatheghost
+i feel like it has way too much packed into 1 enemy, even if it's a boss-only summon
+
+
+[2025/12/29 21:29] n.h.l
+instead of Fortified
+
+Harden
+Immun to damage until the end of the turn after taking damage.
+
+
+[2025/12/29 21:50] lunatheghost
+the window is too tight since this is a map wide 2 dmg self destruct
+
+
+[2025/12/30 1:06] rdfish
+intuitively it's not an exception, but yeah effect immunity seems like it shouldn't be roped in
+
+
+[2025/12/30 1:06] rdfish
+didn't really account for it as fortified was originally meant to be a temporary buff lasting a few turns
+
+
+[2025/12/30 1:06] rdfish
+funnily enough this was meant to be a boss summon for a concept it got sheared from in an effort to have less nonstandard stuff packed in
+
+
+[2025/12/30 1:07] rdfish
+actually maybe it would be interesting as an extremely brief effect for encoding custom behavior
+
+
+[2025/12/30 1:08] rdfish
+I'll make something detailing this later
+
+
+[2025/12/30 6:03] robot093
+This is awesome but I agree it would be a huge pain to fight against
+
+
+[2025/12/30 6:03] robot093
+Kunai hard counter 亊
+
+
+[2025/12/30 9:06] lunatheghost
+the whole point of kunai is to take it if you have warring tiles that can reliably add 1 dmg
+
+
+[2025/12/30 9:07] lunatheghost
+so this really isnt a kunai counter. this is an enemy that encourages kunai use
+
+
+[2025/12/30 9:26] uilexam
+...
+
+
+[2025/12/30 9:26] uilexam
+thats every enemy
+
+
+[2025/12/30 11:27] lunatheghost
+imo kunai is an extremely risky tile to take if you dont already have the right shop skills
+
+taking kunai means you'll be forced to chase warring shops for monomancer pretty much, and warring shop is one of the less reliable shops
+
+
+[2025/12/30 11:27] lunatheghost
+i personally only take kunai if i already happen to have the right skills for it
+
+
+[2025/12/30 11:28] uilexam
+i always take kunai
+
+
+[2025/12/30 11:28] lunatheghost
+ive used kunai a bunch of times and it always underperforms unless it is a very lucky run with the perfect skills
+
+
+[2025/12/30 11:28] lunatheghost
+arrow is usually better
+
+
+[2025/12/30 11:29] lunatheghost
+the long cooldown is very crippling
+
+
+[2025/12/30 11:51] uilexam
+its only 2 longer than arrow...
+
+
+[2025/12/30 11:59] apokalypse6
+In no world is arrow better than kunai lol
+
+
+[2025/12/30 12:00] apokalypse6
+The massive difference is that kunai can kill progenies
+
+
+[2025/12/30 12:00] apokalypse6
+arrow alone couldnt
+
+
+[2025/12/30 12:00] apokalypse6
+super importan on day 7 for example
+
+
+[2025/12/30 12:26] lunatheghost
+that's a huge difference
+
+
+[2025/12/30 12:26] lunatheghost
+i only play on day 7
+
+
+[2025/12/30 12:39] apokalypse6
+then you should know how shit arrow is
+
+
+[2025/12/30 12:39] apokalypse6
+lol sorry I just hate arrow
+
+
+[2025/12/30 12:42] lunatheghost
+the way i use arrow is as a holder for the stupid [+1 dmg +1 cooldown] upgrades the game throws at me
+
+that way i have a solution to high hp grapplers and chargers hiding in the back
+
+
+[2025/12/30 12:42] lunatheghost
+2 cooldown means being able to take 2 less of these upgrades
+
+
+[2025/12/30 12:43] lunatheghost
+2 dmg is a huge difference
+
+
+[2025/12/30 12:44] lunatheghost
+i was about to defend arrow and say it's actually one of the best ranged weapons but then i thought about it more and chakram, gun, qi blast, lightning, crossbow are all better
+
+
+[2025/12/30 12:45] lunatheghost
+but its still decent in the end
+
+
+[2025/12/30 12:45] lunatheghost
+still better than kunai and shuriken at least
+
+
+[2025/12/30 12:45] lunatheghost
+...does grappling hook even count as a ranged weapon technically
+
+
+[2025/12/30 12:46] lunatheghost
+grapple is really good on wanderer and chain since even if they cant 1 shot the dangerous back enemies, you can just do a swap right after to dodge
+
+
+[2025/12/30 13:51] apokalypse6
+I dont think I have ever willingly taken grapple except for sacrificing it later
+
+
+[2025/12/30 14:10] lunatheghost
+>_>
+
+
+[2026/01/02 13:48] rdfish
+Two enemy behavior ideas, perhaps applicable as a toggleable difficulty increase unlocked at some point which adds to skull earnings? There is a lot here though it's sort of unrealistic, 1st enemy behavior idea on its own would probably only be used by introductory bosses, and then mostly in conjunction with the 2nd one which is meant to drastically increase the amount of thinking needed during bossfights.
+
+**Guard** - Instead of telegraphing an action, apply damage resistance that lasts until the end of player turn. Damage resistance can be a certain value/be invulnerability.
+
+I think it would be most fitting and easiest to implement as behavior primarily used by bosses as balancing would only need to be accounted for in just that one encounter, enemies reappear onwards from their introduction so at most it would be utilized in rare scenarios (ex. shielder finished shielding everything including itself).
+
+Potential outcomes from being hit during guard:
+Nothing (upon health loss, indicated by blue flashing) - Damage resistance takes effect.
+Stagger (upon health loss, indicated by yellow double-flashing) - If health loss occurs, perform notable behavior. Tiles ex. Tetsubo could be buffed to always pierce damage resistance and stagger
+Counter (red outline and rapid vibration) - Perform notable behavior if no health loss is experienced
+
+
+[2026/01/02 13:48] rdfish
+Ex. Iwao can enact a countering guard instead of telegraphing backwards movement after he misses Earth Impale. Getting hit will result in an attack traveling in the direction he's facing. Experiencing non-damaging repositioning does not trigger counter behavior, 0 dmg should count as dmg to keep in line with the fact that it breaks shields.
+
+Guard demonstration: Iwao enacts guard instead of telegraphing backwards movement. Guard dissipates and he resumes behavior afterwards.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1456509520263249920/Iwao-Guard.mp4?ex=6a1677b2&is=6a152632&hm=9091ff128f9e22a50414acda034ef9e7ba50c818baa9283ec9119d599c137132&
+
+
+[2026/01/02 13:48] rdfish
+Counter behavior demonstration: Katana did not cause health loss, Iwao performs a counterattack and resumes behavior afterwards.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1456509529071288441/Iwao-Counter.mp4?ex=6a1677b4&is=6a152634&hm=1357a0a34891a24c3cd0d6723700bb2b8dbe3163daeff4cce019984972c63d73&
+
+
+[2026/01/02 13:49] rdfish
+How it interacts with shockwave: Intuitively by name it is "physical" damage so I don't think it should be an exception from damage reduction, enemy will spread shockwave still.
+How it interacts with poison: Not an issue, poison damage occurs at the end of enemy turn (guard damage reduction is only active during player turn).
+How it interacts with shield: Shield breaks no matter the damage so I think it would be more intuitive for it to trigger first (hit behavior can only occur when experiencing another hit after shield breaks).
+
+
+[2026/01/02 13:49] rdfish
+Ex. Shielder that finished shielding everything enacts guard (3) in response to player queueing. Taking no damage results in shielder waiting during subsequent enemy turn.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1456509625292689530/Shielder-Guard.mp4?ex=6a1677cb&is=6a15264b&hm=1041d50b99bb07db7a572d70d2577b02d9554f668c01bf1c9e68be4171aa4d68&
+
+
+[2026/01/02 13:49] rdfish
+Shielder waits for two turns due to 2nd arrow causing health loss:
+Note - health loss occurring disables damage reduction
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1456509688685265070/Shielder-Break.mp4?ex=6a1677da&is=6a15265a&hm=5a38a466973090e8336d0a58b72f9d28251f88c62c6a8ccfeedf65464ca7f85e&
+
+
+[2026/01/02 13:49] rdfish
+Hidden intention - Simply shows a question mark instead of showing telegraphed action. Maybe hovering over the question mark could detail "This enemy may do x or do y", precisely saying what the enemy could queue/what kind of movement/guard. I don't think enemies should be able to hide telegraph for ready attack (as in they will attack without any yellow queue flashing beforehand).
+
+Ex. Occasionally when Nobunaga steps into a lighted tile, they may either \*telegraph queue for an additional \*\*tile, or enact guard. If player hits Nobunaga during guard a push is applied to every entity outwards from him.
+\*Not a possibility if player is currently in range of a tile currently in their queue, in that case they will always enact guard in reality. Admittedly I'm not sure of how this would be communicated to the player other than as a pattern present in all hidden-intent scenarios.
+\*\*This tile will always be one of incremented range (if Nobu is already holding swirl/tetsubo/tessen -> queue spear, if Nobu is already holding spear -> queue shadow dash)
+Strategy here:
+-PoE - Nobunaga cannot have queued if you are in range of the currently visible attack.
+-You can purposefully trigger counter behavior to clear out enemies especially if you have chikara crush.
+-You could not attack and do so 1 turn later. You can safely try attacking if path behind you is clear, may want to consider resulting tile cooldown.
+-PoE - It would be wise to prioritize mitigating the possibility of either Spear/Shadow Dash depending on Nobunaga's currently queued tile
+-If an enemy is behind you, it would also be wise to do something other than attacking.
+
+
+[2026/01/02 13:49] rdfish
+Nobunaga turns out to have queued: Here moving forward would've been a good idea to bait Nobu's attack upon queue instead of needing to swap.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1456509796357373952/Nobu-Queued.mp4?ex=6a1677f4&is=6a152674&hm=be6b4f7ca7c6088609634b455a6f2d4b88a65fbd97c52dbdbcf12a7975aa3159&
+
+
+[2026/01/02 13:50] rdfish
+Nobunaga turns out to have guarded: Guard dissipates and Nobunaga resumes behavior afterwards.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1456509852095615091/Nobu-Unguard.mp4?ex=6a167801&is=6a152681&hm=42ade96160875c283b256eea9f4c90f8ecb4f5c92d3dec56a519bb34c73f36e3&
+
+
+[2026/01/02 13:50] rdfish
+Counter behavior: All entities are pushed outwards from Nobunaga, potentially inflicting collision damage, order of pushing goes from adjacent cells -> furthermost cells.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1456509895447810098/Nobu-counter.mp4?ex=6a16780b&is=6a15268b&hm=64512c419fc914b3be3259d4c373cffcff6205590c38d899a72dc4b07719e0d1&
+
+
+[2026/01/02 13:59] rdfish
+I think it might be reasonably useful if enemies/bosses that have the option of reacting to a tile being queued by the player would not notice the tile if that tile was freeplay.
+So here the shielder wouldn't have guarded if the arrow was freeplay.
+
+
+[2026/01/02 15:09] uilexam
+did you animate that or code it?
+
+
+[2026/01/02 15:10] uilexam
+either is extremely impressive
+
+
+[2026/01/02 15:15] rdfish
+coded it on scratch
+
+
+[2026/01/02 15:16] rdfish
+fun fact each project was a duplicate of the last so I could save a little bit of time, I didn't really bother with cleaning up unused code though
+
+
+[2026/01/02 15:16] rdfish
+so this last one was like 80% dead code
+
+
+[2026/01/02 15:16] rdfish
+[.](https://cdn.discordapp.com/emojis/1456187994468913285.webp?size=48&name=lmao)
+
+{Embed}
+https://cdn.discordapp.com/emojis/1456187994468913285.webp?size=48&name=lmao
+https://images-ext-1.discordapp.net/external/66LrQ1hUfCOUXDwsnwat4BSytiXpLagzu548tRjaJ_Y/%3Fsize%3D48%26name%3Dlmao/https/cdn.discordapp.com/emojis/1456187994468913285.webp
+
+
+[2026/01/02 16:28] miasma1
+pretty epic, i would never have the patience to make something like this even in scratch 亊剌
+
+
+[2026/01/02 16:30] miasma1
+especially scratch, i remember that website having so many built in limitations
+
+
+[2026/01/02 16:31] rdfish
+there's a community extension that makes it much more viable, probably better maintained than scratch itself
+
+
+[2026/01/02 16:33] rdfish
+doing lazy stuff like making a billion sprites instead of messing with clone logic won't make your project impossible to navigate now
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1456550917779492864/image.png?ex=6a169e40&is=6a154cc0&hm=7dacf68a91181aa63ce15ac360d41b865931a1c0bf0141e50b82afd0f77fa7dd&
+
+
+[2026/01/02 17:28] apokalypse6
+So relatable lmao, still super impressive. The animation looks very smooth dude
+
+
+[2026/01/02 17:31] apokalypse6
+That difficulty increase you're talking about is how challenges should have been added to the game, optional additional challenges that you can enable that make the run harder. People who like a more relaxed game can just simply play without them and anyone who would like a new difficult playthrough could enable them. The counterattack idea is also really creative, I really like it and honestly cant see anything problematic about it. it would make boss fights a bit harder and change how you'd have to fight them
+
+
+[2026/01/02 17:34] apokalypse6
+Now this could be awful. There is already a lot of RNG in the game, and adding even more could make it feel unfair. The enemy may do x or do y should definitely be added to make sure the player at least can prepare for it.
+
+
+[2026/01/02 17:34] apokalypse6
+I like the counter behavior of nobu tho, thats fun
+
+
+[2026/01/03 1:18] uilexam
+respect 刧窶坂凾・・
+
+
+[2026/01/03 3:07] da_dogbar
+hella based
+
+
+[2026/01/03 3:08] da_dogbar
+scratch is like 90% of my coding experience
+
+
+[2026/01/17 14:52] rdfish
+reposting an old tile concept
+
+Supun - 0 dmg, 5 CD
+Strike the first target ahead, flips the target.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1461961247732797460/SupunNew.png?ex=6a168683&is=6a153503&hm=672ab740ec508bbc27dbd4d1d66b8f95bab0e32e8b8a361ebf7056c85b329ea1&
+
+
+[2026/01/17 14:52] rdfish
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1461961260173103255/video.webm?ex=6a168686&is=6a153506&hm=468c94d73e3090b0dd2e8033e9bf410b1c8ea6bbfef7b7ad59be42a8e0a4ca7f&
+
+
+[2026/01/17 15:13] thefloralhurrikale
+Glad to see the Double Strike Bo staff reimagined again.
+
+
+[2026/01/17 21:43] apokalypse6
+Still love the little enchantment icons you made lol
+
+
+[2026/01/17 22:05] da_dogbar
+love how the projectile looks
+
+
+[2026/01/17 22:26] apokalypse6
+maybe make it dissapear before it goes under the cells, since its a bit odd to see it ttravel over the black ground lol
+
+
+[2026/01/19 13:47] rdfish
+Gilding (10 coins, Appears in Guarding Shop): Disperse valuable collectibles when shield is broken, these are not automatically collected upon the end of a level.
+
+Generates 3 collectibles upon shield break, each collectible grants 3 coins.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1462669843437191321/Gilding.png?ex=6a167771&is=6a1525f1&hm=eb9c47de5e36d9dc68e0a8f66a32b15dd48e456922c99cf7bd43f5281105f575&
+
+
+[2026/01/19 13:47] rdfish
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1462669856829735005/GildingDemonstration.webm?ex=6a167774&is=6a1525f4&hm=19552e6267181b69e4ce02bef006605029452231b3f7f2338a4e62f477e34b7a&
+
+
+[2026/01/19 13:49] apokalypse6

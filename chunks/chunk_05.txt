@@ -1,0 +1,2000 @@
+﻿
+[2024/01/14 2:32] seeminglyunrelated
+Yeah but how would you trigger it?
+
+
+[2024/01/14 2:32] seeminglyunrelated
+The lazy solution is just pull a dome keeper and have some of the special abilities be activated by Q or something
+
+
+[2024/01/14 3:10] da_dogbar
+waiting i guess?
+
+
+[2024/01/14 3:10] da_dogbar
+or moving into an enemy or off the stage
+
+
+[2024/01/14 3:13] chapples4
+Maybe it's not an ability, but a change in movement like the shadow. Instead of the player turning around they mirror their position like how instead of shadow moving 1 tile they move as far as they can.
+
+
+[2024/01/14 3:31] seeminglyunrelated
+That's pretty good but I also kind of liked the "warps around to the other side of the stage Idea from @plimbo-scrimbly"
+
+
+[2024/01/14 3:32] chapples4
+We could also combine the two, maybe the wrapping around the stage doesn't turn the player around and that's their signature move
+
+
+[2024/01/14 4:02] apokalypse6
+Maybe after the player walks, they mirror the position
+
+
+[2024/01/14 4:02] apokalypse6
+idk
+
+
+[2024/01/14 5:29] seeminglyunrelated
+I have a suggestion that's not quite finished... Boomerang?? Idk exactly what the perks would be, but maybe it's just arrow with limited range and 0 cooldown
+
+
+[2024/01/14 6:19] the_rot_bot
+Maybe it could also pick up consumables on the ground in it's path?
+
+
+[2024/01/14 7:19] apokalypse6
+a piercing projectile which goes through the first two or three tiles and back
+
+
+[2024/01/14 9:35] seeminglyunrelated
+That窶冱 a good one
+
+
+[2024/01/14 12:27] dragon_of_celts
+What do you guys think of these as ideas for tiles (apologies if any of these have previously been suggested):
+Getsugasan (a.k.a. Crescent Moon Spade or Monk's Spade)[1]: 4 damage, 8 cool down, 1-2 range forward; it and any tiles after it in the queue activate *after* enemies make their move.
+Tonfa[2]: 1 damage, 3 cool down, 1 range forward; if it defeats an opponent, will step forward and strike again.
+Calculated Manoeuvre[3]: Free Play move tile, 7 cool down; Move x spaces forward, where x is the position in the attack queue. Will fail if path is blocked.
+
+
+[2024/01/14 12:28] dragon_of_celts
+[1] **Getsugasan**
+Just a worse damage-upgraded spear, right? Well, it depends.
+Bad: If you're about to be hit by the target, they'll hit you before you kill them.
+Inconsequential: If there are no immediate threats to deal with, it makes no difference if you attack before the enemies act or after.
+Beneficial: If there are prepared enemies on the far side of the soon-to-be-killed target, it effectively gives you an extra turn to deal with them.
+
+
+[2024/01/14 12:28] dragon_of_celts
+[2] **Tonfa**
+A worse Sword... Unless you have a packed line of enemies you can chew through (probably need to upgrade the damage first, though), or need to step out of range of a melee enemy ready to attack you from behind.
+
+
+[2024/01/14 12:28] dragon_of_celts
+[3] **Calculated Manoeuvre**
+Another situational but potentially very useful movement tile, but the idea I really wanted to convey with this is a tile whose effects change slightly depending upon position in the attack queue (but I was having some difficulty coming up with a reasonable weapon that could use this).
+
+
+[2024/01/14 14:07] apokalypse6
+The Tonfa has potential ngl
+
+
+[2024/01/14 14:07] apokalypse6
+I really like these ideas
+
+
+[2024/01/14 15:56] dragon_of_celts
+Thanks.
+
+
+[2024/01/14 20:47] roboatino
+Tonfa sounds indeed pretty cool 櫨
+
+
+[2024/01/14 20:48] roboatino
+Interesting idea ､・might be a bit too mind-bending, but worth play testing
+
+
+[2024/01/14 23:36] d3v0553
+**__New Enemy Idea:-__**
+
+**Yuki-Onna**
+
+__Flavour Text: __*With her magical ability, she can easily freeze her opponents. Then, she will let her allies finish them.*
+
+**Location:** Hideyoshi's Keep and onwards
+**Health:** 4
+
+Currently, the Warden and the Shielder are the only enemies that don't attack, but mess with you through other ways. This could be something similar to those enemies.
+
+**Ability / Skill:**
+__Frozen Soul:__ All attacks freeze the target, but deal 0 damage.
+
+Since Yuki-Onna will be able to freeze the player, I tried to make her a little less overpowered. Not only that, it would be cool to see more enemies that apply status effects to the player.
+
+**Attacks:**
+#1 Shadow Dash
+#2 Grappling Hook -> Shadow Dash
+
+**Behavior:**
+Always try to face towards the player before adding tiles to her attack queue.
+
+Do attack #1. If she fails to do this, do attack #2 for next attack.
+After completing attack #2, switch back to attack #1.
+
+After any attack, try to move towards the edge of the board.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1196100420947410954/YukiOnna_AbouttoAttack.gif?ex=6a165892&is=6a150712&hm=e5c342a9d2399ed584375e99a4e21089720441f08a967ac323658030a362d298&
+https://cdn.discordapp.com/attachments/965176630588882954/1196100421387816980/YukiOnna_dashing.png?ex=6a165892&is=6a150712&hm=c739f9cdb8d578bd7c954087d16cfdac309a6192392c9cc0737f6a2215236789&
+https://cdn.discordapp.com/attachments/965176630588882954/1196100421626888304/YukiOnna_Idle.gif?ex=6a165892&is=6a150712&hm=04d68ba7a644be68722b8083e4bc875a43c408da11008bf3ec090c74473ed5ca&
+
+{Reactions}
+櫨 (8)
+
+[2024/01/15 0:00] seeminglyunrelated
+I think we need a freezing free play since we have a cursing freeplay anyways ､・though taking three straight moves from the player sounds a bit op... what if the tiles has an attack value which determines how many moves the target is frozen and the normal version has like 1 or 2 but the elite has 3 or 4
+
+
+[2024/01/15 0:14] d3v0553
+Taking three turns from the player is pretty OP, but I think if the player plays around properly, then the Yuki-Onna won't be much of a threat. You could go back to the edge of the field to avoid her first attack, and 4 turns will be enough to kill her, since she has 4 HP. and you will be pretty overpowered too by this time. I may change my mind and make the freeze only last 1 or 2 turns.
+
+
+[2024/01/15 1:18] thefloralhurrikale
+Theoretically, freeze is less effective against the player due to how the attack system works.
+
+
+[2024/01/15 1:19] thefloralhurrikale
+because 1. the player always moves first in the attack sequence, and 2. players don't need to announce their attacks
+
+
+[2024/01/15 1:19] thefloralhurrikale
+Freeze is so strong because it makes it so that enemies have to call their attacks AGAIN
+
+
+[2024/01/15 1:20] thefloralhurrikale
+Something that the player doesn't have to do
+
+
+[2024/01/15 1:20] thefloralhurrikale
+I think this is a good enemy to have + there aren't any freezes against the player anyways.
+
+
+[2024/01/15 1:55] seeminglyunrelated
+oh yeah fair fair
+
+
+[2024/01/15 13:23] .ihnn
+how about this, rip a page out of fnaf
+day 1-5 normal
+day 6 the harder day 5
+day 7, ultimate custom day, so you can change enemy hp, your own hp, damage/heal done, recieved. start coin, coin/potion drop multiplier, elite spawn rate and boss hp multiplier.
+
+
+[2024/01/15 14:14] fongiv
+Day 7 all bosses are corrupted and corrupted shogun with phase 3
+
+
+[2024/01/15 18:49] fahmiethefahmie
+day 7 when all the enemies are elites
+
+
+[2024/01/15 18:50] fahmiethefahmie
+:curse:
+
+
+[2024/01/16 6:06] .ihnn
+day 7, all elites, 1hp, no money, tiles or potions
+
+
+[2024/01/16 6:09] thefloralhurrikale
+doesn't this defeat the whole point of being a rogue like?
+
+
+[2024/01/16 6:10] thefloralhurrikale
+You are unable to create a build
+
+
+[2024/01/16 6:11] dragon_of_celts
+Day 7: Your power is turned off, your keyboard and mouse are confiscated, and you are given a questionable concoction of sedatives.
+
+{Reactions}
+・
+
+[2024/01/16 6:11] dragon_of_celts
+凾
+
+
+[2024/01/16 6:12] thefloralhurrikale
+lmao
+
+
+[2024/01/16 7:03] da_dogbar
+Day 7:
+Lung cancer
+
+
+[2024/01/16 7:23] seeminglyunrelated
+Day 7: Your pc shuts down every time you lose health
+
+
+[2024/01/16 8:06] shennatheeevee
+Day 7: your character has asthma and must wait a turn every time they move
+
+
+[2024/01/16 8:40] kamelurrdoll2537
+Day 7: Blood Moon
+
+"In the Blood Moon increase the rounds of enemy's, the Elite's can be being corrupted; the Shogun have a Phase 3"
+
+
+[2024/01/16 16:54] fongiv
+The mirage
+Passive skill : Instead of turning, she will mirror her position on the field
+Special skill : If she move forward to enemy in front of her, she will teleport to the furthest cell behind her (exchanging position with a target if present).
+Starter tile : swirl, charge
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1196724082205528064/mirage.gif?ex=6a16a327&is=6a1551a7&hm=4962a02b0bdd6d22f7aec34537ece61a3f266669785e233795d6c4a2d0d00d07&
+https://cdn.discordapp.com/attachments/965176630588882954/1196724082549465108/Mirage_unmask.gif?ex=6a16a327&is=6a1551a7&hm=eef760d6acdedb254306364298af41306063d38c4e2d5f060a56b93e329ac10b&
+
+
+[2024/01/16 18:31] averagefoxenthusiast
+I'm sure this has already been mentioned but perhaps there could be a :spin: achievement. I had an idea that it could be called:  "double negative" (subtitle for the steam achievement: "make an unwise decision") so that it's a little puzzle for the player to figure out what it means.
+
+
+[2024/01/16 19:22] fongiv
+Bro enchants bo with double strike 逐逐逐
+
+
+[2024/01/17 10:45] project_u
+All the info we have on player freeze is from the alpha shogun
+
+
+[2024/01/17 10:45] project_u
+but imagine quick witted
+
+
+[2024/01/17 23:43] d3v0553
+**New Tile Idea:**
+
+**Blizzard Breath**
+
+__Initial Attack Value:__ 2
+__Initial Cooldown:__ 7
+__Initial Max Levels:__ 2 or 3
+__Rarity:__ (Same as Tetsubo)
+ 
+Strike the 2 cells directly ahead, but do 0 damage. Push the target as far back as possible. Deal collision damage equal to attack value if another target is in its path. (not piercing)
+
+*(This is an idea of another knockback tile, since I find them pretty cool)*
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1197189408353423511/Blizzard_Breath_Final.gif?ex=6a165a45&is=6a1508c5&hm=12bd1c6ddae239482cd39a3b30fdf17707cc9bc4f49a124a3f6d3785a20f9c22&
+
+{Reactions}
+櫨 (4)
+
+[2024/01/17 23:43] seeminglyunrelated
+Amazing artwork!
+
+
+[2024/01/17 23:43] d3v0553
+well, thanks!
+
+
+[2024/01/17 23:44] seeminglyunrelated
+Yeah good idea too
+
+
+[2024/01/18 0:02] seeminglyunrelated
+逐 逐 Does the -4 cooldown -1 damage
+
+
+[2024/01/18 0:02] seeminglyunrelated
+You got the ultimate useless tile
+
+
+[2024/01/18 0:04] seeminglyunrelated
+Another achievement sort of following this is upgrade a tile with no special effect (sword, meteor hammer, arrow, etc..) and no enchantement, using the -4 cooldown -1 damage to 0 damage. Achievement could be called useless tile. Iﾃｨm not even sure this is possible but it would be surprisingly hard to get because you'd have to get pretty good rng
+
+
+[2024/01/18 0:57] da_dogbar
+technically even a 0 damage tile isnt useless cause they break shields
+
+
+[2024/01/18 5:55] seeminglyunrelated
+Yeah or you could use it with monomancer or something Ig
+
+
+[2024/01/18 8:04] shennatheeevee
+give us the ability to enchant movement tiles exclusively so I can give double cast to mirror
+
+{Reactions}
+・ (2)
+
+[2024/01/18 11:31] ninjineer_b
+I mean, you can enchant Kaitenryuken if that's the fix you're after
+
+
+[2024/01/18 11:41] 8bitcrane
+Feature request for PC interface map ability tiles to number row on the keyboard
+
+{Reactions}
+総
+
+[2024/01/18 21:12] fongiv
+Idea about new game mode
+Story : You play as samurai boi (or other original characters) during mongol invasion and your mission is to kill Khan the conqueror
+This game mode will be unlocked when you pass the tutorial of this game (day 1-4)
+About enemies
+1.sword guy : his tile is longquan, this tile attacks like normal sword but when hit, it cans remove the latest tile from you attack queue
+2.spear 2.0 : like normal spear but deals double damage if you don't have any tile in your attack queue
+3.spike charger with mongol skin
+4.guardian but more health and damage
+5.archer with mongol skin
+6.bro and his horse : the horse requires two cells and has 3 hp. When he is on the horse, he receives quick-witted and his attack is charge -> sword. But when his horse dies, he will become normal sword guy. you can kill his horse by dealing damage or teleporting them to single cell. when the horse is forced to stay in a single cell, it will die immediately.
+7.bro and his horse, but spear 2.0
+8.flame wizard : his tiles is fire ball that is likes an arrow but inflicts damage to adjacent cells too
+9.twin tachi but he walks as dash (like the shadow) (He is smart enough to know that using the swirl doesn't require turning back)
+I don't have any ideas about bosses yet except the last boss is Khan the conqueror and he has 3 phases
+If you win this game mode you can use samurai boi in normal mode
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1197513724085416006/Character_shogunshowdown.png?ex=6a1636d0&is=6a14e550&hm=dea302d4688abd4cca182a7f5772040620535bcb0e0f47a9f8c671c761e61249&
+
+{Reactions}
+櫨 (4)
+
+[2024/01/18 21:22] d3v0553
+**__New Enemy Idea:-__**
+
+**Chochin'obake**
+
+__Flavour Text:__ These lantern spirits hold their ghosts wielders like parasites. They summon many of themselves at once, surrounding their opponent and soon beating them.
+
+__Location: __Nobunaga's Fortress and onwards
+__Health:__ 2
+
+__Ability / Skill:__
+Quick-Witted
+
+__Attacks:__
+#1 Summon (summon a chochin'obake)
+#2 Bo
+
+__Behavior:__
+Always try to face towards the player before adding tiles to her attack queue. Does not move at all
+
+On summon, do attack #1. Then, permanently shift to attack #2.
+
+*(An idea for a ticking time-bomb enemy. Try to kill the lantern ghosts quickly beofre they surround and kill you.)*
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1197516430246170697/showcase.gif?ex=6a163955&is=6a14e7d5&hm=4b954bb93a915c149b4b13f46af0c29f3315349ebddd59f2b9c12ce12c17c26e&
+
+
+[2024/01/19 0:58] da_dogbar
+tbh just sounds like a worse warden
+
+
+[2024/01/19 1:01] d3v0553
+Yeah I know, but I wanted to created weaker warden that could summon more stuff
+
+
+[2024/01/19 5:00] da_dogbar
+secret worlds could be cool
+
+
+[2024/01/19 13:42] nick16characters
+new day idea: losing all tiles in your queue if you get hit
+
+
+[2024/01/19 13:42] nick16characters
+new enemy idea: attacks with the gun but loses the tile in queue if it gets hit
+
+
+[2024/01/19 13:43] nick16characters
+the lore is that I think it's neat
+
+
+[2024/01/19 13:48] another_ralsei
+kinda irrelevant, it's promoting the same thing as the player health reduction day
+
+
+[2024/01/19 15:10] nick16characters
+I don't think so, but not gonna defend it
+
+
+[2024/01/20 2:40] gardnerdiamond
+not sure about new day but that sounds like itd be a really cool enchantment
+
+
+[2024/01/20 22:01] oakennnn
+Hiya, I just bought the game and am having fun. Love it so far. Would it be possible to add support to change control scheme? For one I would love to be able to use the arrow keys instead of (or as well as?) wasd
+
+
+[2024/01/20 22:02] oakennnn
+Also, this might be a bit more of a stretch, but support for keyboard only control? That would take more work, but would be a nice thing to have
+
+
+[2024/01/20 22:35] oakennnn
+I see someone just asked something similar in #笏questions笶・ and it is being worked on. Cheers!
+
+
+[2024/01/21 3:46] Deleted User
+Guys hear me out!
+Blazing Susei + Ice enchantment = AOE FREEZE
+
+
+[2024/01/21 3:49] seeminglyunrelated
+Yes
+
+
+[2024/01/21 3:50] seeminglyunrelated
+Op because that means we need AOE poison and AOE shockwave (how does that even work) but yes
+
+
+[2024/01/21 3:50] Deleted User
+I was so excited when i enchanted mine just now
+
+
+[2024/01/22 19:41] da_dogbar
+ngl a reverse meteor hammer could be cool
+
+{Reactions}
+､・笘晢ｸ・
+
+[2024/01/22 19:42] da_dogbar
+hits the cell behind you and if it hits launches some powerful attack forward idk
+
+
+[2024/01/22 21:44] ninjineer_b
+AOE shockwave works very well, thank you! ・ (Shock-enchanted Scar Strike stacks dmg)
+
+
+[2024/01/22 23:40] seeminglyunrelated
+AOE Shockwave: the new inside joke
+
+
+[2024/01/23 4:57] apokalypse6
+I feel like a roadmap for the game would be cool, ive seen some other games do it
+
+
+[2024/01/23 5:17] thefloralhurrikale
+https://discord.com/channels/965169818309369858/983236897801384037/1135878246643269762
+
+
+[2024/01/23 5:18] apokalypse6
+I did NOT know this existed, thanks
+
+
+[2024/01/23 5:19] apokalypse6
+looks like mystery update is next
+
+
+[2024/01/23 5:20] da_dogbar
+according to that timeline we should have a fifth hero by now
+
+
+[2024/01/23 5:20] thefloralhurrikale
+Yea, it's not 100% accurate
+
+
+[2024/01/23 6:03] apokalypse6
+well we basically already know whats coming in the mystery update so its not that much of a mystery lol
+
+
+[2024/01/23 7:39] Deleted User
+i feel like the character's special move is too hidden, i'm in the add a new tile screen, and the `?` is disabled, which means i can't see the special move at all
+
+
+[2024/01/23 7:42] seeminglyunrelated
+oh yeah this brings me to a point... this should be in bug reports along with the fact that pressing alt still works and toggles that
+
+
+[2024/01/23 7:45] Deleted User
+idk if this is a bug since it's been like this as long as i can remember
+
+
+[2024/01/23 7:46] Deleted User
+oh it is weird that pressing alt works even when the `?` button is disabled, didn't know about it
+
+
+[2024/01/23 8:11] Deleted User
+ok made a bug report
+
+
+[2024/01/23 17:01] apokalypse6
+you can tho
+
+
+[2024/01/23 17:02] apokalypse6
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1199262851186036756/20240123-0801-59.2891634.mp4?ex=6a16a510&is=6a155390&hm=b7a864f5bc696a1927b6e9763c997b5e9c27b7f20d792abf11160070c7924330&
+
+
+[2024/01/23 17:02] apokalypse6
+Altough jujitsuka doesnt have the desc yet
+
+
+[2024/01/23 17:04] apokalypse6
+You prhased the question weird
+
+
+[2024/01/23 17:05] Deleted User
+i didn't phrase it as a question. your video doesn't take place in the new tile screen
+
+
+[2024/01/23 17:05] Deleted User
+i know that i can see the special move normally with the extra info button
+
+
+[2024/01/23 17:06] Deleted User
+or in your case, in the pre game screen the special ability is shown by default
+
+
+[2024/01/23 17:07] apokalypse6
+So what do you want to see??
+
+
+[2024/01/23 17:07] Deleted User
+*in the add new tile screen*, the `?` shouldn't be disabled, so that i can click on it to see the special move
+
+
+[2024/01/23 17:08] apokalypse6
+you mean with the add new tile screen, that were yoiu can pick a new tile, right?
+
+
+[2024/01/23 17:09] Deleted User
+yes. in that screen i have to press the alt key, which i didn't know was a thing
+
+
+[2024/01/23 17:09] apokalypse6
+Ah ok, I understand your problem
+
+{Reactions}
+総
+
+[2024/01/23 17:10] apokalypse6
+yeah its kinda dumb now that i see it
+
+
+[2024/01/23 17:10] apokalypse6
+But I can understand why mirko would disable it, as it already shows the description of the tiles
+
+
+[2024/01/23 17:10] apokalypse6
+Maybe he should just reenable the ? button
+
+
+[2024/01/23 17:12] Deleted User
+maybe. i just want the special move more easily visible
+
+
+[2024/01/24 7:20] stillborn
+achievement for a next day: Defeat the Shogun on a Day 7
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1199478752099434526/achivement_ciel_2.png?ex=6a16c563&is=6a1573e3&hm=52b27ffa266e769cd690ae10f8f8ce64cf808d0d3926590fbdbcdc026bcc45c6&
+
+
+[2024/01/24 7:20] apokalypse6
+I like the name
+
+{Reactions}
+剌
+
+[2024/01/24 7:20] apokalypse6
+ngl
+
+
+[2024/01/24 7:23] stillborn
+I respected the different Japanese elements, and I put the kanji 遨ｺ (縺昴ｉ) : sky
+
+
+[2024/01/24 7:24] apokalypse6
+Nice!
+
+{Reactions}
+笶､・・
+
+[2024/01/24 11:04] project_u
+um according to achievements the order goes 轣ｫ豌ｴ譛ｨ驥大悄 so 譌･ would be day 7 ig (Sunday)
+
+
+[2024/01/24 11:05] project_u
+like ur idea tho
+
+{Reactions}
+総 剌
+
+[2024/01/24 19:42] double_dot
+A challenge run near impossible with 1 HP and only elite or corrupted foes
+
+
+[2024/01/24 21:29] stillborn
+unfortunately 譛ｨ is already use for the achievement " Bamboo Hero " ( Defeat Daisuke the dasher ), but perhaps the developper change the kanji 譛ｨ to Kanji 遶ｹ ( bamboo in japanese )
+
+
+[2024/01/25 0:54] da_dogbar
+skill idea
+Freezing Move (found at dancer shops)
+Performing your special move freezes any enemies affected by it for 2 turns.
+
+{Reactions}
+総 (3)
+
+[2024/01/25 1:48] dragon_of_celts
+Black Belt (at Warring Shop, probably)
+When you kill an enemy with your special ability, it is immediately refreshed.
+
+{Reactions}
+総
+
+[2024/01/25 4:56] shennatheeevee
+that sounds like a dancer skill
+
+
+[2024/01/25 9:25] project_u
+agreed
+
+{Reactions}
+ｫ｡
+
+[2024/01/25 18:32] averagefoxenthusiast
+I feel like most of the damage I take is in the form of walking into an attack or a misinput which is quite frustrating, so I wish there was an option to undo a move sort of like in enter the breach. Maybe it could refresh after every boss?
+
+
+[2024/01/25 18:34] apokalypse6
+to op
+
+
+[2024/01/25 18:35] da_dogbar
+could maybe be a perk or something
+
+
+[2024/01/25 18:51] averagefoxenthusiast
+is it though? it's more of a qol feature
+
+
+[2024/01/25 18:53] averagefoxenthusiast
+sure it makes the game easier in the sense that you would take less damage, but if you could only go one move back, the sort of damage this lets you avoid is mostly silly stuff like misinputs and bbvious oversights (like walking straight into an attack) which shouldn't be where most of the difficulty of the game is coming from
+
+
+[2024/01/25 18:53] averagefoxenthusiast
+it would also make hitless runs a lot less frustrating
+
+
+[2024/01/25 19:07] averagefoxenthusiast
+for instance just now I've taken 6 damage to corrupted baru because I kept forgetting that his ranged attack exists (update: won anyway)
+
+
+[2024/01/25 20:44] apokalypse6
+yes it is way to op its not called a strategy game for no reason
+
+
+[2024/01/25 20:45] apokalypse6
+Sounds like a skill issue
+
+
+[2024/01/25 20:46] apokalypse6
+lmao
+
+
+[2024/01/25 20:49] averagefoxenthusiast
+accidentally walking into damage isn't really a matter of strategy though
+
+
+[2024/01/25 20:49] averagefoxenthusiast
+idk the devs can decide
+
+
+[2024/01/25 20:59] plum_stink
+some games i think it makes sense to have a undo move
+
+
+[2024/01/25 20:59] plum_stink
+but i think in most turn-based strategy it kinda takes away from the tension
+
+{Reactions}
+笘晢ｸ・(3)
+
+[2024/01/25 21:00] plum_stink
+into the breach is a good example of where it can work because it lets you figure how you want the turn to play out without having to commit to movement
+
+
+[2024/01/25 21:00] plum_stink
+but i don't think it would make much sense in this game
+
+
+[2024/01/25 21:02] seeminglyunrelated
+problem is there's also a lot, in the later levels, cases where you just forget there's another enemy behind or something like that, and in this case it's way too op.
+
+
+[2024/01/25 21:08] apokalypse6
+thats kinda your fault ngl
+
+
+[2024/01/26 1:22] duckolium
+yeahh undo would make this game way too easy
+
+
+[2024/01/26 8:28] shennatheeevee
+Into The Breach makes it work because there are so many moving parts. You *can* plan ahead your whole turn, but maybe you didn't notice a specific ice tile was cracked, or you moved in the wrong order, or whatever
+the turn reset is a QoL feature to fix a mistake in a game where those are incredibly punished
+
+here, a mistake is still punished, but won't immediately cost you the entire run. There are many less moving parts, you'll be attacked by normally one, maybe two enemies at a time, and in a bossfight you just need to focus on yours and the boss' position. It's still hard, but a turn undo wouldn't matter in a lot of the scenarios anyway
+
+I say this as someone who also plays very recklessly and walks into very avoidable damage, patience is an important thing to have in this game, you have infinite time
+
+{Reactions}
+総
+
+[2024/01/26 9:14] stillborn
+you want reset a wave ? or turn ?
+
+
+[2024/01/26 9:32] project_u
+Just add sandbox mode
+
+
+[2024/01/26 10:04] seeminglyunrelated
+Yeah that'd be cool anyways
+
+
+[2024/01/26 12:47] plum_stink
+yes exactly
+
+
+[2024/01/26 18:23] averagefoxenthusiast
+~~counterexample: double strike grappler on day 6~~ that's fair enough I guess
+
+
+[2024/01/27 20:57] cowboy7812
+Would be cool to see 2nd phases to bosses maybe as a day difficulty increase or even for Shogun
+
+
+[2024/01/27 23:09] seeminglyunrelated
+窶ｦI agree but shogun already has a second phase
+
+
+[2024/01/27 23:09] cowboy7812
+give him a 3rd
+
+
+[2024/01/27 23:09] seeminglyunrelated
+､｣ W
+
+
+[2024/01/27 23:09] cowboy7812
+3rd phase but dont say that one was added so when it comes time your taken by surpise
+
+
+[2024/01/28 9:47] xxepikxx
+A potion/item idea - copy cat gives the same tile as the enemy that you are looking directly at in the next turn. (you only get to use that tile once) (the enemy in front must be about to attack)
+
+
+[2024/01/28 9:48] xxepikxx
+A signature move/tile idea - training dummy if there is an available space it will create a 1 hp dummy in front of you (similar to the baracade but with less health)
+
+
+[2024/01/28 9:52] xxepikxx
+A signature move/tile idea - Time turner. would have 8 cooldown but would go back a turn for every other enemy (could be a thing where they remove 1 health per use but that wouldnt count as a hit?)
+
+
+[2024/01/28 9:55] xxepikxx
+tile idea - a fishing rod, would deal one damage and would grab the last enemy infront of player and drag it in front of the player if there is an available space (could be really good for combos or if there was an archer)
+
+
+[2024/01/28 9:56] xxepikxx
+quest idea (heavy spender) never go above 25 coins during a run, (not sure if this is possible)
+
+
+[2024/01/28 17:17] da_dogbar
+thats just grappling hook
+
+
+[2024/01/28 17:40] dragon_of_celts
+I thought that at first, too, but I then I reread it, and I'm fairly certain he means that it targets the last in the line, not the first (as Grappling Hook does).
+
+
+[2024/01/28 18:06] da_dogbar
+ohh
+
+
+[2024/01/28 18:06] da_dogbar
+yeah that actually sounds p good
+
+
+[2024/01/28 18:30] xxepikxx
+Yeah it would bring the last enemy in your line of sight to the  space right in front of you
+
+
+[2024/01/29 4:53] seeminglyunrelated
+Make it so ice weapons don't cause the wardens (i think those are the ones) to explode
+
+
+[2024/01/29 4:53] seeminglyunrelated
+It kind of makes sense if you think about it
+
+
+[2024/01/29 7:07] chapples4
+In addition, make it so the Blazing Suisei doesn't make things explode on lethal hit if they're frozen
+
+
+[2024/01/29 7:13] seeminglyunrelated
+oop yup that would make sense too
+
+
+[2024/01/29 12:00] cowboy7812
+An item that lets you add a 4th tile to your queue
+
+
+[2024/01/29 17:03] shibaaaxd
+Enchant idea:
+Nerve striker: only works on tiles that hit multiple enemies (crossbow or spear and so on) , if u hit 2 people with the tile deal 1 damage to all enemies +4 cooldown
+
+
+[2024/01/29 17:26] shibaaaxd
+Also prob been mentioned alr but a skill that poisons a random enemy after a combo and one that freezes a random enemy after a combo and a skill that poisons all enemies when ur hit and one that flips all enemies when ur hit and one that curses all enemies when ur hit
+
+
+[2024/01/29 20:55] seeminglyunrelated
+I think this would work better as a combo skill
+
+
+[2024/01/29 21:03] another_ralsei
+definitely would
+
+
+[2024/01/30 0:08] shibaaaxd
+Yeah but i think it wud be a bit too strong
+
+
+[2024/01/30 3:27] Deleted User
+Tile - Acupuncture Needles
+Ranged non piercing projectile
+Enemies hit by the attack fire their queued attacks early (could possibly also turn the enemy around to make it less reliant on evasive tiles)
+Default Dmg: 0
+Default Cd: 6
+
+alternatively there could be an individual tile that acts as the ranged bo
+Tile - Spoon
+Ranged non piercing projectile
+Throws a wooden spoon, enemies hit will turn around
+Default Dmg: 1 (or 0 for balancing)
+Default Cd: 7
+
+
+[2024/01/30 4:20] da_dogbar
+that sounds sick but hear me out
+
+
+[2024/01/30 4:21] da_dogbar
+give it a damage value but make it so that it fires another needle for each damage it has and it ignores enemies who dont have an attack in queue
+
+
+[2024/01/30 4:21] da_dogbar
+so you can activate multiple enemy's attacks
+
+
+[2024/01/30 4:47] apokalypse6
+kunai but better
+
+
+[2024/01/30 4:48] Deleted User
+Enchant - Nox
+Only applies to ranged weapons
+Causes the projectile to permeate through 1 enemy
+
+Would be good for combinations like grappling+spear to line up enemies or to prepare a combo
+
+
+[2024/01/30 4:48] da_dogbar
+no because it doesnt actually deal damage
+
+
+[2024/01/30 4:48] da_dogbar
+the damage value is just the amount of enemies it hits
+
+
+[2024/01/30 6:25] Deleted User
+Potion - Sake
+Perform your readied attacks twice at the cost of their order being shuffled
+
+
+[2024/01/30 10:59] chapples4
+Okok here me out. A new tile effect that makes the tile occur *after* the enemies attack/move. So I was playing around with the Shogun's blaze attack (achieved by forcing it into my deck via RunSave moddification) and the fact it occurred *after* the enemies attack/move made actually for interesting strategies. I'd imagine it would be blue to compliment the red color of the free play effect.
+I will dub this effect  "last play" to again go with the "free play" effect.
+
+It would probably have to be play tested to view if it would actually be good but I think it would be an interesting idea nonetheless. It could be useful for more passive tiles, and making it take effect after the enemies move could be a neat way to balance it. (completely hypothetical) Say  make the shield tile be obtain able but with a last play effect, which makes it both so you can add free play to it since it would already have a tile effect, and would prevent people from just tanking hits by casting a shield same turn for free. 
+
+I think it's a cool idea and though it probably won't make it far, but it was fun voicing this idea. I definitely want to see more tile effects other than JUST free play.
+
+
+[2024/01/30 11:03] project_u
+Reverse flame barrage since the beams no longer harm bosses
+
+
+[2024/01/30 11:52] Deleted User
+Shieldforce - Available in guarding shop after purchasing Shield Retention
++1 dmg to the first tile in queue whenever shield is active
+Cost - 20
+
+
+[2024/01/30 11:53] project_u
+* Flashbacks *
+
+
+[2024/01/30 11:57] Deleted User
+Defiant Stance  - Available in guarding shop
+Gain immunity to attacks that move you for 2 turns after performing a wait action
+Cost - 15
+
+
+[2024/01/30 11:57] Deleted User
+(only prevents you from being moved, doesn't prevent the damage)
+
+
+[2024/01/30 11:59] Deleted User
+Stoneheart - Available in guarding shop after purchasing Iron Skin
+Take no damage from attacks that deal 1 damage, healing -50%
+Cost - 20
+
+
+[2024/01/30 12:01] chapples4
+Really like Shieldforce and defiant Stance
+
+
+[2024/01/31 3:11] sierra_nevada42
+Spear Charge: 1 damage, two range, high cooldown. If you've moved this turn, deals greatly increased damage.
+
+
+[2024/01/31 4:50] Deleted User
+or it could be a persisting hitbox
+
+
+[2024/01/31 4:54] Deleted User
+lance - hold out a 2 tile lance that persists for 2 turns and deals 2x damage when contacting an enemy from movement
+
+turning in the other direction will disable the lance early
+
+double strike creates another lance after wearing off, basically doubles duration
+
+
+[2024/01/31 20:13] averagefoxenthusiast
+extremely silly idea for a secret location:
+From day 6 onward, red particles occasionally flicker in the whirlpool on the map. If the player clicks on it they are transported to a secret location, perhaps a ship of sorts which is sailing inside the whirlpool (maybe a ghost ship?). 
+Lets also say the boss is two daisukes because it's not like this is going to be implemented anyway
+
+
+[2024/01/31 22:54] seeminglyunrelated
+逐 2 daisukes
+
+
+[2024/01/31 22:54] seeminglyunrelated
+Well you know what they say
+
+
+[2024/01/31 22:54] seeminglyunrelated
+If it's too silly for the game
+
+
+[2024/01/31 22:55] seeminglyunrelated
+It's more than good enough for a mod ､｣
+
+
+[2024/01/31 23:12] _pacca
+Maybe for day 7
+
+
+[2024/02/01 0:58] da_dogbar
+mini bosses could be cool ngl
+
+
+[2024/02/01 0:58] da_dogbar
+like very chunky enemies that can appear in random locations
+
+
+[2024/02/01 8:57] Deleted User
+elite enemies?
+
+
+[2024/02/01 12:50] Deleted User
+Trinkets: They occupy potion slots and are either rechargeable/grant passive perks, could possibly be sold in shops to remove them, would give more use to the big pockets item in shops
+Ex
+__Agrestal Jadeite:__ Available in any shop, 8-12 cost, occupies 1 slot when purchased - Heals 1 hp when consumed, recharges after every 4 waves. +3 Max hp.
+__Penumbra Pendant:__ Available in any shop after defeating Nobunaga, costs 5 HP (not max hp), occupies 2 slots when purchased (1 consumable slot is removed as the other is occupied) - Consecutively performing a wait action 3 times will cause your character to fade and become incorporeal to ranged attacks, lasts for up to 2 turns or until you move/attack
+__Feathered Wreath__: Available in dancer shop, 0 cost, occupies 3 slots when purchased (2 consumable slots are removed as the other is occupied) - After consuming, press left/right to choose the direction you want your character to go in after executing your attack. Recharges after 8 turns.
+__Trillium Incense__: Available in combo shop after you obtain a double strike weapon, 30 cost, occupies 3 slots when purchased - Consume to have the next usage of a double strike weapon perform a triple strike, recharges after dealing 6 damage.
+__Glacial Opal__: Available in any shop while in Hideyoshi's Keep, 10-15 cost, occupies 2 slots - +1 turn to duration of ice effect, poisoned enemies take 2x the turns to perform a movement action, no cooldown.
+__Obsidian Jaw__: Available in any shop while in Hot Springs/Forsaken grounds, 12-18 cost, occupies 4 slots - Doubles shockwave range. Cursed enemies take 1 damage every turn until half of their health is depleted (capped at 3 dmg on bosses), requires 2 kills to recharge after applying curse in a turn.
+
+{Reactions}
+総 (4)
+
+[2024/02/02 4:42] spencer8464
+I posted on the steam forum but wanted to post here for visibility. 
+
+I am interested in longer que combos and have a nuanced proposal of how to do that without breaking too much game and display:
+
+ The least disruptive way is to allow free-play tiles to be played 窶彙efore窶・any non-free play tile in the same que position. This could be shown by overlaying transparent free-play tiles over opaque non-free play tiles or by slotting them to the left of the que positions. The free play resolves first, then the non-free tile, for each position in the que. Free plays could still be played alone in the que position for extra flexibility. Their long cooldowns also reduce the impact of this change on player power. (Some combo skills may still need to be reworked.) 
+
+Free-play abilities are supposed to be rare and powerful, but at present are best used to instantly move into a better position or bail out when a player isnt prepared for an attack. The tile combos also feel the least exciting when a free play tile is involved because it窶冱 one less attack. Since the tiles arent attacks, they would be great candidates for making more complex combos without breaking the combo skills too hard. Imagine being able to move, hit, teleport, hit and hit with the help of two free play cards!
+
+
+[2024/02/02 5:43] da_dogbar
+add barricade as an obtainable tile and make it freeplay
+
+{Reactions}
+総 (2)
+
+[2024/02/02 5:44] da_dogbar
+i feel like it could have a lot of cool synergies
+
+
+[2024/02/03 9:29] sierra_nevada42
+Make it a Korean warship from the Imijij war /hj
+
+
+[2024/02/03 9:30] sierra_nevada42
+Unlock a Korean warrior characters if you defeat the Japanese boarders
+
+
+[2024/02/04 23:29] apokalypse6
+First off, Agrestal jadeite is a tad bit to op, penumbra pendant cant be gotten on day 6 (except you have hp buffs) and their effect seems way to niche, and im to lazy to point out the other problems these have. Nice idea, but i dont think this would fit into the game
+
+
+[2024/02/05 2:26] Deleted User
+can inc. recharge to 6 waves carrying over from last level for jadeite, penumbra can become unlockable throughout a run after nobunaga is defeated
+
+for the rest they're demonstration of concept for how different recharges can work, and there's no saying that they won't need passive effects
+
+
+[2024/02/05 19:55] averagefoxenthusiast
+Vague idea for an enemy which uses the mirror tile (there a probably better ways to execute this concept)
+Health: 5
+Behaviour:
+If on the same side of the field as the player but not on the centre, queue up swirl + mirror, and advance towards the player.
+If in the centre, step back away from the player if possible. Otherwise move towards the player. If neither is possible and they are not separated from the player by another enemy, queue up swirl. and try to use it (add mirror if they move out of the centre while chasing the player).
+If on the other side of the field to the player; move towards a tile that would be adjacent to the player when reflected (if possible). Then queue up mirror + swirl + mirror and execute regardless of the situation
+
+
+[2024/02/09 6:57] cowboy7812
+i forget the enemy's  name but that dancer enemy that steals one of your tiles in its non upgraded form? yeah whatever tile that is being obtainable would be fun and add a bit of randomness
+
+
+[2024/02/09 11:24] chapples4
+Disagree with free play, but please we have to add it, it's so much with ronin and jujisuka. Free play might be two good though, and barricade can lead to cheesing many bosses
+
+
+[2024/02/09 15:21] da_dogbar
+fair
+
+
+[2024/02/09 15:21] da_dogbar
+maybe make enemies target it if its directly between you and them
+
+
+[2024/02/10 1:22] cowboy7812
+going off of this it would be cool to see the shogun get harder as days go on either with different moves enchants corrupted etc and it increases by day
+
+
+[2024/02/10 1:23] cowboy7812
+cause going off of somebody who dies and takes way too much damage (me) shogun seems to easy rn its just a victory lap
+
+
+[2024/02/10 6:29] guidochumston
+a parry?
+
+
+[2024/02/10 6:29] guidochumston
+idk i just started playing
+
+
+[2024/02/10 15:54] da_dogbar
+sai does that i guess?
+
+
+[2024/02/10 15:54] da_dogbar
+idk what parry can mean
+
+
+[2024/02/10 16:02] cowboy7812
+A shield maybe
+
+
+[2024/02/10 16:02] cowboy7812
+But you can't attack when you use your shield and you use it for the next turn so you block either all incoming damage or the next hit
+
+
+[2024/02/10 16:03] cowboy7812
+But a parry I think would break the game
+
+
+[2024/02/10 17:18] dragon_of_celts
+I thought they meant that the Shogun would get a parry move, not the player.
+
+
+[2024/02/10 17:19] dragon_of_celts
+So the Shogun would block and counterattack if you hit him while he has it equipped, I guess...?
+
+
+[2024/02/12 16:05] da_dogbar
+perk idea
+Curse Charge
+For every currently cursed enemy, temporarily lower the cooldown of all tiles by 1.
+
+
+[2024/02/12 16:06] da_dogbar
+not sure what shop this would fit into though
+
+
+[2024/02/12 17:44] apokalypse6
+Should be freeplay, idk about the niche though
+
+
+[2024/02/12 17:44] apokalypse6
+Maybe if we get more ways to curse enemies
+
+
+[2024/02/12 17:45] da_dogbar
+its not a tile
+
+
+[2024/02/12 17:45] da_dogbar
+its a perk
+
+
+[2024/02/12 17:45] apokalypse6
+Whats a perk
+
+
+[2024/02/12 17:45] da_dogbar
+i mean like
+
+
+[2024/02/12 17:45] da_dogbar
+you can buy it at a shop
+
+
+[2024/02/12 17:46] apokalypse6
+And how do you use it?
+
+
+[2024/02/12 17:46] apokalypse6
+Is it a one time use, or has it a cooldown?
+
+
+[2024/02/12 17:47] apokalypse6
+Does it go in the consumables inventory?
+
+
+[2024/02/12 18:02] da_dogbar
+its a skill i mean
+whenever a tile is put on cooldown its cooldown is lowered by 1 for each enemy that has a curse at that current moment
+
+
+[2024/02/12 20:08] seeminglyunrelated
+sounds a little bit op
+
+
+[2024/02/12 20:08] seeminglyunrelated
+maybe +1 cooldown on all tiles + special move?
+
+
+[2024/02/13 12:31] miyucomics
+Maybe an enchantment that teleports you to an enemy's location if you kill them?
+
+
+[2024/02/13 15:40] the_rot_bot
+Might be interesting to have an enemy that promotes fellow enemies to Elites.
+
+
+[2024/02/13 17:59] da_dogbar
+add an unique enemy for nobunaga's fortress
+
+
+[2024/02/13 21:05] seeminglyunrelated
+that's a good one
+
+
+[2024/02/13 21:05] seeminglyunrelated
+or could be a corrupted boss mechanic
+
+
+[2024/02/13 21:06] seeminglyunrelated
+does the shadow charger not count?
+
+
+[2024/02/13 22:07] r4re
+a puzzle gamemode where you're put in a specific situation with specific tiles and must complete an objective within x amount of turns
+
+
+[2024/02/13 22:07] r4re
+almost like chess
+
+
+[2024/02/14 6:57] freezedriedmangoes
+a character who's special move is to steal the enemy's tile
+would start with only one tile instead of two, not sure which would be good though
+
+
+[2024/02/14 10:49] chapples4
+No they can spawn in the snowy place too (forgot what it窶冱 called :/)
+
+
+[2024/02/14 16:07] da_dogbar
+he spawns in hideyoshis keep as well
+
+
+[2024/02/14 16:43] seeminglyunrelated
+ah ok
+
+
+[2024/02/14 17:26] apokalypse6
+This is actually gonna probably happen, cuz I doubt ieyasus garden will have shadow charger as a special enemy
+
+
+[2024/02/16 9:24] miyucomics
+If the shooting up arrow tile ever gets turned into an obtainable one, maybe it should be like Blade of Patience where you keep it on your queue after placing it in. It remembers the location where you equipped it and even if you move away, once you trigger your attack, it strikes that tile
+
+
+[2024/02/16 9:27] thefloralhurrikale
+It sounds tedious, but it could work
+
+
+[2024/02/16 9:42] tooshmoove
+perhaps have it like sword of patience except the number of turns you hold it for is the target away from you that it hits
+
+
+[2024/02/16 9:43] tooshmoove
+like if you have 2 opps ahead of you and you hold it for 2 turns, it hits the guy behind
+
+
+[2024/02/16 9:43] tooshmoove
+like lightning except it doesn't target the guy in the far back, you could tune it to hit a target of your choosing
+
+
+[2024/02/16 10:46] Deleted User
+what if the location in the queue determines the 1st/2nd/3rd enemy in the direction you're facing ､・
+
+
+[2024/02/16 10:50] Deleted User
+order could go backwards
+
+
+[2024/02/16 11:17] seeminglyunrelated
+that's a good one
+
+
+[2024/02/16 12:12] v_the_1andonly1
+2 things.
+1: I wanna see my man Assassin again.
+2: Maybe something to do with the skull currency thing other than unlocking new tiles/skills that directly affects your next run. I窶冦 thinking being able to use them to increase your chances of seeing a certain tile or shop skill or statue buff, but smth to reduce the rng a little at least after completing day 6. To be able to try out combos that窶囘 be otherwise (near) impossible to find at random.
+
+
+[2024/02/16 12:14] thefloralhurrikale
+*Every speedrunner in the world spends skulls to get Kunai to show up*
+
+
+[2024/02/16 12:17] v_the_1andonly1
+I mean reducing the rng of this kinda stuff would probably cut speedrunning times by a lot, but seeing people go "how fast can I get kunai" probably would get boring quickly (assuming the speedruns don't already look like that..)
+
+
+[2024/02/16 12:18] thefloralhurrikale
+Hate to break it to you, but all the top runs rely on Kunai as their main weapon
+
+
+[2024/02/16 12:18] v_the_1andonly1
+Although we could just have 2 categories of speedrun based on runs with the value manipulators, and ones withou it.
+
+
+[2024/02/16 15:42] da_dogbar
+that just seems like worse trap
+
+
+[2024/02/16 17:42] averagefoxenthusiast
+I think in this situation Nobunaga should use the shadow dash unless this is intended
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1207970349011181648/Screenshot_48.png?ex=6a16ae8e&is=6a155d0e&hm=46d4670d39498f2d094105cd99a3f0410d4c14ad092ee0884e42c9e18aa14648&
+
+{Reactions}
+総
+
+[2024/02/16 21:40] seeminglyunrelated
+...is assasin not just the shadow?
+
+
+[2024/02/16 21:42] v_the_1andonly1
+I mean with a new ability or smth
+
+
+[2024/02/16 21:42] seeminglyunrelated
+ah ok
+
+
+[2024/02/16 21:42] v_the_1andonly1
+Actually, it had the wanderer窶冱 ability too
+
+
+[2024/02/16 21:44] miyucomics
+Adding on to this, there are cases where Kowa the Coward or the Shinobi have double smoke bomb but don't use it if they are behind an enemy. I think they should use their smoke bomb in those cases
+
+
+[2024/02/16 21:47] dragon_of_celts
+The computer opponent never recognizes the double attack on anything, at the moment. It *does* recognize being able to hit you with Spear or Crossbow through others, though.
+
+
+[2024/02/16 21:58] miyucomics
+It uses crossbow even if it wasn't going to hit you and only hits two enemies in front of it though
+
+
+[2024/02/16 21:59] dragon_of_celts
+Does it? Hmmm... I guess I've never had the good fortune for it to steal my Crossbow and not be able to hit me.
+
+
+[2024/02/16 22:02] da_dogbar
+make the enemies that copy your moves use the mirror tile (the one that flips their position) to get to you if they are behind other enemies
+
+
+[2024/02/16 22:05] chapples4
+But then they窶囘 have to drop all tiles from their queue to add mirror first. Because it would be redundant to attack and then mirror
+
+
+[2024/02/16 22:05] chapples4
+And by doing that the tile they take would be different
+
+
+[2024/02/16 22:06] da_dogbar
+wait hear me out
+
+
+[2024/02/16 22:06] da_dogbar
+give them a special trait that makes the tiles they add to their attack queue come from the bottom
+
+
+[2024/02/16 22:06] chapples4
+Ok, that窶冱 actually a cool idea.
+
+
+[2024/02/16 22:09] chapples4
+That could also make a good boss mechanic. They always start with a specific tile, so all their combos look the same, and they add stuff at the bottom. Making you predict what they窶决e going to do or prepare for all situations.
+
+
+[2024/02/16 22:12] da_dogbar
+would be sick for hideyoshi ngl
+
+
+[2024/02/16 22:13] da_dogbar
+rn hideyoshi is p much the easiest boss
+
+
+[2024/02/16 22:29] chapples4
+Agreed
+
+
+[2024/02/17 9:14] oakennnn
+Please please please add a framerate limit in the options. My laptop cpu burns up when I have this game open. Fans on full, hot keyboard and everything.
+
+
+[2024/02/17 9:15] seeminglyunrelated
+Running shogun showdown!!!??? you should get a new laptop ､｣
+
+
+[2024/02/17 9:15] oakennnn
+haha, yeah, but it is not a bad laptop.
+
+
+[2024/02/17 9:17] oakennnn
+Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz
+
+
+[2024/02/17 9:17] oakennnn
+16 GB ram
+
+
+[2024/02/17 9:17] seeminglyunrelated
+huh?
+
+
+[2024/02/17 9:17] seeminglyunrelated
+ok now I'm confused
+
+
+[2024/02/17 9:17] oakennnn
+I am just saying I don't have a slow, bad laptop
+
+
+[2024/02/17 9:17] seeminglyunrelated
+apart from the cpu that's pretty good
+
+
+[2024/02/17 9:18] oakennnn
+a 10th gen i7 should be able to run this game ・
+
+
+[2024/02/17 9:18] oakennnn
+I just think it needs framerate limiting
+
+
+[2024/02/17 9:42] averagefoxenthusiast
+the game runs fine on my dell with 16 GB ram and an intel iris xe graphics card
+
+
+[2024/02/17 9:47] oakennnn
+To be clear, I don't have performance issues like lag, or unresponsiveness, or anything like that. It runs smoothly, but it also drains my battery, and heats up the CPU
+
+
+[2024/02/17 9:48] oakennnn
+Which is why I think an option to limit framerate would be important
+
+
+[2024/02/17 9:48] oakennnn
+I dont even mind if it is in a config file, or a command line flag or something, just as long as it is an option somewhere
+
+
+[2024/02/17 16:04] averagefoxenthusiast
+~~Is that not normal?~~
+
+
+[2024/02/17 18:09] roboatino
+Will look into it 総
+
+{Reactions}
+笶､・・
+
+[2024/02/20 20:00] miyucomics
+Maybe a character with an ability called Spin. If they move forwards at an enemy, they turn the enemy and themselves around. It's useful for making enemies attack other enemies and the turning around can let you focus on things behind you too.
+
+
+[2024/02/20 20:02] miyucomics
+Toss should be its own tile as well since the other characters have tiles that somewhat emulate what their ability is ( smoke bomb, knockback punch, and shadow dash ) and it would be fun to use toss with the Ronin for example. Maybe a red tile?
+
+
+[2024/02/20 20:07] miyucomics
+I also had an idea for a tile that does little damage ( maybe just 1 ), has high cooldown, and only strikes the cell ahead but if it deals the finishing blow, the enemy has a higher drop chance. Because it's so weak and situational, you have to play around it but you can get more drops if you use it well
+
+
+[2024/02/20 20:55] bitterlemons_dota
+､・you know what could be interesting. A high-risk high-reward skill.
+
+e.g. 
+**Skill Name: Strong Sake**
+Ability: Your Character will automatically turn every 3 turns & Your Forward/Backward commands get inverted. (*The turning does not cost a turn)
+Every 3 turns, all your tiles have +1 Damage. (or maybe even +2 Damage?)
+
+Thoughts?
+
+|| I could imagine speed-runners scream at this one though ・ ||
+
+
+[2024/02/20 21:05] bitterlemons_dota
+2nd thought, it doesn't have to be a skill.
+It can be in the "Potion/Card" slot.
+
+
+[2024/02/20 21:06] bitterlemons_dota
+... huh. Edamame Brew is a type of Alcohol 刋 庁
+
+
+[2024/02/20 21:08] bitterlemons_dota
+Mamushi Brew maybe? ・ *Snake-Booze ... or maybe Awamori for Japan Authenticity?
+
+
+[2024/02/20 23:02] apokalypse6
+What the hell is a skill and why do people make ideas of fanmade skills
+
+
+[2024/02/20 23:03] apokalypse6
+Last I checked the game doesnt have skills lmao
+
+
+[2024/02/20 23:27] roboatino
+"Skills" is actually the 'official term' of what some folks call "perks" ・
+
+
+[2024/02/21 0:40] bitterlemons_dota
+I went to check the guides for the term "skills"
+
+
+[2024/02/21 6:28] seeminglyunrelated
+or one with swap toss built in
+
+{Reactions}
+操
+
+[2024/02/21 15:43] da_dogbar
+thats p much just jujitsuka
+
+
+[2024/02/21 15:44] da_dogbar
+actually jujitsuka is just weaker swap toss + knockback punch
+
+
+[2024/02/22 10:19] Deleted User
+what about using wait actions to trigger the skill
+
+
+[2024/02/22 11:13] seeminglyunrelated
+Already been suggested, that would make it really really niche
+
+
+[2024/02/22 14:15] Deleted User
+what if it was just a huge passive skill
+
+
+[2024/02/22 14:16] Deleted User
+Sage Character:
+Has two queues at the cost of tiles needing 1 extra turn to be readied when added, being grayed out & translucent to indicate this. Swap between them with q/e or by clicking on the translucent queue shown next to the other.
+
+
+[2024/02/22 21:25] seeminglyunrelated
+Ngl sounds sick but this might be a bit too far fetched. Gotta keep it simple and consistent, right? Mirko can窶冲 be having to rework the queue system just for a single character. ､・would be a cool mod though
+
+
+[2024/02/23 7:16] v_the_1andonly1
+If we ever have workshop support, we need a Sukuna over Jujitsuka skin.
+
+
+[2024/02/24 5:10] Deleted User
+Assassin:
+Skill - Mark the current cell you're standing in as your escape cell upon performing a wait action. Visually smoke bomb the escape cell and teleport/swap into the escape cell upon an attempt to move into an occupied cell.
+Tileset 1: Smoke Bomb, Trap
+Tileset 2: Backwards Shadow Dash, Sword
+
+
+[2024/02/24 11:21] v_the_1andonly1
+Yk, for Assassin窶冱 skill, I was more thinking of it being a 2/3 dmg attack that has a 5-7 cooldown, in return giving them an extra 2 hp for the lack of innate movement abilities.
+
+
+[2024/02/24 11:22] v_the_1andonly1
+And as a throwback to the beta one of the Tilesets being sword and curse.
+
+
+[2024/02/24 12:26] Deleted User
+I was thinking of theming it around preparation & planning, like how the curse tile can prepare a kill/potential combo with more tiles
+
+
+[2024/02/24 12:26] thefloralhurrikale
+I can see Assassin being a slower character to play if it means good single target damage
+
+
+[2024/02/24 12:27] thefloralhurrikale
+Wondering if starting off with Sai would be too good
+
+
+[2024/02/24 12:28] Deleted User
+oh yeah set 2 could have sai in place of  sword to add to the planning element, shadow dash goes well with that as well for when it can't finish off a readied enemy
+
+
+[2024/02/24 12:28] thefloralhurrikale
+Sai is just sword but more cracked
+
+
+[2024/02/24 12:29] thefloralhurrikale
+Double dmg potential is nasty to bosses
+
+
+[2024/02/26 4:09] genasi
+I think PVP could be hype
+
+
+[2024/02/27 5:56] double_dot
+i don't really see how gameplay wise
+
+{Reactions}
+総
+
+[2024/02/27 6:58] gardnerdiamond
+I mean maybe there could be a co op mode, like pve on probably a much bigger map
+
+
+[2024/02/27 6:59] gardnerdiamond
+would be fun with all the different abilities like throwing/pushing/swapping
+
+
+[2024/02/27 6:59] gardnerdiamond
+tho youd probably hit your teammate a good number of times lol
+
+
+[2024/02/27 7:01] seeminglyunrelated
+would be but I don't ever see it being implemented by the dev
+
+
+[2024/02/27 7:02] seeminglyunrelated
+too much work
+
+
+[2024/02/27 7:02] seeminglyunrelated
+also turn based + multiplayer always gives problems
+
+
+[2024/02/27 7:20] double_dot
+unless you can be the wave controller, which is maybe the only way i think it could work
+
+
+[2024/02/27 8:01] gardnerdiamond
+that'd actually be pretty cool, someone controlling enemy actions (ofc theyd be restricted to the usual patterns, but they could choose order and wave spawn formation)
+
+
+[2024/02/27 11:48] double_dot
+but unless a modder wants to make the game multiplayer I highly doubt any of this would ever be possible to implement
+
+
+[2024/02/27 11:50] double_dot
+By possible i mean that mirko cannot ship  a multiplayer stack in the game without having to ask goblinz the game studio to change the whole marketing of the game
+
+
+[2024/02/28 9:48] miyucomics
+A disenchant statue that strips the enchantment from a tile, removing the cooldown added by the enchantment and giving back maybe 20 gold
+
+{Reactions}
+総 (2)
+
+[2024/02/28 18:27] another_ralsei
+25-30 considering you'll be wasting 2 upgrade slots as well from doing this, my thoughts though
+
+
+[2024/02/29 12:11] Deleted User
+Tile - Slungshot/Throwing Club
+Hits the first enemy up to 3 tiles in front of you. Regress the target's queue by 1 turn.
+Default Dmg: 1
+Default Cd: 6
+
+
+[2024/02/29 15:09] da_dogbar
+Tile - Bokken
+2 damage, 6 cooldown
+Strike the first enemy up to 2 tiles ahead of you. The hit enemy will instatly perform all the tiles in its attack queue. Damage is multiplied by the number of tiles the enemy used.
+
+
+[2024/02/29 23:04] thefloralhurrikale
+Damn, I love an even more broken Sai
+
+
+[2024/03/01 3:51] double_dot
+quicken some animation, or make them non-blocking.
+the groppler, the new archer foe and the mirror attack (from beta) are all very slow from a speedrunning perspective
+
+
+[2024/03/01 9:43] Deleted User
+what if freeplay tiles visually have sped up animation as a detail ､・
+
+{Reactions}
+総
+
+[2024/03/01 15:36] kodasai
+Item idea: talisman, use on enemy up to two tiles ahead of you to have them fight for you, the effect either runs out or they die after using their first tile(s). Doesn窶冲 effect bosses.
+
+
+[2024/03/02 2:30] double_dot
+i would 100% like that
+
+
+[2024/03/02 2:41] da_dogbar
+ngl having an ai companion could be sick
+
+
+[2024/03/02 21:17] cowboy7812
+A way to have a summoner or puppet fighter build/character would be dope as hell
+
+{Reactions}
+総 剌
+
+[2024/03/03 1:54] the_rot_bot
+Might be fun to have a tile called something like Cursed Ground, that applies to 1 open cell that makes it so that any combatant who enters the tile (even if they don't stand on it (like dashing)) they get cursed. Lasts for maybe 5 rounds or so?
+
+{Reactions}
+笘晢ｸ・
+
+[2024/03/03 5:18] Deleted User
+Trials: Shrines themed after a boss can appear, if you take the upgrade a trial will be initiated. Trial conditions last for a certain # of waves, duration increased when day 4 or onwards.
+
+Trial of the Dasher (5 waves) - Grants a +1 ATK -1 CD Charge tile. Once initiated, chargers have a higher chance of spawning and gain +1 ATK
+Trial of the Impaler (4 waves) - Choose between a -3 CD Earth Impale or Spear tile. Once initiated, Yari Masters have a higher chance of spawning and gain quick witted
+Trial of the Barricader (6 waves) - Grants a barricade tile that can only be used once per 6 waves, it'll then be grayed out, cannot be upgraded (or maybe upgrades can affect it some other way idk). Once initiated, enemies will gain a shield if they don't take damage for 6 turns
+Trial of the Twins (5 waves) - Duplicate a tile of your choice in its base form. Once initiated, damage is multiplied by 2 whenever your health is at an even number
+Trial of the Statue (1 wave) - Gain Defiant Stance >https://discord.com/channels/965169818309369858/965176630588882954/1201722789246017626. Once initiated, you can only move if you press a movement key for 2 consecutive turns
+Trial of the Fallen (4 waves) - Cannot appear before a level with less than 7 cells, enchant a tile with -4 cooldown. Once Initiated, melee enemies have a chance to spawn with Dash
+Trial of the Wicked (3 waves) - Nullify damage from ranged attacks if they are launched from farther than 4 tiles away, 8 CD. Once initiated, enemies can only be damaged if they are under a lighted tile, cells*0.5+1 are lighted, relight whenever you damage something
+Trial of the Cunning (2 waves) - Enchant a tile with Freeze +1 Upgrade Slot. Once initiated, you get frozen for 1 turn if you don't move for 3 consecutive turns
+Trial of the Stagemaster - Grants a 1 time use Maku tile that will start the act in its desc. but replenish all your health before & after. After initiating, progress through 2 non-Confrontation acts to complete the trial
+
+
+[2024/03/03 5:19] Deleted User
+And harder corrupted vers
+
+Ordeal of the Dasher (5 waves) - Choose between a Freeplay Charge tile or Dynamic Boost. Once initiated, chargers have a higher chance of spawning and gain +2 ATK and +1 HP.
+Ordeal of the Impaler (4 waves) - Perform a wait action to Earth Impale for 1 dmg which also attacks the cells adjacent to you, 8 CD indicated by skill lvl#. Once initiated, Yari Masters have a higher chance of spawning and gain aggro.
+Ordeal of the Barricader (6 waves) - Kami Brews can be reused once (visually indicated by if the potion is full/half full). Once initiated, enemies will gain a shield if they don't take damage for 3 turns.
+Ordeal of the Twins (1 wave) - +2 CD to a tile of your choice, then duplicates that tile (Optional for balancing; the duplicated tile cannot be upgraded but won't have +2 CD applied). Once initiated, only first 2 tiles in inventory can be used.
+Ordeal of the Statue (1 wave) - Gain Iron Skin without the HP deduction. Once initiated, you can only move if you press a movement key for 3 consecutive turns.
+Ordeal of the Fallen (4 waves) - Cannot appear before a level with less than 7 cells, enchant a tile with Freeplay & -1 CD. Once Initiated, Each wave is accompanied by 2-3 blight chargers (Optional; adds two cells to the level).
+Ordeal of the Wicked (3 waves) - A cell will be lighted and heals 1 hp (or potentially reduce CD) when you step in it, CD determined by 6/(0.2\*cells) (less CD in maps with more cells). Once initiated, enemies can only be damaged if they are under a lighted tile, cells*0.5+1 are lighted, relight whenever you damage something.
+Ordeal of the Cunning (2 waves) - Enchant a tile with Frostbite +2 CD, target is frozen and cursed. Once initiated, all enemy attacks freeze you for 1 turn.
+Ordeal of the Stagemaster - Grants 2 one time use freeplay Maku tiles that will start the act in their desc. but replenish all your health before & after. After initiating, progress through 3 non-Confrontation acts to complete the trial.
+
+
+[2024/03/03 23:10] miyucomics
+At the Dancer shop, maybe you can add two cooldown to your special move to make it free to play. For example, you can shove enemies back as the Ronin and it wouldn't count as a turn
+
+
+[2024/03/04 1:03] seeminglyunrelated
+漕what would the name of the skill be tho
+
+
+[2024/03/04 1:03] seeminglyunrelated
+Agile move?
+
+
+[2024/03/04 1:03] miyucomics
+Swift Signature? I'm not good with names
+
+
+[2024/03/04 1:04] seeminglyunrelated
+Oo that窶冱 a good one
+
+
+[2024/03/04 1:04] seeminglyunrelated
+Uhh
+
+
+[2024/03/04 1:04] seeminglyunrelated
+Swift move, so it窶冱 more consistent with mamushki or whatever the other ones are
+
+
+[2024/03/04 1:04] seeminglyunrelated
+Something move
+
+
+[2024/03/04 2:44] dragon_of_celts
+https://discord.com/channels/965169818309369858/981807023006023700/1213794338195374110
+Kunoichi - An enemy that cannot be hit unless you are next to her (is a shadow until you are adjacent, attacks will pass through her while she is hidden).
+Tiles: 
+Free Play 0 damage Smoke Bomb
+Shadow Kama
+Free Play Tanto (1 damage directly ahead, +1 for each tile in target's attack queue)
+
+
+[2024/03/04 2:48] dragon_of_celts
+Will swap with another enemy (that is *not* about to attack), if it will put her in attack range of the player.
+She will use Smoke Bomb on player *only if* an attack targeting her is imminent. Otherwise, it is purely for positioning for attack.
+
+
+[2024/03/04 2:49] seeminglyunrelated
+would stuff like charge hit her or go through her?
+
+
+[2024/03/04 2:49] seeminglyunrelated
+what about the shadow's ability?
+
+
+[2024/03/04 2:50] dragon_of_celts
+I think it should go through her (unless she is in the space that the player would end up).
+
+
+[2024/03/04 2:53] dragon_of_celts
+Charge from 2+ spaces away: if there is a space behind her -> will pass through her; if there isn't a space behind her, it will hit her.
+Shadow Dash from 2+ spaces away: will miss her.
+
+
+[2024/03/04 2:54] seeminglyunrelated
+sounds a bit complex, might have to be introduced in much later days so new players don't get confused
+
+
+[2024/03/04 2:56] miyucomics
+I had an idea for a red tile that recharges your tiles by three turns. You can just occasionally toss it on to recharge your tiles. Maybe it also counts as a turn so you attack, wait a turn, and attack again with your third tile
+
+
+[2024/03/04 2:57] dragon_of_celts
+I mean, if it is too confusing, it could always just have Charge, Back Charge, and Shadow Dash always hit, since technically you're next to her when you're hitting...
+
+
+[2024/03/04 4:25] dragon_of_celts
+Jﾅｫsﾅ耕ﾅ・- A heavy (immovable) armoured enemy that takes less damage the farther away the attacker is.
+Uses a Tetsubo tile.
+
+
+[2024/03/04 9:25] seeminglyunrelated
+Achievement Suggestion: *Ultimate [Character] *(wanderer, ronin, etc)*: get ultimate rank on every stamp for [Character]*
+
+
+[2024/03/06 2:34] cowboy7812
+stage hazards would be cool
+
+
+[2024/03/06 2:34] cowboy7812
+for both players and enemies
+
+
+[2024/03/06 2:36] da_dogbar
+more stage variety overall could be really cool
+
+
+[2024/03/06 2:38] da_dogbar
+like burning floors or obstacles like trees that enemies like snipers use to hide behind
+
+
+[2024/03/06 3:19] bitterlemons_dota
+Upon "more stages" I thought it could be cool if you could enter a secret stage to the left, after paying like 1000 skulls to the shop keeper. 
+Upon the "secret stage" to the left, you could have things like "burning floors" and such.
+The "secret stages" could be called "Jigoku Islands"
+
+It's like Super Mario Brothers, hidden level after 8-4, with the 笘・mark next to the stage description.
+
+Just throwing ideas.
+The game needs some way of spending skulls that keep increasing the more you play imo.
+
+{Reactions}
+剏
+
+[2024/03/06 3:19] da_dogbar
+new worlds unlocked for skulls could be really cool
+
+{Reactions}
+･ｰ
+
+[2024/03/06 7:05] punpunisnofunfun
+It'd be cool if you could see in the archive how many times you had been offered a tile and how many times you'd taken it
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1214695259796148224/image.png?ex=6a16c1dd&is=6a15705d&hm=cfd72a22645d6ed4ae80855c47e81f20d4b63bb6f2fab4ef0bb1b3a7ad553269&
+
+{Reactions}
+箝・(3)
+
+[2024/03/06 7:05] punpunisnofunfun
+like this
+
+
+[2024/03/06 7:06] punpunisnofunfun
+in a similar vein, maybe enemies could be added to the archive? detailing the attacks that you've seen so far along with how many times they killed you / how many times you killed them?
+
+
+[2024/03/06 7:07] punpunisnofunfun
+I just get curious sometimes how many times I've actually taken things like sword or how many times I've died to Shadow Charger lol
+
+
+[2024/03/08 7:25] miyucomics
+Maybe a perk that every time you make an enemy kill another enemy, there is a 1/3 chance of a health item dropping?
+
+
+[2024/03/08 7:25] miyucomics
+Just to give players with it a known way of getting health items
+
+
+[2024/03/08 7:25] miyucomics
+Rather than just hoping for luck
+
+
+[2024/03/08 8:26] double_dot
+hoping for luck is quite enjoyable for me
+
+
+[2024/03/08 8:36] miyucomics
+It's a perk that you can choose to buy or not
+
+
+[2024/03/08 8:38] double_dot
+also you have combo heal to get heal back
+
+
+[2024/03/08 8:38] double_dot
+which is much more reliant and fun, than a RNG booster
+
+
+[2024/03/08 13:57] Deleted User
+it could return and hit the first enemy behind you
+
+
+[2024/03/08 13:58] Deleted User
+or just a backwards ranged tile
+
+
+[2024/03/08 13:58] Deleted User
+or maybe a ranged bo
+
+
+[2024/03/08 21:41] miyucomics
+Isn窶冲 that meteor hammer? Meteor hammer strikes up to three tiles ahead and if it hits, it strikes the enemy directly behind you as well
+
+
+[2024/03/09 1:15] Deleted User
+the bounce is limited to a one cell range
+
+
+[2024/03/09 1:29] panof
+One more bullet
+
+
+[2024/03/09 1:32] panof
+@everyone
+
+
+[2024/03/09 1:32] panof
+https://tenor.com/view/valve-valve-guy-half-life-half-life2-portal-gif-24740578
+
+{Embed}
+https://tenor.com/view/valve-valve-guy-half-life-half-life2-portal-gif-24740578
+https://images-ext-1.discordapp.net/external/dFR_hhx_ChADYBvQF7CMWRbvrsvk3IseyN976K2OcD8/https/media.tenor.com/IYa1U-HcsOEAAAAe/valve-valve-guy.png
+
+
+[2024/03/09 1:32] panof
+Dude just timeout me already
+
+
+[2024/03/09 1:33] panof
+https://tenor.com/view/shu-ur-mom-shu-yamino-ur-mom-ur-mom-your-mom-ur-mom-fortune-cookie-gif-26139888
+
+{Embed}
+https://tenor.com/view/shu-ur-mom-shu-yamino-ur-mom-ur-mom-your-mom-ur-mom-fortune-cookie-gif-26139888
+https://images-ext-1.discordapp.net/external/AAfmaP8vEu6lZnoIIT3uUq9XhE2s0S2ak8wa_cJz-VU/https/media.tenor.com/08ZeoAcuUjEAAAAe/shu-ur-mom-shu-yamino-ur-mom.png
+
+
+[2024/03/09 1:33] roboatino
+Panof.... plz behave XD
+
+
+[2024/03/09 1:33] panof
+Ok I swear this was the last
+
+
+[2024/03/09 1:33] panof
+Im going offline
+
+
+[2024/03/09 1:33] panof
+I just had to laugh a bit
+
+
+[2024/03/09 1:33] panof
+See ya
+
+
+[2024/03/09 1:34] roboatino
+cya 窓
+
+
+[2024/03/09 2:20] seeminglyunrelated
+That was something ､｣
+
+
+[2024/03/09 2:50] bitterlemons_dota
+So tempting to go with the flow, but I'll behave too.
+
+
+[2024/03/09 2:55] seeminglyunrelated
+Yeah I was about to say that felt like a bitter lemons 2.0 ､｣
+
+
+[2024/03/09 5:29] punpunisnofunfun
+Add an enchant that makes you move forward a number of spaces equal to it's damage after attacking (stopping when you are blocked by an enemy). Would make combo killing in melee much more possible
+(maybe add another that does the same thing but backward? probably would be too much enchantment bloat tho)
+
+
+[2024/03/09 5:47] seeminglyunrelated
+Ok this one is an interesting one, either enchantment or character idea: in between each attack in the queue, turn around
+
+
+[2024/03/09 6:04] double_dot
+剌 imagine the tile turn around is removed along the way
+
+
+[2024/03/09 6:28] miyucomics
+Move tile: When executing your attack queue, when it reaches the Move tile, you can perform one turn, like stepping forwards/backwards, turning, or doing a wait action. Then the rest of the attack queue executes
+
+{Reactions}
+総 (2)
+
+[2024/03/09 8:49] Deleted User
+what do you guys think about tile fusing
+
+
+[2024/03/09 8:49] Deleted User
+it would allow for longer queues

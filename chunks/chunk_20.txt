@@ -1,0 +1,2000 @@
+﻿
+[2024/11/12 21:08] n.h.l
+no, it is the nearest cell that is empty
+
+
+[2024/11/12 21:08] d3v0553
+aah, ok i understand
+
+
+[2024/11/12 21:08] d3v0553
+so, if the player is next to an enemy, but the cell behind the enemy is empty, then the horokubiya is placed behind them?
+
+
+[2024/11/12 21:08] n.h.l
+yes
+
+
+[2024/11/12 21:09] d3v0553
+alr, that sounds much better
+
+
+[2024/11/12 21:09] d3v0553
+so, you need at least one turn to escape from the bomb's range
+
+
+[2024/11/12 21:09] n.h.l
+it explodes immediately
+
+
+[2024/11/12 21:09] d3v0553
+aah, ok
+
+
+[2024/11/12 21:09] d3v0553
+so, its best when there is a gap between enemies
+
+
+[2024/11/12 21:10] d3v0553
+if there is no empty cell, then it fails, i suppose
+
+
+[2024/11/12 21:10] n.h.l
+exactly and it has synergy with Back Stabber
+
+
+[2024/11/12 21:10] da_dogbar
+THORNS SYNERGY
+
+
+[2024/11/12 21:11] da_dogbar
+HELL YEAH
+
+
+[2024/11/12 21:11] n.h.l
+oh right
+
+
+[2024/11/12 21:11] d3v0553
+ooh ,yeah, thats right too!
+
+
+[2024/11/12 21:13] n.h.l
+I think this would be a fun addition, it has a unique range and multiple synergies
+
+{Reactions}
+漕
+
+[2024/11/12 21:14] d3v0553
+but, 3 cd feels to low
+
+
+[2024/11/12 21:14] d3v0553
+maybe 4 or 5?
+
+
+[2024/11/12 21:14] d3v0553
+since this could hit two enemies
+
+
+[2024/11/12 21:15] n.h.l
+why, damage output is similar to Swirl and it has a drawback
+
+
+[2024/11/12 21:16] d3v0553
+eh, alr
+
+
+[2024/11/12 21:16] d3v0553
+but the risk of swirl is rlly high to get the most optimal effect, since being sandwiched between two enemies is rlly bad
+
+
+[2024/11/12 21:17] d3v0553
+but, since the bomb seems to have a similar risk, 3 cd is alr, ig
+
+
+[2024/11/12 21:17] d3v0553
+this does seem like it could work like swirl with extra range, tho
+
+
+[2024/11/12 21:17] d3v0553
+anyway, cool tile idea
+
+
+[2024/11/12 21:18] n.h.l
+it cant hit an enemy in a corner without damaging you
+
+
+[2024/11/12 21:18] n.h.l
+if it is the only enemy
+
+{Reactions}
+漕
+
+[2024/11/12 21:28] eve_7808
+## New elite enemy type:
+# Elemental
+- They wear the lime colours to indicate their connection with natural elements.
+- Can not be frozen, poisoned or cursed.
+- Takes no damage from zap damage, stops the zap chain.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1305871821324943420/Untitled5_20241111143857.png?ex=6a163aa8&is=6a14e928&hm=14f38016750d82bf0c34df3f29507e8cb54b9851e2f13d7c0068918ee50a6263&
+https://cdn.discordapp.com/attachments/965176630588882954/1305871821706367016/Untitled5_20241111144423.png?ex=6a163aa8&is=6a14e928&hm=79b7670bf865285d4b388d1aa776f6296bd72db118645046cec2ce347eee2241&
+https://cdn.discordapp.com/attachments/965176630588882954/1305871822457278514/Untitled5_20241111144602.png?ex=6a163aa8&is=6a14e928&hm=fe05aaea3deef538f0c105868d2e0910ae9671bfeb58f6c15f3e877eefc91930&
+https://cdn.discordapp.com/attachments/965176630588882954/1305871822956269688/Untitled5_20241111144808.png?ex=6a163aa8&is=6a14e928&hm=bd3676757577bc84d98996821fdaf300f5a3890a81329e51c30b72c3c05f1f41&
+
+
+[2024/11/12 21:33] n.h.l
+whats zap damage?
+
+
+[2024/11/12 21:33] eve_7808
+chain damage from a weapon with the shockwave enchant
+
+
+[2024/11/12 21:35] n.h.l
+if I hit him with something with the Shockwave enchantment, do the enemies on the adjacent cells get damage?
+
+
+[2024/11/12 21:36] eve_7808
+if it's the Elemental alone you're hitting, no
+
+
+[2024/11/12 21:37] eve_7808
+if it goes *through* the Elemental and hits the non-Elemental, it will
+
+
+[2024/11/12 21:42] n.h.l
+why not: Reflects the frozen, poisoned or cursed effect back to the causer.
+
+
+[2024/11/12 21:49] eve_7808
+too op + ruins the whole fun with the enchants/cards
+
+
+[2024/11/12 21:50] eve_7808
+not to mention some status effects can be inflicted by some of the skills
+
+
+[2024/11/12 21:52] eve_7808
+not only will it prove difficult to avoid the effects reflected back to you, it can be impossible
+
+
+[2024/11/12 21:54] n.h.l
+ok fair
+
+
+[2024/11/12 22:10] d3v0553
+cool! but maybe too underpowered for an elite? since these enemies are more difficult to kill due to their immunities, maybe they could have an additional effect of always spawning with +1 HP. (stacked with the elite hp bonus and the day 5+ bonus)? but, this idea is already pretty solid for an elite enemy idea, so im not sure
+
+
+[2024/11/12 22:14] eve_7808
++1 HP could work, I don't see why not
+
+
+[2024/11/12 22:14] d3v0553
+yea, super bulky enemies
+
+
+[2024/11/12 22:15] d3v0553
+but 8 HP. shadow chargers would be hell to deal with
+
+
+[2024/11/12 22:15] d3v0553
+get your guns and kunais on everyone!!
+
+
+[2024/11/12 22:15] n.h.l
+maybe if you hit them with a status their next attack has that enchantment
+
+
+[2024/11/12 22:16] n.h.l
+they absorb it and put it on their next attack
+
+
+[2024/11/12 22:16] d3v0553
+oof, the absorption would be too annoying, wouldn't it?
+
+
+[2024/11/12 22:16] d3v0553
+this but delayed
+
+
+[2024/11/12 22:17] d3v0553
+also, mmmm shockwave enemy tiles lmao :curse:
+
+
+[2024/11/12 22:23] n.h.l
+I think this is a better idea than the reflection
+
+
+[2024/11/12 22:23] d3v0553
+so, you would have to use non-enchanted tiles to kill the enemy, basically
+
+
+[2024/11/12 22:24] apokalypse6
+What yall talking about
+
+
+[2024/11/12 22:24] n.h.l
+no you can just dodge the attack
+
+
+[2024/11/12 22:24] d3v0553
+this
+
+
+[2024/11/12 22:24] d3v0553
+elemental ranged attackers...?
+
+
+[2024/11/12 22:24] apokalypse6
+Im not kidding, literally made that idea before
+
+
+[2024/11/12 22:25] apokalypse6
+Without ranged dmg tho
+
+
+[2024/11/12 22:25] apokalypse6
+*zap
+
+
+[2024/11/12 22:25] n.h.l
+absorbing entchantments?
+
+
+[2024/11/12 22:25] d3v0553
+um,, great minds think alike...?
+
+
+[2024/11/12 22:26] d3v0553
+? i dont think we're talking abt the same thing lmao :curse:
+
+
+[2024/11/12 22:26] apokalypse6
+Found it
+
+
+[2024/11/12 22:26] d3v0553
+wow, its green too
+
+
+[2024/11/12 22:26] apokalypse6
+Yeah idk why mirko isnt adding it
+
+
+[2024/11/12 22:26] apokalypse6
+I feel like its a great idea
+
+{Reactions}
+漕
+
+[2024/11/12 22:26] d3v0553
+yea, its a solid idea
+
+
+[2024/11/12 22:27] apokalypse6
+Maybe next update
+
+
+[2024/11/12 22:28] n.h.l
+just removing something for an enemy isnt that exiting
+
+
+[2024/11/12 22:28] apokalypse6
+Didnt you have the same idea
+
+
+[2024/11/12 22:28] apokalypse6
+And you shouldnt overcomplicate elites imo
+
+{Reactions}
+漕
+
+[2024/11/12 22:28] n.h.l
+true
+
+
+[2024/11/12 22:29] n.h.l
+ok, they would be similar to heavies
+
+
+[2024/11/12 22:29] n.h.l
+just limiting your options
+
+
+[2024/11/12 22:29] apokalypse6
+I agree the elite is kinda weak tho
+
+
+[2024/11/12 22:30] apokalypse6
+Very niche
+
+
+[2024/11/12 22:30] d3v0553
+it is, but not moving enemy does kinda suck for the special abilities and the broken tiles, like gun or smoke bomb
+
+
+[2024/11/12 22:30] apokalypse6
+Maybe curse resistant?
+
+
+[2024/11/12 22:30] apokalypse6
+Heavy is outclassed bu quick and shield
+
+
+[2024/11/12 22:30] d3v0553
+it is tho
+
+
+[2024/11/12 22:31] d3v0553
+double-strike is like, whatever
+
+
+[2024/11/12 22:31] apokalypse6
+I dont get hit so i cant give feedback
+
+
+[2024/11/12 22:31] n.h.l
+maybe protecting himself and adjacent enemies?
+
+
+[2024/11/12 22:31] d3v0553
+it usually just seems to punish you for mashing your buttons too quickly
+
+{Reactions}
+漕
+
+[2024/11/12 22:31] apokalypse6
+Hmm
+
+
+[2024/11/12 22:31] apokalypse6
+Cool idea, but not for this
+
+
+[2024/11/12 22:31] apokalypse6
+Some special enemy
+
+
+[2024/11/12 22:32] d3v0553
+imagine guardian with this ability, or any other melee enemy with this
+
+
+[2024/11/12 22:32] d3v0553
+seems cool, but not as an elite trait, tbh
+
+
+[2024/11/12 22:32] apokalypse6
+Elite shielder
+
+
+[2024/11/12 22:32] d3v0553
+yeahhh
+
+
+[2024/11/12 22:32] apokalypse6
+Automatically shields the ones beside him
+
+
+[2024/11/12 22:32] apokalypse6
+Non elite enemies should have a special elite variant
+
+{Reactions}
+漕
+
+[2024/11/12 22:33] d3v0553
+since shielders and wardens cant be elite, maybe they could have a special unique elite version
+
+
+[2024/11/12 22:33] n.h.l
+this would have interesting AI he would follow other enemies
+
+
+[2024/11/12 22:33] apokalypse6
+Yeah, you need to kill him
+
+
+[2024/11/12 22:33] apokalypse6
+Boss idea
+
+
+[2024/11/12 22:33] apokalypse6
+He summons minions which you have to kill to hit him
+
+
+[2024/11/12 22:33] d3v0553
+ooh, thats a great boss idea
+
+
+[2024/11/12 22:33] d3v0553
+better kowa
+
+
+[2024/11/12 22:34] n.h.l
+Boss: just a little guy buffing normal enemies
+
+
+[2024/11/12 22:34] apokalypse6
+Nobunaga kowa fusion
+
+
+[2024/11/12 22:34] apokalypse6
+Mini bosses!
+
+
+[2024/11/12 22:34] d3v0553
+maybe corrupted kowa could have the trait? his boss fight seems really underwhelming
+
+
+[2024/11/12 22:34] apokalypse6
+Rare chance of appearing
+
+
+[2024/11/12 22:34] apokalypse6
+He doesnt even get quick when he is corrupted 刄
+
+
+[2024/11/12 22:34] d3v0553
+h doesnt even gain quick, im pretty sure
+
+
+[2024/11/12 22:34] d3v0553
+yeaa
+
+
+[2024/11/12 22:34] d3v0553
+inKompetent Kowa
+
+
+[2024/11/12 22:35] apokalypse6
+Lolll
+
+
+[2024/11/12 22:35] apokalypse6
+His name isnt even a alliteration
+
+
+[2024/11/12 22:35] apokalypse6
+Kowa the Coward
+
+
+[2024/11/12 22:35] apokalypse6
+Every other boss is
+
+
+[2024/11/12 22:35] d3v0553
+the second last bosses: yeah, yeah
+
+
+[2024/11/12 22:35] apokalypse6
+Yeah
+
+
+[2024/11/12 22:35] apokalypse6
+Exception
+
+
+[2024/11/12 22:36] apokalypse6
+I think the group of them are called daimyo
+
+
+[2024/11/12 22:36] d3v0553
+they are, im pretty sure
+
+
+[2024/11/12 22:37] apokalypse6
+Their ost is called that and irl there was smth like that
+
+
+[2024/11/12 22:37] d3v0553
+yea, pretty sure nobunaga, hideyoshi and ieyasu are actual generals/ppl's names
+
+
+[2024/11/12 22:37] d3v0553
+but maybe they could also have alliterations? Nobunaga the Never-dying boss when corrupted
+
+
+[2024/11/12 22:37] apokalypse6
+Many bosses have irl counterparts
+
+
+[2024/11/12 22:39] apokalypse6
+Cant find my message where I noted them down lol
+
+
+[2024/11/12 22:44] d3v0553
+wait, wouldnt explosive be a good elite trait to have?
+
+
+[2024/11/12 22:44] d3v0553
+or an alright one
+
+
+[2024/11/12 22:52] apokalypse6
+Decent
+
+
+[2024/11/12 23:15] voidfulfool
+Having a close combat only built would be deadly lmao
+
+
+[2024/11/12 23:16] n.h.l
+maybe you can trick the enemies to make the final hit on an explosive enemy
+
+
+[2024/11/12 23:17] voidfulfool
+I can see it happening with only the archers mostly lol
+
+
+[2024/11/12 23:19] voidfulfool
+But what if the explosive elite is the archer窶ｦ
+
+
+[2024/11/12 23:19] voidfulfool
+Oh well
+
+
+[2024/11/12 23:19] voidfulfool
+There窶冱 solutions to everything lol
+
+
+[2024/11/13 0:58] Deleted User
+what if an explosive type elite enemy didn't explode instantly, but spawned one of Hideyoshi's bombs?
+
+
+[2024/11/13 0:58] n.h.l
+do other enemies react to the bomb?
+
+
+[2024/11/13 0:59] Deleted User
+why would they
+
+
+[2024/11/13 0:59] n.h.l
+and try to dodge the explosion?
+
+
+[2024/11/13 0:59] Deleted User
+they proceed with normal enemy AI
+
+
+[2024/11/13 1:01] n.h.l
+if its too easy to abuse the bomb this elite enemy would be easier than a normal enemy
+
+
+[2024/11/13 1:06] Deleted User
+I see it more as a stalling enemy, unless you have shadow you can only move backwards and wait another turn
+
+
+[2024/11/13 1:06] Deleted User
+making it problematic with ranged enemy lineups
+
+
+[2024/11/14 0:55] d3v0553
+A new enemy will spawn in the **Spirit Gateway** route from day 4 onwards. From that day, the first level will have both Grapplers and Shinobis introduced, whereas the second will introduce this new enemy, which acts sort of like a variant of the Warden, making you face some of problems from the **Forsaken Grounds** path in a different manner.
+
+This enemy is: **Nukekubi**
+
+*Do not get startled or scared by this seemingly dead body, for its true spirit will attack you if you let your guard down.*
+
+**HP**: 4, **Trait(s)**: None, **Tiles**: Summon, Chakram *(With 1 base damage)*
+
+Behavior: Nukekubi goes for Summon, summoning a **Nukekubi Head** (look below). She will want to optimally spawn it in such a way the player is between the head and the body. After summoning the head, she goes for Chakram, which already has 1 base attack, and will increase in power if her allies get killed as long as it is in the queue. She will attack as long as it hits the player. After getting off the Chakram, she repeats this process. Similar to the Ashigaru Archer, she stays stationary. She also does not change directions manually ever.
+
+**Nukekubi Head**
+
+*The true form of the Nukekubi. This head charges at its foes, with no worry if the head, the thing that makes it tangible, gets damaged in the process.*
+
+**HP**: 2, **Trait(s**): Quick, **Tiles**: Charge, Back Charge
+
+Behavior: The head puts Charge and Back Charge in its queue, and launches the attack as long as one of the charges hits the player. The head, similar to the body, will not move and will not change directions manually ever.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1306286246469042307/Nukekubi.gif?ex=6a166b1e&is=6a15199e&hm=432a88123b65fc7b47bec1f04c151c1560dbf2515f5147c6ec044821bd1e3c8b&
+
+
+[2024/11/14 0:55] d3v0553
+(sorry for the paragraph lmao :curse:)
+
+
+[2024/11/14 1:14] robot093
+Really cool idea
+
+
+[2024/11/14 1:14] robot093
+Sounds like a heck of an annoying enemy tho lol
+
+
+[2024/11/14 1:19] n.h.l
+I realy like the visuals
+but the body trowing chakrams could look strange
+
+
+[2024/11/14 1:38] voidfulfool
+That窶冱 wild
+
+
+[2024/11/14 1:38] voidfulfool
+I could imagine it on their knees or smth lol
+
+
+[2024/11/14 1:49] d3v0553
+i didn't really animate it entirely, but i would expect ghostly projectiles to hit the player
+
+
+[2024/11/14 1:49] d3v0553
+the body itself would not have an animation, since its supposed to be dead and all
+
+
+[2024/11/14 1:50] d3v0553
+oof, it would! maybe that could be a reason why ppl would go to the forsaken grounds path instead, since at least from what i've heard (and including me), the spirit gateway path is much more easy to deal with then its counter-part
+
+
+[2024/11/14 7:44] robot093
+Real tho
+
+
+[2024/11/14 7:45] robot093
+Could add a nice bit of challenge
+
+
+[2024/11/14 9:46] starfoxshooter
+You compared it to the Warden, does it also have the explosive trait? So it explodes like the Warden upon death?
+
+
+[2024/11/14 11:59] uilexam
+i feel like this is unnecessary because orange island is already a lot harder than purple island
+
+
+[2024/11/14 11:59] uilexam
+also a four health version of the warden will be waywaytooannoyings
+
+
+[2024/11/14 12:51] Deleted User
+orange island requires high damage tiles to instakill the ranged enemies while purple island requires tiles with good coverage of the grid to deal with the charger spam
+
+
+[2024/11/14 12:58] plimboscrimbly
+and then bad coverage of the grid to deal with kabukai spam
+
+
+[2024/11/14 13:11] uilexam
+actually kabukai is really hilarious if you have a lot of movement tiles
+
+
+[2024/11/14 13:12] uilexam
+really? i feel like orange is sometimes objectively harder
+
+
+[2024/11/14 13:12] uilexam
+the only reason i ever go north is because hideyoshi is less annoying than nobunaga and ieyasu
+
+
+[2024/11/14 13:13] uilexam
+or because spirit gateway has a shop i really need
+
+
+[2024/11/14 13:59] d3v0553
+it doesn't. the only similarity is the enemy is it spawns (quick trait and charge tiles)
+
+
+[2024/11/14 14:01] d3v0553
+this is not exactly a copy of the warden, tho it has many similarities. the main problem with the warden (i would say) is its explosiveness, making melee tiles unreliable. you could kill either the body or the head quickly
+
+
+[2024/11/14 14:02] d3v0553
+but i think 4 health for this enemy might be too much, especially day 5+ and elite nukekubi. maybe 3 health will be enough
+
+
+[2024/11/14 14:03] d3v0553
+i'm not sure if i'm speaking for most people, but even tho orange island takes higher damage to kill the enemies, its the path at least i usually take. however, i'm going to be designing a counter-part to nukekubi for the purple island (hehehe)
+
+
+[2024/11/14 14:06] d3v0553
+i would probably agree. wardens and striders are barely anything compared to shinobis and grapplers. shielders are fairly difficult to deal with due to the shields to the ranged attackers. kabukai are mainly a threat only if you have a lot of ranged tiles, or tiles like mon or crossbow or gun
+
+
+[2024/11/14 14:58] da_dogbar
+warrior's gamble should add 2-3 upgrades every gamble
+
+
+[2024/11/14 15:12] voidfulfool
+The real gamble would be if you do it too much, it give you bad upgrades
+
+
+[2024/11/14 15:12] voidfulfool
+lol
+
+
+[2024/11/14 17:58] n.h.l
+I agree, it never feels like its worth it to pay money to sacrifice a tile for a random tile with the same number of random upgrades
+
+
+[2024/11/14 18:06] d3v0553
+i just use warrior gamble when i dont get a satisfactory tile lmao :curse:i once got a trap that got turned into smoke bomb, so, maybe, it aint that bad :curse: (im not saying that its good btw, it is kinda rlly bad and unreliable imo)
+
+
+[2024/11/14 18:14] d3v0553
+Similar to the **Nukekubi** for the Spirit Gateway, this enemy spawns from day 4+ onwards. The first level from that day would have both Wardens and Striders, and the second would introduce this. Similar to how Nukekubi acted like a version of the Warden, the Nukekubi would be a fairly decent semi-ranged attacker, since the **Forsaken Grounds** path doesn't really have that.
+
+**HP**: 3, **Trait(s)**: None, **Tiles**: Spectral Scare (look below)
+
+**Spectral Scare**: 3 Base Damage, unobtainable by the player.
+*Strike the first target up to 2 cells ahead (not piercing). Range increase by 1 for every time this misses.*
+
+**Behavior**: Faces the player and puts Spectral Scare in her attack queue. Then, positions herself to attack the player. If in range, launches the attack. As she constantly misses her Spectral Scare, its range increases, being able to damage you if it misses enough. Similar to **Ashigaru Archer**, does not move after attacking.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1306547901299818526/Rokurokubi.gif?ex=6a16b60e&is=6a15648e&hm=14857cdfd5440f0eb726e2ba28423e6aa7bac5e3f8b21d350e160c8fe1fb13b3&
+
+
+[2024/11/14 18:40] n.h.l
+so the range doesnt increase if you never let her attack you with the starting 2 cell range?
+
+
+[2024/11/14 18:41] n.h.l
+because if she never attacks, she never misses, she never gets the range buff?
+
+
+[2024/11/14 19:10] d3v0553
+if she never attacks you, she would gain the range boost
+
+
+[2024/11/14 19:10] d3v0553
+but, if she misses her attack, she increases the range
+
+
+[2024/11/14 19:10] d3v0553
+making her never attack, when she is behind an enemy could get a little difficult without good combo synergy
+
+
+[2024/11/14 19:17] n.h.l
+should have a visible indicator for the range
+
+
+[2024/11/14 19:18] d3v0553
+her head maybe
+
+
+[2024/11/14 19:18] d3v0553
+maybe its the big, long thing standing beside the player lmao :curse:
+
+
+[2024/11/14 19:19] n.h.l
+ok, so she extends the neck before the attack
+
+
+[2024/11/14 19:20] n.h.l
+but you cant attack the head and it doesnt occupy a cell, could be confusing
+
+
+[2024/11/14 19:21] d3v0553
+jk, i was kidding
+
+
+[2024/11/14 19:21] d3v0553
+the head would only extend when she's about to attack
+
+
+[2024/11/14 19:21] d3v0553
+there would be a range indicator
+
+
+[2024/11/14 19:21] d3v0553
+the tile would show its current range when the info mode is on
+
+
+[2024/11/14 19:21] d3v0553
+and maybe the tiles under the attack would be highlighted
+
+
+[2024/11/14 19:36] da_dogbar
+spectral stare could be cool for the player ngl
+
+
+[2024/11/14 19:37] d3v0553
+but i dont rlly see what it could do that already existing tiles dont
+
+
+[2024/11/14 19:38] d3v0553
+and, why would you make an attack miss intentionally
+
+
+[2024/11/14 19:39] da_dogbar
+make it stronger for the rest of the stage
+
+
+[2024/11/14 19:39] da_dogbar
+just give it like 4 cooldown and it would be good
+
+
+[2024/11/14 19:42] d3v0553
+as in the rest of the region?
+
+
+[2024/11/14 19:42] d3v0553
+that idea is pretty cool
+
+
+[2024/11/14 19:43] d3v0553
+seems a *little* boring to set it up tho
+
+
+[2024/11/14 19:43] d3v0553
+what's ur opinion on the enemy itself?
+
+
+[2024/11/14 19:43] da_dogbar
+seems cool
+
+{Reactions}
+笨ｨ
+
+[2024/11/14 22:31] n.h.l
+gives me an new Tile idea:
+
+Name: Release Frustration
+Damage: 0
+CD: 3
+Description: Strike the cells directly ahead and behind. Whenever you strike an empty cell or no target with any other tile, increase this tiles damage by 1. Resets damage after use.
+
+
+[2024/11/14 22:35] uilexam
+you should get like 5 coins for each gamble lol
+
+
+[2024/11/14 22:48] da_dogbar
+oh my god
+
+
+[2024/11/14 22:48] da_dogbar
+kunai
+
+
+[2024/11/14 22:49] da_dogbar
+actually nvm
+
+
+[2024/11/14 22:49] da_dogbar
+kind of sucks imo
+
+
+[2024/11/14 22:52] d3v0553
+chakram 2.0
+
+
+[2024/11/14 22:52] n.h.l
+you can power it up to 4 if you dont hit anything with a Nagiboku
+
+
+[2024/11/14 22:53] d3v0553
+i love releasing frustration by throwing it behind and ahead of me
+
+
+[2024/11/14 22:53] d3v0553
+it does have some spear and nagiboku synergy, ig
+
+
+[2024/11/14 22:53] d3v0553
+but seems pretty niche
+
+
+[2024/11/14 22:53] d3v0553
+it's best with AOE tiles
+
+
+[2024/11/14 22:54] n.h.l
+if you have multiple Frustrations you can power up one with the other one
+
+
+[2024/11/14 22:54] d3v0553
+or with a chakram, ig
+
+
+[2024/11/14 22:55] n.h.l
+not sure if this works with this wording with projectiles
+
+
+[2024/11/14 22:56] n.h.l
+because projectiles never strike cells
+
+
+[2024/11/14 22:57] d3v0553
+or you could word it like, 'if another damaging tiles does not hitting an enemy, increase this tile damage by 1'
+
+
+[2024/11/14 23:01] n.h.l
+than a Nagiboku missing everything would power it up only by 1?
+
+
+[2024/11/14 23:13] d3v0553
+no, it would count for every miss
+
+
+[2024/11/14 23:21] n.h.l
+maybe just:
+Whenever you strike an empty cell **or no target **with any other tile, increase this tiles damage by 1.
+
+{Reactions}
+漕 (2)
+
+[2024/11/15 0:57] uilexam
+what happens when you do an empty scar strike
+
+
+[2024/11/15 0:58] uilexam
+it should gain a damage for every enemy missed by scar strike
+
+
+[2024/11/15 0:58] uilexam
+XD
+
+
+[2024/11/15 20:53] d3v0553
+new mini-boss enemy idea, which i didn't animate cuz' i had four things to animate, one being an animal i dont know how to animate:
+
+**Akkorokamui**
+
+*A giant octopus moving through the spectral lane. First found in the lakes and ponds near Ieyasu's Garden and the Forsaken Grounds, Akkorokamui are seen attempting to drown their foes.*
+
+**HP**: 10, **Trait(s)**: Quick, Heavy, **Tiles**: Summon, Mirror, Ki Push
+Covers up __2__ cells at once.
+
+**Location**: First located at Ieyasu's Garden on day 4+. Can appear at any daimyo's location, and at Theatre of Illusions/Hot Springs from then onwards.
+
+**Behaviour**: Faces the player. Akkorokamui only spawn occasionally, with at max, 2 other enemies spawning beside it. Only one spawns in a wave. It goes for mirror to change its position, if needed, and does not move manually. If in a convenient spot, goes for Summon, constantly summoning **Akkorokamui Tentacles**. If the board is filled with them, it keeps a summon tile in its queue, and only goes for it once there's a space empty for a tentacle. If the player gets with in a 2 cell range with this enemy, it adds Ki Push to its queue. Can not be elite.
+
+**Akkorokamui Tentacle**
+
+*A tentacle from the spectral lane. Controlled and linked by its holder, the Akkorokamui, this can hit swift with a disposed weapon it found in the ocean.*
+
+**HP**: 2, **Trait(s)**: Quick, Dash **Tiles**: None/Tetsubo/Shadow Kama/Twin Tessen
+
+**Behaviour**: Faces the player. One of four varieties can spawn, either having nothing, Tetsubo, Shadow Kama or Twin Tessen as their attacking tile. A tentacle with no weapon gets +1 HP. All Akkorokamui Tentacles die if their holder dies.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1306950305136771072/Akkorokamui.png?ex=6a163292&is=6a14e112&hm=ee41ac6710ceec850a25d6ebd456cfc07d67eb90a34b6c9cc471f699d162bdc9&
+
+
+[2024/11/15 21:12] n.h.l
+deals a spear double damage if you stand in front of this big enemy?
+
+
+[2024/11/15 21:12] d3v0553
+no
+
+
+[2024/11/15 21:13] d3v0553
+spear only triggers twice if you hit two different entities. octo is one entity
+
+
+[2024/11/15 21:18] n.h.l
+does Shockwave deal damage to him when you hit him with the Shockwave Tile?
+
+
+[2024/11/15 21:41] d3v0553
+if it's not grouped with other entities, then no
+
+
+[2024/11/15 21:43] d3v0553
+if a shockwave tile hits only akkorokamui, then no
+
+
+[2024/11/15 22:14] voidfulfool
+cool
+
+
+[2024/11/15 22:15] plimboscrimbly
+calm down foolish
+
+
+[2024/11/15 22:15] voidfulfool
+OH
+
+
+[2024/11/15 22:15] voidfulfool
+AUTOCORRECT FUCK
+
+
+[2024/11/15 22:16] voidfulfool
+亊
+
+
+[2024/11/15 22:19] da_dogbar
+and then at day 8, 2 of them can spawn in the shogun's castle as the final normal wave ・
+
+{Reactions}
+漕 (2)
+
+[2024/11/15 23:18] voidfulfool
+AND THEYRE BOTH CORRUPTED WITH GUNS!!!!
+
+
+[2024/11/18 2:45] starfoxshooter
+New region: The Mirror Lands
+
+*Forever changing and unpredictable, the Mirror Lands have doomed many adventurers and trapped many more...*
+
+The Mirror Lands are a 3rd option to the spirit gateway and forsaken grounds,  that can only be reached by using the rain of mirrors item after beating the moonlit port.
+
+Main gimmick: Certain enemies can move you and themselves around the board, using tiles like Mirror and Origin of symmetry, tiles that use the tile on you(so for example: a mirror that an enemy uses and targets you) as well as the tile Skill Copy (see below).
+
+Skill Copy: the enemy copies your special move(swap, push, e.t.c) and can use it against you
+
+Boss 1: The Figure
+*Legends say The Figure is a manifestation of deceased adventurers, who once were lost to the Mirror Land's. Some say you can still hear their cry's of anguish in the night if you listen closely..*
+
+Traits: Quick, Unpoisonable
+
+Behavior: Stays near the center of the board, occasionally summoning enemies, and uses a combination of movement tiles on you to keep you at bay, occasionally moving you next to them or, them moving next to you and to use offensive tiles like swirl
+
+Boss 1 Gimmick: similar to Sato, the screen will eventually fade to black,, before the board comes back and everything is the same, except for The Figure, which randomly selects one of the five playable characters and gains their special move as well as their base tile set to use against you.
+
+Reward: Similar to the Moonlit Port, you will get a special shop at the end of the section, which ofc sells skills but also sells an exclusive enchant called Mirror.
+
+Enchant: Mirror: all tiles that are one directional (Katana, Kunai, e.t.c) become bidirectional and hit both sides of you similar to how swirl works. Also adds +3 cooldown.
+
+Ok that's it thx for reading (sry for the multiple paragraphs lol) let me know what you think and what you would change if you don't like it!
+
+
+[2024/11/18 2:47] apokalypse6
+I like the idea of gaining access to regions by using a consumable or doing something
+
+
+[2024/11/18 2:47] uilexam
+puzzle game
+
+
+[2024/11/18 2:47] uilexam
+then maybe aliensrock will play shogun showdown again!
+
+
+[2024/11/18 2:47] starfoxshooter
+YES
+
+
+[2024/11/18 2:48] uilexam
+kinda sad we never got to watch him fight nobunaga 乘
+
+
+[2024/11/18 2:48] starfoxshooter
+I spent like 2 days refining this idea lols
+
+
+[2024/11/18 2:48] starfoxshooter
+Trueee
+
+
+[2024/11/18 2:49] apokalypse6
+Id love a thorny labyrinth area or smth tbh...
+
+
+[2024/11/18 2:49] uilexam
++3 cooldown is a bit ridiculous if you realize twin tessen is just bidirectional dragon punch with +2 cooldown
+
+
+[2024/11/18 2:49] uilexam
+also bidirectional crossbow is :curse:
+
+
+[2024/11/18 2:49] starfoxshooter
+Ok but I had kunaimancer in mind
+
+
+[2024/11/18 2:50] starfoxshooter
+Yeah if you use it on the right tiles it's broken that's why +3
+
+
+[2024/11/18 2:50] starfoxshooter
+That could be cool
+
+
+[2024/11/18 2:52] apokalypse6
+Seriously though, mirroring the map has potential
+
+
+[2024/11/18 2:52] apokalypse6
+Maybe the opposite of the regions?
+
+
+[2024/11/18 2:52] starfoxshooter
+I think the boss could use some work tho
+
+
+[2024/11/18 2:52] starfoxshooter
+That could be fun
+
+
+[2024/11/18 2:53] apokalypse6
+Hideyoshis place becomes a volcanic area
+
+
+[2024/11/18 2:53] starfoxshooter
+Maybe you could encounter the soul of the general that's trapped in the statue?
+
+
+[2024/11/18 2:53] apokalypse6
+Ieyasus garden becomes a dead space
+
+
+[2024/11/18 2:53] apokalypse6
+Ohhh
+
+
+[2024/11/18 2:53] apokalypse6
+I like that
+
+
+[2024/11/18 2:53] starfoxshooter
+With thorns
+
+
+[2024/11/18 2:53] apokalypse6
+Yes
+
+
+[2024/11/18 2:54] apokalypse6
+The forsaken grounds become a thick rainforest
+
+
+[2024/11/18 2:54] apokalypse6
+because usually its a graveyard
+
+
+[2024/11/18 2:54] apokalypse6
+etc.
+
+
+[2024/11/18 2:56] starfoxshooter
+Maybe the Mirror Lands are a sort of pit stop between parallel realities? Like you have to beat it to get to like volcano Hideyoshi and stuff
+
+
+[2024/11/18 2:58] starfoxshooter
+Also what would we do with Nobunaga?
+
+
+[2024/11/18 2:59] starfoxshooter
+Also sry for no art / animation I'm shit at that stuff
+
+
+[2024/11/18 3:00] apokalypse6
+Hmm
+
+
+[2024/11/18 3:00] apokalypse6
+Stone
+
+
+[2024/11/18 3:00] apokalypse6
+Gray
+
+
+[2024/11/18 3:01] apokalypse6
+Light
+
+
+[2024/11/18 3:01] apokalypse6
+I have it
+
+
+[2024/11/18 3:01] apokalypse6
+Its at night, in a dark area, with glowing plants in the background
+
+
+[2024/11/18 3:01] apokalypse6
+And glowflies and stuff
+
+
+[2024/11/18 3:02] starfoxshooter
+That could be rly cool
+
+
+[2024/11/18 3:03] starfoxshooter
+Maybe you need to make Nobunaga touch one of these plants to make him vulnerable for like 3-4 turns
+
+
+[2024/11/18 3:03] apokalypse6
+yes
+
+
+[2024/11/18 3:03] starfoxshooter
+Maybe the flower could resemble the torch flower from Minecraft
+
+
+[2024/11/18 3:04] starfoxshooter
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1307768287538581534/Torchflower_JE1_BE1.png?ex=6a168960&is=6a1537e0&hm=0d26755ccaaac56a65c9732997c25e2eb91f1ddf41fcd2780659d1e8fbf8f033&
+
+
+[2024/11/18 3:04] starfoxshooter
+Imo it's a good starting point for "glowing plant"
+
+
+[2024/11/18 3:05] robot093
+dude check out the thread called souls update that I made
+
+
+[2024/11/18 3:05] robot093
+We made like the same mirror realm lmao
+
+
+[2024/11/18 3:06] starfoxshooter
+Link it?
+
+
+[2024/11/18 3:06] starfoxshooter
+With #
+
+
+[2024/11/18 3:07] starfoxshooter
+Pls
+
+
+[2024/11/18 3:07] apokalypse6
+I remember!
+
+
+[2024/11/18 3:07] apokalypse6
+That was fun
+
+
+[2024/11/18 3:07] robot093
+Real
+
+
+[2024/11/18 3:07] robot093
+Gimme a sec I窶冦 on my phone
+
+
+[2024/11/18 3:07] robot093
+Cont figure out how tf this works
+
+
+[2024/11/18 3:08] starfoxshooter
+Just # and the channel name
+
+
+[2024/11/18 3:08] starfoxshooter
+How long ago did u guys do this lol
+
+
+[2024/11/18 3:09] apokalypse6
+https://discord.com/channels/965169818309369858/965176630588882954/1262171110221418556
+
+
+[2024/11/18 3:09] apokalypse6
+Found it
+
+
+[2024/11/18 3:09] robot093
+Thanks
+
+
+[2024/11/18 3:09] apokalypse6
+Have fun reading frfr
+
+
+[2024/11/18 3:09] robot093
+Like a couple months
+
+
+[2024/11/18 3:10] robot093
+You really expanded on some rly cool ideas I hadn窶冲 thought abt tho
+
+
+[2024/11/18 3:10] robot093
+Mirror is actually a sick enchantment
+
+
+[2024/11/18 3:11] starfoxshooter
+Ik +3 seems like a lot but it's too powerful otherwise
+
+
+[2024/11/18 3:11] starfoxshooter
+Thx
+
+
+[2024/11/18 3:11] robot093
+Real
+
+
+[2024/11/18 3:11] robot093
+It窶冱 basically ds but w turnaround
+
+
+[2024/11/18 3:11] starfoxshooter
+Ds?
+
+
+[2024/11/18 3:11] robot093
+Double strike
+
+
+[2024/11/18 3:12] starfoxshooter
+Ahhhhh
+
+
+[2024/11/18 3:12] starfoxshooter
+Yeah
+
+
+[2024/11/18 3:12] starfoxshooter
+Sry Abt that
+
+
+[2024/11/18 3:12] robot093
+Abt what
+
+
+[2024/11/18 3:12] starfoxshooter
+Not knowing what ds stands for
+
+
+[2024/11/18 3:13] starfoxshooter
+Kinda new
+
+
+[2024/11/18 3:13] robot093
+Don窶冲 feel bad lol
+
+
+[2024/11/18 3:13] starfoxshooter
+Only like 50 hours in the game
+
+{Reactions}
+笶､・・
+
+[2024/11/18 3:13] robot093
+I didn窶冲 know until fumiko told me
+
+
+[2024/11/18 3:13] starfoxshooter
+Ok
+
+
+[2024/11/18 3:15] starfoxshooter
+Have u ever thought of an online more for Shogun Showdown?
+
+
+[2024/11/18 3:15] apokalypse6
+One of the most requested things lol
+
+
+[2024/11/18 3:15] starfoxshooter
+Ah k haha
+
+
+[2024/11/18 3:16] starfoxshooter
+@Robot093 I really like the idea of soul tiles
+
+
+[2024/11/18 3:16] starfoxshooter
+Kudos to u for the idea
+
+
+[2024/11/18 3:16] robot093
+Thanks
+
+
+[2024/11/18 3:16] robot093
+I gtg tho ttyl
+
+
+[2024/11/18 3:17] starfoxshooter
+Ok
+
+
+[2024/11/18 3:17] starfoxshooter
+Bye
+
+
+[2024/11/25 6:27] voidfulfool
+There should be unexpected bonus rounds, such like ambushes
+
+
+[2024/11/25 6:32] apokalypse6
+frr
+
+
+[2024/11/25 6:32] apokalypse6
+i love 8 blight chargers
+
+
+[2024/11/25 6:33] voidfulfool
+Yummy shockwave
+
+
+[2024/11/25 6:33] voidfulfool
+WAUT
+
+
+[2024/11/25 6:33] voidfulfool
+WAIT
+
+
+[2024/11/25 6:33] voidfulfool
+NECROMANCER
+
+
+[2024/11/25 6:34] voidfulfool
+THEY ONLY SPAWN IN BIG MAPS
+
+
+[2024/11/25 6:34] voidfulfool
+AND ONLY CAN USE THEIR ABILITY TO REVIVE AN ENEMY ONCE ONE DIES
+
+
+[2024/11/25 6:34] voidfulfool
+JUST LIKE SHIELDERS
+
+
+[2024/11/25 6:34] voidfulfool
+ANNOYING
+
+
+[2024/11/25 6:34] voidfulfool
+BAHAHAHHA
+
+
+[2024/11/25 6:35] apokalypse6
+chill
+
+
+[2024/11/25 6:35] apokalypse6
+yikes
+
+
+[2024/11/25 6:36] voidfulfool
+To balance em
+
+
+[2024/11/25 6:36] voidfulfool
+They revive with half hp
+
+
+[2024/11/25 6:36] voidfulfool
+B))))
+
+
+[2024/11/25 6:37] voidfulfool
+I窶冦 crazy as my laughter can get
+
+
+[2024/11/25 6:38] apokalypse6
+fenghuans feather
+
+
+[2024/11/25 6:38] apokalypse6
+yum.
+
+
+[2024/11/25 6:38] voidfulfool
+For enemies lol
+
+
+[2024/11/25 6:38] apokalypse6
+see, shield elite necromancers revive their boys with a shield ontop of their ability
+
+
+[2024/11/25 6:38] apokalypse6
+imagine
+
+
+[2024/11/25 6:38] voidfulfool
+You窶决e giving me ideas窶ｦ
+
+
+[2024/11/25 6:39] voidfulfool
+AKRIGHT HEAR ME OUT
+
+
+[2024/11/25 6:39] voidfulfool
+A MACHINE LIKE THE ONE IN THE GARDEN
+
+
+[2024/11/25 6:39] voidfulfool
+GIVES RANDOM BUFFS TO ALL ENEMIES FOR 3 TURNS
+
+
+[2024/11/25 6:39] voidfulfool
+BAHAHAHAHAHAHAHHA
+
+
+[2024/11/25 6:40] apokalypse6
+chill
+
+
+[2024/11/25 6:41] voidfulfool
+I don窶冲 wanna窶ｦ
+
+
+[2024/11/25 6:41] da_dogbar
+ok enemy idea
+elite sniper
+3/4 health, 
+if you're within reach, tries to attack with katana
+otherwise, queues up 3 *delayed volleys* and attacks
+delayed volley acts the same as a regular volley except its target cell is the cell the player was standing on when the attack was queued, so the 3 delayed volleys can each hit a diffrent cell if the player moved
+
+
+[2024/11/25 6:42] da_dogbar
+actually wait let me elaborate a bit
+
+
+[2024/11/25 6:43] voidfulfool
+Wild
+
+
+[2024/11/25 6:43] voidfulfool
+Imagine bro as double strike窶ｦ
+
+
+[2024/11/25 9:12] uilexam
+im surprised we dont have a healer enemy
+
+
+[2024/11/25 9:14] voidfulfool
+Surprising lol
+
+
+[2024/11/25 17:02] da_dogbar
+honestly though healers would have to appear in earlier stages since later in the game you pretty much obliterate every enemy if your build doesn't suck
+
+
+[2024/11/26 9:57] voidfulfool
+It窶囘 be kinda cool if we could add vulnerability to enemies to deal even more damage lol
+
+
+[2024/11/26 9:57] uilexam
+curse
+
+
+[2024/11/26 9:57] uilexam
+poison
+
+
+[2024/11/26 10:03] voidfulfool
+No as in it窶冱 permanent add on damage, like deep wounds
+
+
+[2024/11/26 10:03] voidfulfool
+I just want more ways to kill enemies faster
+
+
+[2024/11/26 10:03] voidfulfool
+https://tenor.com/view/kuroo-tetsurou-kuroo-kuroo-grin-kuroo-tetsurou-grin-anime-gif-17384585
+
+{Embed}
+https://tenor.com/view/kuroo-tetsurou-kuroo-kuroo-grin-kuroo-tetsurou-grin-anime-gif-17384585
+https://images-ext-1.discordapp.net/external/jiPvVOdN4TytTuInTi8BIdY2ZjWbViMXsbwnVAOYShg/https/media.tenor.com/HCzayF2lAnMAAAAe/kuroo-tetsurou-kuroo.png
+
+
+[2024/11/26 10:13] robot093
+Like +1 dmg with each instance of damage?
+
+
+[2024/11/26 10:19] voidfulfool
+Yessss
+
+
+[2024/11/26 10:19] voidfulfool
+You get me
+
+
+[2024/11/26 10:19] voidfulfool
+lol
+
+
+[2024/11/26 10:33] uilexam
+that would be too op with kunai against bosses
+
+
+[2024/11/26 10:53] voidfulfool
+@(UIL) Exam
+
+
+[2024/11/26 10:53] voidfulfool
+I want death to come faster.
+
+
+[2024/11/26 10:57] uilexam
+you didn't have to reply and ping
+
+
+[2024/11/26 10:57] uilexam
+https://tenor.com/view/death-puss-in-boots-door-gatito-lobo-gif-27616937
+
+{Embed}
+https://tenor.com/view/death-puss-in-boots-door-gatito-lobo-gif-27616937
+https://images-ext-1.discordapp.net/external/BYm7sjtSdAYIMcHmWDV8QuK-PjQ5ZhpBkunWuknadKk/https/media.tenor.com/U-d_jN3Afg8AAAAe/death-puss-in-boots.png
+
+
+[2024/11/26 10:57] voidfulfool
+No I pinged my message for you to read
+
+
+[2024/11/26 10:57] voidfulfool
+I don窶冲 actually mean it
+
+
+[2024/11/26 10:57] voidfulfool
+It would be so broken
+
+
+[2024/11/26 10:57] voidfulfool
+Lmao
+
+
+[2024/11/26 10:58] voidfulfool
+ME FR WHEN YOU EAT MY LAST COOKIE
+
+
+[2024/11/26 12:07] robot093
+i still think we need more explosions for this game
+
+
+[2024/11/26 12:07] robot093
+make a new burn effect
+
+
+[2024/11/26 12:07] robot093
+enemies explode on death
+
+
+[2024/11/26 12:14] Deleted User
+corrupted pulse but the lasers create explosions
+
+
+[2024/11/26 12:14] Deleted User
+very balanced
+
+
+[2024/11/26 12:20] uilexam
+very dodgable
+
+
+[2024/11/26 17:44] n.h.l
+new hidden Boss:
+
+The Scorned One
+
+He has the basic form of all your tiles.
+You lose your tiles and get only the tiles you didn't choose in the "Tile Choices"-Rooms.
+
+
+[2024/11/26 17:50] da_dogbar
+hypothetical scenario
+you find him and are forced to fight against kunai, crossbow and mon whilst only having backcharge, dash and origin of symmetry
+
+
+[2024/11/26 17:57] n.h.l
+ok it can lead to very unfair scenarios to often, but I like the idea to force you to use the tiles you never choose
+
+
+[2024/11/26 18:05] n.h.l
+ok how about this instead:
+
+new Tile:
+Name:  Alternate Reality
+Damage: ?
+CD: ?
+Description: Transforms at the start of the battle and after it is fully charged into another Tile you didn't choose in the "Tile Choices"-Rooms.
+
+
+[2024/11/26 18:50] da_dogbar
+could be interesting but name should be changed to avoid confusion
+
+
+[2024/11/26 18:50] da_dogbar
+since karma is a skill
+
+
+[2024/11/26 18:54] n.h.l
+oh right, maybe "alternate reality"?
+
+
+[2024/11/27 3:27] uilexam
+day 8 should be like an undertale genocide run
+
+
+[2024/11/27 3:28] uilexam
+you have to fight every boss that you didn't kill in the shogun's castle before you fight the shogun
+
+
+[2024/11/27 3:34] da_dogbar
+shogun's castle, wave 11
+rei, iwao, fumiko, sato, nobunaga and ieyasu spawn all at the same time
+
+
+[2024/11/27 3:35] uilexam
+shogun's castle now has 15 waves
+
+
+[2024/11/27 3:35] uilexam
+11-daisuke or rei and a bunch of dashers/twin tachis
+
+
+[2024/11/27 3:36] uilexam
+12-iwao or baru with a bunch of yari masters/snipers
+
+
+[2024/11/27 3:36] uilexam
+13-statue with a summoner that summons hard enemies or fumiko, 3 blight chargers and 2 striders
+
+
+[2024/11/27 3:37] uilexam
+14-kowa with 2 guardians and 2 shinobis or sato with 3 kabukai
+
+
+[2024/11/27 3:37] uilexam
+15-the other two daimyo that you didn't kill
+
+
+[2024/11/27 4:24] voidfulfool
+LMAO
+
+
+[2024/11/27 4:24] voidfulfool
+Yooo I love this idea
+
+
+[2024/11/27 4:24] voidfulfool
+Really awesome lol
+
+
+[2024/11/27 6:04] starfoxshooter
+well im fucked. i didnt MEAN TO EAT THE COOKIE IM SRY @泪Leer泪 (Nosk)
+
+
+[2024/11/27 6:04] starfoxshooter
+nope im leaving
+
+
+[2024/11/27 6:04] voidfulfool
+https://tenor.com/view/gojo-satoru-gif-15933559860700582924
+
+{Embed}
+https://tenor.com/view/gojo-satoru-gif-15933559860700582924
+https://images-ext-1.discordapp.net/external/93RSS031-6lOw9ul99PdIqgfRczvAfB2YWVu11Jq5uw/https/media.tenor.com/3R9gRhB7FAwAAAAe/gojo-satoru.png
+
+
+[2024/11/27 6:04] starfoxshooter
+your aware rei would punch bosses into you right
+
+
+[2024/11/27 6:04] starfoxshooter
+OW
+
+
+[2024/11/27 6:05] da_dogbar
+yup
+
+
+[2024/11/27 6:05] da_dogbar
+thats the point
+
+
+[2024/11/27 6:05] voidfulfool
+You窶决e paying in child labor
+
+
+[2024/11/27 6:05] voidfulfool
+Get to work
+
+
+[2024/11/27 6:05] starfoxshooter
+i alr work for @Robot093
+
+{Reactions}
+笶､・・
+
+[2024/11/27 6:05] voidfulfool
+lol
+
+
+[2024/11/27 6:06] starfoxshooter
+lols
+
+
+[2024/11/27 8:44] robot093
+lol
+
+
+[2024/11/27 8:44] robot093
+We cook in the ideas section together
+
+
+[2024/11/29 17:03] averagefoxenthusiast
+A random boss idea that popped into my head
+
+Spirit gateway alt窶・Enchanted chimes
+Lore: It窶冱 an enchanted wind chime, which does窶ｦ something nefarious (idk)
+
+Arena: 5 tiles, boss starts at the far right
+Traits: 
+- Heavy
+- Passively spawns a corrupted wave (starting from the right) every 4 turns
+Moveset:
+- Single summon
+- Shadow Kama
+
+Summon pool: ashigaru, tessen, spear, sniper
+
+Corrupted: 
+Shadow Kama -> Shadow Kama + single summon
+
+
+[2024/11/30 3:05] uilexam
+this is gonna get messy due to sniper
+
+
+[2024/11/30 3:39] uilexam
+like swap toss, swap, push, phase, and throw should be 8 cooldown freeplay tiles
+
+
+[2024/11/30 3:39] uilexam
+maybe phase should only be 6 cooldown since its pretty weak
+
+
+[2024/11/30 3:39] apokalypse6
+pls dont nerf swap toss even more
+
+
+[2024/11/30 3:39] apokalypse6
+its already such a juggernaut tile to use
+
+
+[2024/11/30 3:39] voidfulfool
+Especially for Ronin
+
+{Reactions}
+漕
+
+[2024/11/30 3:39] voidfulfool
+Lmao
+
+
+[2024/11/30 7:32] hisc0re07
+was that an @ everyone?
+
+
+[2024/11/30 7:33] hisc0re07
+>:(
+
+
+[2024/11/30 7:33] apokalypse6
+What?
+
+
+[2024/11/30 7:34] uilexam
+AHAHAHHAHAHAHAHAHA
+
+
+[2024/11/30 7:35] apokalypse6
+main character frfr
+
+
+[2024/11/30 7:37] voidfulfool
+Huh
+
+
+[2024/11/30 7:38] voidfulfool
+Bruh
+
+
+[2024/11/30 7:38] voidfulfool
+@(UIL) Exam
+
+
+[2024/11/30 7:39] uilexam
+hello
+
+
+[2024/11/30 7:39] voidfulfool
+Come back here
+
+
+[2024/11/30 7:39] uilexam
+no
+
+
+[2024/11/30 7:39] voidfulfool
+https://tenor.com/view/flanders-tape-shutup-quiet-gif-5758206
+
+{Embed}
+https://tenor.com/view/flanders-tape-shutup-quiet-gif-5758206
+https://images-ext-1.discordapp.net/external/PwQzxv7Gz7q206UZmPN4dSGYIZYyJO-5TozUBtzQfOI/https/media.tenor.com/0qvMjm0VayYAAAAe/flanders-tape.png
+
+
+[2024/11/30 7:39] voidfulfool
+https://tenor.com/view/cat-cute-burrito-cat-burrito-rolled-up-gif-17537306
+
+{Embed}
+https://tenor.com/view/cat-cute-burrito-cat-burrito-rolled-up-gif-17537306
+https://images-ext-1.discordapp.net/external/0H7ZhxkobWyiaWYF8bOkJu9y9QOIRqe4W_WRj-07Omw/https/media.tenor.com/o3jG_x2oFFUAAAAe/cat-cute.png
+
+
+[2024/11/30 7:39] voidfulfool
+I caught you
+
+
+[2024/11/30 7:39] uilexam
+https://tenor.com/view/vomiting-ill-sick-gif-20106579
+
+{Embed}
+https://tenor.com/view/vomiting-ill-sick-gif-20106579
+https://images-ext-1.discordapp.net/external/Li9zsncg-45UTgMFYYDATtmGmc8tb7jmQEwU1Qxb4ag/https/media.tenor.com/uuiFFfwjoS4AAAAe/vomiting-ill.png
+
+
+[2024/11/30 7:39] voidfulfool
+lol
+
+
+[2024/11/30 7:39] uilexam
+have fun with that on your shirt
+
+
+[2024/11/30 7:40] voidfulfool
+O k
+
+
+[2024/11/30 7:40] voidfulfool
+https://cdn.discordapp.com/attachments/1225565051948372039/1281627114646278184/IMG_1423.gif
+
+{Embed}
+https://cdn.discordapp.com/attachments/1225565051948372039/1281627114646278184/IMG_1423.gif
+https://media.discordapp.net/attachments/1225565051948372039/1281627114646278184/IMG_1423.gif?ex=6a165b83&is=6a150a03&hm=934ba9169d923903277691e84397d216734691b36a7b1fcdccf254d46c06d1f6&
+
+
+[2024/11/30 8:33] mobiusqube
+fun challenge run idea for anyone who wants to try (I've done it before). Basically, you don't get to choose any shops, upgrades, or anything: it's all decided by someone else. Their goal is to make you lose, but all they can do is control you shop, and tile choices. They cannot sac tile, and they always have to pick something. But you are playing with the build and trying to win. I tried this run and ended up being given a 5 damage backwards shadow dash because he blundered and didn't leave upgrade slots on anything else so he had to make my dash stronger. I did this run on day 5 shadow, but if you're more experienced you could probably do day 6 on some guy.
+
+
+[2024/11/30 8:34] uilexam
+yes very good idea!
+
+
+[2024/11/30 8:55] apokalypse6
+the problem is that you need a friend to do this
+
+
+[2024/11/30 8:55] apokalypse6
+also this is definitelly possible on day 7
+
+
+[2024/11/30 8:56] uilexam
+not if you are anywhere below 3000 skulls
+
+
+[2024/11/30 8:56] apokalypse6
+I have like 200
+
+
+[2024/11/30 8:56] apokalypse6
+Skulls do not show your strength
+
+
+[2024/11/30 8:56] mobiusqube
+i did it with my brother
+
+
+[2024/11/30 8:56] mobiusqube
+no friends? ｧ・
+
+
+[2024/11/30 8:56] apokalypse6
+I could go into stream rn
+
+
+[2024/11/30 8:57] apokalypse6
+And you choose
+
+
+[2024/11/30 8:57] apokalypse6
+and i try beating day 7
+

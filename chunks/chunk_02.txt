@@ -1,0 +1,2000 @@
+﻿
+
+[2022/07/31 9:34] wasprider
+Complexity ｧ
+
+
+[2022/07/31 9:53] hehemelaugh
+could also work universally that when you swap you uncurse (for mass curse)
+i feel like if it were to work universally it would be easier for the player to pick up on
+
+
+[2022/08/11 10:05] wasprider
+IDK if this is already been suggested but what about a point blank ranged character, buff or item? One that works as ranged but does extra damage up close. Could b like a kunai or smth if it was a weapon
+
+
+[2022/08/11 13:29] hotmonkey1
+I think to expand this game the tiles are going to either become more specialised or become more flexible such as upgrade slots being for different aspects because right now it's hard to come up with any super new concepts that aren't super complicated
+
+
+[2022/08/11 18:59] averagefoxenthusiast
+Assassin's movement ability could be changed to "can swap backward" or "can turn" (i.e. bo ability). I also had an idea for an enemy type which can hit you from behind other enemies; for example it can lock onto your last position and shoot an arrow over the top of those in front of them. I'm not sure whether this would work within the game, but I feel like it could be a step towards addressing the issue of only being able to engage with 2 enemies at a time while the rest don't directly interact with you at all until uncovered.
+
+{Reactions}
+総
+
+[2022/08/12 5:38] wasprider
+ok revision to point blank idea, It should be a perk, kindof the polar opposite of sniper. 
+"Ranged tiles do extra damage when used at point blank range."
+
+
+[2022/08/12 13:15] pride_zero
+Started a thread.
+
+
+[2022/08/21 22:31] clorox_drinkbleach
+maybe a dagger that only attacks behind you, a wait move like the one that turns you around, a move forward/back like the one that turns you around, and a dodge the next in coming hit and a endless mode would be pretty cool
+
+
+[2022/08/21 22:45] pride_zero
+Started a thread.
+
+
+[2022/08/31 15:45] camry35
+New gamemodes(tasks), Imagine "peasant" npc which you need to defend, by switching place with it or pushing, and kill foes that try to attack "peasant"
+infinite fight, boss rush(ofc when there will be more bosses and more unique like on picture when boss isn't a foe on map but on background with hands on map trying to kill you etc)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1014425590356525077/unknown.png?ex=6a1692f3&is=6a154173&hm=f581b66afc6c900bb0a54869c3350d9a378dc2a01e4a59778cdb0558b9905112&
+
+
+[2022/09/06 20:39] tronche2cake
+I suggest improving the UI by having an options button on the main menu, adding sound and music sliders, and being able to switch between fullscreen and windowed using F11
+
+
+[2022/09/06 22:04] tronche2cake
+attack idea: the tetsubo
+3 damage, 6 cooldown, 2 upgrade slots
+upon hit, if the enemy was preparing an attack, that attack is cancelled
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1016695413983678574/unknown.png?ex=6a164323&is=6a14f1a3&hm=66b3ac2226958a397883c62d85dc061caa3900259269cb85f7f717133ba61ffe&
+
+{Reactions}
+舒
+
+[2022/09/06 23:09] kassandra_haruki
+Approved simply because you have a pic ready
+
+{Reactions}
+漕 (3)
+
+[2022/09/06 23:11] pride_zero
+Started a thread.
+
+
+[2022/09/06 23:40] tronche2cake
+a regular tetsubo should be much longer, but I had to make it fit in the square and not look like crap
+
+
+[2022/09/07 13:09] hotmonkey1
+damage should be maybe 2
+
+
+[2022/09/07 13:14] pride_zero
+Alright the time has finally come for me to finally send the shielding idea we had a bit ago.
+So what is shielding? We were thinking of it being extra hp (with a max amount of say, 5) that you can have (for a set number of turns, let's say 4). You can replenish/get it by using certain tiles (like shields?). Normal weapons just deal damage to the shields and then to the hp once the shield is down.
+
+This also means we can add different types of weapon that interact differently with the shields. Currently, my ideas :
+
+- Crossbow : Ignores shields and deals damage directly to hp.
+- Dagger : deals half damage to shields but always crits hp
+- Axe(maybe even the tetsubo from the prev idea) destroys shields completely but deals no damage to hp (the idea that the weapon is slow so they can dodge it easily)
+- Beserker's Fury (maybe with an angry fire kinda sprite) deal extra damage for every shield you have but you get rid of all the shields when you use it.
+
+New character:
+Knight :
+-Shield : adds 3 shield hp. 
+-Greatsword : Knight exclusive weapon that deals double damage to shields and deals damage equal to the amount of shield you had when using it to the enemies hp.
+Ability : Sidestep- will dodge an ranged attack (every 6 turns) when "waiting"
+
+Now, You might be wondering, dont we already have a shielding potion and perk that work differently? Well yes, we rename that to immunity, since they are literally granting you immunity.
+
+any further ideas/changes will be appreciated.
+
+
+[2022/09/07 14:36] hotmonkey1
+shield seems too easy to stack, I think some changes to max between normal and hard mode is needed
+
+
+[2022/09/07 14:53] pride_zero
+Started a thread.
+
+
+[2022/09/13 23:47] xaviercormorant
+Started a thread.
+
+
+[2022/09/17 12:22] halfling22
+Idea: there should be special interactions between upgrades, tiles, and maybe perks. For example, if you get the ice effect on the fire tile, maybe it gives you a free smoke bomb tile.
+
+
+[2022/09/17 13:35] destined_to_wander
+there isn't a fire tile... right
+
+
+[2022/09/17 13:42] halfling22
+It might be called lightning now, or used to be called fire. It strikes the furthest enemy away that you are facing, even if they are behind other enemies
+
+
+[2022/09/17 18:24] that_one_planet
+Block atack or move would be a tile or a buten like wait where you would block the first hit if you get hit on enamys turn
+
+
+[2022/09/23 18:01] that_one_planet
+i will say it again mobile port for the playstor and apples app store
+
+
+[2022/09/23 18:32] kassandra_haruki
+You can technically run it on android, but you'll need some sort of windows-to-android keyboard
+
+
+[2022/09/24 3:16] that_one_planet
+i guess
+
+
+[2022/09/26 17:42] squimmy
+i would probably pay a few bucks for an ios version. i窶囘 love to say something like 窶彿窶囘 pay $15 for it窶・but sadly the horrendous price anchoring on the apple app store has destroyed my brain窶冱 ability to fairly gauge prices for phone games
+
+
+[2022/09/28 13:55] lysandree
+i would pay nothing more than 0
+
+
+[2022/09/28 14:16] squimmy
+the prevalence of that sort of attitude is very unfortunate, especially considering that an apple developer account (required to put apps on the app store) costs money, so making the app free means the developer is running at a loss, monetarily.
+
+
+[2022/09/28 14:50] pride_zero
+iOS haha, amirite
+
+
+[2022/09/28 17:16] squimmy
+there窶冱 a fee to sign up a google play store dev account, too
+
+
+[2022/09/28 18:22] tronche2cake
+You don't even need to use the Google play store on Android, you can just grab the APK file on the website
+
+
+[2022/09/29 11:15] that_one_planet
+yeah a apk would work or staem mobile i think (im not sure if you ca have steam andriod apps)
+
+
+[2022/09/29 16:25] tronche2cake
+You can't
+
+
+[2022/09/29 17:22] pride_zero
+Y'all aren't considering the fact that porting pc code to mobile is also a massive pain
+
+{Reactions}
+笘晢ｸ・
+
+[2022/09/29 19:19] halfling22
+A perk that make abilities deal damage, so when you use the ability (swap, push, shadow) it deals (+1 damage per level) damage to enemy when used.
+
+{Reactions}
+笘晢ｸ・(4)
+
+[2022/09/29 19:23] tronche2cake
+Good idea
+
+
+[2022/09/30 23:57] squimmy
+being able to unconditionally damage enemies without interacting with the 窶徠ueuing up tiles窶・system seems like it would be completely at odds with the rest of the game and ruin a lot of the risk/reward systems in place
+
+
+[2022/10/01 0:44] tronche2cake
+it does take a turn and have a 4 turn cooldown, so it's really unlikely that it could be your main source of damage
+
+
+[2022/10/02 12:18] meladaptive
+After you get all the cards, you should be able to spend skulls on weighting the draws
+
+
+[2022/10/02 16:44] that_one_planet
+Using the skulls to buy the tiles would be cool you would need more tiles tho
+
+
+[2022/10/05 17:19] hotmonkey1
+arrow should be nerfed when the enemy is right in front of you
+
+
+[2022/10/05 17:36] eggyolk2
+That would be a good nerf, but it'll just shift the meta to the next ranged weapon getting insane damage and double strike. IMO the problem is more towards how strong combos are than arrow
+
+
+[2022/10/06 0:48] meladaptive
+the other characters' health should be 10 on normal mode, 5 on hard
+
+
+[2022/10/07 17:00] hotmonkey1
+it should just be ranged weapons in general, nerf it enough such that you can get it with a good run but it's hard
+
+
+[2022/10/07 19:25] pride_zero
+ranged nerf is more if a balance change than an idea
+
+
+[2022/10/09 8:40] Deleted User
+make it a mobile game
+
+
+[2022/10/09 10:33] that_one_planet
+I think everyone wants mobile
+
+
+[2022/10/09 12:15] Deleted User
+It would be so cool as a mobile game. You could play it anywhere.
+
+{Reactions}
+埒 (5) 拳 (4) ､ｨ 込
+
+[2022/10/09 19:51] pride_zero
+.
+
+
+[2022/10/09 19:51] pride_zero
+Let's have the pc version be released once and then let's see about mobile
+
+
+[2022/10/09 23:19] Deleted User
+bro whoever put that toilet emoji there knew exactly what I meant by anywhere
+
+
+[2022/10/10 16:18] that_one_planet
+lol
+
+
+[2022/10/11 15:42] zygarti
+maybe a card that starts with the double strike ability? like a throwing knife or something and each throw deals one damage. could be handy for dealing with those little guys that rush at you
+
+
+[2022/10/12 5:57] Deleted User
+A new character called: THE ROSHI. He has a new magic attack that窶冱 weak but ranged kinda like shuriken but attacks anywhere. He also has some sort of healing ability or passive magic ability. Instead of swaping, pushing, or phasing, he can teleport somehow. I was gonna make art for him too but I窶冦 too busy : (. btw roshi is Japanese for a leader of monks. (I窶冦 pretty sure)
+
+
+[2022/10/12 8:26] tronche2cake
+Could also be a shugenja, which would be a regular monk
+
+
+[2022/10/12 8:34] Deleted User
+yea but arnt there already the health exchange money thing monks? the green ones with hoods.   Edit: it could be that the roshi spawns little shugenjas with one of his attacks
+
+
+[2022/10/12 17:02] tronche2cake
+I forgor
+
+
+[2022/10/12 17:24] hotmonkey1
+how do you select where shuriken attacks
+
+
+[2022/10/12 21:08] tronche2cake
+maybe a cursor pops up and you can move it across the tiles
+
+{Reactions}
+､ｨ
+
+[2022/10/13 2:32] Deleted User
+That窶冱 what I was thinking. Also maybe the attack could start with poison effect
+
+
+[2022/10/13 9:06] slmplified
+maybe instead of shuriken its a new tile like a blowdart
+
+
+[2022/10/13 9:09] Deleted User
+I didn't want it to be shuriken I just used that as an example for describing what the new tile could be
+
+
+[2022/10/13 13:22] meladaptive
+blowdart (0 damage, 2 or 3 cooldown, 3 slots, poisonous)
+
+
+[2022/10/14 5:36] Deleted User
+Spell (for the roshi maybe) 0-1 damage, 3-4 cooldown maybe more, 0 slots, can attack on any tile (you get to choose) and inflicts either poison, ice, or a new stun/sleep effect (you get to choose the affect as well)
+
+
+[2022/10/14 12:22] meladaptive
+It could be "Ice Spell" [1 damage, 5 cooldown, 2 slots, can attack a chosen tile, Ice effect]
+useful for a quick stun on an enemy
+a sleep or stun effect would just be a different form of the ice effect
+
+
+[2022/10/14 13:28] squimmy
+i think a specifically-targeted ability works against the main systems of the game and how they tie-in to the way it presents risk/reward. the fact that each ability targets something specific (i.e. the space in front of you, the furthest enemy in front of you, the closest enemy behind you, etc. etc.) means there窶冱 at least nominally some risk involved in queuing up multiple attacks because they might whiff 窶・enemies move around or attack in the intervening turns 窶・and this risk is offset by letting you unleash more moves-per-turn in total, and also achieving combos. an ability that just lets you pick what to hit would not be able to whiff and would present much lower risk, while still enabling combos, which i think would fundamentally mess with the risk/reward balance in the game. for what it窶冱 worth, this also seems to me to be the main problem with double-strike arrow: you gain the reward of a combo resetting your cool-down without the risk of having to queue up multiple attacks.
+
+
+[2022/10/14 15:02] meladaptive
+The Ice Spell would probally be spcific to The Roshi, which would balance it much more, as well as it starts very weak, so The Roshi would have a hard starting bit
+
+
+[2022/10/15 4:46] Deleted User
+no slots but yea. and @squimmy  they could make it attack the enemy with the most health. or the enemy with the least health.
+
+
+[2022/10/16 5:19] speakercone
+Item idea: archer's shield. set up a barrier with hp on a tile in front of you. You can attack through it but enemies can't until they break through it. a damage upgrade would increase the damage it can take before disappearing
+Might work really well thematically on a future archery-themed character who could start with this and a bow 凾
+
+
+[2022/10/16 7:22] Deleted User
+sounds really cool
+
+
+[2022/10/16 10:26] ezyspore
+what happens if someone/something spawns on it?
+
+
+[2022/10/16 11:22] Deleted User
+gets pushed to the side
+
+
+[2022/10/16 14:19] ezyspore
+which side though?  What if both sides already have spawns?
+
+
+[2022/10/16 15:41] pride_zero
+There will always be space for enemies to spawn, as mirko said. If this item heavily limits where the enemies can spawn, its likely mirko won't add it
+
+
+[2022/10/16 16:04] tronche2cake
+Maybe the shield spawns between two tiles
+
+
+[2022/10/17 0:01] Deleted User
+woah. that would be cool
+
+
+[2022/10/17 3:34] speakercone
+if something spawns on top of it, maybe the item breaks and causes its remaining hp as damage to whatever spawned there?
+
+
+[2022/10/17 4:35] Deleted User
+sounds cool
+
+
+[2022/10/17 7:34] ezyspore
+That would work; be another trap in the meantime
+
+
+[2022/10/17 10:22] Deleted User
+they could just replace trap with that
+
+
+[2022/10/17 12:38] pride_zero
+(Trap 2.0)
+
+
+[2022/10/17 15:06] ezyspore
+I think the trap right now is fine, personally
+however @Mirko , I think it would be nice if it only used enough to take out whatever is on the tile (instead of using all traps on said tile)
+
+
+[2022/10/17 15:57] roboatino
+Yeah, the current multiple-traps-on-a-cell behavior is a bit clunky (also, it needs some kind of UI indication of "how many traps are there on a cell")
+
+
+[2022/10/17 15:58] roboatino
+I think something like the "archer's shield" could work nicely, but as always it would need some play testing to see how it would work in practice (this is actually similar to another attack I had in mind: "the decoy")
+
+
+[2022/10/17 16:00] roboatino
+(BTW, I've not been very active on the discord recently, but I still read all the messages/ideas 凾 )
+
+{Reactions}
+・ (4) ､・(2) spin (3)
+
+[2022/10/18 6:11] Deleted User
+I can help with the play testing bit. maybe the decoy has a separate attack queue that you can add to whenever and there窶冱 a separate button to trigger the decoys atk queue without triggering your own. to change the way the decoy attacks you have to use things like bo and war fan to push it around
+
+
+[2022/10/18 6:14] tronche2cake
+Maybe the attack done by the decoy is the one you queued before or after it
+
+
+[2022/10/18 6:46] thefloralhurrikale
+Enemies having speech, would be kinda funny seeing enemies calling you trash, as most of us are.
+
+
+[2022/10/18 8:10] tronche2cake
+Enemies are part of the Samurai order, they need to have some dignity
+
+
+[2022/10/18 8:13] Deleted User
+fr
+
+
+[2022/10/18 10:02] eggyolk2
+Trash talking enemies is the worst best idea. We really need that flavour
+
+
+[2022/10/18 10:23] Deleted User
+frfr. idk who to agree with
+
+
+[2022/10/18 13:15] pride_zero
+@Mirko Genuinely, for playtesting, you could release the unstable version as the google drive version, and then the fixed version on itch.
+
+
+[2022/10/18 13:16] pride_zero
+Could do it more often so we could have bug hunting en masse (idk what that means but it sounds cool)
+
+
+[2022/10/18 16:15] roboatino
+Now I'm in the middle of some major refactoring/polishing, so the current version is not really play-testing ready. But once I'm through this we should indeed do some play testing en masse ・
+
+
+[2022/10/18 16:19] halfling22
+Having a sandbox mode would make bug testing and recreating said bugs a lot easier than what has to be done now.
+
+
+[2022/10/18 23:44] pride_zero
+.
+
+
+[2022/10/24 12:16] meladaptive
+idea, more bosses depending on what route you choose so 6 bosses rather than 4, also a way to turn the game sound off
+
+
+[2022/10/24 20:21] pride_zero
+Started a thread.
+
+
+[2022/11/05 7:38] .jacob22
+Boss idea:
+**Paranoia, The Invisible**
+It has normal hitbox, but no sprites or animations.
+The player can only know his position by damaging it or by the particles.
+It plays turns normally and has an avarage AI, so its position can be pretty predictable.
+
+Attacks:
+- Choose randomly between:
+-- Slash 2
+-- Swirl 2
+-- Spear 2
+
+- Every Nth attack, choose randomly between:
+-- Grappling hook 1
+-- War fan 1
+
+The player ~~can't~~ can see the boss's queue ~~or~~ and when it's ready to attack. All particles are still visible.
+
+
+[2022/11/05 8:16] Deleted User
+sounds cool. how much health would it have? e.g. small, medium, or large.
+
+
+[2022/11/05 8:55] tronche2cake
+Maybe let the player see the boss queue, but in a way that doesn't reveal his position
+
+
+[2022/11/05 10:02] .jacob22
+Low to medium, somewhere between 12 to 18 HP
+This boss is meant to check if the player has mastered the AI
+It should be hard on the first encounter, but easier after the player learns the AI patterns
+
+@Tronche2Cake 
+Having a character in the background giving the boss's queue can work well. It will be really important, because hiding this information that is purely random from the player would break the tactical aspect of the game
+
+
+[2022/11/05 10:16] Deleted User
+Kk
+
+
+[2022/11/05 10:32] ezyspore
+```Boss [W1/W2]:
+40 HP
+Takes Double Crit damage
+Poison Deals 1 increased damage before other damage modifiers
+
+Attacks Randomly (Each attack has an extra turn before and after of no attack preparation/loading):
+Dash 1, Turn Around
+Turn Around, back dash 3, Slash 1
+Dragon Punch 3, Spear 1
+Arrows 2
+```
+```Boss [W3/W4]:
+20-30 HP
+Reduces all non-debuff damage taken by 1
+Takes an Extra Freeze turn
+
+Moves 2 tiles every 3 turns (1 off turn)
+
+Attacks in order:
+Slash for 1 (Poison)
+Front Slash for 2
+Dash back (Max of 3 tiles?) for 1
+Slash Twice for 2
+```
+```Boss W6+?:
+40-50 HP
+Reduces damage taken from all sources (other than poison/electric) by 1
+Takes 1 less poison turn
+
+Performs 1 extra action every third turn
+
+Attacks in Order (2 branches to be chosen at random from):
+Ice Slash for 1 (Lasts 1 turn)
+Poison Slash for 1 (Poison Lasts 4 turns)
+Dash back for 1, Slash forward for 3
+Dash Forward for 2, Turn around, War fan freeze (0) for 1 turns
+No Action
+
+Dragon Punch for 1 (Electric), Spear for 1 (Freeze for 2 turns)
+Electric Fire for 2 Damage, Summon 2 dashers
+No Attack
+Shuriken for 2
+Electric dash, summon 3 random 2-3 hp units
+```
+
+
+[2022/11/05 11:56] Deleted User
+wow
+
+
+[2022/11/05 12:51] ezyspore
+Too strong?  Too much a change?
+
+
+[2022/11/06 0:54] Deleted User
+idk I窶冦 not good at balancing and stuff like that
+
+
+[2022/11/06 4:17] ezyspore
+Just like stuff being fine tuned, in case ppl want the idea all fleshed out;
+
+
+[2022/11/06 4:35] eggyolk2
+Honestly the defence boss sounds super annoying and hard to deal with. Not to mention the 2 dasher spawn followed by a ranged attack and the 1 extra action.
+
+The other boss has too many ranged attacks that can come in a que due to the randomness which would be a hard deck check for movement stuff(rough cause I think it says it's a W1/2 boss)
+
+
+[2022/11/06 8:14] ezyspore
+Pay attention to the timing
+W1/W2 has decent hp, but very weak to certain things;
+W3/W4 Is stronger, but doesn't summon a ton of annoying ranged opponents (And any freeze may completely override this boss)
+And the last one would be in an infinite playthrough/After Shogun
+
+All of them are strong, but have downsides considering where they are located
+
+
+[2022/11/06 13:47] eggyolk2
+That's why I called the W1/2 one a deck check, it has 3 ranged attacks which is always a guarenteed hit if you don't have any movement to get behind him. The W3/4 is still fine but the W6 boss is just unreasonably strong even after the Shogun
+
+
+[2022/11/06 13:53] ezyspore
+You sure? 1) First boss now has an extra turn before and after each action; 2) I have some ice spam builds; and many of the attacks do not do too much damage (even the ice isn't too strong; it just ensures the next attack will hit)
+Other stuff can be added that makes a second "loop" for this all easier; a boon, a perm stat boost, a buff
+
+
+[2022/11/06 16:18] eggyolk2
+In general if you need a specific thing in your deck to even have an attempt at the boss I'd say it's not that good- also if I read correctly 1 takes an extra move before and after every attack(meaning not in between, because that would just make it a pushover x-x)
+
+
+[2022/11/07 4:30] ezyspore
+1) You also don't; it just benefits more from certain item.  2) Idk, you were complaining about how it covers the field; it becomes a more efficient/random w1 boss that has more downtime in between each attack.
+
+
+[2022/11/07 4:38] eggyolk2
+You just said you'd require an ice spam build to try and counter the other boss because (though I don't see that on the W6+ boss now. The W3 boss is fine, no gripe with that.) W1/2 with a downtime between attacks still won't let you recharge your swap and also walk till the boss so you're done for if you don't have any movement by the first wave which is :p while taking 2 extra turns for anything would just make it easy to dodge
+
+
+[2022/11/07 4:48] eggyolk2
+Started a thread.
+
+
+[2022/11/11 19:32] hotmonkey1
+I'm a bit worried about its gimmick being negated by pretty much every decent deck: every deck will have either a way to close distance/ranged attack
+the main problem with the boss is meleeing it but most runs are done with ranged
+what hour will this boss appear?
+
+
+[2022/11/14 6:58] genasi
+Maybe add a custom challenger slot where you can pick two cards from the deck and start a run like that
+
+
+[2022/11/15 1:01] .jacob22
+Started a thread.
+
+
+[2022/11/17 18:19] meladaptive
+Boss Rush (with in-between upgrades)(one overall battle)
+
+
+[2022/11/18 3:21] Deleted User
+yessss
+
+
+[2022/11/21 4:12] coldnuggets
+double strike bo staff makes enemies dizzy stunning them
+
+
+[2022/11/21 4:30] ezyspore
+Yeah, several times the bo staff is the only item that is able to get double strike when it shows up, and it is very worthless...
+
+
+[2022/11/21 8:46] meladaptive
+Idea, you can use skulls to weigh the possibilities of certain upgrades (no more than -25% or 25%)
+
+
+[2022/11/21 10:49] pride_zero
+Started a thread.
+
+
+[2022/11/26 5:46] tdogredman
+haven't unlocked all the characters yet. maybe this is already here. but some kind of ranged character? a guy who starts with ranged attacks and low health
+(and maybe built in passives for each character? also unaware if this is already in the game. but assassin could start with lvl 1 backstabber maybe.)
+
+
+[2022/11/26 5:47] ezyspore
+I feel like there should be more options...
+More unique abilities, for example
+__
+It would go a long way to making the characters feel unique
+   - Maybe some of the characters are more reliant on their abilities because they have less hp, lose gold per round, or something to that effect
+
+{Reactions}
+Clap
+
+[2022/11/28 2:06] ezyspore
+Maybe add some more custom abilities?  (Like a lifesteal reforge, where 25% of the damage dealt is lifestealed [Min: 1])
+
+
+[2022/11/28 2:41] gimp6615
+Legalize nuclear bombs
+
+
+A bomb that when touched the ground it does 5 damage on 3 tiles (the one it touched and the 2 on the left and right side) 
+
+It's max cooldown and it needs a whole turn to land (1 to equip 1 to shoot and 1 to land meaning you have to wait 3 turns to do damage with it) and it targets the furthest away possible enemy insted of the nearest one
+
+
+[2022/11/28 6:03] tronche2cake
+Swag messiah!
+
+
+[2022/11/28 6:03] gimp6615
+call the fire department 
+We've just nuked the building
+
+
+[2022/11/28 10:40] tdogredman
+reverse free play stat. instead of not taking an action, preparing the card takes two actions. can be part of new cards (like free play is part of turn around) or maybe applied to cards with a damage up or cooldown reduction
+
+
+[2022/11/28 10:53] ezyspore
+...?
+I feel like the gameplay would need to be seriously adjusted to make that relevant/usable... especially with certain achievements/challenges
+
+
+[2022/11/28 11:02] gimp6615
+Changes the game too much
+
+
+[2022/11/29 1:47] Deleted User
+Kunai
+A shuriken that pierce
+
+{Reactions}
+脹
+
+[2022/11/29 6:34] tdogredman
+Parry. Counters the next hit you receive negating all damage?
+
+
+[2022/11/29 12:36] ezyspore
+#pierceprojectileswhen?
+
+
+[2022/11/29 14:43] meladaptive
+replace the shuriken with a piercing weapon or make it piercing
+
+
+[2022/11/29 15:03] silvadoesnot
+Maybe there could be a piercing upgrade? In the same way there's a lightning upgrade
+
+
+[2022/11/29 20:52] eggyolk2
+Even though piercing projectiles would break the game faster than you could say double strike, they would be mega cool!
+
+
+[2022/11/30 1:12] silvadoesnot
+Well, the piercing property could have a limit, like it could only be able to pierce a total of two or three enemies. Or it could require a big exchange, like, getting the piercing property might cost three damage or something similar.
+
+
+[2022/11/30 3:11] tdogredman
+make bleeding trait so you can make piercing bleeding projectiles. This is fully balanced fr
+
+
+[2022/11/30 18:01] pride_zero
+Poison is basically bleeding
+
+
+[2022/12/01 1:13] ezyspore
+maybe bleeding could be slower, but it is indefinite?  Or perhaps it scales off of the weapon damage?
+
+
+[2022/12/01 1:24] silvadoesnot
+I don't think bleeding as a concept makes much sense in Shogun Showdown. Bleeding debuffs are usually implemented as preventing health regeneration.
+
+
+[2022/12/01 10:49] ezyspore
+Based on?
+You mean, they are based on your personal experience...
+
+
+[2022/12/01 11:33] kingswit.
+I personally feel anything slower would be unless . Nothing except bosses have all that much health so after the initial hit + a round or two bleeding/poison damage the enemy is already dead, rendering the the fact that it is indefinite unimportant.
+
+
+[2022/12/01 12:13] ezyspore
+it would be useful for the tho; maybe it is better short term, takes an extra turn, but falls off after the first hit?
+
+
+[2022/12/01 12:36] gimp6615
+Make poisen spreadable and rename it sickness
+Make bleeding make the enemy unable to move(but still able to attack)
+
+
+[2022/12/01 15:07] tdogredman
+you're right i didnt think about that
+
+
+[2022/12/03 11:39] kingswit.
+This is very unimportant but I think eventually hot keys might be nice
+
+
+[2022/12/03 18:51] tronche2cake
+You mean for tiles?
+
+
+[2022/12/03 22:36] kingswit.
+Yeah something like number keys correspond to the tiles you have, 1 being farthest left, 2 being the second to the left and so on. I窶冦 not sure of a good way that switching the order of your queued attacks could be done with key presses tho.
+
+
+[2022/12/04 13:12] thirteen_nine
+It could also be made so that the tiles are placed in order by the player, with the default being the order you collect them
+
+
+[2022/12/07 13:17] kingswit.
+Not a game idea but a server one, we I think we should add a speedrunning channel so we (mostly I) don窶冲 fill general with it
+
+
+[2022/12/07 18:56] pride_zero
+<Yup I considered it but the version was very buggy then?>
+
+
+[2022/12/07 19:41] genasi
+Online multiplayer combat? Throw in some protection tiles and I think you have an interesting idea
+
+{Reactions}
+総
+
+[2022/12/09 12:44] gimp6615
+Update the current itch.io version and then make a speedrun community
+
+
+[2022/12/09 19:46] tronche2cake
+Pride isn't a dev
+
+
+[2022/12/09 22:46] pride_zero
+^
+
+
+[2022/12/09 22:46] pride_zero
+I'm just the good ol' discord mod
+
+
+[2022/12/09 22:48] thefloralhurrikale
+"Not the dev cult" for nothing
+
+
+[2022/12/10 7:20] gimp6615
+Not yet ・・・
+
+
+[2022/12/12 10:11] genasi
+Maybe a select a skin option? Like, enemy skins. I love the new ones but I love the old charm of the ones we have now lol
+
+
+[2022/12/12 10:30] azuelu
+game config that can turn music on/off and ui sounds on/off
+
+
+[2022/12/13 7:58] tronche2cake
+Maybe let people who played the itch version before release have it for bragging rights n shit
+
+{Reactions}
+笘晢ｸ・(3)
+
+[2022/12/13 8:10] azuelu
+yeahhh
+
+
+[2022/12/18 17:03] kassandra_haruki
+Option to disable sounds so you can just vibe to the music
+
+{Reactions}
+・
+
+[2022/12/24 2:18] zombiehunter05
+I am new here but first I saw this game I though of a weapon that consumes health on use while starting with free play and 2 damge and no cooldown 1HP to use also 1 modifier slots what do you think
+
+
+[2022/12/24 7:06] ezyspore
+ehhh
+depends...
+ranged @zombie hunter?
+
+
+[2022/12/24 8:25] Deleted User
+good concept
+
+
+[2022/12/24 10:15] .shmiddty
+instead of 2 damage, have it deal you one damage, then deal damage equal to your missing health
+
+
+[2022/12/24 11:13] ezyspore
+､ｨ uh.....
+...
+well then...
+
+
+[2022/12/24 19:48] hotmonkey1
+just make that a character ability
+ram an enemy to deal 1 damage to all enemies
+
+
+[2022/12/24 22:44] zombiehunter05
+yes the idea will allow for easier hitless runs since you just need to kill one archer to complete a hitless run 
+(some times I think maybe its better to work as a back step but I believe that just like regular arrow is best) or you can make it an upgrade like -1HP on use ,adds free play oh yes and adding the upgrade consumes two skill slots any way as long it accomplishes the goal of making a hitless run easer while making room for it to be use full in regular situations
+
+
+[2022/12/28 4:29] azuelu
+achivements
+
+
+[2022/12/28 5:08] tronche2cake
+you mean... like the boxes you check by beating runs under certain conditions?
+
+
+[2022/12/30 10:46] azuelu
+sure, but more ig
+
+
+[2023/01/02 5:32] docbeav
+Remember that "Armory" button in main menu where you can view all weapon in the game? What about to make something like this, but about enemies? A small encyclopedia about every enemy and boss we fought with small description that tells some lore of the world. I mean, I would love to know what that tall thing with hook and sword is. Or why some enemies serve the Shogun (they can have different goals)
+
+{Reactions}
+総 (11)
+
+[2023/01/02 5:40] thefloralhurrikale
+YES, we need more lore.
+
+
+[2023/01/05 13:07] pride_zero
+Started a thread.
+
+
+[2023/01/30 23:03] sir_origin
+war fang can negate arrow and shuriken by blowing 'em?
+
+{Reactions}
+・ (3)
+
+[2023/01/31 0:43] domedarfguy
+you mean war fan
+
+{Reactions}
+･ｲ
+
+[2023/02/23 5:12] minoru_min
+mobile version '-'
+
+
+[2023/03/05 23:01] minoru_min
+A kamikaze attack
+
+
+[2023/03/10 0:06] banxzzi
+an enchant or something for projectiles were it will continue until it lost all its damage, so if you have 4 damage on a bow, than shoot something with 3hp, the arrow will continue but only do 1 damage
+
+or a piercing effect
+
+
+[2023/04/05 4:13] Deleted User
+some parts of info mode should be always on, like hovering over enemies should show their info w/o needing to change modes
+
+{Reactions}
+笨・(5)
+
+[2023/04/05 8:05] .jacob22
+And potions
+
+
+[2023/04/06 20:55] aidanthird
+Does the armory tell you the names and actions of the tiles?
+
+
+[2023/04/06 21:18] thefloralhurrikale
+In the prologue, it does
+
+
+[2023/04/08 12:15] aidanthird
+in the prologue i would put the tutorial somewhere not buried in the gameplay menu in the options
+maybe you could have it in the little hub with the shop and meta thing as a "training dojo" or something
+
+
+[2023/04/12 7:36] double_dot
+An endless gamemode. Where you just have to survive throughout an endless waves of enemies stronger and more numerous.
+
+
+[2023/04/18 14:34] that_one_planet
+Mobile. I dont have my laptop so a mobile would be cool so i can try the update
+
+
+[2023/04/18 15:19] roboatino
+Yup, I had something in mind along these lines as well
+
+
+[2023/04/24 6:23] haeyun321
+How about creating the shortest time record ranking mode?
+
+
+[2023/04/24 6:51] double_dot
+a leaderboard?
+
+
+[2023/04/24 16:38] haeyun321
+And if u have a chance later, I think it would be great to release a mobile version!
+
+
+[2023/04/28 6:53] kefuneo
+The Guy in the trailer, Dasuke the Dasher, He should run forward headfirst and spike you like a bull with the "crown" on his head
+
+
+[2023/04/28 7:00] project_u
+There already is. He dashes forward and hits you with a sword
+
+
+[2023/04/28 8:48] kefuneo
+I was just coming Up with another Idea
+
+{Reactions}
+笶・
+
+[2023/04/29 14:12] kingswit.
+I think having a more complex difficulty system could be really cool (think the ascensions in Slay the Spire, or the heats in hades, or the challenge rating in Inscryption). Having difficulty modifiers like more pricy shops, beefier enemies, more cooldown on tiles, and similar challenges could be really awesome. Especially if you can turn them on selectively like in Hades and Inscryption.
+
+{Reactions}
+筮・ｸ・(4) 操 笘晢ｸ・
+
+[2023/04/30 1:46] kefuneo
+an Idea, Since consumables don't take any turns to be used, why not make a tile that does heal but takes a turn to be used, maybe make it heal 5 damage, or place 2 shields on you instead of one.
+
+
+[2023/04/30 3:09] kingswit.
+I feel that this would be way to OP because at the end of each combat you could just farm your health back
+
+
+[2023/04/30 3:26] double_dot
+from a speedrunner perspective that could be interesting if the animation isn't too long
+
+
+[2023/05/03 2:53] eggyolk2
+Reusable healing would be super OP. It could potentially work if it's cooldown required something else though. Like single use per level or kill 5 enemies to refresh.
+
+
+[2023/05/03 3:05] double_dot
+Earthquake tile: move randomly every entities on the field
+
+{Reactions}
+笘晢ｸ・
+
+[2023/05/03 15:04] roboatino
+Yeah, I agree. And this idea of a separate class of super-strong tiles that recharge with kills instead of time is something I'm planning to explore at some point in the future
+
+{Reactions}
+操 (2)
+
+[2023/05/03 16:33] Deleted User
+U know that you have shrine blacksmith sensei, there should be a building where you apply effects (electric poison freeze free play double strike)
+
+
+[2023/05/04 5:46] that_one_planet
+add Windowed mode
+
+
+[2023/05/04 11:22] double_dot
+Blindness effect:
+Applied on the player, it shrink the player view to a more limited space, like a close circle around the player and anything else is deep black.
+
+
+[2023/05/04 13:34] double_dot
+A tile that goes stronger the more you kill foes with and weaker if you take damage.
+
+
+[2023/05/04 15:31] roboatino
+isn't there already Windowed mode? (options -> video -> fullscreen -> off?) or do you mean something different?
+
+
+[2023/05/04 15:32] roboatino
+Interesting. This might also be a boss fight idea ､・
+
+
+[2023/05/04 15:32] that_one_planet
+I couldent find the setting in the new update also add mobile
+
+{Reactions}
+糟
+
+[2023/05/04 15:33] double_dot
+there is
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1103570178140287026/image.png?ex=6a169051&is=6a153ed1&hm=71c7e5db4815d831c09e601be7b40406c0ee0f5cf61edbbf1a27a230b104655b&
+
+
+[2023/05/04 17:41] that_one_planet
+ok
+
+
+[2023/05/06 8:50] double_dot
+Boss idea:
+The boss spawns boulders on the borders that progressively shrink the arena
+
+
+[2023/05/09 12:27] that_one_planet
+This is a big idea make the game 2.5d for like a special mode
+
+
+[2023/05/09 17:15] double_dot
+Imagine the quantity of work
+
+
+[2023/05/09 17:44] that_one_planet
+Lol
+
+
+[2023/05/09 19:53] double_dot
+i"m not kidding >:|
+
+
+[2023/05/10 18:15] roboatino
+One of my early prototype of Shogun was actually in 2.5d, but I eventually decided to go 2D to keep the concept simpler. I'll see if I can dig up something and share a screenshot of what it looked like ・
+
+
+[2023/05/10 22:10] halfling22
+Don't know how well this would work but maybe a potion that clears enemies attack queues? Could be something centred around confusing the enemy.
+
+
+[2023/05/11 5:54] that_one_planet
+ohh that interesting
+
+
+[2023/05/12 22:42] project_u
+Early bird: Allows free movement when the battle starts.
+
+{Reactions}
+総
+
+[2023/05/13 8:39] kingswit.
+love this idea
+
+
+[2023/05/13 9:52] thefloralhurrikale
+A boss that doesn't call in reinforcement, as much as reinforcements make things interesting, I still want a few bosses that do a "1v1 duel" style fight.
+
+
+[2023/05/25 21:34] project_u
+I have finally (re)translated all the stuff in prologue in Japanese by myself. As I said before, I believe it needs some better translation as some sentences in game doesn't make much sense.
+
+
+[2023/05/25 23:35] double_dot
+Can it be possible to fetch tiles and execute the pile using the keyboard?
+
+
+[2023/05/25 23:36] project_u
+I was also wondering that
+
+
+[2023/05/26 17:39] double_dot
+Is it possible to have the skulls cap to 10K?
+
+{Reactions}
+逐 (4)
+
+[2023/05/28 22:14] project_u
+Some sort of enemy encyclopedia so we can check them at camp
+
+
+[2023/06/06 22:56] dragon_of_celts
+A Dodge/Block tile might be good, which cannot be used in the same queue as any attack/damaging tile. Only dodges/blocks weapon tiles (not Charges and the like) -- or at least won't do it if there is no free cell on the other side for Chargers to go to...?
+AKA, an opportunity to escape an arrow (or the like) from across the screen. 
+If forbidding attack tiles in the same queue is not balancing enough, maybe it could have some other undesired side effect, such as exhausting a random other unqueued tile?
+
+Or, failing that, perhaps that could be another player character's ability: the Sohei (warrior monk). 
+Starting weapons: Knockback Punch, Bo (Sohei actually were armed with naginata, but these fit the more common idea of a warrior monk)
+Alternate weapons: Tetsubo, Charge (?)
+
+
+[2023/06/08 3:34] .shmiddty
+Started a thread.
+
+
+[2023/06/09 2:23] samuquito10
+like the shogun
+
+
+[2023/06/14 20:33] project_u
+Throwable poison/ice tile
+
+{Reactions}
+総 (2)
+
+[2023/06/17 20:45] pastcarrot5941
+and throwable lightling tile
+
+
+[2023/06/18 15:23] dragon_of_celts
+As an attack tile or a new character's special ability, what do you think about: 
+Tidal Wave -- starts at 0 damage, 5 cool down
+Pushes enemies in range on either side of caster 1 space further away, also taking collision damage if forced into another entity
+Distance effect travels increases with cool down
+
+For extra tricksy-ness, lightning damage could be doubled on the same turn (water/electric interaction)
+
+{Reactions}
+総
+
+[2023/06/18 22:40] eggyolk2
+A Puzzle mode where you're put into a situation with a specific tileset and have to kill all enemies in less than N turns or something.
+
+{Reactions}
+総
+
+[2023/06/18 22:51] double_dot
+feels like chess
+
+
+[2023/06/19 0:57] pastcarrot5941
+a random tile - where it will select a random tile from the tiles that you have and copy it's ability and damage and fetures
+
+
+[2023/06/19 1:01] double_dot
+more like a copycat tile
+
+
+[2023/06/19 1:06] eggyolk2
+Yup, exactly like chess puzzles!
+
+
+[2023/06/19 2:10] parchmentengineer
+There's a few other roguelike games that have had similar puzzle modes, most notably Dicey Dungeons, and I've really enjoyed all of them. I'd love to eventually see a chess-like puzzle mode here
+
+
+[2023/06/19 2:13] pastcarrot5941
+no but like it's random every turn and you can't choose it
+
+
+[2023/06/19 2:53] roboatino
+Yeah, it's an interesting idea. It's definitely something for a later stage of development, but I'll keep this in mind
+
+
+[2023/06/19 5:43] double_dot
+A doppelganger tile that create a copy of your hero which copy any move you do.
+
+
+[2023/06/19 6:29] project_u
+Or maybe an enemy who does that
+
+
+[2023/06/19 14:24] dragon_of_celts
+Subterfuge: free action (red) tile
+Delays next wave's arrival by 1 turn
+
+
+[2023/06/19 18:06] eggyolk2
+Having tiles that help you summon minions in general would be a wonderful idea! Though I think it might be painful to code since it requires and AI change.
+
+
+[2023/06/20 5:58] koolcatthemartian
+What if there was a speedrun character where you are forced to make an action at least every like 4-5 seconds. Otherwise it will default to a wait move or use whatever is in your queue. There special ability could be like being able to wrap around the board at the edges or something.
+
+
+[2023/06/20 12:53] double_dot
+Well if you're not a speedrunner you won't enjoy it and if you're a speedrunner it won't matter
+
+
+[2023/06/20 14:01] koolcatthemartian
+You're right, maybe a speedrun encourage character would be better like a berserker who get likes a damage boost for a few turns after killing an enemy (which could show up on the ability bar but would actually drain instead of go up) . Encouraging players to do stuff in less turns and therefore go faster, but at the same time not being forced and you can still think as long as you want between turns
+
+
+[2023/06/20 14:04] Deleted User
+a simpler idea would be to have a speedrun setting available to any character. for real speedruns the time should be like 2 seconds
+
+
+[2023/06/20 14:31] double_dot
+i do no believe there is a need for adding such content for speedrunners, all speedrunners ask usually is good quality of life and less RNG
+
+
+[2023/06/21 15:34] dragon_of_celts
+Either as a general ability for all characters, or an intrinsic ability for a new character:
+Double-clicking on a tile in the attack queue will "lock" it, preventing it from activating when the attack is commenced. The tile will unlock at that time, ready and queued for the next attack.
+(Not useful for free tiles, but potentially useful for tiles that take a turn to put in the queue)
+
+
+[2023/06/21 17:32] yukiharu.
+For the full game, we should be able to set hotkeys for the tiles, e.g. either bind X key to X tile, or X key to Position in tile list, could have both so players who prefer one over the other can use whichever
+
+
+[2023/06/22 9:22] hisc0re07
+i have an idea for a tile- something like a warhammer. it would do 3 to the tile one away from the player, and would have 4 cooldown
+
+
+[2023/06/22 10:55] kefuneo
+Yukki and I were reviewing the gif frame by frame and had an idea of how the crossbow worked, which we later proved false. Our concept was a tile where you can use it at no cooldown for 4 damage, or at 2 cooldown left for 2 damage, so that when you let it cool down it increases its damage by one when used.
+
+
+[2023/06/22 10:59] thefloralhurrikale
+This already exists in a way I guess
+
+
+[2023/06/22 15:05] dragon_of_celts
+Blade of Patience increases damage by 1 for every turn that it is in your attack queue, starts with a 6-turn cool down. 
+There are some similarities in that both would build damage over time, but in different ways and with different limits.
+
+
+[2023/06/22 18:11] dragon_of_celts
+Weather 
+Visual enhancements to the level would be cool
+Maybe also with some effects? 
+Rain: All attacks push target back 1 space. Increased lightning damage, jump range, and/or spread.
+Mist: Lower visibility (depending on mist density for that level) for ranged attacks or other ranged targeting (i.e., long-range targeting may not be available when past specific distances).
+Snow: Cool down duration of all tiles is increased. Tiles unused over many turns will turn blue, and require an extra turn after placing them in the attack queue before they can be used...? Increased Freeze duration.
+Sakurafubuki: Visual effect only... or maybe cool downs are lowered?
+
+...Ha. Just noticed that there *is* rain on the last area already...
+
+{Reactions}
+総 (3)
+
+[2023/06/28 6:10] Deleted User
+let us return to the shop instead of locking us out when we press 'go'
+
+{Reactions}
+漕 (5)
+
+[2023/06/28 6:19] truetitan14
+Windowed mode. That's really the only issue I have with the game currently, lack of a fullscreen windowed mode.
+
+
+[2023/06/28 23:27] Deleted User
+show numbers as well as pips! maybe only in info mode. i find myself counting them sometimes.
+
+
+[2023/06/29 0:06] project_u
+quite a lot of users are asking how Dynamic boost works, maybe an easier description I guess?
+
+
+[2023/06/29 0:34] roboatino
+yeah, I agree. It's indeed a bit of a confusing description.
+
+
+[2023/06/29 0:50] Deleted User
+have an option for the scroll wheel to always move in the same direction. i couldn't figure out why i kept moving wrong until i realized the direction you're facing matters. the keyboard and mouse move differently
+
+
+[2023/06/29 5:19] mrstallion
+It would be cool if the plus and minus cooldown upgrades highlighted the cooldown difference (like turning red or disappearing when it's reduced and showing the additional ones if more get added) on this screen
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1123709312594878494/image.png?ex=6a16a919&is=6a155799&hm=00fbf4aeaeb77a4e2ef6e997e764ff113edf8904c75dbe9ffc526d63896eee08&
+
+{Reactions}
+笘晢ｸ・(4)
+
+[2023/06/29 11:24] nick16characters
+it'd be nice if enemies with passive abilities had an icon that reminds you they have passive abilities
+
+{Reactions}
+総 (2)
+
+[2023/06/29 16:05] Deleted User
+mark the center tile to make it easier/instant to see where teleport to center goes
+
+
+[2023/06/29 16:41] project_u
+?
+
+
+[2023/06/29 20:12] nick16characters
+yeah, this too. It's easy to check but not having to count the tile would be nice
+
+
+[2023/06/30 7:28] jaceg
+I have difficulty counting to 7 sometimes, or is the largest map 9?
+
+
+[2023/06/30 7:36] kingofcharge
+The largest is nine. That窶冱 how killing something from 8 tiles away is even possible
+
+
+[2023/06/30 9:25] astronomical9440
+Started a thread.
+
+
+[2023/06/30 10:00] jaceg
+is it realistic if the map was still cancelable while in a shop for as long as you have not yet made a coice. Quite a small quality of life, however it can really save runs sometimes
+
+{Reactions}
+総
+
+[2023/06/30 12:55] miyucomics
+I have an idea for a tile that instantly makes an opponent carry out their queue of actions even if they are not finished making it. Perhaps it can be called Nerve Strike or something. It could be used well with Bo but I think it should have a reach like a spear to prevent it from being useless on its own.
+
+
+[2023/06/30 13:00] project_u
+Maybe a perk, which you can see what tile the enemy will add in the next turn
+
+{Reactions}
+笘晢ｸ・
+
+[2023/06/30 17:41] roboatino
+Could work as a free-play (red) tile ､・I'll think about it
+
+
+[2023/06/30 18:38] kingofcharge
+The second kunai shot onwards could happen a bit faster
+
+{Reactions}
+総 (2)
+
+[2023/07/01 0:06] dragon_of_celts
+Maybe a level where there is an effective turn limit, and afterward, the edges of the board start disappearing (the ground is crumbling away or something)? 
+The turn "timer" would probably have to be fairly generous to avoid getting screwed by unfavourable RNG or suboptimal builds for that level, though... So, in order for it to work (i.e., be "noticeable" while still not running afoul of the aforementioned issue), each time a board tile disappears, there would need to be "time" (in turns) before the next one is subject to removal.
+
+
+[2023/07/01 0:33] pastcarrot5941
+but like the hot spring level have only 5 board
+
+
+[2023/07/01 2:21] gardnerdiamond
+a day 5 that's like the alpha hard difficulty with extra damage from enemies
+
+
+[2023/07/01 4:25] dragon_of_celts
+If that was in response to my suggestion: Well, I said *a* level (as in a new level, not an existing one), not *all* levels. It would start out with a large board and get smaller after a set number of turns. 
+Spaces would indicate that they will disappear (more than one turn before. Maybe change colour/crack, then shake/flash, then disappear).
+The bigger issue is how to handle getting trapped on a disappearing space: Is it insta-death? I believe it would have to be (or potentially, anyway. You could automatically move the character inward, but that space may be blocked). 
+...Actually, I think something like this might have been suggested already, now that I think about it...
+
+
+[2023/07/01 4:34] keaton__mask
+Some kind of free-play mode where you don窶冲 earn skulls or achievements but can either pick two tiles to start with or start with two (semi-) random tiles (controlled such that you don窶冲 end up with no source of damage)
+
+
+[2023/07/01 4:36] double_dot
+well someone is making a mod for that
+
+
+[2023/07/01 4:36] jaceg
+RNG be like: have a quick toss and shuriken, take it or leave it
+
+{Reactions}
+curse (3)
+
+[2023/07/01 4:58] kenoboi
+it's probably been suggested but have the boss health bar include the little pips that your character and all other enemies have
+
+
+[2023/07/01 16:20] eggyolk2
+More risk reward. Perhaps special quests you get when starting a battle, completing them gives you extra rewards ranging from consumables to upgrades/tiles?
+
+{Reactions}
+笘晢ｸ・(3)
+
+[2023/07/01 17:21] jaceg
+Would be quite the risk of snoballing, if you get a few rewards future more difficult rewards are easyer to obtain.
+Does sound nice.
+Closest we have is the pay life for rerolls/coin options, however with the shop selling healing, its quite trivial
+
+
+[2023/07/01 18:35] pastcarrot5941
+A curse tile that make enemy losses attack?
+
+{Reactions}
+笘晢ｸ・
+
+[2023/07/02 8:36] punpunisnofunfun
+A replay of the whole battle without ui and no time between each attack, turnaround, move, etc at the very end would be cool
+something like My Friend Pedro, Yomi Hustle, or Katana Zero where you get to see the full battle without any pauses
+
+{Reactions}
+総 (7)
+
+[2023/07/02 10:09] kenoboi
+Maybe you can sell skulls? Gives an infinite use for them and if you窶决e like 窶徙h yeah, this is the run窶・you can spend all your accumulated skulls as an investment 
+
+(To avoid someone from  grinding loads of skulls and then getting like 12938393 coins, maybe there窶冱 a limit on how many skulls you can sell, either per store or per run)
+
+
+[2023/07/02 16:16] jaceg
+Alternatively, the rate of selling could get worse and worse the more you do it in 1 run
+
+
+[2023/07/02 19:13] kenoboi
+yeah thats another good feature
+
+
+[2023/07/03 3:41] asuss2622
+i think you can add tiles that are like trap cards (a parry, a deflect for ranged attacks, etc). Maybe add an attack that does more damage based on the number of enemies on the board.  In general probably room for magic too
+
+
+[2023/07/03 4:39] jaceg
+Magic already exists I think, in lightning, and more subtily in the teleport moves.
+I do think a parry/deflect can have a place, however it should only do 1 attack, and either ranged or melee I think. Maybe unable to stop some others, like smoke bomb.
+Imagine a 0 cooldown quck play universal counter, free win.
+
+While I do think one or 2 could be interesting gimmicks as the tile pool expands, reactive sit and wait tactics can slow down the game if too prevelant
+
+
+[2023/07/03 5:35] kenoboi
+Also no way fellow yomi hustler
+
+
+[2023/07/03 6:35] kingswit.
+I have no idea if this would be difficult to implement, but multiple save files would be wonderful, specifically with speedrunning in mind, being able to run any kind of 100% category without erasing my main save data would be lovely
+
+{Reactions}
+総 (2)
+
+[2023/07/03 7:06] mossybackedsnail
+A quality of life improvement that isn't really related to gameplay that would be nice is to add more resolution options. or even a custom resolution option if possible. right now its pretty limited to just 16:9 and doesn't work on monitors with different aspect ratios
+
+
+[2023/07/03 7:10] double_dot
+i'm thinking to have a config file reseter for speedrun uses
+in order to guarantee some tiles for example
+
+
+[2023/07/03 8:13] jaceg
+are runs seeded or at the moment rng?
+If seeded, an optional input seed (maybe as a cheat or mod) could both be a different catagory for speedruning, and be fun in a look at this cool seed I found that has x and y
+
+
+[2023/07/03 8:32] asuss2622
+Could be one of the potions then? To deflect a projectile or parry an attack?
+
+
+[2023/07/03 8:37] kingofcharge
+One of them is already gain a shield
+
+
+[2023/07/03 9:40] parchmentengineer
+An idea for a new Day: "All boss fights are more difficult." This would change up the bosses, adding new attacks or traits to each of them to make the fights more difficult.
+
+```Daisuke the Dasher
+  - Gains the Quick-Witted trait
+
+Iwao the Impaler
+  - If a Spear is queued and you are at range 3+, adds a Shadow Kama to the queue before advancing
+  - Uses the improved Summon tile, summoning two enemies at once
+
+The Twins
+  - Uses the Tanegashima alongside their normal attack tiles
+  - Uses Origin of Symmetry + Smoke Bomb alonside their normal recovery moves
+  - If you have both Twins on one side, the furthest twin will contiune to add more attacks to their attack queue while the closest twin attempts a recovery move.
+
+The Statue
+  - The attacking Statue's attack will always include a ranged attack as the first tile and two melee attacks as the second and third tiles
+  - The summoning Statue will summon harder enemies, such as grapplers
+
+Kowa the Coward
+  - Gains the Quick-Witted trait
+  - If at one of the outer edges of the board, can use a Kunai + Mirror combo
+
+Hideyoshi the Cunning
+  - Uses the following new attacks alongside his regular ones:
+  - Bomb + Mirror + War Fan
+  - Shadow Dash + Backwards Charge + Back Strike
+
+Nobunaga the Wicked
+  - Starts with only a single illuminated space instead of three
+  - Instead of performing a normal attack, if the player is not cursed, has a chance to play Curse
+
+The Shogun
+  - Statues being destroyed at the start of Phase 2 no longer drop shield potions   
+  - Statues during Phase 1 can also apply Curse to the player
+  - Can perform Backwards Charge + Blazing Barrage in Phase 2
+```
+
+{Reactions}
+笘晢ｸ・(2)
+
+[2023/07/03 9:43] asuss2622
+You could make the shield more rare
+
+
+[2023/07/03 10:34] miyucomics
+When you try to grapple an immovable enemy, you are pulled towards them rather than the tile just failing. That way, the grappling hook isn't completely useless against them since you can close the distance and attack. It does overlap a little with charge though
+
+
+[2023/07/03 10:54] kenoboi
+You should be able to dodge/outlast the curse effect, otherwise I like it
+
+
+[2023/07/03 10:55] parchmentengineer
+Yeah. I'm thinking that in the hands of an enemy the Curse attack would work just like a standard ranged attack. If you're the first target in front it'll curse you, otherwise it'll curse whatever you've tricked into getting between you and it.
+
+Although I did just realize that, since I'm giving it to the statues during Shogun Phase 1, they'll just cast it whenever the opportunity arises like statues do and might wind up hitting the Shogun, potentially making that phase easier. At least Nobunaga would have the sense to only use it if he has a clear shot to the player
+
+
+[2023/07/03 11:55] project_u
+set seed run is interesting...
+
+
+[2023/07/03 18:15] noreno
+How about a boomerang attack or something similar that you throw until it hits an enemy or gets to the edge of the screen, then it stops and either stands in or between the ground spaces and acts as a trap , and did next turn it comes back to you hitting enemies on the way
+
+
+[2023/07/04 1:23] jaceg
+The "Shield retention"(shields presist accorss fights) is kind of akward with most ways to gain shield.
+As far as I know there are 3 ways to gain shield:
+- kami brew (potion)
+- fortress (gain at start of battle -2hp)
+-reactive shield (gain shield on damage)
+Kami brew being an instant to drink, and having the arbility to be safely stored in a potion slot until you are about to take damage means that making an always online shield with Shield retention basically functions like an extra potions slot that only works for Kami brew. Since Kami brew is the most consistently available way to recieve shield, Shield retention's purpose is kind of unneccicary, as its function regarding kami brew is already filled by the extra potion slot upgrade.
+Fortess straight up invalidates shield retention, as having it makes shield retention do nothing.
+Reactive shield is the most synergistic with Shield retention, some battles you might only take one hit, making your shield go to waste. This is a legitimately useful combo, however takes a lot of coinage and 2 perks from the same specific shop.
+
+My Idea:
+Make it so Shield retention, on top of its current effect, allows for 2 layers of shield, needing to be individually filled and depleted. this means that for defensive purposes, it becomes better than a potion slot for storing shield. While still not being an unconditional upside.
+It also gains a synergy with Fortress, now being able to, if you manage to go hitless for multiple stages, stack layers of shielding for "free".
+Finally it does not really gain extra synergy with Reactive shielding, however it already had good synergy with it, so it should be fine.
+
+This change would increase power, however I do think that in its current state it is quite weak
+Additionally, it could be in incremental powerup, allowing for additional layers every time it is picked up, however that could be too much.
+
+
+[2023/07/04 3:02] double_dot
+Also in a way reactive shield alone nearly doubles your HP pool, the math isn't that straightforward but considering it as a flat 1.5 boost to the total HP is quite reasonnable and it goes up to 2x with shield retention with the shop damage tricks.
+The only way that Healthy beat this is when your base HP is like 2 or less.
+
+
+[2023/07/04 3:57] jaceg
+yep, reactive shield  basically gives you a free hit for every hit you take*
+*the exception being that if you take an odd amount of hits, it does not produce as much value, if you take one hit a stage for instance, it does nothing
+
+
+[2023/07/04 6:38] nightchanterelle
+There should totally be a projectile that goes behind you
+
+
+[2023/07/04 7:20] nightchanterelle
+Complete the "turn your back to the enemy" build
+
+
+[2023/07/04 13:19] alleycvt
+Absolutely loving the game. Supporting my streamer friend, and a Streamer mode plugin would be sick! To be able to vote for cards or moves!
+
+{Reactions}
+笘晢ｸ・
+
+[2023/07/04 18:45] jaceg
+there was this absoluely busted time stop potion in older builds, maybe a weaker version that only gives 1 free action (hastium/adrenaline). It allows for all those scenerio's where you are just one turn short
+
+
+[2023/07/04 18:53] another_ralsei
+Doesn't the ice potion work like that, but it just doesn't work on the last few bosses
+
+
+[2023/07/04 20:10] project_u
+Mass ice was once named as freeze time
+
+
+[2023/07/04 20:44] seeminglyunrelated
+Idea for an enemy / tile / enchant
+Leech enemy / tile / enchant : the enemy steals your life to replenish it's own (or you do that to them, in the case of a tile.
+
+
+[2023/07/05 7:05] willyjuank
+I would love an attack that disables attacks. I think it's just a simple mechanic that could be added to current attacks like ice and poison. Maybe call it crippling it or something. 
+
+Would be also cool to have a weapon like a javelin that you have to retrieve once you've thrown it.
+
+{Reactions}
+総 (2)
+
+[2023/07/05 7:16] double_dot
+The thing is it has to be a pre-modern japanese weapon, i don't know if japanese had javelins or any kind of throwing spear. Maybe some variation of Yari? but to cite a thing i read on the internet `Yari are Japanese spears (lances) which were NOT generally intended to be thrown` http://japaneseswordindex.com/polearms.htm
+
+{Embed}
+http://japaneseswordindex.com/polearms.htm
+JAPANESE POLEARMS
+Japanese sword polearms information including naginata and yari.
+Links to sites about naginata and yari.
+
+{Reactions}
+舒 (2)
+
+[2023/07/05 14:59] hazelnut___
+Rewind potion. Allows to go back 1 turn.
+
+{Reactions}
+総 (2)
+
+[2023/07/06 20:20] facided
+Shove
+cant deal damage
+0 cooldown
+pushes the enemy back by 1 square
+free-play
+
+
+[2023/07/06 21:46] project_u
+A little prize for players by having alternative lookalike of characters
+
+
+[2023/07/06 21:48] nathan_ruiz
+Could be cool to spend skulls to unlock alt skins
+
+{Reactions}
+総 (2)
+
+[2023/07/07 2:27] astronomical9440
+What if there was a boss that was able stand on top of other units. Like, they would be able to stand on the same tile as regular enemies, and you wouldn't be able to hit the boss until you either killed or moved the enemy they were sharing a tile with. Perhaps the boss would first play some *phantom tile* to start phasing the other enemies and maybe the player as well.
+
+{Reactions}
+総
+
+[2023/07/07 4:29] jaceg
+Are traps meant to stack? If so, I would like some way to know how many traps are stacked on one another, maybe it starts off with only a few teeth, and as more stack together, more teeth appear.
+
+
+[2023/07/07 5:25] miyucomics
+The turn before enemies spawn, have a little shadow of that enemy under the tile they will appear on. The same could also work for when the summoning bell is being charged. It makes the game slightly more fair so you aren't suddenly surrounded by spearmen.
+
+
+[2023/07/07 7:37] nightchanterelle
+One thing that isn't certain is what should happen if something steps onto the spawning tile
+
+
+[2023/07/07 7:46] double_dot
+i agree being trapped isn't fun but predicting one turn before would be non-sense since if any char move.
+Howerver i would add something, when finishing a wave early you aren't rewarded for it and quite the opposite because you start with no cooldown which encourage to play with the last foes before finishing it just to win some cooldown
+
+{Reactions}
+笘晢ｸ・(2)
+
+[2023/07/07 10:06] dragon_of_celts
+It makes the low time and turn achievements more challenging (I say this as someone who *can't stand* speedrunning turn-based games).
+Still, there is potential for another store upgrade and/or character skill -- something like this, maybe:
+Whenever a wave is finished early, the closest spawned enemies in the next wave are guaranteed to be facing away from you.
+
+
+[2023/07/07 11:03] nightchanterelle
+I can't stand speedrunning strategy games either, though low turn I don't think would be impeded, nor does it come particularly difficult for me.
+
+But, a skill like that would not help enough imo, since the real threat is the previous enemies that are already winding up their attacks anyways. The new ones just bodyblock you.
+
+
+[2023/07/07 11:07] dragon_of_celts
+That was in reference to doubledot saying that there isn't an upside to completing waves early. If you've completed a wave early, there aren't previous enemies winding up attacks.
+
+
+[2023/07/07 17:14] jaceg
+even more so, since combo's are promoted, it is best to wait out the next wave even though one remains to get a combo
+
+
+[2023/07/07 17:17] bmumac
+It could be called 窶彜tealth窶・and would fit nicely in the Warring skill tree.
+
+I agree there should be some incentive to completing a wave early. Unless you窶决e going for minimum turns, holding one enemy on board while stalling and prepping more attacks seems like the best strategy.
+
+漕Agreed. Combos tilt the incentive more so.
+
+
+[2023/07/08 5:54] nightchanterelle
+Is a mobile version planned? I'd totally play that
+
+
+[2023/07/08 7:00] nightchanterelle
+Also a Day that removes 1 or more consumable slots, coming from someone who pretty much never takes Big Pockets
+
+
+[2023/07/08 8:54] theonechikon
+please
+
+
+[2023/07/08 10:40] double_dot
+Mirko said he was totally thinking about making an Android version.
+I'll extrapolate further
+It's not as simple to just write a port to android, namely inputs since I guess unity is doing the rest automatically.
+What I'm thinking is the real bottleneck is steam doesn't do mobile, so it's up to the editor to do extra work to port it to a new market place. But I don't really know about this.
+
+
+[2023/07/08 15:02] another_ralsei
+An enchantment that works like Free-Play, but instead doesn't add to the queue count?
+
+
+[2023/07/08 15:03] facided
+instant play maybe?
+
+
+[2023/07/08 16:02] square_
+I had a similar idea last year called Zero
+
+
+[2023/07/09 13:09] dragon_of_celts
+Ideas for day difficulty increases (conventional):
+Day 5: Character's initial ability cool down is increased
+Day 6: Next wave starts when the number of enemies remaining on screen is 1 or less (if before turn-based wave call) <= there's got to be abetter way to write that...
+Day 7: Using consumables takes a turn; Shogun's final form gains shield after taking damage
+
+Less conventional ones:
+Day 5: Ashigaru and Twin Tachi enemies start out shielded
+Day 6: Enemies are temporarily enraged after taking damage (all attacks do 1 more damage and they become Quick-Witted; lasts until they use their attack queue)
+Day 7: All enemies are vampiric (heal 1 health point when successfully doing any amount of damage to you or another enemy)
+
+
+[2023/07/09 13:16] nightchanterelle
+Still think there should be one that does minus potion slots
+
+
+[2023/07/09 20:29] project_u
+Shield-Piercing: ignores shield and damage the target directly.
+
+
+[2023/07/09 22:20] double_dot
+Not really worth imo
+
+
+[2023/07/10 0:54] pastcarrot5941
+maybe a character that can only use 1  tile but the tile can have extra slot and enchantment
+
+
+[2023/07/10 0:56] nightchanterelle
+Call it the Sensei
+
+
+[2023/07/10 1:07] facided
+having 1 tile is realy limiting so i think his ability could be turning around without wasting a turn
+
+
+[2023/07/10 23:17] nathan_ruiz
+I was thinking about that today, would be really fun (and easy to make content for)
+
+
+[2023/07/11 5:30] double_dot
+Not a high priority but adding an option to show the milliseconds for speedrunning.
+
+
+[2023/07/11 6:04] questingnight
+^^This would allow us to detect cheating easier
+
+
+[2023/07/11 6:48] miyucomics
+An enchantment that makes your weapon activate after the enemies. Instead of increasing cooldowns like normal enchantments, this one reduces cooldown. Reducing cooldown alone is good, but it also provides situational opportunities, like attacking an enemy that has reeled you in or dashed towards you, or when an enemy kills another and you finish off the remaining one.
+
+
+[2023/07/11 6:58] theonechikon
+please do
+
+
+[2023/07/11 7:34] nightchanterelle
+Would it force itself to the back of the queue?
+
+
+[2023/07/11 7:40] miyucomics
+I think that would work
+
+
+[2023/07/11 8:19] miyucomics
+A backhand tile that makes the next tile in the queue hit backwards rather than forwards. It's like a non-committal Turn, but can still be used great with Spear and other attacks
+
+
+[2023/07/11 8:23] theonechikon
+That is nice but organizing the tiles is kind of a pain but another idea is have hot keys so you can slot tiles in to place faster. Ex 1-2-3 keys on your keyboard feel like it might make the game feel smoother especially on touchpad
+
+
+[2023/07/12 0:00] keaton__mask
+The ability to spend skulls on recolors or alternate looks for the player characters (would give something to do with skulls after buying all upgrades, particularly if these were very expensive)
+
+
+[2023/07/12 9:33] duckolium
+sluggish weapons?
+
+
+[2023/07/12 14:19] theonechikon
+Please I have 999 and nothing to do with them
+
+
+[2023/07/12 14:52] baconsizle
+Add a rebirth/prestige mechanic where you have all your stuff reset, but you get like uhhh harder difficulty or some type of challenge run and you get prestige tokens that unlock unique weapons 総
+
+
+[2023/07/12 21:41] dragon_of_celts
+Maybe allow changing of an enchantment on a tile for a skull cost? 
+(e.g., if I have poison on Crossbow, but come across a double-strike shrine, I could use some skulls to change the poison to double-strike)
+
+
+[2023/07/12 23:56] facided
+Trap layer enemy that lays trap
+the traps deal damage and prevents you from moving for 3 turn, however they can be removed by attacking the tile with any melee weapon (that isnt spear)
+
+
+[2023/07/13 0:00] miyucomics
+If that's the case, enemies should have AI to disarm trap tiles too.
+
+{Reactions}
+総
+
+[2023/07/13 1:03] theonechikon
+I don窶冲 think that窶冱 a great idea, I feel like using skulls for upgrades in a run is kind of cheap I think unlocking more tiles,maps, or difficulties would be better
+
+
+[2023/07/13 1:21] dragon_of_celts
+1) It isn't using them for upgrades. You already *have* an upgrade. It is to allow you to change the existing upgrade on a tile.
+2) If skulls are only used to unlock things and not for recurring things, they will eventually be useless.
+
+
+[2023/07/13 1:27] facided
+shogun showdown in 3d when
+
+
+[2023/07/13 4:42] kingswit.
+This kinda just turns skulls into a more case specific, rarer version of gold. I personally hate the idea of being able to use anything like skulls in individual runs. They should stay purely tied to meta progression
+
+
+[2023/07/13 4:56] theonechikon
+Like kings said I think it窶冱 better to use them for meta progression and while true they will eventually lose there use I think it窶冱 better then just making a rarer gold
+
+
+[2023/07/13 5:10] w1tke
+I'm here after a conversation on balance-suggestions channel .  A card that you put on a ground like trap. But it blocks way to cross for the enemies (and you ofc)   A **Bamboo wall** that has 1/2/hp (idk). It has to be destroyed and the enemies just spend their attack action on this.  It would be cool to protect from long distance attacks or dash.
+
+{Reactions}
+笘晢ｸ・
+
+[2023/07/13 6:11] eggyolk2
+That's how just meta=currency is, it in general does not work well if you can spend meta-currency ingame for short-term effects. Since those short-term effects are often outweighed by even the smallest long term effect. So spending skulls for rerolling enchants will not be relavant unless you've already 100% the game(which would only be about 2% of the players that play it)
+
+
+[2023/07/13 7:28] theonechikon
+To the bamboo wall definitely would be nice to have as for the meta currency debate it窶冱 true that for people that 100% the game the skulls would be useful (god knows having nothing to do with them is boring) but I don窶冲 think it窶冱 good to add it as a major currency you could just use coins as the currency
+
+
+[2023/07/13 7:41] dragon_of_celts
+I unlocked everything well before I finished all of the [currently available] days with all of the characters. I have yet to get all the black stamps for speed, so I haven't "100% the game" yet, but even excepting that, I wasn't anywhere near completion when I unlocked everything. The more days and characters are added, the further that divide will become, unless the devs pour a *lot* of work into making tons of unlockable things (or just jacking up the price of the unlocks quite a bit).
+
+
+[2023/07/13 9:37] kingswit.
+imo games like these don窶冲 need a forever use for any kind of meta-progression currency. I think it serves its purpose of easing a player in by slowly adding more content, then should just becomes a fun number that gets bigger. I feel games that often add content to do with meta-currency just for the sake of having stuff to spend it on, not because it improves the game. This makes the game feel like it is prioritizing the # of hours played and not the quality of play. If a game has good replay-ability people will keep playing it. It shouldn窶冲 rely on a bloated progression. I窶囘 much rather a game increase play time through increased difficulty options like those seen in Slay the Spire, Hades, and Inscryption. (For any of those who have played Into the Breach, I love the Unfair mode that the DLC added. It is unreasonably hard, but I had put the game down after becoming consistent at Hard mode, and the added difficulty level was a great reason to return to the game)
+
+{Reactions}
+総 (4)
+
+[2023/07/13 15:17] eggyolk2
+Well yeah, you're in early access. You'd have a LOT more unlocking to do :p
+
+
+[2023/07/13 16:19] theonechikon
+Having 100% everything and having 999 skulls I do really want more stuff to spend it on but using it in my runs would feel cheap since it could mean I could grind to get skulls to use in harder runs then beat the game in what to me feels unfair, skulls are meant to reward you for getting far in runs with stuff to use towards advancing forwards and adding to your arsenal by making them useful in levels it might force new player to make a choice, unlock a tile they want or save to use in a run which is lame. On a speed running sense it also is unfair grinding to 999 skulls would become meta for advantages rather then just begin a byproduct of enjoying the game. As a player when I find a game I love I always want to 100% it for me getting 999 skulls felt good not because I want to use them to get things but because it showed I had nothing more to do because the game had been so fun i could just see the number go up kinda of as a reminder of how much i played making it something your using feels like it would take away the fun. Also not to mention there is already a currency coins that could be used, or just make a new currency skulls are fine how they are
+
+
+[2023/07/13 17:17] roboatino
+Started a thread.
+
+
+[2023/07/13 18:04] seeminglyunrelated
+Leech enchant, anyone? I think with some balancing this would be really cool
+
+
+[2023/07/13 23:39] facided
+Long bow
+ranged weapon that deals devastating damage at a distance, but requires 2 turn before shooting
+
+
+[2023/07/14 5:03] simpleloaf
+I have loved this game through and through since I窶况e seen Olexa play it on YouTube. But the  one idea I have is about the potions. Would it be possible to have a menu after combat that窶冱 just like the upgrade screen where you could get rid of the potions you窶决e not gonna use (not sell just discard) for one that you窶囘 use instead. 
+
+I love how you get them and feel like they窶决e just the right balance of health, damage, support and all that. The one thing I wish tho was, if you窶决e full on potions and you combo kill the last couple groups of enemies and aren窶冲 able to move you can miss out on a shield potion you窶囘 rather have over say the health potion at max HP.
+
+
+[2023/07/14 9:04] kingswit.
+I am pretty sure you do get extra gold tho for potions still laying around so at least there is that
+
+
+[2023/07/14 10:33] double_dot
+You get one piece of gold per pot on ground last time I checked
+
+
+[2023/07/15 2:10] pastcarrot5941
+gun but it shoot backward
+
+
+[2023/07/15 22:00] mrstallion
+I'd love to be able to see the upgrades that are on a tile
+
+
+[2023/07/15 23:52] Deleted User
+i'd like to see the character's ability as a tile, especially for new characters when i forget what exactly it does
+
+
+[2023/07/16 0:40] facided
+ranged weapon exclusive enchantment: spectral
+your projectiles goes through the first target harmlessly and deals damage to the second one
+
+
+[2023/07/16 10:42] miyucomics
+I think that enchantment would invalidate a lot of the game. Often, you have a weak enemy like the basic sword one in front of a harder enemy like a grappler. A large part of the fun is preparing your tiles to kill both. Being able to bypass that easily entirely removes a large part of the game. Yes there's Lightning, Shadow Kama, and Earth Impale, but those are situational and fail if you can't get within range or if they aren't the last enemy.
+
+
+[2023/07/16 16:28] peterpeladon
+I'd like to see a mimicry tile, that performs whatever attack the first enemy in front of you has queued.
+
+Idea 2: a boss that uses special traps that can hurt you and other enemies.
+
+Idea 3: This'd be harder to design, but a day that gives bosses new movesets/combos that make them harder to play around.
+
+
+[2023/07/16 17:07] peterpeladon
+Boss extra moves ideas:
+You could give The Twins a damaging Charge instead of Dash when they're putting you back in, making it harder not to play between them.
+Daisuke the Dasher could have an alternate Shadow Dash->Swirl combo, or maybe an extra Backward Charge after his original combo. 
+As for the Impaler, I wonder if he could be quick-witted? It'd sure make him scarier, I'm just not sure whether it's too much.
+The Shogun could use Kunai instead of Shurikens in Phase 2, and in Phase 1 his statues could summon worse enemies, like the grappler, shadow warrior, and quick-witted ninja.
+Kona the Coward could use a Shadow Kama to try and hit you over enemies.
+As for the Statue, I think simply giving them Tanegashima as an option for their first tile would make them way scarier.
+Hideyoshi's Mirror, Dash and Origin of Symmetry tiles could be a Free Play version, let him dart around the field faster. I'd also love to see him have a combo with a Bo; it just suits him. Like maybe Grappling Hook->Bo->Knockback Punch? That'd be funny.
+Nobunaga could open the fight with a Curse tile and try to curse you, to make her super deadly.
+
+
+[2023/07/17 8:15] peterpeladon
+I can see this being done as a (Leech, -2 Damage, +3 Cooldown) Enchantment.
+
+
+[2023/07/17 17:02] project_u
+Petition to add <13mins runs for extreme swift killer rank
+
+
+[2023/07/18 17:37] averagefoxenthusiast
+Maybe skulls should only be rewarded the first time you defeat a certain boss on a certain day, so that playing the higher ascensions is more closely tied to the meta progression and you never have too many excess skulls
+
+{Reactions}
+､・
+
+[2023/07/19 3:11] kingswit.
+huh that窶冱 a really interesting idea
+
+
+[2023/07/19 3:27] miyucomics
+Only the first time feels restrictive. What about you gain the normal amount the first time you defeat a boss on a new day, but replaying still gives you a few skulls
+
+
+[2023/07/19 5:11] miyucomics
+Manrikigusari - it's a tile that is similar to a grappling rope. Rather than pull a target in though, it attacks with the next tile in the queue. For example, if you put a Sword after it, it would stretch out and hit with the Sword.
+
+
+[2023/07/19 6:25] pastcarrot5941
+So it窶冱 like a rope
+
+
+[2023/07/19 6:28] miyucomics

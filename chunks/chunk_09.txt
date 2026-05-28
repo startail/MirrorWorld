@@ -1,0 +1,2000 @@
+﻿
+
+[2024/05/23 0:40] apokalypse6
+https://cdn.discordapp.com/attachments/965176630588882954/1241412497492152403/image.png?ex=664f60fb&is=664e0f7b&hm=0bbe930defc53289427baee8ce57ac75e29a41d80e3ebd06d6c57a650bd755c1& It adds another island
+
+{Embed}
+https://cdn.discordapp.com/attachments/965176630588882954/1241412497492152403/image.png?ex=664f60fb&is=664e0f7b&hm=0bbe930defc53289427baee8ce57ac75e29a41d80e3ebd06d6c57a650bd755c1&
+https://media.discordapp.net/attachments/965176630588882954/1241412497492152403/image.png?ex=6a16653b&is=6a1513bb&hm=0cfcf6ec0e53141588085169e766896a30d20af65cfb5328119259b423b3aca5&
+
+
+[2024/05/23 0:40] apokalypse6
+Shogun island becomes stage 8
+
+
+[2024/05/23 0:40] da_dogbar
+oh wait
+
+
+[2024/05/23 0:40] da_dogbar
+yeah i forgor
+
+
+[2024/05/23 0:40] da_dogbar
+WAIT
+
+
+[2024/05/23 0:41] da_dogbar
+can you kill nobunaga and then go to senhime's place?
+
+
+[2024/05/23 0:41] apokalypse6
+Yes
+
+
+[2024/05/23 0:44] da_dogbar
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1242865779498811534/image.png?ex=6a1668b5&is=6a151735&hm=a0c34801b418ddf40700732985efd8652102acbef5867b37e63510f67f849767&
+
+
+[2024/05/23 0:45] apokalypse6
+Ieyasu is her grandfather
+
+
+[2024/05/23 0:45] apokalypse6
+Irl
+
+
+[2024/05/23 0:46] da_dogbar
+would be cool if she got a higher chance to be corrupted if you did kill him
+
+
+[2024/05/23 0:46] apokalypse6
+Uhh after ieyasu you cant go to her
+
+
+[2024/05/23 0:46] thefloralhurrikale
+Corruption is just percentages
+
+
+[2024/05/23 0:46] thefloralhurrikale
+Anyways
+
+
+[2024/05/23 0:46] da_dogbar
+oh
+
+
+[2024/05/23 0:47] da_dogbar
+oh wait
+
+
+[2024/05/23 0:47] da_dogbar
+nvm im dumb
+
+
+[2024/05/23 0:47] da_dogbar
+ive mistaken nobunaga for ieyasu
+
+
+[2024/05/23 0:52] thefloralhurrikale
+How did you do it?
+
+
+[2024/05/23 0:52] thefloralhurrikale
+Kinda want to start making my own
+
+
+[2024/05/23 1:30] apokalypse6
+me?
+
+
+[2024/05/23 1:30] apokalypse6
+Well it kinda involves a lot of work if you wanna add a whole region
+
+
+[2024/05/23 1:30] apokalypse6
+But ask rot in #笏modding笞・, he explained it to me, so he sure will explain it to you
+
+
+[2024/05/23 1:56] greenbanks4
+Hello, 
+
+After just over 80 hours in the game i have thought about the following concepts that could add to the experience:
+
+窶｢ Crit chance as a mechanic 
+
+窶｢ "mastery" as a stat (x% for attack to refresh its cooldown after use)
+
+窶｢  "luck" as a stat (x% for attack to trigger twice)
+
+窶｢ Relic that gives you one free action every (x)turn
+
+窶｢ Relic that gives every (x)turn freeze
+
+窶｢ Relic that gives every (x)turn shockwave
+
+窶｢ Relic that gives every (x)turn poison
+
+窶｢ Relic that gives every (x)turn double strike
+
+窶｢ Relic that deals 1 damage to all enemies every (x)turn
+
+These are just a few ideas and are by no means original, they mostly come from rougelites like StS and Cobalt Core
+
+
+[2024/05/23 1:57] apokalypse6
+You arent gonna believe this, but-
+
+
+[2024/05/23 1:58] apokalypse6
+The relic thing has a skill thats similar to it
+
+
+[2024/05/23 1:58] apokalypse6
+Im not gonna say what it does tho
+
+
+[2024/05/23 1:59] greenbanks4
+Im not sure im following
+
+
+[2024/05/23 1:59] apokalypse6
+There is a skill, which does _something_ per odd turn
+
+
+[2024/05/23 2:01] greenbanks4
+I have 29/29 unlocked and cant seem to find what you are refering to
+
+
+[2024/05/23 2:04] apokalypse6
+yeah cuz its not out yet-
+
+
+[2024/05/23 2:06] da_dogbar
+anything thats inside of combat absolutely shouldn't have rng
+
+{Reactions}
+笘晢ｸ・(2)
+
+[2024/05/23 2:06] apokalypse6
+atleast not in a strategy game
+
+
+[2024/05/23 2:06] greenbanks4
+I see your point, but it seems to work in other similar games
+
+
+[2024/05/23 2:09] da_dogbar
+the game is basically all about not getting hit though, relying on rng to get out of a tough situation isn't fun
+
+
+[2024/05/23 2:11] glomzubuk
+Elements inside of combat already have rng, like wave spawn types, location, elite status, etc, and boss move selection.
+I do agree with your point though, i think the game leans more towards a deterministic nature like a puzzle to solve rather than probability management
+
+
+[2024/05/23 2:23] double_dot
+- rng
+please no, crit in alpha was the worse thing and  the rest is too hard to calculate and would feel random which isn't what I like in SS
+
+
+[2024/05/23 2:24] apokalypse6
+Nvm ignore that message
+
+
+[2024/05/23 2:24] apokalypse6
+im dumb
+
+
+[2024/05/23 6:13] da_dogbar
+if this gets added make tetsubo fling corpses thrice as far
+
+
+[2024/05/23 6:22] apokalypse6
+Yay im first place at something for once in my life
+
+
+[2024/05/23 6:23] apokalypse6
+but i gotta say
+
+
+[2024/05/23 6:23] apokalypse6
+You are a very good contender for first place
+
+
+[2024/05/23 6:25] apokalypse6
+did you just call jesus dumb
+
+
+[2024/05/23 6:25] apokalypse6
+lmfao
+
+
+[2024/05/23 6:44] the_talha
+Why is bro speaking in poetry
+
+
+[2024/05/23 7:07] double_dot
+he's having a meltdown, happens
+
+
+[2024/05/23 7:07] double_dot
+usually it last some weeks
+
+
+[2024/05/23 7:08] the_talha
+This is a regular thing
+
+
+[2024/05/23 7:08] the_talha
+?
+
+
+[2024/05/23 7:08] double_dot
+seems so
+
+
+[2024/05/23 7:09] the_talha
+I don't wanna be rude especially since I'm kinda new here but it just seems like attention seeking to me
+
+{Reactions}
+漕 (2)
+
+[2024/05/23 7:09] double_dot
+attention seeking here is the symptom not the issue
+
+
+[2024/05/23 7:10] the_talha
+Fair enough actually
+
+
+[2024/05/23 7:35] Deleted User
+what has this channel been cooking
+
+
+[2024/05/23 7:35] Deleted User
+https://tenor.com/view/xqc-spasm-gif-5728408262638675404
+
+{Embed}
+https://tenor.com/view/xqc-spasm-gif-5728408262638675404
+https://images-ext-1.discordapp.net/external/KnUL580rDxyq1P2RKrq8TORnckCpvzNUHslJRD_X3Dw/https/media.tenor.com/T39k9ub9pcwAAAAe/xqc-spasm.png
+
+{Reactions}
+curse (2)
+
+[2024/05/23 9:19] Deleted User
+has a self buff tile ever been suggested
+
+
+[2024/05/23 9:19] Deleted User
+[thonk](https://cdn.discordapp.com/emojis/570151539604455434.webp?size=48&quality=lossless&name=thonk)
+
+{Embed}
+https://cdn.discordapp.com/emojis/570151539604455434.webp?size=48&quality=lossless&name=thonk
+https://images-ext-1.discordapp.net/external/7wjtlC4DgY-BMjbY2r0CEPR9qu27TtSzW96z3bQfZL4/%3Fsize%3D48%26quality%3Dlossless%26name%3Dthonk/https/cdn.discordapp.com/emojis/570151539604455434.webp
+
+
+[2024/05/23 9:23] Deleted User
+Rare tiles
+Breadseed Poppy (idk)
+5 CD
+1 default dmg
+
+Directly increase adjacent tiles in queue by its dmg. Cannot be upgraded, can appear after a corrupted bossfight
+
+These tiles could have some sort of attack function as well
+Torch - A support tile, versatile for being applicable to enhance other strategies in your loadout
+8 CD
+2 default dmg
+Strike the first enemy behind (chuck a spinning torch into the air that arcs at the first enemy behind you) or just strike the cell directly ahead. Transfer additional damage greater than 1 to upper tile in queue. (When queued with another tile above it, transfer its dmg attribute to the tile above it but leave 1 dmg for itself. Ex, with a spear queued above it, the spear's dmg would be increased by 1 (or more when upgraded) and the torch would only deal 1 dmg)
+
+For intuition, the tile above the torch glows in the queue as the torch's dmg is shown to be 1 whenever this effect is active.
+
+Double strike only strikes twice.
+
+Chamberstick/Shokudai
+3 CD
+1 default dmg
+When queued, reduce the subsequent cooldown of above tile by the dmg value. (Ex when an arrow is queued, the subsequent cooldown will instantly be reduced by 1 (or more when upgraded) when it goes to cooldown after use)
+
+can have the upper tile glow for intuition that the effect is active.
+
+
+[2024/05/23 10:42] averagefoxenthusiast
+Idea to add an "Abridged bamboo grove" modifier to one of the days (maybe day 4), which would remove the first stage of bamboo grove. The remaining stage would provide a new tile, that way you're deprived of one tile upgrade and you get to the interesting part of the game quicker.
+
+{Reactions}
+笘晢ｸ・
+
+[2024/05/24 4:34] seeminglyunrelated
+I love passionfruit
+
+
+[2024/05/24 4:35] seeminglyunrelated
+isn't that the staff of caduceus?
+
+
+[2024/05/24 19:35] apokalypse6
+Okay fun idea, maybe the corrupted shogun could glitch between his alternative designs in his idle animation, like the old one with one eye or the other fountain pen looking design
+
+
+[2024/05/24 22:02] the_talha
+This implies corrupted shogun can travel between time and space
+
+
+[2024/05/24 22:02] the_talha
+Shogun solos every verse
+
+
+[2024/05/25 4:54] .elenwen
+thanks 凾 I'll report it!
+
+
+[2024/05/25 4:55] apokalypse6
+No problem,he deletes his messages rn tho
+
+
+[2024/05/25 4:59] seeminglyunrelated
+what's going on?
+
+
+[2024/05/25 5:07] apokalypse6
+Bitterlemons sent a message that filled up half of the chat screen with nonsense
+
+
+[2024/05/25 5:08] seeminglyunrelated
+...
+
+
+[2024/05/25 5:08] seeminglyunrelated
+...
+
+
+[2024/05/25 5:08] seeminglyunrelated
+wtf
+
+
+[2024/05/25 5:08] apokalypse6
+And when he does it in general then islts fine
+
+
+[2024/05/25 5:08] apokalypse6
+But not here
+
+
+[2024/05/25 5:08] apokalypse6
+Then he sent a message that hes leaving
+
+
+[2024/05/25 5:09] apokalypse6
+But he deleted both messages after i pinged julie
+
+
+[2024/05/25 5:10] apokalypse6
+Oh and he is constantly pinging people for no reason
+
+
+[2024/05/25 5:12] .elenwen
+okay so he has still sent 474 messages since he got here, wtf
+
+
+[2024/05/25 5:12] .elenwen
+let's go I delete everything ・
+
+
+[2024/05/25 5:13] apokalypse6
+Thx 凾
+
+
+[2024/05/25 5:13] .elenwen
+no problem 潮
+
+
+[2024/05/25 5:13] apokalypse6
+If he speaks like normal then its fine
+
+
+[2024/05/25 5:13] apokalypse6
+But insults and pings are not cool
+
+
+[2024/05/25 5:14] .elenwen
+no... and actually, by leaving like that, it's clever because it prevents me from simply deleting his messages
+
+
+[2024/05/25 9:13] seeminglyunrelated
+逐
+
+
+[2024/05/25 9:14] apokalypse6
+(yeah funny coming from me huh :curse: )
+
+
+[2024/05/25 9:14] apokalypse6
+Atleast I only reaction ping tho-
+
+
+[2024/05/25 9:16] seeminglyunrelated
+and bitterlemons used to be cool
+
+
+[2024/05/25 9:16] seeminglyunrelated
+damn
+
+
+[2024/05/25 9:16] seeminglyunrelated
+or at least funny
+
+
+[2024/05/25 9:16] apokalypse6
+I liked him when he talkked normal
+
+
+[2024/05/25 9:16] seeminglyunrelated
+when was that :curse:
+
+
+[2024/05/25 9:16] apokalypse6
+uhhh
+
+
+[2024/05/25 9:16] seeminglyunrelated
+jk
+
+
+[2024/05/25 9:17] seeminglyunrelated
+but yeah
+
+
+[2024/05/25 9:17] apokalypse6
+Civilised answers
+
+
+[2024/05/25 9:17] apokalypse6
+where you here when he was here
+
+
+[2024/05/25 9:18] apokalypse6
+cuz I think he was in the server before?
+
+
+[2024/05/25 9:18] apokalypse6
+and then he left for some reason
+
+
+[2024/05/25 9:19] seeminglyunrelated
+yes
+
+
+[2024/05/25 9:19] seeminglyunrelated
+I've been here for a while
+
+
+[2024/05/25 9:19] apokalypse6
+apperently he was a cool guy and respected
+
+
+[2024/05/25 9:19] apokalypse6
+or smth
+
+
+[2024/05/25 9:19] apokalypse6
+sry im only here since december-
+
+
+[2024/05/25 9:19] apokalypse6
+Never seen bitterlemons until he joined again
+
+
+[2024/05/25 9:19] seeminglyunrelated
+https://discord.com/channels/965169818309369858/985352423629545493/1117464677266489505 here
+
+
+[2024/05/25 9:19] seeminglyunrelated
+this is where I joined
+
+
+[2024/05/25 9:20] apokalypse6
+6 months before me :P
+
+
+[2024/05/25 9:20] apokalypse6
+joined 29th
+
+
+[2024/05/25 9:21] seeminglyunrelated
+:P
+
+
+[2024/05/25 9:21] apokalypse6
+:PP
+
+
+[2024/05/28 8:00] hisc0re07
+is there any chance there's like a tile art that i can use without the weapon in it?
+
+
+[2024/05/28 8:00] apokalypse6
+in the files
+
+
+[2024/05/28 8:00] hisc0re07
+like just a template or somethn
+
+
+[2024/05/28 8:00] hisc0re07
+ohshit
+
+
+[2024/05/28 8:00] apokalypse6
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1244787469078106212/Tiles.png?ex=6a16262b&is=6a14d4ab&hm=0f5ccc63245de83d126ecf17876077f015fbed390f060411b8ff44c1d5618e0d&
+
+
+[2024/05/28 8:01] apokalypse6
+Here
+
+
+[2024/05/28 8:01] hisc0re07
+tysm you're a lifesaver
+
+
+[2024/05/28 8:01] apokalypse6
+hav fun
+
+
+[2024/05/28 8:01] hisc0re07
+OWHA
+
+
+[2024/05/28 8:01] hisc0re07
+WAOH
+
+
+[2024/05/28 8:01] hisc0re07
+YOU GOT THIS STUFF *DOWN* WOW
+
+
+[2024/05/28 8:01] hisc0re07
+tysm this saves me like so long
+
+
+[2024/05/28 8:01] apokalypse6
+ignore the bottom right, i think those are concepts
+
+
+[2024/05/28 8:02] apokalypse6
+np, everyone deserves to know that this exists in the files :P
+
+
+[2024/05/28 8:02] apokalypse6
+(Also there are some unreleased tiles too, so watch out)
+
+
+[2024/05/28 8:02] hisc0re07
+wait actually is there a way to translate this into just a file of the template?
+
+
+[2024/05/28 8:02] apokalypse6
+wdym
+
+
+[2024/05/28 8:02] hisc0re07
+imma like look away ｫ｣
+
+
+[2024/05/28 8:02] hisc0re07
+uh like
+
+
+[2024/05/28 8:03] hisc0re07
+i wanna get it so that i can work on it in pixilart but idk how to oh wait i know how to
+
+
+[2024/05/28 8:03] hisc0re07
+nvm i got it
+
+
+[2024/05/28 8:03] apokalypse6
+nice
+
+
+[2024/05/29 1:36] the_talha
+mark: if possible the next tile in the queue applies "mark" instead of dealing damage. when the amount of "mark" an enemy has is equal to or more than their health they explode dealing damage equal to their mark both to themselves and to adjacent cells
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1245053170946801805/image.png?ex=6a1674df&is=6a15235f&hm=fbd3367d555f2a1fe2f3918d2654b43d774a1f73429efeebb504979356f19eae&
+
+
+[2024/05/29 1:37] apokalypse6
+rename it
+
+
+[2024/05/29 1:37] apokalypse6
+curse is called mark
+
+
+[2024/05/29 1:37] apokalypse6
+in the files :P
+
+
+[2024/05/29 1:37] midnightbirch
+We can call this mark and it窶冤l be labeled as curse in the files
+
+
+[2024/05/29 1:37] apokalypse6
+oh and- its useless
+
+
+[2024/05/29 1:38] the_talha
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1245053473188483122/image0.jpg?ex=6a167527&is=6a1523a7&hm=656432e4cc3883ff810cc9fdc7b5f175aba4473931fe8e2fa31f227aa0cc3312&
+
+
+[2024/05/29 1:38] midnightbirch
+Man fumiko with the brutal honesty today
+
+
+[2024/05/29 1:38] apokalypse6
+you just gave me a maxed file ・
+
+
+[2024/05/29 1:39] apokalypse6
+I can do that myself you know
+
+
+[2024/05/29 1:39] apokalypse6
+Look on your alt i sent you some messages
+
+
+[2024/05/29 1:44] apokalypse6
+isnt this just working on 2 cells or more
+
+
+[2024/05/29 1:44] apokalypse6
+And Its completely useless against bosses
+
+
+[2024/05/29 1:44] apokalypse6
+Speaking of, there should be mini bosses who have like 10-15 hp that can spawn randomly
+
+
+[2024/05/29 1:44] the_talha
+itd be so funny if you stacked up like 30 tho
+
+
+[2024/05/29 1:51] da_dogbar
+sticky bomb with a remote detonator
+
+
+[2024/05/29 1:53] apokalypse6
+c4 - 6 cooldown - 40 dmg. leave c4 on a cell. If the tile is used again, detonate the c4 in a 5 cell radius
+
+
+[2024/05/29 1:53] da_dogbar
+the shield brew in my pocket ・
+
+
+[2024/05/29 1:54] apokalypse6
+corrupted shogun yhas triple strike and does the c4 three times (9 times)
+
+
+[2024/05/29 1:55] da_dogbar
+i just have to make sure the shogun has less than 40 health
+
+
+[2024/05/29 1:55] da_dogbar
+give it *Damages enemies, heals bosses*
+
+
+[2024/05/29 1:56] apokalypse6
+when you enter his bossfight he already has his queue full and in attack mode
+
+
+[2024/05/29 1:56] da_dogbar
+freeplay gun
+
+
+[2024/05/29 1:56] apokalypse6
+only does 27 damage max
+
+
+[2024/05/29 1:56] apokalypse6
+well theoretically
+
+
+[2024/05/29 1:56] apokalypse6
+if you have 2
+
+
+[2024/05/29 1:56] apokalypse6
+of them
+
+
+[2024/05/29 1:57] chapples4
+Free play sai with 9 damage double strike, curse card and dash freeplay
+
+
+[2024/05/29 1:57] da_dogbar
+going into the second phase would interrupt it though, wouldnt it?
+
+
+[2024/05/29 1:57] chapples4
+Sai can do 54 damage without skills
+
+
+[2024/05/29 1:57] apokalypse6
+wh yare we talking about this :curse:
+
+
+[2024/05/29 1:58] chapples4
+C4 bombing or something
+
+
+[2024/05/29 1:58] da_dogbar
+terrorist shogun
+
+
+[2024/05/29 1:58] apokalypse6
+https://tenor.com/view/soldier-ww2-traumatized-meme-eyes-gif-12257475272172704406
+
+{Embed}
+https://tenor.com/view/soldier-ww2-traumatized-meme-eyes-gif-12257475272172704406
+https://images-ext-1.discordapp.net/external/8acQXm9EXhWG8HBFQALXUp9cKg5gYb3k_7orUobC_sY/https/media.tenor.com/qhtM0TD9EpYAAAAe/soldier-ww2.png
+
+
+[2024/05/29 1:58] apokalypse6
+new region
+
+
+[2024/05/29 1:59] apokalypse6
+twin to-
+
+
+[2024/05/29 1:59] apokalypse6
+jk
+
+
+[2024/05/29 1:59] chapples4
+You forgot the f in jfk
+
+
+[2024/05/29 1:59] apokalypse6
+AYO
+
+
+[2024/05/29 2:00] chapples4
+Honestly I liked him
+
+
+[2024/05/29 2:00] apokalypse6
+omg I need to draw the shogun into that one naruto meme
+
+
+[2024/05/29 2:00] chapples4
+He was an open minded president
+
+{Reactions}
+・
+
+[2024/05/29 2:00] apokalypse6
+https://tenor.com/view/goku-prowler-goku-goku-mad-goku-dbs-dbs-gif-11120329515669448575
+
+{Embed}
+https://tenor.com/view/goku-prowler-goku-goku-mad-goku-dbs-dbs-gif-11120329515669448575
+https://images-ext-1.discordapp.net/external/BUbbAJ1CI25A5bjjZ0T60VZjCWNIAqpHtoEwrMsOLY0/https/media.tenor.com/mlNYxsbE538AAAAe/goku-prowler-goku.png
+
+
+[2024/05/29 2:01] apokalypse6
+this one
+
+
+[2024/05/29 2:01] apokalypse6
+wait thats not naruto
+
+
+[2024/05/29 2:01] the_talha
+:curse:
+
+
+[2024/05/29 2:01] chapples4
+MF THATS DRAGON BALL
+
+
+[2024/05/29 2:01] apokalypse6
+vegeta
+
+
+[2024/05/29 2:01] apokalypse6
+isnt that that vegeta guy
+
+
+[2024/05/29 2:01] the_talha
+HUH
+
+
+[2024/05/29 2:02] the_talha
+goku亊
+
+
+[2024/05/29 2:03] apokalypse6
+hm?
+
+
+[2024/05/29 2:03] apokalypse6
+who is that
+
+
+[2024/05/29 2:04] the_talha
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1245060211581124709/image.png?ex=6a167b6e&is=6a1529ee&hm=bcafba3c80fa298274d692f727d1c1d06f443f35494be4d9cd7f39ccee65f61c&
+
+
+[2024/05/29 2:05] apokalypse6
+YOU STOLE MY F#CKING MEME
+
+
+[2024/05/29 2:05] the_talha
+our meme
+
+
+[2024/05/29 2:05] apokalypse6
+oh no you are NOT making this server into communism
+
+
+[2024/05/29 2:06] apokalypse6
+https://tenor.com/view/meme-our-now-gif-21036569
+
+{Embed}
+https://tenor.com/view/meme-our-now-gif-21036569
+https://images-ext-1.discordapp.net/external/l0kgu6HrvTrGbNZtSewIQivkM7TfuqEkYfHCF95gO18/https/media.tenor.com/PA7_rZlLgbkAAAAe/meme-our.png
+
+{Reactions}
+curse
+
+[2024/05/29 2:15] da_dogbar
+"A SECOND C4 HAS HIT NOBUNAGA'S FORTRESS!!!"
+
+
+[2024/05/29 2:16] apokalypse6
+NAHHHHHHHHHHHHHHHHHH
+
+
+[2024/05/29 2:16] apokalypse6
+we need a harbor region
+
+
+[2024/05/29 2:16] apokalypse6
+in shogunshowdown
+
+
+[2024/05/29 2:16] apokalypse6
+oh wait-
+
+
+[2024/05/29 2:16] apokalypse6
+Moonlit port
+
+
+[2024/05/29 5:07] seeminglyunrelated
+https://tenor.com/view/communiste-communist-hugs-heart-red-gif-14360509
+
+{Embed}
+https://tenor.com/view/communiste-communist-hugs-heart-red-gif-14360509
+https://images-ext-1.discordapp.net/external/QvnMODTRefD6wlmezLMvR-g2AHE_7SAxQTe9g3zRD8Q/https/media.tenor.com/XGH1MX73VK4AAAAe/communiste-communist.png
+
+
+[2024/05/29 5:07] apokalypse6
+https://tenor.com/view/comunism-gif-22603522
+
+{Embed}
+https://tenor.com/view/comunism-gif-22603522
+https://images-ext-1.discordapp.net/external/J7TiTUoYOVPR8lTcRvFiycnGHbG44dz-SzPxDI6RYt0/https/media.tenor.com/vKctrvaXe74AAAAe/comunism.png
+
+
+[2024/05/29 5:10] seeminglyunrelated
+I just realize the gif actually makes his hair move and I will never unsee this again
+
+
+[2024/05/29 5:11] apokalypse6
+how didntr you realize that before
+
+
+[2024/05/29 5:11] seeminglyunrelated
+idk
+
+
+[2024/05/29 5:11] seeminglyunrelated
+i wish I didn't now
+
+
+[2024/05/29 13:58] mrmach9
+maybe chang the sprrite and name of blade of patience to "Iaido"? blade of patience just seems kind of out of place with the setting and the other tiles imo
+
+
+[2024/05/29 13:59] apokalypse6
+Sadly, that would contradict what mirko has planned for a boss he hasnt released yet]
+
+
+[2024/05/29 13:59] apokalypse6
+||Ieyasu|| the patient
+Its in his name, and one of his attacks involve blade of patience
+
+
+[2024/05/29 14:00] apokalypse6
+(Name blurred for people who dont want it spoilered)
+
+
+[2024/05/29 14:00] mrmach9
+darn thought I had something but it makes sense at least
+
+
+[2024/05/29 14:01] apokalypse6
+oh and why do ya want to change the sprite?
+
+
+[2024/05/29 14:01] apokalypse6
+I think its fine
+
+
+[2024/05/29 14:01] mrmach9
+it does, all the sprite work looks really good but the sprite wouldnt really fit the name change suggestion
+
+
+[2024/05/29 14:02] apokalypse6
+Iaido is a amrtial arts technique tho
+
+
+[2024/05/29 14:02] apokalypse6
+That would be kinda sick if you would use a kick or smth instead
+
+
+[2024/05/29 14:03] apokalypse6
+Maybe a new tile tho :P
+
+
+[2024/05/29 14:03] mrmach9
+we can hope
+
+
+[2024/05/30 4:48] hisc0re07
+i wouldn't say it's *useless*, it could cause a tile to do double, maybe even triple damage in the right situation
+
+
+[2024/05/30 4:49] apokalypse6
+cuz of the explosion?"
+
+
+[2024/05/30 4:49] hisc0re07
+ye
+
+
+[2024/05/30 4:54] hisc0re07
+idea: the dansen uchiwa
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1245465296844886110/image.png?ex=6a16a332&is=6a1551b2&hm=431b7d49e865643ef41b15b25368440a72c329b2621cd319335227832c415ab5&
+https://cdn.discordapp.com/attachments/965176630588882954/1245465297255792701/image.png?ex=6a16a332&is=6a1551b2&hm=a15702d2fdb14ae68d41a7e4b12c18c78bf6d1cff31567ea299dbf8bbca9c023&
+https://cdn.discordapp.com/attachments/965176630588882954/1245465297612439686/image.png?ex=6a16a332&is=6a1551b2&hm=2fc6016a5e903abf97a9d43ad802de01113ac37d114c5e76b72ee56b986002d6&
+https://cdn.discordapp.com/attachments/965176630588882954/1245465297834741863/image.png?ex=6a16a332&is=6a1551b2&hm=886f39d97c7726fd4fc2fbb948ab98d8f0df7002a591b9c130d85285735178a6&
+https://cdn.discordapp.com/attachments/965176630588882954/1245465298040127538/dansen_uchiwa.png?ex=6a16a332&is=6a1551b2&hm=b99d7726a33c664842b84f1f4639dbb0440e5d1e39e0a42f8e255d440e5925ce&
+
+
+[2024/05/30 4:54] apokalypse6
+twin tessen
+
+
+[2024/05/30 4:55] hisc0re07
+oop
+
+
+[2024/05/30 4:55] hisc0re07
+wait fuck it already exists?
+
+
+[2024/05/30 4:55] hisc0re07
+damn :(
+
+
+[2024/05/30 4:55] apokalypse6
+basically
+
+
+[2024/05/30 4:55] apokalypse6
+knockback punch exists too
+
+
+[2024/05/30 4:55] hisc0re07
+tbf this only pushes one block
+
+
+[2024/05/30 4:55] hisc0re07
+or one tile
+
+
+[2024/05/30 4:56] apokalypse6
+fan
+
+
+[2024/05/30 4:56] apokalypse6
+from itch io version
+
+
+[2024/05/30 4:56] hisc0re07
+mmmmm
+
+
+[2024/05/30 4:56] dragon_of_celts
+The War Fan pushed all the way across the screen, from what I remember...
+
+
+[2024/05/30 4:56] hisc0re07
+yea
+
+
+[2024/05/30 4:56] hisc0re07
+but in the itch version it's only one
+
+
+[2024/05/30 4:56] dragon_of_celts
+Or attacked all the way across the screen...?
+Or both?
+
+
+[2024/05/30 4:56] hisc0re07
+also true
+
+
+[2024/05/30 4:56] chapples4
+Bring fan back it was fun as hell
+
+
+[2024/05/30 4:57] hisc0re07
+but also only in itch version
+
+
+[2024/05/30 4:57] chapples4
+Even if it窶冱 bad it窶冱 fun
+
+
+[2024/05/30 4:57] hisc0re07
+this is pretty much just the itch.io fan but for the downloaded version
+
+
+[2024/05/30 4:57] hisc0re07
+actually the dansen uchiwa *is* a war fan lmao
+
+
+[2024/05/30 4:57] hisc0re07
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1245466098782965860/LmpwZw.png?ex=6a16a3f1&is=6a155271&hm=081925273b312d9695feaae72e1f70d0f1edb7ec4c81888ad1d8f956f2bd8300&
+
+
+[2024/05/30 4:58] hisc0re07
+but the idea is that it cuts instead of pushing
+
+
+[2024/05/30 4:58] dragon_of_celts
+Should be a ranged "make target turn around", maybe.
+
+
+[2024/05/30 4:58] hisc0re07
+yeah the bo kinda sucks for anything other than a movement build or the shadow
+
+
+[2024/05/30 4:58] hisc0re07
+gotta be close to the enemy
+
+
+[2024/05/30 4:59] hisc0re07
+and it can't really do a lot of damage or else the whole attacking enemies thing crumbles
+
+
+[2024/05/30 4:59] hisc0re07
+i'll be back i gotta go for a sec
+
+
+[2024/05/30 5:05] chapples4
+Bye Astrid
+
+
+[2024/05/30 5:06] apokalypse6
+throwing the bo staff moment
+
+
+[2024/05/30 5:19] hisc0re07
+I GOT A GREAT IDEA FOR A BOSS
+
+
+[2024/05/30 5:19] hisc0re07
+HOLY SHIT
+
+
+[2024/05/30 5:19] hisc0re07
+THIS IS GREAT
+
+
+[2024/05/30 5:19] apokalypse6
+?
+
+
+[2024/05/30 5:19] hisc0re07
+IGHT ONE SEC I GOTTA LIKE
+
+
+[2024/05/30 5:19] hisc0re07
+DRAW A DIAGRAM
+
+
+[2024/05/30 5:19] apokalypse6
+ok
+
+
+[2024/05/30 5:19] hisc0re07
+YE
+
+
+[2024/05/30 5:26] apokalypse6
+how long do you need to draw lol
+
+
+[2024/05/30 5:29] hisc0re07
+so they pretty much place a cannon, then when there's a cannon placed and it's not loaded it'll put a cannonball in it. then it'll light it if it's loaded and it will fire after three turns and hit the first enemy ahead, dealing 3-5 damage (idk balancing) to the tile it hit and each adjacent tile. the cannon itself has 5 health, and you could theoretically like smokebomb with it and hit the boss or just kill it before they could load it even. in total the whole ordeal would take at least 6 turns, maybe 7, so you'd have plenty of time to get all of your tiles ready so that you can counter
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1245474236064333824/image.png?ex=6a16ab85&is=6a155a05&hm=8f57441eb4eaeb0aa5febadd0df602700fd9d39f7db8bd9cbbc4c4753b11f72e&
+https://cdn.discordapp.com/attachments/965176630588882954/1245474236332638401/image.png?ex=6a16ab85&is=6a155a05&hm=ca53519eaf686dd7240455c3cf5cfc7ea99c45bfe0a0e2e5a34222dcea3970cd&
+https://cdn.discordapp.com/attachments/965176630588882954/1245474236542222538/image.png?ex=6a16ab85&is=6a155a05&hm=ad9bb90bf60355b372f8d016b50121e769bfe0c520744c4e5ec1af10a08c7189&
+https://cdn.discordapp.com/attachments/965176630588882954/1245474236831633418/image.png?ex=6a16ab85&is=6a155a05&hm=705a3c0705f6955b69bc5ef24c034df0cb504e9ff8c7b518317af80c42e6591d&
+
+
+[2024/05/30 5:30] hisc0re07
+a long time 亊
+
+
+[2024/05/30 5:30] apokalypse6
+baru
+
+
+[2024/05/30 5:30] hisc0re07
+well yeah but like
+
+
+[2024/05/30 5:30] hisc0re07
+not
+
+
+[2024/05/30 5:30] hisc0re07
+baru doesn't really *attack*, he relies on others to attack for him
+
+
+[2024/05/30 5:30] hisc0re07
+this one is baru if he fought back
+
+
+[2024/05/30 5:30] apokalypse6
+hed need to summon units.
+
+
+[2024/05/30 5:30] apokalypse6
+make the canon heavy
+
+
+[2024/05/30 5:30] hisc0re07
+yeah?
+
+
+[2024/05/30 5:31] apokalypse6
+I like the idea tbh
+
+
+[2024/05/30 5:31] hisc0re07
+i don't see that that couldn't be done?
+
+
+[2024/05/30 5:31] hisc0re07
+yay ! :D
+
+
+[2024/05/30 5:31] apokalypse6
+replacement boss for moonlit or smth
+
+
+[2024/05/30 5:31] hisc0re07
+ah but i like the twins :c
+
+
+[2024/05/30 5:31] apokalypse6
+:curse:
+
+
+[2024/05/30 5:31] hisc0re07
+they're all funky and fun
+
+
+[2024/05/30 5:31] apokalypse6
+You are the only one in this whole server
+
+
+[2024/05/30 5:31] hisc0re07
+WHY???
+
+
+[2024/05/30 5:31] hisc0re07
+DO PEOPLE NOT LIKE THEM D:
+
+
+[2024/05/30 5:32] apokalypse6
+I mean, their gimick is cool
+
+
+[2024/05/30 5:32] apokalypse6
+but they are just so annoying
+
+
+[2024/05/30 5:32] apokalypse6
+corrupted version has fricking meteor hammer
+
+
+[2024/05/30 5:32] apokalypse6
+mirko had has to been on drugs
+
+
+[2024/05/30 5:32] apokalypse6
+lmfao
+
+
+[2024/05/30 5:32] hisc0re07
+are you guys like... bad? just don't let them hit you 亊
+
+
+[2024/05/30 5:32] apokalypse6
+-_-
+
+
+[2024/05/30 5:32] apokalypse6
+you cant be serious
+
+
+[2024/05/30 5:32] hisc0re07
+i don't think i've ever taken more that like 5 damage to them, ever
+
+
+[2024/05/30 5:33] hisc0re07
+tbf i did die to the corrupted
+
+
+[2024/05/30 5:33] apokalypse6
+So you didnt get no dmg but say that other people are bad
+
+
+[2024/05/30 5:33] hisc0re07
+corrupted was *hecking* ridiculous
+
+
+[2024/05/30 5:33] hisc0re07
+uh
+
+
+[2024/05/30 5:33] hisc0re07
+yeah
+
+
+[2024/05/30 5:33] hisc0re07
+im just a hater fr
+
+
+[2024/05/30 5:34] apokalypse6
+istg you are that one guy who says nobunaga is fun
+
+
+[2024/05/30 5:34] hisc0re07
+.....
+
+
+[2024/05/30 5:34] hisc0re07
+well,,, he's not *fun* but i don't think he's *that* bad
+
+
+[2024/05/30 5:34] apokalypse6
+knew it
+
+
+[2024/05/30 5:34] hisc0re07
+no corrupted sucks
+
+
+[2024/05/30 5:34] hisc0re07
+ugh
+
+
+[2024/05/30 5:34] apokalypse6
+@ mirko ban this person
+
+
+[2024/05/30 5:34] hisc0re07
+screw the corrupted version
+
+
+[2024/05/30 5:35] hisc0re07
+he's so annoDSFPALKFDAPLKDFJS
+
+
+[2024/05/30 5:35] hisc0re07
+NO
+
+
+[2024/05/30 5:35] hisc0re07
+:C
+
+
+[2024/05/30 5:35] apokalypse6
+haha
+
+
+[2024/05/30 5:35] apokalypse6
+what island do you like more, red or purple
+
+
+[2024/05/30 5:35] hisc0re07
+purple
+
+
+[2024/05/30 5:35] hisc0re07
+for suuure
+
+
+[2024/05/30 5:36] apokalypse6
+ok atleast you have some common sense
+
+
+[2024/05/30 5:36] apokalypse6
+whats your fav hero
+
+
+[2024/05/30 5:36] hisc0re07
+shadow
+
+
+[2024/05/30 5:36] apokalypse6
+YESSSSSSSSS
+
+
+[2024/05/30 5:36] hisc0re07
+RIGTHTT???
+
+
+[2024/05/30 5:36] apokalypse6
+A FELLOW SHADOW ENJOYER
+
+
+[2024/05/30 5:36] hisc0re07
+ARE WE NOT COMMON???
+
+
+[2024/05/30 5:36] apokalypse6
+everyone here hates shadow for some reason
+
+
+[2024/05/30 5:36] hisc0re07
+WHY????
+
+
+[2024/05/30 5:36] apokalypse6
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1245475922249912353/image.png?ex=6a16ad17&is=6a155b97&hm=2f2c4764b8219b5deb0b0c2062f77f4c349633fb9d17a0add894ce5297ccc135&
+
+
+[2024/05/30 5:36] hisc0re07
+HIS SPECIAL MOVE WITH POISON IS CRAZY BRO
+
+
+[2024/05/30 5:36] hisc0re07
+real
+
+
+[2024/05/30 5:36] hisc0re07
+same thing happened to me here lmao
+
+
+[2024/05/30 5:37] apokalypse6
+lmao
+
+
+[2024/05/30 5:37] apokalypse6
+ok ok
+
+
+[2024/05/30 5:37] apokalypse6
+next question
+
+
+[2024/05/30 5:37] apokalypse6
+uhhh
+
+
+[2024/05/30 5:37] hisc0re07
+mm mm?
+
+
+[2024/05/30 5:37] apokalypse6
+whats your fav skill
+
+
+[2024/05/30 5:38] hisc0re07
+skill? hmm wdym?
+
+
+[2024/05/30 5:38] apokalypse6
+the things you buy at shops
+
+
+[2024/05/30 5:38] hisc0re07
+i don't know the terminology cause i don't talk abt it sorryy
+
+
+[2024/05/30 5:38] hisc0re07
+ah
+
+
+[2024/05/30 5:38] hisc0re07
+combo recharge
+
+
+[2024/05/30 5:38] apokalypse6
+eh thats fine
+
+
+[2024/05/30 5:38] apokalypse6
+recently played combo
+
+
+[2024/05/30 5:38] apokalypse6
+run
+
+
+[2024/05/30 5:38] apokalypse6
+that reminds me
+
+
+[2024/05/30 5:38] hisc0re07
+tbf i like using big cooldown things so it's better for me personally
+
+
+[2024/05/30 5:38] hisc0re07
+wassup?
+
+
+[2024/05/30 5:39] apokalypse6
+nvm cant find it
+
+
+[2024/05/30 5:39] apokalypse6
+but I bought out the whole ass combo shop
+
+
+[2024/05/30 5:40] hisc0re07
+oh yeah that musta been fun :D
+
+
+[2024/05/30 5:40] apokalypse6
+it literally was empty lmfao
+
+
+[2024/05/30 5:41] dragon_of_celts
+Who is "everyone"?
+
+
+[2024/05/30 5:41] apokalypse6
+you
+
+
+[2024/05/30 5:41] hisc0re07
+do you not like shadow?
+
+
+[2024/05/30 5:41] dragon_of_celts
+I never even came close to saying such a thing, so I don't know where that is coming from.
+
+
+[2024/05/30 5:42] apokalypse6
+Well...
+
+
+[2024/05/30 5:42] apokalypse6
+do you like or hate shadow
+
+
+[2024/05/30 5:42] hisc0re07
+that's pretty unnuanced i think
+
+
+[2024/05/30 5:43] dragon_of_celts
+Shadow is fine. I like them better than Jujitsuka, maybe Ronin.
+
+
+[2024/05/30 5:43] hisc0re07
+yeah jujitsuka kinda sucks tbh
+
+{Reactions}
+漕 笘晢ｸ・剌 櫨 (2)
+
+[2024/05/30 5:44] apokalypse6
+1st set sucks ass
+
+
+[2024/05/30 5:44] hisc0re07
+imma go, new episode just dropped
+
+
+[2024/05/30 5:44] hisc0re07
+cya !!
+
+
+[2024/05/30 5:44] apokalypse6
+cya
+
+
+[2024/05/30 5:45] dragon_of_celts
+New episode of what?
+
+
+[2024/05/30 5:46] hisc0re07
+jellyfish can't swim in the night
+
+
+[2024/05/30 5:46] hisc0re07
+funky ass name but it's a cool show
+
+
+[2024/05/30 5:47] dragon_of_celts
+Anime, or...?
+
+
+[2024/05/30 5:47] apokalypse6
+lmao look it up
+
+
+[2024/05/30 5:48] dragon_of_celts
+Meh. I don't care that much, so no. ・
+
+
+[2024/05/30 5:49] apokalypse6
+I dont know how to respond to that
+
+
+[2024/05/30 5:49] apokalypse6
+brain broke :P
+
+
+[2024/05/30 5:53] hisc0re07
+real
+
+
+[2024/05/30 5:53] hisc0re07
+yeah it's anime
+
+{Reactions}
+ｪｼ
+
+[2024/05/30 6:27] chapples4
+Twins are so easy though
+
+
+[2024/05/30 6:27] apokalypse6
+stfu
+
+
+[2024/05/30 6:27] apokalypse6
+no they arent
+
+
+[2024/05/30 6:28] apokalypse6
+I have never beaten them withoout taking damage
+
+{Reactions}
+curse (3)
+
+[2024/05/30 6:28] apokalypse6
+(only corrupted version obvi)
+
+{Reactions}
+curse
+
+[2024/05/30 6:28] chapples4
+I mean I guess you main shadow so you would probably have a harder time
+
+
+[2024/05/30 6:28] chapples4
+Twins is always free for me, just more gold
+
+
+[2024/05/30 6:28] da_dogbar
+found the shadow main ､｣
+
+
+[2024/05/30 6:29] apokalypse6
+no shit
+
+
+[2024/05/30 6:29] chapples4
+Honestly shadow needs a buff because they suck
+
+
+[2024/05/30 6:29] chapples4
+And the second deck is TRASH
+
+
+[2024/05/30 6:29] da_dogbar
+movement good tho
+
+
+[2024/05/30 6:29] apokalypse6
+3rd set is still gonna be there
+
+
+[2024/05/30 13:04] hisc0re07
+yall i might be slow
+
+
+[2024/05/30 13:04] hisc0re07
+but
+
+
+[2024/05/30 13:04] hisc0re07
+decks? 亊
+
+
+[2024/05/30 13:04] hisc0re07
+like,,, the starting tiles???
+
+
+[2024/05/30 18:06] apokalypse6
+yeah
+
+
+[2024/05/30 20:09] seeminglyunrelated
+You can change them to a secondary option if you get enough stamps on the character
+
+
+[2024/05/30 23:03] hisc0re07
+WAIT WHAT
+
+
+[2024/05/30 23:03] apokalypse6
+dummy
+
+
+[2024/05/30 23:03] hisc0re07
+my bad x3
+
+
+[2024/05/30 23:04] hisc0re07
+ill just get better tbh
+
+
+[2024/05/30 23:04] apokalypse6
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1245739558134349876/20240530-1404-04.4551912.mp4?ex=6a16511f&is=6a14ff9f&hm=26acc2b2cfabd1ac0a208904acc1335dd78de407bfe85ac8de6716fa18e28ff0&
+
+
+[2024/05/30 23:04] apokalypse6
+most of the second options suck anyway
+
+
+[2024/05/30 23:04] hisc0re07
+yeah that's like horrible lmao 亊
+
+
+[2024/05/30 23:05] apokalypse6
+fun fact its the only deck without a option to dodge daisuke dash
+
+
+[2024/05/30 23:05] hisc0re07
+not entirely true
+
+
+[2024/05/30 23:05] hisc0re07
+using mirror you could
+
+
+[2024/05/30 23:05] apokalypse6
+-_-
+
+
+[2024/05/30 23:05] hisc0re07
+also shadow's special move
+
+
+[2024/05/30 23:06] hisc0re07
+:3
+
+
+[2024/05/30 23:06] apokalypse6
+daisuke is moslty on the wall
+
+
+[2024/05/30 23:06] apokalypse6
+mirror doesnt turn em around
+
+
+[2024/05/30 23:06] apokalypse6
+https://www.youtube.com/watch?v=KxC5AEz7Ghk&t
+
+{Embed}
+Apokalypse6
+https://www.youtube.com/watch?v=KxC5AEz7Ghk&start=0
+Shogun Showdown: All Heroes! (New Update!)
+New Update is out! It changes some stuff, some new graphics, and adds a new boss! most importantly tho, It adds a spritesheet for a unreleased hero!
+Join the official discord server here: discord.gg/GK4wKh5RwV
+https://images-ext-1.discordapp.net/external/M16yC31zKpUR8WtQdRgOwRZ8rKg_RlBC6QdB8Ys3dL0/https/i.ytimg.com/vi/KxC5AEz7Ghk/hqdefault.jpg
+
+
+[2024/05/30 23:06] apokalypse6
+Id recommend watching this
+
+
+[2024/05/30 23:06] hisc0re07
+oh wait yeah there's no grapple
+
+
+[2024/05/30 23:06] hisc0re07
+HAHAHAHAHAHA THAT *SUCKS*
+
+
+[2024/05/30 23:06] apokalypse6
+fr
+
+
+[2024/05/30 23:06] hisc0re07
+i gotta go, packin rn
+
+
+[2024/05/30 23:06] apokalypse6
+cya
+
+
+[2024/05/30 23:07] hisc0re07
+byebye
+
+
+[2024/05/31 15:06] averagefoxenthusiast
+to be fair you can *usually* manipulate them so that they stay away from the edges
+
+
+[2024/05/31 16:12] apokalypse6
+Not when he summons a charger and immidietly queues up his charge attack
+
+
+[2024/05/31 16:12] apokalypse6
+So unfair
+
+
+[2024/05/31 16:53] hisc0re07
+just get better at the game tbh
+
+
+[2024/05/31 16:53] hisc0re07
+nightnight yall
+
+
+[2024/06/02 18:38] .justclowning
+Here we drop ideas for enemies and other stuff?
+
+
+[2024/06/02 18:38] apokalypse6
+yes
+
+
+[2024/06/02 18:38] .justclowning
+I think i got a idea
+
+
+[2024/06/02 18:48] .justclowning
+So i thought of a new enemy that would incorporate nicely into the game 
+Anzulian warriors
+Description:these majestic warriors soar through the sky using their wings and striking their enemies from the sky
+Health:3
+Attack pattern: at the start he will use the unique to him fly tile which will make him unable to receive any damage
+He will use a sword then he will start getting closer to you,when the distance is closed youll get a warning sign like with the yumi sniper after which he will drop and attack the drop will stun him which will leave him open for a blow to kill him
+Also during the flying period any projectiles will go past him meaning the archers as well as you can shoot through him
+
+
+[2024/06/02 18:49] .justclowning
+I tried to explain the mechanic to the best of my ability
+
+
+[2024/06/02 18:49] apokalypse6
+idk man
+
+
+[2024/06/02 18:49] apokalypse6
+where do they even appear
+
+
+[2024/06/02 18:49] .justclowning
+I thought of the new island
+
+
+[2024/06/02 18:49] apokalypse6
+cuz you cant add enemies anymore
+
+
+[2024/06/02 18:49] .justclowning
+With the patient guy
+
+
+[2024/06/02 18:49] apokalypse6
+mirko wont add one for a long time
+
+
+[2024/06/02 18:50] apokalypse6
+Shadow dasher is already the enemy there
+
+
+[2024/06/02 18:50] apokalypse6
+like on every other last island...
+
+
+[2024/06/02 18:51] .justclowning
+Well it can be like with the corruption island where the protecting guy is switched for the copycat i think
+
+
+[2024/06/02 18:51] apokalypse6
+wut
+
+
+[2024/06/02 18:51] apokalypse6
+huh???
+
+
+[2024/06/02 18:52] apokalypse6
+thats bosses
+
+
+[2024/06/02 18:52] apokalypse6
+not enemies
+
+
+[2024/06/02 18:52] apokalypse6
+even if
+
+
+[2024/06/02 18:52] .justclowning
+No they are
+
+
+[2024/06/02 18:52] apokalypse6
+Idk if magical wings fit into this game
+
+
+[2024/06/02 18:52] apokalypse6
+oh you mean those
+
+
+[2024/06/02 18:53] apokalypse6
+well hideyoshi and nobu have shadow dasher already
+
+
+[2024/06/02 18:53] apokalypse6
+no sense to change it
+
+
+[2024/06/02 18:53] apokalypse6
+I have a better idea tho
+
+
+[2024/06/02 18:53] apokalypse6
+how about
+
+
+[2024/06/02 18:53] .justclowning
+They have a dark blob which floats and charges at you so i think wings aint that bad
+
+
+[2024/06/02 18:53] apokalypse6
+they could be special enemies
+
+
+[2024/06/02 18:54] .justclowning
+Maybe
+
+
+[2024/06/02 18:54] apokalypse6
+like blight chargers
+
+
+[2024/06/02 18:54] apokalypse6
+wait listen to me
+
+
+[2024/06/02 18:54] apokalypse6
+We know that alt bosses will come, so how about the alt boss for sato summons marionettes, which are pulled up as their move, so they cant be attacked, and they try moving onto you, and dropping down?
+
+
+[2024/06/02 18:55] apokalypse6
+I think that fits the theatre
+
+
+[2024/06/02 18:55] apokalypse6
+and has the gimmick'
+
+
+[2024/06/02 18:55] apokalypse6
+and can be incoorperated
+
+
+[2024/06/02 18:56] .justclowning
+Idk that feels like some wasted potential but depends to how it would be implemented in the game
+
+
+[2024/06/02 18:57] apokalypse6
+huh?
+
+
+[2024/06/02 18:57] apokalypse6
+Why
+
+
+[2024/06/02 18:57] apokalypse6
+It would still be a new enemy
+
+
+[2024/06/02 18:57] apokalypse6
+without disturbing what mirko has planned
+
+
+[2024/06/02 18:59] .justclowning
+Yes but like im thinking that the puppeteer would be a easy boss
+
+
+[2024/06/02 19:00] apokalypse6
+what no
+
+
+[2024/06/02 19:00] apokalypse6
+it would be a enemy
+
+
+[2024/06/02 19:00] apokalypse6
+summoned
+
+
+[2024/06/02 19:00] apokalypse6
+by the alt boss
+
+
+[2024/06/02 19:00] apokalypse6
+not THE boss
+
+
+[2024/06/02 19:01] .justclowning
+Well perhaps
+
+
+[2024/06/02 19:01] apokalypse6
+Papu the Puppeteer
+
+
+[2024/06/02 19:01] apokalypse6
+idk
+
+
+[2024/06/02 19:02] .justclowning
+Well like he will summon puppets that will drop on you is your idea
+

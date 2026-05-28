@@ -1,0 +1,2000 @@
+﻿
+[2024/11/04 3:48] da_dogbar
+enemy idea: Brute - 8 health, 10 past day 5 (whatever day increased health, i forgor)
+Tiles: Tetsubo, Dash, *Slam*
+
+Behaviour: Queues up Tetsubo and attacks when player is in range. If there are more than 2 enemies between him and the player, queues up *Slam* and uses it as soon as he can. If no enemies are between him and the player, he has taken more than 3 damage and the player is at least 4 cells away from him, queues up dash and tetsubo. 
+
+Traits: Powerful - Only one enemy with this trait can be on the field at any time (sort of like a miniboss). Cannot get elite traits. 
+
+Appears in: Hot Springs, Hideyoshi's Keep, Shogun's Castle, Nobunaga's Fortress
+
+Slam - 4 damage
+When the attack is queued, show a danger marker on the cell where the player is standing (like volley). When used, the brute leaps into the air and lands on the highlighted cell, dealing damage to whatever he lands on. Anything he lands on is pushed to the closest available cell. If there are 2 available cells at the same range, prioritize the one the push target is facing,
+
+
+[2024/11/04 3:52] n.h.l
+can a powerful enemy be elite?
+
+
+[2024/11/04 3:54] da_dogbar
+no
+
+
+[2024/11/04 3:56] voidfulfool
+PHEW
+
+
+[2024/11/04 3:56] voidfulfool
+I WAS GONNA SAY
+
+
+[2024/11/04 3:56] n.h.l
+if something gets pushed by slam, you dont know how he pushes it if there are multiple options?
+
+
+[2024/11/04 4:17] d3v0553
+no, but thats a cool idea! ill keep that in mind
+
+
+[2024/11/04 8:20] n.h.l
+another Tile I would like to have in the base game:
+
+Name: Coward Tendency
+Cooldown: 7
+Description: Teleport to the furthest cell behind, exchanging positions with a target if present.
+
+
+[2024/11/04 8:28] voidfulfool
+Lmao, I like it
+
+
+[2024/11/04 8:28] voidfulfool
+Yet I know which boss will use it窶ｦ
+
+
+[2024/11/04 10:05] plimboscrimbly
+back shadow dash if it was BASED
+
+
+[2024/11/04 10:41] voidfulfool
+Back shadow dash and regular shadow dash both combined = speed blitzing enemies
+
+
+[2024/11/04 10:41] voidfulfool
+Lmao
+
+
+[2024/11/04 10:59] darkendgame
+idk what to call it
+
+Removes the first target ahead's tile in queue
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1302814457700941914/image.png?ex=6a165003&is=6a14fe83&hm=5134a4043f9dc6e0881f4fc678e4d1d0afd320142c58536d62e7c3b7035fe896&
+
+
+[2024/11/04 10:59] darkendgame
+maybe it should have less cooldown
+
+
+[2024/11/04 10:59] darkendgame
+maybe like 4 or 5
+
+
+[2024/11/04 13:14] Deleted User
+do you guys feel like the shop upgrade statue is kinda very underused
+
+
+[2024/11/04 13:15] Deleted User
+I think I never use it in my runs unless I have an economy skill
+
+
+[2024/11/04 13:15] voidfulfool
+Nah
+
+
+[2024/11/04 13:15] voidfulfool
+Fr
+
+
+[2024/11/04 13:15] Deleted User
+maybe give multiple options to utilize the upgrade?
+Spend more than 1 upgrade slot, or spend health?
+
+
+[2024/11/04 13:15] voidfulfool
+I buy them if I don窶冲 see a reroll in the shop when there are skills I don窶冲 want
+
+
+[2024/11/04 13:15] voidfulfool
+Mmmm true
+
+
+[2024/11/04 17:59] n.h.l
+I use them often, because you can see the available shops before choosing the path, I can choose what I need for my Tiles
+
+
+[2024/11/04 22:55] n.h.l
+maybe something like:
+disarming force?
+
+if it has a damage number you should change the text to:
+Strike the first target ahead, remove the targets first tile in queue.
+
+
+[2024/11/05 0:56] d3v0553
+my second last player idea (for now):
+
+**The Survivor**
+
+Unlocked by defeating a boss on exactly 1 HP., the survivor uses hunting methods to kill his enemies. He is oblivious that he is actually dead, and so carefully tries to deal with enemies, though many fear him only because of his dead void-like body.
+
+Ability: Ronin's Push OR
+If the enemy ahead is about to attack, transfer the damage behind, dealing it to the first enemy behind, if present.
+
+Main deck: Trap, Back Smoke Bomb
+Second deck: Shadow Dash, Katana
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1303025174714646610/Survivor.png?ex=6a166b82&is=6a151a02&hm=6ab6b3ea85e9ff17172e14594f549b5ebb338c60aa7b1084cca10c4dadeaf3c6&
+
+
+[2024/11/05 1:06] n.h.l
+strange ability, what happens if there is no enemy behind?
+
+
+[2024/11/05 1:06] d3v0553
+it still works
+
+
+[2024/11/05 1:07] n.h.l
+jo just, shield+ for next turn
+
+
+[2024/11/05 1:07] d3v0553
+ig
+
+
+[2024/11/05 1:20] plimboscrimbly
+idk how you窶囘 play this character
+
+
+[2024/11/05 1:20] n.h.l
+if enemies fear him why not something like:
+Can overwrite a enemy intentions into *moving backwards* by moving forward into him.
+
+
+[2024/11/05 1:21] plimboscrimbly
+that feels just like a worse push
+
+
+[2024/11/05 1:21] d3v0553
+yea
+
+
+[2024/11/05 1:21] plimboscrimbly
+would it cancel their turn as well?
+
+
+[2024/11/05 1:21] plimboscrimbly
+so like a d6?
+
+
+[2024/11/05 1:21] n.h.l
+it removes all other intentions, so it is different
+
+
+[2024/11/05 1:21] d3v0553
+i had a trickster player idea which has a similar ability (this hero is supposed to go along with trickster without overlapping abilities too hard)
+
+
+[2024/11/05 1:23] n.h.l
+d6 is chaos, forcing to move backwards synegies with his tiles
+
+{Reactions}
+漕
+
+[2024/11/05 1:23] d3v0553
+you could place down traps, then use smoke bomb to put enemies on to them. with ronin's push, he could also push them on to the traps
+
+
+[2024/11/05 1:24] d3v0553
+on second thought, maybe he should have back shadow dash instead of shadow dash for second deck
+
+
+[2024/11/05 1:24] plimboscrimbly
+true but placing traps seems very awkward
+
+
+[2024/11/05 1:25] d3v0553
+i guess, but it works with the first level pretty well. both rei, shadow chargers and daisuke go for dash attacks that traps can benefit from a little
+
+
+[2024/11/05 1:26] d3v0553
+it would be pretty interesting to play with trap as a deck tile, imo. maybe i should playtest it with ronin first
+
+
+[2024/11/05 1:26] d3v0553
+especially since trap has a fairly low 4 cooldown
+
+
+[2024/11/05 1:27] n.h.l
+if a charger runs into a trap before reaching you and dies, you dont get hit
+
+
+[2024/11/05 1:27] d3v0553
+yes
+
+
+[2024/11/05 1:28] d3v0553
+im pretty sure trap is also compatible with double-strike, ice, poison etc. that would also be pretty interesting. moreover, you could kill enemies on the beginning of the turn with traps
+
+
+[2024/11/05 1:28] d3v0553
+again, since traps have a moderatly low cd
+
+
+[2024/11/05 1:29] n.h.l
+trap is not a bad tile, but because you can rarely combo with it its not so popular
+
+
+[2024/11/05 1:29] d3v0553
+ik, but with these characters, im trying to make the player go for more unpopular tiles and builds
+
+
+[2024/11/05 1:29] d3v0553
+or ig decks that have not been fully done with the current game rn
+
+
+[2024/11/05 1:30] n.h.l
+I think if we ever get new characters, they get at least one new tile you can unlock later
+
+
+[2024/11/05 1:31] d3v0553
+true
+
+
+[2024/11/05 1:31] d3v0553
+but currently, since im planning to add these characters in the game, i cant rlly add more tiles to the game (since i dont rlly know how to mod new tiles in)
+
+
+[2024/11/05 1:32] voidfulfool
+Huh
+
+
+[2024/11/05 1:33] n.h.l
+most of the time a DLC introduces one big new mechanic and than new tiles, characters and enemies around this new mechanic
+
+
+[2024/11/05 1:33] n.h.l
+rarely it is just more of the same
+
+
+[2024/11/05 1:34] d3v0553
+you're correct
+
+
+[2024/11/05 1:35] d3v0553
+i was just talking abt the survivor then ・
+
+
+[2024/11/05 1:36] d3v0553
+i rlly hope SS gets more content - more players, tiles, and maybe most importantly regions (but i dont think there's any space for them)
+
+
+[2024/11/05 1:37] d3v0553
+*puts on tin foil hat*
+maybe this whirlpool area could lead to a secret underwater region?? hmm???
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1303035443264360579/image.png?ex=6a167512&is=6a152392&hm=270b36f8bb008859930f178814a1e838063f48939acb016cbdae728eb0d7d877&
+
+{Reactions}
+操 (2)
+
+[2024/11/05 1:38] voidfulfool
+*smacks off your tin foil hat*
+
+
+[2024/11/05 1:38] voidfulfool
+No.
+
+
+[2024/11/05 1:38] d3v0553
+NOOOO SHUT UP
+*agressively picks up tin foil hat again*
+
+
+[2024/11/05 1:38] d3v0553
+LEMME BE DELULU
+
+
+[2024/11/05 1:39] voidfulfool
+*aggressively stomps on it*
+
+
+[2024/11/05 1:39] apokalypse6
+Yeah, hopefully
+
+
+[2024/11/05 1:39] voidfulfool
+NOOOOOO
+
+
+[2024/11/05 1:39] voidfulfool
+My question would be how would they breath lol
+
+
+[2024/11/05 1:39] voidfulfool
+Oh well
+
+
+[2024/11/05 1:39] apokalypse6
+Secret cave?
+
+
+[2024/11/05 1:40] voidfulfool
+Eh maybe
+
+
+[2024/11/05 1:40] d3v0553
+this is the same universe where one-eyed monsters with grappling hooks exist
+
+
+[2024/11/05 1:40] d3v0553
+breathing underwater doesnt sound so far fetched anymore lmao :curse:
+
+
+[2024/11/05 1:40] voidfulfool
+You窶决e forgetting the sword flesh arm too
+
+{Reactions}
+curse (2)
+
+[2024/11/05 1:40] voidfulfool
+Lmao
+
+
+[2024/11/05 1:41] d3v0553
+ummm, in game reason: shogun magic
+
+
+[2024/11/05 1:41] d3v0553
+he was so angy that he broke physics
+
+
+[2024/11/05 1:41] d3v0553
+woops
+
+{Reactions}
+curse
+
+[2024/11/05 1:43] voidfulfool
+Woah
+
+
+[2024/11/05 1:43] voidfulfool
+That means I can fly now!!!
+
+
+[2024/11/05 1:43] voidfulfool
+weeeeeeeeeee
+
+
+[2024/11/05 1:51] voidfulfool
+I feel like we should be able to explore the smaller islands to fight off more enemies for more rewards
+
+
+[2024/11/05 1:51] voidfulfool
+Rahhhhh
+
+
+[2024/11/05 1:51] da_dogbar
+Honestly sick idea
+
+
+[2024/11/05 1:51] voidfulfool
+Or be even able to fight other bosses like in this example, after beating and bullying Baru you have the choice up to defeat Iwao
+
+
+[2024/11/05 1:51] voidfulfool
+Ye ye
+
+
+[2024/11/05 1:53] voidfulfool
+I feel like the drawback tho should be it gets harder to defeat other bosses since the game seems to actually have time in their reality lol
+
+
+[2024/11/05 6:33] n.h.l
+more arenas with hazards? but would be hard to make the enemies dodge the hazards too while fighting you
+
+
+[2024/11/05 6:38] voidfulfool
+I recommended some hazards a while back lol
+
+
+[2024/11/05 6:41] n.h.l
+oh i see https://discord.com/channels/965169818309369858/965176630588882954/1299904222661181564
+this are some solid ideas, i like the icicles and the wind the most
+
+
+[2024/11/05 6:41] voidfulfool
+YIPPEEEEE
+
+
+[2024/11/05 6:42] voidfulfool
+thanks
+
+
+[2024/11/05 6:44] n.h.l
+maybe poison clouds (could be to much)?
+
+
+[2024/11/05 7:06] voidfulfool
+If they last a certain amount of time like 5 turns then definitely possible
+
+
+[2024/11/05 9:30] darkendgame
+if I had never said that that symbol there was a mouth, would you assume that it was?
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1303154551066591275/image.png?ex=6a163b40&is=6a14e9c0&hm=9b54d86a6d2d11d779c995fc38386d7ebdc3bea0759221f62db93b744755864c&
+
+
+[2024/11/05 9:31] voidfulfool
+What
+
+
+[2024/11/05 9:31] darkendgame
+just does that look like a mouth
+
+
+[2024/11/05 9:31] darkendgame
+to the right of the 1
+
+
+[2024/11/05 9:32] voidfulfool
+Yea it does lol
+
+
+[2024/11/05 9:43] darkendgame
+And does that look like a good wing?
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1303157636958785577/image.png?ex=6a163e20&is=6a14eca0&hm=631441464208435ddf386c015d93d8697f71989b644a951ae19f1448305778b1&
+
+
+[2024/11/05 9:44] voidfulfool
+Ye
+
+
+[2024/11/05 11:56] Deleted User
+tapeworm
+
+
+[2024/11/05 11:57] Deleted User
+(I'm sorry)
+
+
+[2024/11/05 17:04] undurable
+bleached seashell
+
+
+[2024/11/05 17:19] n.h.l
+how are you all so good in making pixelart
+
+
+[2024/11/05 21:29] d3v0553
+maybe it could be fake out or something (not taken from pokemon at all hehehhe)
+
+
+[2024/11/05 22:42] d3v0553
+final hero idea for my custom hero quintet
+
+**The Corrupted**
+
+A lonely fighter set out on a journey to get power and fame as a hero. As he practiced with his sensei and grew more in power, he officially set out on his voyage to meet the shogun for a fight, who was not then corrupted. However, suddenly, a star fell from the sky and hit him, turning him corrupted, turning his orange cape red, and his eyes glowing. Despite this, he still has the mindset of wanting to defeat the Shogun, and hence is on the heroes' side, even though that would mean getting rid of his corruption and becoming less powerful.
+
+Passive Ability: Dash
+Ability: Shadow Dash OR
+*Corrupt*: Move into a non-boss enemy to transform it into a *Corrupted Progeny* with two less health. *(transforming the enemy will get rid of the tiles currently in its queue. the corrupted progeny's hp. can not go below 1 while transforming.)*
+
+Main deck: Bomb (with 4 cd), Swap Toss
+Second deck: Blade of Patience, Smoke Bomb
+
+*(all these tiles come from the idea of already exisiting bosses. hideyoshi, the twins, and ieyasu go for a dash + bomb, swap toss, and blade of patience attack respectively, and smoke bomb is the main tile of kowa. fumiko and the shadow can dash due to their species type, but the corrupted can dash because his corruption mimics bosses)*
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1303353737615507516/Corrupted.png?ex=6a164c02&is=6a14fa82&hm=286b2471cf418d8c3d765c23c180705ab12d72d894d103e5d7d6b7ad0f17a47b&
+
+
+[2024/11/05 22:48] n.h.l
+Does a Corrupted Agency spawn a Corrupted Progeny upon dying?
+
+
+[2024/11/05 22:49] d3v0553
+sorry, its supposed to be a corurpte progency lmao
+
+
+[2024/11/05 22:53] d3v0553
+mb, its apparently called a 'corrupted progeny', not a 'corrupted progeny'
+
+
+[2024/11/05 22:53] d3v0553
+i am very literate
+
+
+[2024/11/05 22:54] d3v0553
+btw, though the bomb tile isnt usually accessible in a tile reward room, the corrupted exclusively gets access to it
+
+
+[2024/11/05 22:55] n.h.l
+it is a nice design, well thought out
+
+
+[2024/11/05 22:56] d3v0553
+thx
+
+
+[2024/11/05 22:59] n.h.l
+is the Bomb explosion like the Blazing Suisei explosion? the explosion isnt affected by enchantments
+
+
+[2024/11/05 22:59] d3v0553
+no,i ts not
+
+
+[2024/11/05 23:00] d3v0553
+blzing suisei's explosion always deal 2 damage, but the bomb's explosion depends on its damage stat
+
+
+[2024/11/05 23:00] d3v0553
+im not sure if the bomb is affected by enchantments. i've not tested bomb as a player tile before
+
+
+[2024/11/05 23:01] d3v0553
+also, bomb would have 4 cd ig
+
+
+[2024/11/05 23:17] voidfulfool
+Ooooo nice
+
+
+[2024/11/05 23:20] voidfulfool
+Bro got the Kowa backstory
+
+
+[2024/11/05 23:20] voidfulfool
+lol
+
+
+[2024/11/05 23:30] d3v0553
+lmao
+
+
+[2024/11/05 23:39] d3v0553
+turns out, bomb is not compatible with enchantments
+
+
+[2024/11/05 23:39] d3v0553
+and its also very risky to use
+
+
+[2024/11/05 23:40] d3v0553
+would be for a great gameplay that puts you at the edge of your seat ig :curse:
+
+
+[2024/11/05 23:46] n.h.l
+it has good synergy with the dash ability
+
+
+[2024/11/05 23:46] d3v0553
+it does, but its also pretty risky
+
+
+[2024/11/05 23:47] d3v0553
+like, if there's a melee attacke behind you and a yumi sniper is charging his volley, you can go for swap toss to dodge the melee attacker, but the volley still hits you
+
+
+[2024/11/05 23:47] d3v0553
+because of this, the corrupted would be very reliant on swap toss
+
+
+[2024/11/05 23:48] d3v0553
+and, if you make a mistake and tank the bomb when its at high damage, you WILL literally die from day 6+
+
+
+[2024/11/05 23:48] d3v0553
+like, i took 6 damage from my bomb because i was pressing my keys to hard :curse:
+
+
+[2024/11/05 23:53] d3v0553
+also, i encountered a bug while using bomb, where i couldnt attack or move at all
+
+
+[2024/11/05 23:53] d3v0553
+but i guess that happened since mirko didnt expect ppl to be modding in bomb :curse:
+
+
+[2024/11/05 23:57] n.h.l
+risk = fun :curse:
+
+
+[2024/11/06 0:09] voidfulfool
+Lmao
+
+
+[2024/11/06 0:10] voidfulfool
+FRRRR
+
+
+[2024/11/06 0:10] voidfulfool
+IT GIVES ME DOSES OF FOOLERY WHEN MY GAMBLE SUCCEEDS
+
+
+[2024/11/06 0:10] voidfulfool
+https://tenor.com/view/light-yagami-death-note-anime-gif-18139397
+
+{Embed}
+https://tenor.com/view/light-yagami-death-note-anime-gif-18139397
+https://images-ext-1.discordapp.net/external/be5EU7LWinixJsQxduty-Uc1R98sw5sGUOHgQ1y0ksA/https/media.tenor.com/-bB2JahXkMoAAAAe/light-yagami.png
+
+
+[2024/11/06 0:35] d3v0553
+you are right tho, although i was on the verge of killing myself (unintentionally), it was very fun
+
+
+[2024/11/06 0:36] d3v0553
+also, enemy go boom hhaha
+
+
+[2024/11/06 19:36] n.h.l
+for some sort of mage or a character like raiden from mortal combat with the Lightning starting tile
+
+Ability: Can Swap position of an enemy in front of him with the furthest enemy ahead  by moving forward.
+
+
+[2024/11/06 21:18] d3v0553
+super wanderer
+
+
+[2024/11/06 21:32] n.h.l
+he swaps two enemies not himself
+
+
+[2024/11/06 21:45] d3v0553
+oh, mb
+
+
+[2024/11/08 0:05] n.h.l
+Character: Sumo Wrestler
+
+Passive Ability: Heavy (Can not be turned or moved.)
+After moving, tiles don't recharge at the end of turn.
+
+Ability: Gains a shield by moving forward into an enemy.
+
+Tile set:
+Grappling Hook
+Katana
+
+
+[2024/11/08 0:06] d3v0553
+so, the only way you can recharge your tiles is by waiting or turning?
+
+
+[2024/11/08 0:07] n.h.l
+or putting a tile into your queue and attacking
+
+
+[2024/11/08 0:07] d3v0553
+also, most enemies don't turn or move you, do they? the only one who does is grappler i think, and maybe to some extent, kabukai
+
+
+[2024/11/08 0:07] d3v0553
+alr
+
+
+[2024/11/08 0:09] n.h.l
+Shinobi, Grappler and some bosses
+
+
+[2024/11/08 0:09] n.h.l
+and you dont get recoil with Tanegashima
+
+
+[2024/11/08 0:09] da_dogbar
+that doesn't sound fun ngl
+
+
+[2024/11/08 0:10] d3v0553
+aah sinobi right
+
+
+[2024/11/08 0:10] d3v0553
+not having tiles recharge at the end of the turn while moving sounds really boring
+
+
+[2024/11/08 0:11] d3v0553
+i know that passive abilities aren't necessarily supposed to make a character more powerful, it's only supposed to change the playing-style of the hero. here, it changes the style in such a way it turns a lil' boring
+
+
+[2024/11/08 0:11] voidfulfool
+Crazy but sounds awesome
+
+
+[2024/11/08 0:12] d3v0553
+also, the shield ability is pretty wild to make up for it tho
+
+
+[2024/11/08 0:12] d3v0553
+shield every 4 turns lmao :curse:
+
+
+[2024/11/08 0:13] voidfulfool
+Delicious
+
+
+[2024/11/08 0:13] d3v0553
+mmmm
+
+
+[2024/11/08 0:13] voidfulfool
+Ima need them dancer cooldowns窶ｦ
+
+
+[2024/11/08 0:15] d3v0553
+also, what whould be the second tileset for sumo wrestler?
+
+
+[2024/11/08 0:16] d3v0553
+moreover, even with a shield, you wouldn't be able to dodge daisuke, rei's, shogun, etc.'s charge attacks
+
+
+[2024/11/08 0:17] n.h.l
+could be boring, you are right, but he plays different for sure
+
+
+[2024/11/08 0:18] d3v0553
+yea, i love that part of sumo wrestler tho
+
+
+[2024/11/08 0:18] d3v0553
+it changes the play-style very hard, but not too much. just a lil'. it has not quite play-style-changed too close to the sun
+
+
+[2024/11/08 0:19] d3v0553
+tetsubo is the only good attack of sumo wrestler, and you can't have recharge it quickly because of his passive ability?
+
+
+[2024/11/08 0:20] n.h.l
+yes could be too slow, maybe Katana would be better
+
+
+[2024/11/08 0:21] d3v0553
+yea, it would counteract the slow cd charge
+
+
+[2024/11/08 0:22] d3v0553
+also, giving it swap toss would be good, maybe. it would give a reliable dodge to charge attacks, and fits him thematically
+
+
+[2024/11/08 0:24] n.h.l
+I dont think getting a shield by moving into an enemy is too strong, its like a block against meele enemies
+
+
+[2024/11/08 0:25] d3v0553
+aah, ig you're correct
+
+
+[2024/11/08 0:25] d3v0553
+you'll have to be right next to the enemy, after all
+
+
+[2024/11/08 0:26] d3v0553
+but the thing is that, you could get a shield before hand (when you're not in threat of an attack), and use it for tanking the next attack instead
+
+
+[2024/11/08 0:26] d3v0553
+but, again, it can only shield one attack
+
+
+[2024/11/08 0:27] da_dogbar
+what if he started with patience or whatever that skill was called
+
+
+[2024/11/08 0:27] n.h.l
+you could do things like stand in front of a Yari Master and getting a shield so the guy behind you gets hit, this wouldn't be a good strategy with other characters
+
+
+[2024/11/08 0:28] d3v0553
+patience...?
+
+
+[2024/11/08 0:28] da_dogbar
+to compensate for the cooldowns
+
+
+[2024/11/08 0:28] d3v0553
+the skill, patience?
+
+
+[2024/11/08 0:28] da_dogbar
+recharge 2 cooldown instead of 1 when waiting, forgot what it was called
+
+
+[2024/11/08 0:28] d3v0553
+or blade of patience?
+
+
+[2024/11/08 0:28] d3v0553
+of, mindfulness
+
+
+[2024/11/08 0:28] d3v0553
+oh, that would be interesting ig
+
+
+[2024/11/08 0:29] d3v0553
+what about the guy behind you? he could charge an attack, and in order for that yari master to attack, you would need to be sandwiched in between them (oh god that sounds bad out of context). and, 2 damage ain't that good. ig it could synergise with friendly fire
+
+
+[2024/11/08 0:29] n.h.l
+I think it would be to much to give him even more passive abilities
+
+
+[2024/11/08 0:30] d3v0553
+maybe you could get rid of heavy?
+recharges 2 cd instead of 1, but can't recharge cd while moving
+
+
+[2024/11/08 0:32] n.h.l
+he gets a new tile in his other tile set:
+
+Name: Meditation
+CD: 4
+Description: Recharge all tiles in your hand.
+
+
+[2024/11/08 0:32] d3v0553
+thinking abt it again, the 'no recharge while moving' sounds very annoying when recharging cd while walking up to an enemy to kill them with a melee attack
+
+
+[2024/11/08 0:33] d3v0553
+meitation and...?
+
+
+[2024/11/08 0:33] d3v0553
+meditation and tetsubo?
+
+
+[2024/11/08 0:33] n.h.l
+yes
+
+
+[2024/11/08 0:34] d3v0553
+meditation and... tanegashima hehhe :curse:
+
+
+[2024/11/08 0:34] d3v0553
+or, mediation and meditation
+
+
+[2024/11/08 0:34] d3v0553
+meditating like there's no tomorrow
+
+
+[2024/11/08 0:34] n.h.l
+endless meditation every turn
+
+
+[2024/11/08 0:35] d3v0553
+meditation + meditation + gun
+
+
+[2024/11/08 0:35] n.h.l
+oh right if you have 2 meditations you can recharge every turn
+maybe too broken and you cant get more than one
+
+
+[2024/11/08 0:36] d3v0553
+'meditation: recharge all non-meditation tiles'
+
+
+[2024/11/08 0:36] n.h.l
+another possible fix
+
+
+[2024/11/08 0:36] d3v0553
+but two meditations would still be broken
+
+
+[2024/11/08 0:36] d3v0553
+a meditation with 1 cd
+
+
+[2024/11/08 0:36] d3v0553
+or 0 cd, even
+
+
+[2024/11/08 0:37] d3v0553
+having only 1 tile deal with cd is broken af
+
+
+[2024/11/08 0:42] n.h.l
+less broken Meditation:
+
+CD: 5
+Description: All tiles in your hand cooldown is recharged by 4.
+
+
+[2024/11/08 0:43] d3v0553
+still very powerful
+
+
+[2024/11/08 0:45] d3v0553
+i think the main problem is that it recharges ALL other tiles
+
+
+[2024/11/08 0:45] d3v0553
+at max, it could recharge 5 tiles
+
+
+[2024/11/08 0:45] d3v0553
+that would be worth 20 cooldown. on one tile
+
+
+[2024/11/08 0:45] d3v0553
+(though,, yeah, i know, multiple tiles get recharged at once)
+
+
+[2024/11/08 0:46] n.h.l
+it doesnt recharge the tiles already in your queue and you have to waste a turn to put it into your queue and a turn to attack to activate it
+
+
+[2024/11/08 0:47] d3v0553
+good point
+
+
+[2024/11/08 0:48] n.h.l
+it is already very situational, i wouldn't make it weaker
+
+
+[2024/11/08 0:49] d3v0553
+so, what would be the final sumo wrestler? all passive abilities and tilesets and all
+
+
+[2024/11/08 0:49] d3v0553
+**Sumo Wrestler**
+
+Passive Ability: Heavy, Cannot recharge cooldown while moving.
+Ability: Gain a shield by moving into an enemy.
+
+Tilesets:
+Meditation/Tetsubo
+
+
+[2024/11/08 0:50] d3v0553
+still gonna go with grappling hook/tetsubo?
+
+
+[2024/11/08 0:50] apokalypse6
+what yall talking about
+
+
+[2024/11/08 0:50] d3v0553
+.
+
+
+[2024/11/08 0:50] d3v0553
+yappin abt this
+
+
+[2024/11/08 0:51] apokalypse6
+Oof
+
+
+[2024/11/08 0:51] n.h.l
+Character: Sumo Wrestler
+
+Passive Ability: Heavy (Can not be turned or moved.)
+After moving, tiles don't recharge at the end of turn.
+
+Ability: Gains a shield by moving forward into an enemy.
+
+Tile set 1:
+Tetsubo
+Meditation (CD: 5, Description: All tiles cooldown in your hand is recharged by 4.)
+
+Tile set 2:
+Grappling Hook
+Katana
+
+
+[2024/11/08 0:51] apokalypse6
+Seems more like a challenge instead of a hero
+
+{Reactions}
+漕
+
+[2024/11/08 0:51] d3v0553
+sumo wrestler be running that grappler build
+
+
+[2024/11/08 0:52] d3v0553
+the sumo wrestler was the grapplers we made along the way
+
+
+[2024/11/08 0:52] apokalypse6
+Meditation is broken aswell
+
+
+[2024/11/08 0:53] n.h.l
+would you take it over Smoke Bomb if offered?
+
+
+[2024/11/08 0:53] apokalypse6
+Yes
+
+
+[2024/11/08 0:53] apokalypse6
+depends on build tbh
+
+
+[2024/11/08 0:53] d3v0553
+tbh, yeah. smoke bomb is far more consistent
+
+
+[2024/11/08 0:53] d3v0553
+smoke bomb will always be your fren. not sure abt meditation. they seem fishy
+
+
+[2024/11/08 0:53] n.h.l
+i think it depends on your other tiles
+
+{Reactions}
+漕
+
+[2024/11/08 0:54] apokalypse6
+yes
+
+
+[2024/11/08 0:54] apokalypse6
+If you have a cd heavy build and are far into the run, medi is the right choice
+
+{Reactions}
+漕
+
+[2024/11/08 0:55] n.h.l
+overpowered tiles are always the better choice, build independent
+
+
+[2024/11/08 0:55] apokalypse6
+I disagree heavily with that
+
+
+[2024/11/08 0:56] apokalypse6
+Id rather have atleast one movement tile than 6 hugh dmg tiles
+
+
+[2024/11/08 0:56] n.h.l
+I think the base game is mostly balanced
+
+
+[2024/11/08 0:57] apokalypse6
+Hm
+
+
+[2024/11/08 0:57] apokalypse6
+I dont know tbh
+
+
+[2024/11/08 0:58] apokalypse6
+Whats your definition of balanced
+
+
+[2024/11/08 0:59] n.h.l
+if you can argue for every tile to be the best tile in a specific situation
+
+
+[2024/11/08 1:40] voidfulfool
+Meme Hero: The Mugger
+Passive: Moving into a enemy steals 1 coin from them
+Starter tiles: Mon and Bo
+Alt tiles: Swap-Toss and katana
+
+
+[2024/11/08 1:40] voidfulfool
+Funny idea I thought of lmao
+
+
+[2024/11/08 2:25] fireeye.
+I was going to say that character does not sound good but you can literally farm infinite money
+
+
+[2024/11/08 2:26] voidfulfool
+THAT IS WHY IT IS A MEME HERO
+
+
+[2024/11/08 2:26] voidfulfool
+lol
+
+
+[2024/11/08 2:29] da_dogbar
+what if it was 
+CD: 6
+DMG: 4
+Recharge all tiles in hand by the amount of damage this tile has.
+
+
+[2024/11/08 2:47] fireeye.
+I窶冦 just saying my first thought was that the meme is it窶冱 bad
+
+
+[2024/11/08 2:48] voidfulfool
+Ye ye I get it lol
+
+
+[2024/11/08 2:59] da_dogbar
+hypothetically
+
+
+[2024/11/08 2:59] da_dogbar
+would you count thorns as an enemy?
+
+
+[2024/11/08 2:59] voidfulfool
+N o
+
+
+[2024/11/08 3:00] voidfulfool
+That includes barricades
+
+
+[2024/11/08 4:38] n.h.l
+what if he starts with 10 Coins and he dies if he has no Coins
+and he can steal only 1 Coin per enemy
+
+
+[2024/11/08 4:39] voidfulfool
+Dies from being poor
+
+
+[2024/11/08 4:39] voidfulfool
+Lmaoooo
+
+
+[2024/11/08 4:39] n.h.l
+damage he takes reduces his Money instead of life
+
+
+[2024/11/08 4:40] voidfulfool
+Buying stuff from the shop would be even more harder for him lol
+
+
+[2024/11/08 4:41] n.h.l
+getting stronger but losing life
+
+
+[2024/11/08 4:43] voidfulfool
+Fr
+
+
+[2024/11/08 4:44] n.h.l
+a lot of risk managment, sounds fun
+
+
+[2024/11/08 4:45] voidfulfool
+I love taking risks
+
+
+[2024/11/08 4:45] voidfulfool
+lol
+
+
+[2024/11/08 4:45] voidfulfool
+Dammit now I need to make The Gambler
+
+
+[2024/11/08 4:45] voidfulfool
+Hmmmm
+
+
+[2024/11/08 4:46] n.h.l
+this is very different, but interesting too
+
+
+[2024/11/08 4:51] n.h.l
+not a mugger anymore? but I like the concept to steal money, but maybe he has to lose more money if he gets hit (maybe 3 per damage), otherwise he can tank a lot if you save your money
+
+
+[2024/11/08 4:55] voidfulfool
+I feel like if this was actually in the game people would find a way to abuse it so I think losing 4 per damage is good enough
+
+
+[2024/11/08 4:55] voidfulfool
+Have to make something overpowered have big punishments
+
+
+[2024/11/08 4:55] voidfulfool
+lol
+
+
+[2024/11/08 4:59] n.h.l
+I like it, it feels very unique
+
+
+[2024/11/08 5:02] voidfulfool
+Now I want a character to have a passive as a drop kick
+
+
+[2024/11/08 5:02] voidfulfool
+Lmaoooo
+
+
+[2024/11/08 7:11] plimboscrimbly
+if there was a limit per enemy to represent how much they were carrying this would be funny
+
+
+[2024/11/08 8:22] voidfulfool
+Fr lol
+
+
+[2024/11/08 12:11] Deleted User
+the shogun vs "a mugger" 逐
+
+
+[2024/11/08 12:12] voidfulfool
+Bahahahahhaa
+
+
+[2024/11/08 12:12] voidfulfool
+Lmao
+
+
+[2024/11/09 4:28] d3v0553
+**Shadow Kusarigama**
+
+Damage: 3 (changed it from 4)
+Cooldown: 6
+
+Strike the 3 cells directly ahead. Pierces, distributing damage to targets.
+
+This is not mentioned in the tile description, but the damage spreading will prioritize the furthest enemy. As in, if this tile hits three enemies, the first two get dealt 1 damage, whereas the third and last gets dealt for 2. This could pair up with enchantments really well. It can Curse, Freeze and Poison three enemies at once, and can also deal absurd damage with Shockwave.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1304527943334105210/ShadowKusarigama.gif?ex=6a169d12&is=6a154b92&hm=469e92fa431746d2202b6d079f2dc3c200e48438e463492b8df316312f838d7f&
+https://cdn.discordapp.com/attachments/965176630588882954/1304527943837552753/ShaowKusarigamaInGame.png?ex=6a169d12&is=6a154b92&hm=9c00019ba4c473edf79b1a3ae0e75fc0738b7cb0022b718b309fb476fb405573&
+
+{Reactions}
+箝・
+
+[2024/11/09 4:37] fireeye.
+I like it
+
+
+[2024/11/09 5:09] voidfulfool
+YOOOO
+
+
+[2024/11/09 5:10] voidfulfool
+BASICALLY A WHIP???
+
+
+[2024/11/09 5:10] voidfulfool
+LETS GOOOO
+
+
+[2024/11/09 5:13] voidfulfool
+That sounded so wrong
+
+
+[2024/11/09 5:13] voidfulfool
+Lmao
+
+
+[2024/11/09 5:42] da_dogbar
+Base stats might be too powerful
+
+{Reactions}
+漕
+
+[2024/11/09 7:03] apokalypse6
+Base Damage should probably be nerfed to 3.
+
+{Reactions}
+漕
+
+[2024/11/09 8:15] n.h.l
+4 damage is ok, 3 would be too weak, compare it to Tanegashima (4 damage ranged weapon) or Shadow Dash/Spear (can hit multiple enemies in a row)
+
+
+[2024/11/09 11:26] plimboscrimbly
+tanegashima is the second best tile in the game however
+
+
+[2024/11/09 11:26] plimboscrimbly
+and it doesn窶冲 pierce
+
+
+[2024/11/09 11:27] plimboscrimbly
+3 would also be good because it would split evenly at 1/1/1
+
+
+[2024/11/09 11:27] plimboscrimbly
+idk seems crazy good with shockwave
+
+
+[2024/11/09 14:06] d3v0553
+you're right, i was literally just thinking abt that when i tried to sleep lmao :curse:
+
+
+[2024/11/09 14:09] d3v0553
+yeah, but a four damage kusarigama could act like a ranged tetsubo, or a spear with extra reach. i dont rlly wanna reinvent the wheel
+
+three damage is alright, since it would deal 3 damage evenly as plimbo suggested
+
+
+[2024/11/09 14:10] d3v0553
+it is indeed, crazy good with shockwave.
+
+is shockwave good on nagiboku? does the shockwave also not kill the enemy?
+
+
+[2024/11/09 18:46] n.h.l
+the weakest part of Shadow Kusarigama in comparison to other piercing tiles is that it doesnt multiply the damage for each enemy, if you power it up its not a lot stronger (compare +2 damage on this and +2 damage on spear)
+
+
+[2024/11/09 18:50] n.h.l
+shockwave can kill on nagiboku but it is hard to predict if it triggers at the right moment (https://discord.com/channels/965169818309369858/982308764042559539/1303758967041953813)
+
+
+[2024/11/09 19:37] d3v0553
+but that's not exactly how you're supposed to play it. it plays best with enchantments
+
+
+[2024/11/09 19:37] d3v0553
+oh, interesting to know
+
+
+[2024/11/09 19:39] d3v0553
+one of the strengths of kusarigama is hitting three enemies at once. unlike nagiboku, kusarigama CAN kill. So, it would be crazy broken if it were to multiply the damage per enemy. even if it had base 1 attack, just bumping that by one or two would make it very broken
+
+
+[2024/11/09 19:41] d3v0553
+not only that, but kusarigama is more versatile as compared to spear, or swirl, or other multihit/AOE tiles. if you specifically target one enemy with it, it deal 3 damage on the spot with having good range
+
+
+[2024/11/09 19:43] d3v0553
+thats one of the reasons why i changed it from 4 damage, to 3 damage. as said here, kusarigama would be able to deal 4 ranged damage or 2 piercing damage with extra range, basically being a strictly better spear/tetsubo, i dont rlly wanna do that
+
+
+[2024/11/09 19:47] n.h.l
+with CD 7 its not strictly better
+
+
+[2024/11/09 19:48] n.h.l
+but its all just theory anyway
+
+
+[2024/11/09 20:04] n.h.l
+if you reduce the damage to 3 you should reduce the CD too
+
+
+[2024/11/09 21:18] d3v0553
+ig ur right
+
+
+[2024/11/09 21:18] d3v0553
+reverted the cd back
+
+
+[2024/11/10 8:53] plimboscrimbly
+i think lightning and scar strike should work against the corrupted soul while it窶冱 in the air
+
+
+[2024/11/10 9:18] voidfulfool
+Logically, yea
+
+
+[2024/11/10 9:19] voidfulfool
+Maybe he窶冱 invincible in the air because he窶冱 just that guy
+
+
+[2024/11/10 9:19] voidfulfool
+Lmao
+
+
+[2024/11/10 22:06] d3v0553
+New tile idea:
+
+**Tekkﾅ・Kagi**
+
+Base Attack: 1
+Base Cooldown: 1
+
+Strike the cell directly ahead. Deal 1 more damage for every 1/5th of your MAX HP. missing.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1305156718271139970/TekkoKagi.gif?ex=6a1643aa&is=6a14f22a&hm=6cad30c2f93644d3f0b10053bb6ae839f51e297caeda0555870d8586c0f4038b&
+
+
+[2024/11/10 22:32] d3v0553
+maybe it should have 2 base attack?
+
+
+[2024/11/10 22:32] n.h.l
+this is just ok, not really any combo potential with other tiles
+and the only synergy with a skill is with *Healthy*
+
+
+[2024/11/10 22:33] d3v0553
+i wanted this to be a 'high risk high reward' thing.
+
+
+[2024/11/10 22:33] d3v0553
+maybe this could have less cd or more attack?
+
+
+[2024/11/10 22:34] d3v0553
+this *doesn't* rlly fully combo with other tiles, but i want this to be a fairly good attacking tile that isn't super rare, like tanegashima
+
+
+[2024/11/10 22:34] n.h.l
+not a lot of risk because you only heal if you know you get hit
+
+
+[2024/11/10 22:34] d3v0553
+that is one of the ways you could play it
+
+
+[2024/11/10 22:34] d3v0553
+but, if you're in a sticky situation and were in dying range, and were planning to kill with tekko kagi, you wouldnt be able to use it anymore if you wanted to heal.
+
+
+[2024/11/10 22:35] n.h.l
+ok it changes a little bit how you play, makes it better
+
+
+[2024/11/10 22:36] d3v0553
+should this have better base stats? compared to katana, this' cd aint that great for 1 base dmg
+
+
+[2024/11/10 22:43] n.h.l
+not sure, his potention to have 5 power in base form (7 with Healthy) is realy high
+not the biggest fan of different rule texts on different days, there is no other tile or skill like this even if it would make sense (but I understand why you did it)
+
+
+[2024/11/10 22:51] n.h.l
+maybe you can flipp it around: 
+Base Damage: 6
+Description: Strike the cell directly ahead. Damage reduced by 1 for each HP you have.
+
+but it would be weaker this way but it is not overpowered if you start with more HP
+
+
+[2024/11/10 22:54] da_dogbar
+what if
+
+
+[2024/11/10 22:55] da_dogbar
+base cooldown 1
+
+
+[2024/11/10 23:14] d3v0553
+this would deal 0 damage if below day 6, right?
+
+
+[2024/11/10 23:16] d3v0553
+okay, so i changed the description into saying 'one more damage for every 1/5th of max hp. missing'
+
+
+[2024/11/10 23:16] d3v0553
+this way, there wouldnt be any 'do xyz before day 6, but abc day 6+ onwards' shenanigans
+
+
+[2024/11/10 23:17] d3v0553
+that sounds much more suitable. changed it to that
+
+
+[2024/11/10 23:32] n.h.l
+it would deal 0 damage until you have 5 or less HP left
+
+
+[2024/11/10 23:50] d3v0553
+that would basically be useless...?
+
+
+[2024/11/10 23:51] d3v0553
+useless on day 6-, very meh on day 6+
+
+
+[2024/11/10 23:53] n.h.l
+it powers up on day 1-5 if you have less than 6 life
+
+
+[2024/11/10 23:54] n.h.l
+your max HP are not relevant with this wording
+
+
+[2024/11/11 0:09] d3v0553
+yea, but... dealing 1 damage on 5 life doesnt sound that good
+
+
+[2024/11/11 0:09] d3v0553
+its only great when you have 2 or 1 life
+
+
+[2024/11/11 2:08] n.h.l
+but thats the case on day 6 and 7, too
+
+
+[2024/11/11 2:16] d3v0553
+yea, but getting to 1 hp will be much more often than day 6-
+
+
+[2024/11/11 2:17] d3v0553
+for e.x, you could take a twin tachi at the beggining by accident, and deal 3 damage right off the bat with 1 cd tekko-kagi. on day 6- getting to that point would be much more dangerous
+
+
+[2024/11/11 2:18] d3v0553
+or at least less often
+
+
+[2024/11/11 2:18] d3v0553
+with the '1/5th of max hp.', taking damage would always not be terrible
+
+
+[2024/11/11 3:03] d3v0553
+*unapologetically posts another tile idea*
+
+**Makibishi**
+
+Base Attack: 1
+Base Cooldown: 3
+
+Set spikes in the cell directly ahead. Spikes get absorbed by enemies on contact and prevents them from moving for one turn.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1305231414459105360/Makibishi.gif?ex=6a16893b&is=6a1537bb&hm=5713fe627c2c18019e19a6bb6208ffdcbcc4f2304c4eded59436dbfc56760383&
+
+
+[2024/11/11 3:15] n.h.l
+how does this work?
+can the enemy do another action instead of moving even if he is programmed to move the next turn after moving on this?
+
+
+[2024/11/11 3:16] d3v0553
+the enemy just delays their action by one turn
+
+
+[2024/11/11 3:17] d3v0553
+the spike damage stacks, but the paralysis doesnt
+
+
+[2024/11/11 3:21] n.h.l
+oh so it doesnt matter what he is prgrammed to do, he just skips a turn?
+
+
+[2024/11/11 3:23] d3v0553
+basically
+
+
+[2024/11/11 3:24] d3v0553
+after the turn passes, they do what they're supposed to
+
+
+[2024/11/11 3:25] n.h.l
+than it is just worse ice?
+
+
+[2024/11/11 3:25] d3v0553
+the paralysis is a less better ice
+
+
+[2024/11/11 3:26] d3v0553
+it's a weaker trap with a mini-ice effect
+
+
+[2024/11/11 3:38] n.h.l
+so the Ice enchantment overwrites this?
+
+
+[2024/11/11 3:43] da_dogbar
+broken asf
+
+
+[2024/11/11 3:43] da_dogbar
+you get an infinite boss stunlock if you put -1 damage -4 cooldown on this
+
+
+[2024/11/11 3:44] da_dogbar
+nvm you'd have to get freeplay too
+
+
+[2024/11/11 3:44] n.h.l
+good point
+
+
+[2024/11/11 3:44] da_dogbar
+still kind of broken though
+
+
+[2024/11/11 3:45] n.h.l
+there is a reason a lot of bosses are immune to ice
+
+
+[2024/11/11 3:46] da_dogbar
+ngl i feel like ice should get a rework
+
+
+[2024/11/11 3:48] apokalypse6
+Poison aswell
+
+
+[2024/11/11 3:49] n.h.l
+what would be the change?
+
+
+[2024/11/11 3:51] da_dogbar
+#笏balance-suggestions眺
+
+
+[2024/11/11 3:53] n.h.l
+a little bit complicated but good idea
+
+
+[2024/11/11 3:53] d3v0553
+oh yeah, forgot to mention, bosses are immune to makibishi paralysis
+
+
+[2024/11/11 3:54] d3v0553
+but yeah, the base stats could probably allow stalling for a while
+
+
+[2024/11/11 3:54] da_dogbar
+but then that just removes its main function :(
+what if you just removed this part
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1305244294239752333/image.png?ex=6a16953a&is=6a1543ba&hm=aefd0fdad3bbd70a3ba68af6faf7f6ad2369e27b937297f7c0c291d17b426895&
+
+
+[2024/11/11 3:55] da_dogbar
+fixes the infinite stunlock issue
+
+{Reactions}
+漕
+
+[2024/11/11 3:55] d3v0553
+wow, ig ur right
+
+
+[2024/11/11 3:55] d3v0553
+having a paralysis mechanic combined with a better trap mechanic wouldnt fit that well
+
+
+[2024/11/11 3:56] d3v0553
+i'll change it
+
+
+[2024/11/11 3:56] d3v0553
+better?
+
+
+[2024/11/11 3:56] da_dogbar
+Yup sounds good
+
+{Reactions}
+総
+
+[2024/11/11 4:14] n.h.l
+new enchantment:
+
++Illusion, -1 Damage (Illusion: All other Enemies mistake the target enemy for the Player, remove the Illusion status from all other enemies. Duration: 3 turns)
+
+
+[2024/11/11 4:14] da_dogbar
+another question
+what if this interrupts an enemy in the middle of an attack queue?
+
+
+[2024/11/11 4:14] da_dogbar
+or when dashing
+
+
+[2024/11/11 12:38] d3v0553
+if the enemy is in the middle of an attack queue, it just delays what it was about to, again. so, if about to attack, after 1 turn. if about to add another tile, after 1 turn.
+If an enemy dashes, they'll be stuck on the cell with the spike
+
+
+[2024/11/11 16:28] da_dogbar
+thats cool
+
+
+[2024/11/11 16:28] da_dogbar
+ieyasu is crying so hard though lol
+
+
+[2024/11/11 16:36] voidfulfool
+Tile idea: speed blitz
+
+Works like forward and backwards shadow dash, for every damage increases how many times you go back or forward. Example: 3 damage would make you go forward, backwards, then forwards again for 1 damage each. If there are multiple enemies in ahead of you with some separate from each other, it will keep going forward until last enemy before going backwards. (Not able to enchant with double-strike)
+
+Damage: 2
+Cooldown: 6
+
+
+[2024/11/11 16:37] voidfulfool
+Definitely might need some tweaks to balance it out lol
+
+
+[2024/11/11 18:01] rafsan7561
+The rock spike move really could use an animation, something like a ground pound or slam kicking the floor would look sick
+
+
+[2024/11/11 18:02] rafsan7561
+And man the shop really needs an option to show what the items do, the shop in the menu area i mean
+
+
+[2024/11/11 18:25] apokalypse6
+It already has a animation though
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1305463371021422592/EarthImpale.gif?ex=6a16b881&is=6a156701&hm=b97e913428cb41b3da8dc57632c96d852eb2e6be4f439c685f1beef1d5385bde&
+
+
+[2024/11/11 18:51] rafsan7561
+I meant to say that the player character themselves should have one, it kinda looks off putting to me that they just stand there
+
+
+[2024/11/11 21:14] voidfulfool
+Like a lil jump just like from before entering the fight with the corrupted soul lol
+
+
+[2024/11/11 22:53] n.h.l
+looks like a fun tile to let your character zoom around (but it is overpowered for sure)
+
+
+[2024/11/11 23:17] voidfulfool
+Fr lol
+
+
+[2024/11/11 23:48] plimboscrimbly
+piercing kunai my beloved
+
+
+[2024/11/11 23:49] apokalypse6
+Crossbow x Kunai my beloved
+
+
+[2024/11/11 23:49] plimboscrimbly
+dynamic boost would go crazy
+
+
+[2024/11/12 0:02] n.h.l
+even if you move multiple times with the same tile, dynamic boost only buffs once
+this is how it works with Hookblade
+
+
+[2024/11/12 0:02] plimboscrimbly
+yeah i know but it窶冱 still just free double damage - 1
+
+
+[2024/11/12 0:04] voidfulfool
+lol
+
+
+[2024/11/12 0:04] voidfulfool
+Fr now I think abt it
+
+
+[2024/11/12 0:04] voidfulfool
+It stacks up to 3
+
+
+[2024/11/12 0:05] voidfulfool
+So after the 1st one, second one would do 4 damage lol
+
+
+[2024/11/12 0:35] d3v0553
+tile idea:
+
+**Tonfa**
+
+Base Damage: 2
+Base Cooldown: 6
+
+Equip a pair of Tonfa. When equipped, the cooldown of this tile won't recharge. Move into an enemy in any direction to deal 2 damage to it. Breaks when used times equal to damage amount.
+
+(If your special ability is charged, Tonfa triggers first, and then the ability. although i made the perfect strike tonfa sprite, this isn't compatible with it)
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1305556428550963271/Tonfa.gif?ex=6a16666c&is=6a1514ec&hm=77ddf078f180b668ee5815c620d3038ff655a5f9d7241acbfc940936fcab67c8&
+
+
+[2024/11/12 0:47] da_dogbar
+oooh i like that
+
+
+[2024/11/12 0:48] da_dogbar
+how does it work with shadow?
+
+
+[2024/11/12 0:48] da_dogbar
+do you have to move next to an enemy first to use it or does it make his movement work somewhat like charge
+
+
+[2024/11/12 0:49] d3v0553
+you have to move next to an enemy, and it works whether your special ability is charged or not
+
+
+[2024/11/12 0:49] d3v0553
+it doesnt mix with the passive ability movement
+
+
+[2024/11/12 0:49] da_dogbar
+imo the second option would be better
+
+
+[2024/11/12 0:50] d3v0553
+yea, but the description specifically says you have to move next to the enemy
+
+
+[2024/11/12 0:50] d3v0553
+im pretty sure its the same wording used in characters' abilities
+
+
+[2024/11/12 0:51] da_dogbar
+fair
+
+
+[2024/11/12 0:52] apokalypse6
+Theoretically Tonfa already exists in the game ha
+
+
+[2024/11/12 0:53] d3v0553
+? really
+
+
+[2024/11/12 0:53] apokalypse6
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1305561037126242364/image.png?ex=6a166ab7&is=6a151937&hm=bf5adcf55dab7a6adbae8a3ed89d895553612fffdfe4ea3a5bda10ceb0ca0421&
+
+
+[2024/11/12 0:53] d3v0553
+umhh well
+
+
+[2024/11/12 0:53] d3v0553
+it got changed soooo
+
+
+[2024/11/12 0:54] apokalypse6
+Also, no offense but the enchantment sprites of your weapon ideas are always just recolours
+
+
+[2024/11/12 0:54] da_dogbar
+actually thoughhhh special move descriptions state you need to just move forward to use it, i would argue shadow's regular movement would count as moving into an enemy like the description you've provided
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/1305561281083736074/image.png?ex=6a166af1&is=6a151971&hm=98a3d45750ba6f980443927c0ae6b3a23b79c0db9485e1cf8d3a27d4b12751d3&
+
+
+[2024/11/12 0:55] d3v0553
+well, make it work like how you want it to ig :curse:
+
+
+[2024/11/12 0:56] d3v0553
+ik, im usually just making them under a few minutes and recolouring them. i would make better sprites/animations if they were to be in-game, for e.x., the hero sprites
+
+
+[2024/11/12 0:56] d3v0553
+(thanks for the trickster animation, again, btw)
+
+
+[2024/11/12 0:56] apokalypse6
+Then why even make the enchantment recolors in the first place yk?
+
+
+[2024/11/12 0:59] d3v0553
+...to get a general idea of what their colors would be like? sometimes, the color of what a tile might be difficult to know what hypothetically it would be, especially when the tile is a dark-colored tile, or a tile with unusual colors. not only that, but i would say recoloring a sprite would be less time-taking than making a whole new design for them.
+
+
+[2024/11/12 0:59] d3v0553
+and also, i dont create new designs cuz i dont want to make any lmao :curse:
+
+
+[2024/11/12 1:00] d3v0553
+alternate designs are cool, dont get me wrong, but i dont rlly pay attention to the fact that swirl or katana looks like banana with shockwave
+
+
+[2024/11/12 1:00] d3v0553
+(tho i just happen to notice :curse:they look funni, ngl)
+
+
+[2024/11/12 1:04] d3v0553
+also, completely off-topic, but i love your tsareena and liligant pfp
+
+
+[2024/11/12 1:04] apokalypse6
+Thanks
+
+
+[2024/11/12 1:05] apokalypse6
+You enjoy pokemon? Or do you just know them by chance
+
+
+[2024/11/12 1:05] d3v0553
+oh, pure pokemon enjoyer
+
+
+[2024/11/12 1:05] d3v0553
+only played the first 5 games, but have my yt and tiktok feed is filled with pokemon stuff :curse:
+
+{Reactions}
+櫨 (2)
+
+[2024/11/12 1:32] voidfulfool
+Silly
+
+
+[2024/11/12 1:32] voidfulfool
+Anyways
+
+
+[2024/11/12 17:30] n.h.l
+new tile:
+
+Name: Horokubiya
+Damage: 2
+CD: 3
+Description: Place a Horokubiya in the first empty cell ahead. Immediately unleash an explosion that damages units in adjacent cells.
+
+
+[2024/11/12 20:54] d3v0553
+mini-bomb?
+
+
+[2024/11/12 21:03] d3v0553
+ooh, nvm, its a ranged bomb??
+
+
+[2024/11/12 21:04] d3v0553
+doesnt that mean that 3 cd is way too less? it should at least have 4 or 5 cd then
+
+
+[2024/11/12 21:04] n.h.l
+you have to throw it over an enemy otherwise you hit yourself, thats a big drawback
+
+
+[2024/11/12 21:05] d3v0553
+so, like, its a variant of blazing suisei?
+
+
+[2024/11/12 21:05] d3v0553
+with infinite range
+
+
+[2024/11/12 21:06] n.h.l
+it lands on the first empty space in front of you
+
+
+[2024/11/12 21:06] d3v0553
+directly in front of you?
+
+
+[2024/11/12 21:06] n.h.l
+it has only a lot of range if the cells in front of you are occupied
+
+
+[2024/11/12 21:07] d3v0553
+"first empty cell ahead" refers to the furthest empty cell, does it not?
+
+
+[2024/11/12 21:07] d3v0553
+for example, arrow says it "hits the first target ahead"
+

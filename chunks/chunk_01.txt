@@ -1,0 +1,2000 @@
+﻿==============================================================
+Guild: Shogun Showdown
+Channel: 笊披武笊絶武笊絶武笊触eneral笊絶武笊絶武笊絶武笊・/ 笏ideas､ｯ
+Topic: Ideas for Shogun Showdown! Create threads to discuss about individual ideas.
+==============================================================
+
+[2022/05/04 18:17] pride_zero
+Idea: Some sort of shielded enemy. Like they can only be damaged from the back. To balance it out, in normal mode, it takes 2 turn for it to turn around
+
+
+[2022/05/04 21:01] roboatino
+I really like the idea!
+This would work well for The Wanderer (who can swap) and The Ronin (who starts with a smoke bomb, and therefore can somehow get behind the enemy). 
+One potential issues is that some of the new characters I have in mind do not have the ability to "go behind an enemy" by default (that is, they can find an attack that lets them do that, but otherwise they would not have a way to go behind the enemy and damage it)  ､・Perhaps the shield can be broken after taking a certain amount of damage. So, the best strategy would still be to hit it from behind, but there would be no softlocking issues if the player does not have the necessary attacks... I might have to think about this a bit more ・
+
+
+[2022/05/04 23:41] h4nsu
+Throwing in just another idea:
+
+Shield for enemies could work like "restorable HP". Let's say a shield has 4HP and it takes damage from player's attacks before enemy's HP. The enemy would have a special attack (action) "restore shield" which recovers shield to its full HP. The goal of the player would be to deplete all 4HP before the enemy manages to restore it and only then the player would be able to damage the enemy directly.
+
+
+[2022/05/04 23:59] roboatino
+Also totally viable mechanic
+
+
+[2022/05/05 0:08] pride_zero
+as an attack, it could have a move where it charges 1/2 tiles ahead. If it hits us(or another enemy), they are pushed one tile back. If the tile is occupied maybe it could deal an extra 1 damage? ､・
+
+
+[2022/05/06 3:37] pride_zero
+An character upgrade you can buy at the shop that allows you to queue more than 3 attacks 乘
+
+{Reactions}
+亞 総 (4)
+
+[2022/05/17 14:03] hotmonkey1
+enemy that places traps on ground 総
+
+{Reactions}
+総 (4)
+
+[2022/05/22 5:19] hotmonkey1
+make bombs deal no or reduced damage to the player, would make a lot more usable
+
+{Reactions}
+総 (3)
+
+[2022/05/23 0:18] xrspy
+There needs to be a way to dodge the traps though. Like dashing through them triggers but doesn't proc damage. Or maybe just the smoke bomb swap doesn't trigger.  Right now, I think both trigger damage for the trap if your start and end position go through the trap?
+
+
+[2022/05/23 0:48] pride_zero
+or maybe the trap only lasts 3-4 turns and the trapper cant throw more than a set amount of traps( like he cant throw more traps till one of them is triggered, like Kowa's summons) ?
+
+
+[2022/05/23 11:59] hotmonkey1
+traps could trigger the second time you move onto it and could allso be triggerred by bombs
+
+
+[2022/05/23 11:59] hotmonkey1
+and yeah also a time limit
+
+
+[2022/05/23 12:01] hotmonkey1
+or maybe they only deal damage every other turn
+
+
+[2022/05/24 18:57] thom0315
+a weapon with damage based on how many enemy on the floor?
+
+{Reactions}
+亞 笶､・・(2) 事・・
+
+[2022/05/24 19:27] hotmonkey1
+option for faster animation times, faster enemy action times, etc.
+
+{Reactions}
+総
+
+[2022/05/25 21:13] roboatino
+Very interesting idea!
+
+
+[2022/05/26 17:51] that_one_planet
+A infinet mode were you have too survive as long as possable and at round 8 all the enimeys can spwan there are no bosses and a shop every 2 rounds from rouond 4 or 3
+
+
+[2022/05/26 18:29] hotmonkey1
+I feel like every 2 rounds would be often, how about 4 or 5
+
+
+[2022/05/27 1:32] pride_zero
+This one is delving deeper into the shield(as an added health) mechanic suggested earlier.
+- Dagger: does 2 damage and as a gimmick bypasses shields. base 4 turn cooldown [could also have an innate +1 damage to backstab but that would be kinda pointless as it would take a turn to turn around anyways, unless bo)
+- Crossbow: like an arrow, but does double damage to shields. base 5 turn cooldown(?)
+A playable character Knight:
+
+
+[2022/05/27 1:34] pride_zero
+- Longsword, same as sword but gives 1 shield every 2/3kills (or if the kill was a combo?)
+
+
+[2022/05/27 1:35] pride_zero
+- Shield, gives 3 shield points (for a max of 5 at a time)
+
+
+[2022/05/27 1:35] pride_zero
+- ability is push
+
+
+[2022/05/27 2:41] pride_zero
+Well, lastly, a training mode.
+Basically a level (kinda like the tutorial), where we can get ourselves any weapon/upgrade we've come by already in our run, and we can choose to spawn enemies that we've already defeated x times. Not only will this help with gameplay and trying out synergies, it will also help with finding and replicating bugs and weapon balance
+
+
+[2022/05/27 5:21] hotmonkey1
+so a creative mode?
+
+
+[2022/05/27 10:58] pride_zero
+Kinda, yeah
+
+
+[2022/05/28 16:35] roboatino
+An endless mode is indeed something I want to work on in the future.
+
+
+[2022/05/28 16:39] roboatino
+Nice mechanic! I can imagine a few interesting variations on the theme of "a weapon that 'charges with kills' and does something when it's fully charged" . E.g. a weak weapon that does only 1 damage, but after X kills (e.g. 3) deals a ton of damage.
+
+
+[2022/05/28 16:40] roboatino
+Totally agree that something like this would be extremely useful for balancing.
+
+
+[2022/05/28 16:49] roboatino
+(I'm currently busy implementing some new mechanics, but I'm really looking forward to work on new weapons and to try out some of your weapon ideas!)
+
+
+[2022/05/29 15:23] hotmonkey1
+maybe make push work when you're not facing the enemy as well
+
+
+[2022/05/29 18:15] that_one_planet
+knockback upgrade
+
+{Reactions}
+総 (3) 事・・
+
+[2022/05/30 4:08] tato158
+This game has a lot of potential! once it's finished, with more items and variables, I think this game will be amazing!
+What I would really like is that the run can be saved at any time, or when finish a wave, so that I can play it literally at any time!.
+
+
+[2022/05/31 3:19] roboatino
+Thanks! "mid-run saving" is definitely on me ToDo list ・
+
+
+[2022/05/31 23:16] kassandra_haruki
+isn't that just shadow dash
+
+
+[2022/06/01 0:22] pride_zero
+no? like a weapon that deals 3 damage if there are 3 enemies anywhere on the floor. Shadow dash just deals damage to everyone that was in the way iirc
+
+
+[2022/06/01 6:19] arkuktor
+Can there be a way to view the weapon details on character selections screens, on your own weapon bar in battles, and on the armory screen since the game doesn't tell you what each weapon does in the game outside the shop, and I won't be able to remember stuff like "the spear attacks 2 tiles in front of you"?
+
+It's also gets more complexity when you have upgrades on the weapons and can't ever tell what upgrades you point on that them when no tooltips pop up saying "X weapon has Y upgrade."
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/981305865795670026/Screenshot_5153.png?ex=6a16b70e&is=6a15658e&hm=9d413aa3d8dc00bf9fadbe217cdab2ac3d2c6a9eb53ab1d0704907bae5d44b46&
+
+
+[2022/06/01 6:20] arkuktor
+Also, when upgrades add keywords to things like "add poison," can keywords like "poison" have tooltips so that you know what they do, since ever the shop doesn't tell you what poison does?
+
+
+[2022/06/01 6:21] arkuktor
+Next, for bosses, can their health bars also show numbers, since I can't tell how much HP a boss has when it's a health bar and not numbers, unless it's changed to be like the health boxes you character and regular enemies have?
+
+
+[2022/06/01 6:28] arkuktor
+For potions, can their details also be shown when you hover over them on the map, and if a character starts with any potions (like the wanderer starting with a health potion), can the also be shown on the character selection screen, which I shown in a picture above?
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/981308292829687838/Screenshot_5154.png?ex=6a16b950&is=6a1567d0&hm=0dbe757e84e4ca735fad3c4a622efa56d4913899e9b87da72ba27425e1db0bab&
+
+
+[2022/06/01 6:39] arkuktor
+And as a follow-up, here's a picture of what the store details show. There should also be a way to skip the rewards if you don't want them, especially on upgrade screens when you can't stand the negative effect of added cooldown on some upgrades and/or don't want the weapons.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/981310882309111808/Screenshot_5156.png?ex=6a16bbba&is=6a156a3a&hm=c6f7e7204ca7097d03844334430d62c962a9df36be7cbdef93db7c76de53e7c3&
+
+
+[2022/06/01 6:39] arkuktor
+And also a picture of the upgrade shop not telling me what "electric" does.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/981311040769884180/Screenshot_5157.png?ex=6a16bbdf&is=6a156a5f&hm=263d6b00c2e270c4b0b1b916a57afb641c9ce543c59bcb94a9679a0f020d6206&
+
+
+[2022/06/01 7:10] arkuktor
+Finally, what does verisons of the same idea have different amounts of upgrade spots, since the shop sword has 4 upgrade spots, but I one I started with have 2?
+
+And going back to the character selection screen, each character's starting health should also be shown on it, too, and for the ascension, I can't ever tell what his ability is supposed to do since no tooltips come up explaining the tile.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/981318864786841640/Screenshot_5160.png?ex=6a16c329&is=6a1571a9&hm=df0a0a15969f03f2b8c23e8710bb871d8c3ca3524c20b98d988b01123e472925&
+
+
+[2022/06/01 7:55] mxspokes
+Arrow Key Support, up and down not being able to do the same functions as W and S doesn't exactly make sense, since you can move with left and right
+
+
+[2022/06/01 8:08] arkuktor
+That's true. The Arrows Keys should do the same thing as WASD.
+
+
+[2022/06/01 8:11] mxspokes
+I'm not talking about a large scale fully customizable keybinding but right hand arrow keys, thumb on space makes sense for this type of game as much as WASD does, especially since you don't need mouselook and shoot in your dominant hand
+
+
+[2022/06/01 8:14] arkuktor
+Come to think of it, there should also be buttons that you can click on with the mouse such as "move left," "move right," or "rotate," so that I don't have to remember what left click, right click, or middle mouse way does.
+
+Also, I think I mentioned this enough for now, but there should be a way to skip these battle rewards since I can't deal with these increase cooldowns on some upgrades when RNG is bad on you, especially when enemies don't have cooldowns for their attacks, and in these cases, why should I be forced to take an upgrade that increases cooldown when I don't want it and can't re-roll it anymore?
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/981334874847854682/Screenshot_5162.png?ex=6a162952&is=6a14d7d2&hm=a37032f925b6938275c77b211960240d252898cb692a68f6f79467e1fadd0363&
+
+
+[2022/06/01 11:21] kassandra_haruki
+the forced upgrade is meant to make rerolling/upgrading more risky
+
+
+[2022/06/01 11:22] kassandra_haruki
+and if you don't want to use a weapon just don't use it, taking it has no effect on other weapons aside from making you lose the potential upgrade for the other ones
+
+
+[2022/06/01 11:22] kassandra_haruki
+the amount of upgrade spots are random, and the weapons you start with always have 4 upgrade spots iirc
+
+
+[2022/06/01 11:25] kassandra_haruki
+I agree with adding tooltips for keywords, weapons, character hp on the selection page, potion on the selection page and upgrades in weapons
+
+
+[2022/06/01 11:25] kassandra_haruki
+boss hp should be a setting
+
+
+[2022/06/01 11:50] seetur
+One idea I have (though not about in game mechanics) is changeable resolution/ability to be windowed on the executable. For non-standard resolutions, information gets cut off.
+Also on the topic of settings, a volume slider would be great
+
+
+[2022/06/01 14:58] schazz_guy
+Still talking keybinding here.
+Some games also allow z as up and q as left for azerty keyboard users to have an easier type.
+
+
+[2022/06/01 15:13] pride_zero
+Keybindings would be great but in my opinion, its more of quality of life than a necessary feature at this current moment
+
+
+[2022/06/01 15:18] kassandra_haruki
+the game is barely finished (just look at the bosses lol) so I don't think keybind would be necessary for now
+
+
+[2022/06/01 18:15] mxspokes
+@schazz I was mentioning up and down should work like WS since left and right already work to move.
+
+
+[2022/06/01 19:01] schazz_guy
+I know but in amount of work it should be pretty much the same.
+
+
+[2022/06/02 8:18] Deleted User
+Hi! Im jumping in with some ideas.
+Can we rework crit chance? Maybe chance to cast Assassin's Mark on spawn/each turn? Just so we can plan ahead.
+As said before, skip rewards, but also, i feel like people wouldnt want to skip as much if posion/lightning upgrades didnt feel that bad to take (maybe they are secretly op, idk)
+Lastly, Grapling Hook feels way stronger than anything else, in my opinion
+
+
+[2022/06/02 12:03] kassandra_haruki
+lighting is useful for crown control, but other than that pretty bad
+
+
+[2022/06/02 12:04] kassandra_haruki
+poison is useful for stalling tactics, especially when paired with fire
+
+
+[2022/06/02 12:04] kassandra_haruki
+there's an upgrade in the shop that gives 10% free crit chance per upgrade
+
+
+[2022/06/02 12:05] kassandra_haruki
+I don't understand why you want to cast the mark on spawn, that would just waste the ability on weak early game enemies
+
+
+[2022/06/02 12:06] kassandra_haruki
+casting the mark each turn would result in critting all enemies every single time if you know how to control your attacks
+
+
+[2022/06/02 12:07] kassandra_haruki
+being unable to skip upgrades is a part of the decision making
+
+
+[2022/06/02 12:29] mxspokes
+either smoke bomb or shadow dash should turn your character to face the character swapped/dashed through
+
+
+[2022/06/02 12:32] hotmonkey1
+grappling hook should porbably be reworked to have 4 cooldown like dash or 3 since it only gets you into the range of one enemy
+
+
+[2022/06/02 12:38] papaboris
+Poison can be okay, but for me, getting lightning or 窶彷ree action窶・on the upgrade screen feels like a punishment!
+
+
+[2022/06/02 12:40] fan_of_lizzers
+Poison works wonders on the coward boss
+
+
+[2022/06/02 12:40] fan_of_lizzers
+And ice can win you any encounter as with a short enough cooldown
+
+
+[2022/06/02 12:41] fan_of_lizzers
+Lightning really is not worth it compared with some others
+
+
+[2022/06/02 12:42] fan_of_lizzers
+Maybe if for each enemy it damages, it gets one more damage? Like if three guys are in a row, the first would take one lightning damage and the second would take two
+
+
+[2022/06/02 15:39] mxspokes
+Lightning should trigger where you land on the smoke bomb, not cascading from the spot where the enemy is sent...
+
+
+[2022/06/02 17:21] kassandra_haruki
+Allow you to choose which cards to buy after a run (or dying).
+
+
+[2022/06/02 18:07] macerator9955
+Free Action should maybe be changed to +4 cooldown
+
+
+[2022/06/02 18:18] macerator9955
+To be honest I think Electricity should be raised to at least +2 as well, electricity seems like it's more useful than Free Action
+
+
+[2022/06/02 18:20] macerator9955
+I still haven't beat the game yet so I'm trying to hold off on any balance related suggestions until I do beat it a couple times though
+
+
+[2022/06/02 18:20] kassandra_haruki
+free play is most useful with late game enemies, the hook and stab guy, the ninja (shuriken or smokebomb) and the dash and stab guy
+
+
+[2022/06/02 18:21] kassandra_haruki
+since they can attack on the same turn they finish adding actions, making them much faster than other enemies
+
+
+[2022/06/02 18:21] kassandra_haruki
+but I can be very wrong
+
+
+[2022/06/02 18:23] hotmonkey1
+yeah the +5 is brutal there are barely any cards you can put it on
+
+
+[2022/06/02 18:23] hotmonkey1
+I think electricity is fine as is, I don't see myself using it very much
+
+
+[2022/06/02 18:24] kassandra_haruki
+electric is for crowd control, it works best with a group of weak enemies (1-2HP)
+
+
+[2022/06/02 18:24] kassandra_haruki
+but the late game ones are all 5 HP so electric doesn't get much use
+
+
+[2022/06/02 18:24] kassandra_haruki
+I'd rather take poison
+
+
+[2022/06/02 18:25] kassandra_haruki
+even if you put it on a sword (which has only 1 cooldown) you still need at least -3 cooldown to make it usable lmao
+
+
+[2022/06/02 18:52] pride_zero
+Am I the only one who uses double strike as crowd control. (Also I don't think this discussion really belongs to ideas)
+
+
+[2022/06/02 18:54] kassandra_haruki
+agreed
+
+
+[2022/06/02 18:54] kassandra_haruki
+pretty sure you're the only one who tapped into the power of double strike
+
+
+[2022/06/02 18:55] hotmonkey1
+I am going to keep discussing but double striking something really slims down its use cases
+
+
+[2022/06/02 20:14] hotmonkey1
+kunai: targets all enemies in front of it, dealing 1 damage to each and then cycling back to the first if there is still damage left over
+for example if there are 3 enemies and the kunai deals 4 damage it would deal 2 damage to the first and 1 damage to the second and third, if the kunai only deals 2 it would deal 1 damage to the first and 1 damage to the second but none to the third
+incompatible with all elemental stuff
+starting form: 2 damage, 5 cooldown
+
+
+[2022/06/02 20:15] kassandra_haruki
+so a double strike kunai would be op beyond imagination
+
+
+[2022/06/02 20:15] kassandra_haruki
+provided you can get enough -2 cooldowns for it
+
+
+[2022/06/02 20:15] hotmonkey1
+it wouldn't be too op I think
+
+
+[2022/06/02 20:15] hotmonkey1
+because kunai basically = arrow
+
+
+[2022/06/02 20:16] kassandra_haruki
+but it hits all enemies
+
+
+[2022/06/02 20:16] hotmonkey1
+not all enemies just enough enemies that it has damamge for
+
+
+[2022/06/02 20:16] hotmonkey1
+like
+
+
+[2022/06/02 20:16] hotmonkey1
+2 damage kunai
+
+
+[2022/06/02 20:16] kassandra_haruki
+still
+
+
+[2022/06/02 20:16] hotmonkey1
+it's sort of a weird inbetween of arrow and fire
+
+
+[2022/06/02 20:16] kassandra_haruki
+yep
+
+
+[2022/06/02 20:16] kassandra_haruki
+but this time you can kill a whole line of enemies one damage at a time
+
+
+[2022/06/02 20:17] kassandra_haruki
+it's the ultimate stalling tactic weapon
+
+
+[2022/06/02 20:17] hotmonkey1
+trollface
+
+
+[2022/06/02 20:17] hotmonkey1
+dragon fan + kunai 亠
+
+
+[2022/06/02 21:00] schazz_guy
+Kunai+ice
+Freeze everyone
+
+
+[2022/06/02 21:14] kassandra_haruki
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/981893531998244915/unknown.png?ex=6a16375c&is=6a14e5dc&hm=4a58af439915194376c1c958d2b6c0e66270a5f1d7714ba0f9a6867855aa7cf0&
+
+
+[2022/06/02 21:24] pride_zero
+dude
+
+
+[2022/06/02 21:24] pride_zero
+double strike kunai
+
+
+[2022/06/02 21:24] pride_zero
+will 100% be op
+
+
+[2022/06/02 21:28] kassandra_haruki
+we got the same idea
+
+
+[2022/06/03 7:16] that_one_planet
+Mobile port?
+
+
+[2022/06/03 7:28] miscellaneous_uncertainties
+I could see a mobile port actually working pretty well in terms of ui design? Limited number of controls, many of which can be replicated by swipes. Only thing I'd think of altering would be rotating the action order (going left to right vs bottom to top) so that actions are more visible. Might not even need that though.
+
+
+[2022/06/03 13:22] suneeeater
+a new class thats like
+
+
+[2022/06/03 13:22] suneeeater
+a ranger
+
+
+[2022/06/03 13:22] suneeeater
+trap and arrow
+
+
+[2022/06/03 13:22] suneeeater
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/982137161669292032/unknown.png?ex=6a167182&is=6a152002&hm=de6ccc4782295c9221b68a13af324428f124f6143a20c12fa058ef94eb08e0be&
+
+
+[2022/06/03 13:22] suneeeater
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/982137174931681351/unknown.png?ex=6a167185&is=6a152005&hm=3cf6c2b1b1072bf3cbcf0ca2fc70bd05d44e397d32ed6cfec53bfd3039a91253&
+
+
+[2022/06/03 13:22] suneeeater
+idk like 5 hp
+
+
+[2022/06/03 13:42] .jacob22
+I think its important to have some cards that flips the character, some suggestions are:
+**Dragon kick:** Deals 1 damage to both sides, flips your character (3 cooldown). It's a movement card
+**Throw:** Deals 1 damage to the enemy in front of you, teleport them to your back, flips your character (4 cooldown). It's a movement card
+**Elbow dash:** Dash backward, deals 1 damage to the first enemy hit, flips your character (5 cooldown). It's a movement card
+
+
+[2022/06/03 13:42] .jacob22
+Another card idea:
+**Confusion smoke:** Deals 1 damage to enemies on both sides and flip them (5 cooldown)
+
+
+[2022/06/03 18:00] that_one_planet
+this is for the discord sevrer make more channels add rules  and announcements chanel
+
+
+[2022/06/03 18:02] that_one_planet
+a kit with a poisen like atack like arrow with poisen but fire damge
+
+
+[2022/06/03 18:02] that_one_planet
+like
+
+
+[2022/06/03 18:06] kassandra_haruki
+what channels do you want, we do need some rules in #rules and #笏changelog is being used as announcement channel
+
+
+[2022/06/03 18:09] kassandra_haruki
+Dragon kick: just a Swirl but 1 damage and flips your character.
+Throw: a more complicated Grappling hook.
+Elbow dash: Backoff but flips your character.
+Confusion smoke: BO but on both sides.
+
+
+[2022/06/03 18:09] pride_zero
+I'm thinking of making a channel where you can give suggestions for the server, so this channel stays exclusive to ideas for the game
+
+
+[2022/06/03 18:10] kassandra_haruki
+yeah that's good
+
+
+[2022/06/03 18:10] kassandra_haruki
+also put #笏changelog under #rules
+
+
+[2022/06/03 18:10] kassandra_haruki
+since you can't talk in it
+
+
+[2022/06/03 18:10] pride_zero
+yessir ||let's take this to #笊ｭgeneral町 ||
+
+
+[2022/06/03 18:22] macerator9955
+Idea:
+1 Undo per Hour in case you misclick or just want it
+
+
+[2022/06/03 18:23] macerator9955
+Or perhaps a shop item that gives you like 1-3 undos per Hour
+
+
+[2022/06/03 18:25] macerator9955
+Because I just lost my furthest run yet by accidentally middle clicking when I meant to click L/R
+
+
+[2022/06/03 19:10] schazz_guy
+Don窶冲 really like this idea.
+I窶况e already said it : I think that this game is fun when played fast, and dealing with the consequences of your reckless actions (reckless cuz you don窶冲 take your time to consider every possible outcome) is awesome as you feel the consequences of your mistakes. But this mechanic would make it it窶冱 way easier to deal with mistakes and bad enemy spawn.
+But miss inputs sucks, so I get the idea.
+BUT (again) missinputs are more likely the faster you go, and missing sometimes is a sign that you were unsure of what to do, for example you decide of your action a few tenths of a second before pressing the button, your chances of messing up are far greater than with a well established plan.
+
+
+[2022/06/03 19:13] kassandra_haruki
+I consider it calmness training
+
+
+[2022/06/03 19:32] macerator9955
+I feel like it's a little harsh to kill a 30 minute run because of a single misclick
+
+
+[2022/06/03 19:33] macerator9955
+2 for sure, but 1 seems unnecessarily discouraging
+
+
+[2022/06/03 19:35] macerator9955
+And losing because of a misjudgment I made is fine but when your finger brushes a button, that's not your fault
+
+
+[2022/06/03 19:37] hotmonkey1
+there is no way to eliminate external factors such as your finger brushing the wrong button, even if you make one mistake what's stopping you from making another one
+
+
+[2022/06/03 19:37] hotmonkey1
+no takebacks period imo
+
+
+[2022/06/03 19:38] kassandra_haruki
+well that's one of the thing that killed me when I was still new
+
+
+[2022/06/03 19:38] kassandra_haruki
+now I'm good enough to reliably do easy mode runs
+
+
+[2022/06/03 19:39] hotmonkey1
+I still haven't beat hardmode assassin yet 个
+
+
+[2022/06/03 19:41] kassandra_haruki
+same
+
+
+[2022/06/03 19:41] kassandra_haruki
+I still can't use Ronin for the life of me though
+
+
+[2022/06/03 19:41] hotmonkey1
+ronin is a nice char
+
+
+[2022/06/03 19:41] hotmonkey1
+add stats to gamr when
+
+
+[2022/06/03 19:41] kassandra_haruki
+what stat?
+
+
+[2022/06/03 19:42] kassandra_haruki
+lifetime stats like total kills, total death, etc?
+
+
+[2022/06/03 19:42] hotmonkey1
+somethung like
+
+
+[2022/06/03 19:42] hotmonkey1
+death/win ratio and tota lkills
+
+
+[2022/06/03 19:44] macerator9955
+Like a score at the end ?
+
+
+[2022/06/03 19:44] hotmonkey1
+something on the title screen too
+
+
+[2022/06/03 19:45] hotmonkey1
+score could be calculated as 100 per hour + 5 per kill + 20 per boss + 500 if win
+
+
+[2022/06/03 19:45] hotmonkey1
+somethig else is probably more balanced
+
+
+[2022/06/03 19:46] schazz_guy
+Yeah, it sucks.
+But the more you play, the less mistakes you make (I think).
+And pressing key is a skill, as much as reading enemy pattern, and decision making.
+But I get it, it窶冱 a physical problem and not a reasoning problem, so it doesn窶冲 feel very fair.
+Mirko will have to decide wether finger skill should or should not be important in their game.
+
+
+[2022/06/03 19:46] hotmonkey1
+maybe 10 per hour per hour
+
+
+[2022/06/03 19:46] macerator9955
+-1 per damage taken might be good too
+
+
+[2022/06/03 19:47] hotmonkey1
+yeah probably
+
+
+[2022/06/03 19:48] hotmonkey1
+10 per hour per hour + 5 per kill + 50 per boss + 250 for win?
+
+
+[2022/06/03 19:48] hotmonkey1
+maybe -1 per potion used too
+
+
+[2022/06/03 20:10] hotmonkey1
+change assassin skill to 0-damage shadow dash!!!!
+
+
+[2022/06/03 20:10] kassandra_haruki
+I wish we have a damage reduction upgrade
+
+
+[2022/06/03 20:11] kassandra_haruki
+something like -2 cooldown, -1 damage
+
+
+[2022/06/03 20:11] kassandra_haruki
+so I can cheese enemies
+
+
+[2022/06/03 20:39] schazz_guy
+Maybe give it backstab by default ?
+
+
+[2022/06/03 21:08] .jacob22
+Exactly, i think these skills will fit very well in the game and the mechanics of flipping during attacks opens the possibility for even more complex combos
+
+
+[2022/06/03 21:11] .jacob22
+This archer archetype is a must, this is one of those things that the game creates by itself
+
+
+[2022/06/03 21:12] pride_zero
+I agree 100%. I lost the run with my best build yet simply because i right clicked instead of left, But that was because I was doing it fast.  Being able to input correctly while going fast is a skill and is something you can see yourself improving over time. If you remove factors like this, the game will become too linear.
+
+{Reactions}
+聡
+
+[2022/06/03 21:13] pride_zero
+That is the shielding mechanic we were discussing before, You should scroll up to read through it once
+
+
+[2022/06/03 21:39] kassandra_haruki
+oh ok
+
+
+[2022/06/03 21:41] kassandra_haruki
+no I mean an upgrade that reduces weapon damage
+
+
+[2022/06/03 21:58] .jacob22
+I came from games like Into the Breach and Overland and they both have the undo button
+I can see this game with an undo button every turn without it being broken
+
+
+[2022/06/03 21:58] .jacob22
+This would completely eliminate the problem of missclicking and would greatly increase the tactical aspect of the game as it would give the player the exact information of what will happen when he finishes his turn and give the possibility to adapt
+
+
+[2022/06/03 21:59] .jacob22
+But all rngs must be pseudo-random, to prevent players from abusing it and get that 10% crit every time
+
+
+[2022/06/03 22:02] schazz_guy
+But do we WANT that ? Do we want player to know further in the future ?
+I think that this is a topic discussed in GMTK窶冱 video on randomness.
+As this is very much a game design question.
+But the ultimate answer is up to mirko.
+
+
+[2022/06/03 22:03] kassandra_haruki
+ngl I feel that the undo button would completely change the feel of the game
+
+
+[2022/06/03 22:03] kassandra_haruki
+it would go from high speed, reckless fighting to "oh crap, that wasn't a good move, time to undo"
+
+
+[2022/06/03 22:05] schazz_guy
+Yeah.
+
+
+[2022/06/03 22:05] schazz_guy
+What direction should the game go in, that窶冱 the question .
+
+
+[2022/06/03 22:14] pride_zero
+yeah, although my almost non-existent skill would love to have an undo button, I think its existence would take away a difficulty factor. Not being able to undo is the perfect punishment to complacency.
+
+
+[2022/06/03 22:21] .jacob22
+Make the undo potion
+
+
+[2022/06/03 22:21] .jacob22
+Now players can choose if they want it and it costs 1 potion slot to keep it
+
+
+[2022/06/03 22:44] miscellaneous_uncertainties
+I do like the idea of an undo potion as a safety net for those situations. I also feel like having undo as an option in the menu that is toggled off from the start wouldn't be the worst thing? I agree about undo changing the feel of the game, but I also feel like it can be a useful learning tool, especially for those starting the game when there are things you actually can't know without encountering them (like that one enemy that has an automatic add move then use of throwing star/smoke swap).
+
+
+[2022/06/03 22:47] miscellaneous_uncertainties
+To clarify, the main source of miss-inputs I've had is due to playing on a laptop, where right vs left click is often finicky.
+
+
+[2022/06/03 22:50] miscellaneous_uncertainties
+Also responding to the discussion of the archer/trapper archetype and the flip abilities, I would be interested in having them! 
+- Trap/arrow build is one of my favorites and definitely makes sense as a starting archetype. 
+- Adding a flip to some of those abilities does change whether or not I'd choose them. Dragon Kick and throw were both abilities I was thinking of before joining the server. Not sure on the second two, as they feel more like upgrades to the pre-existing abilities, but I'd generally like to see some abilities that flip the character.
+
+
+[2022/06/03 23:55] pride_zero
+I know I know, I too have made a lot of right click-left click missclicks due to my laptop, but I still think the impacts of missclicks is one of the charms of this games
+
+
+[2022/06/03 23:56] pride_zero
+ultimately, its up to @Mirko to decide
+
+
+[2022/06/03 23:59] miscellaneous_uncertainties
+Hmm, I can see that for some, though less for me. I'm a big fan of gameplay/accessibility options, as they allow more people to play while changing the 'main experience' less. Agreed that it's def up to Mirko though.
+
+
+[2022/06/04 0:04] miscellaneous_uncertainties
+Wanted to be more clear in my response above:
+
+Dragon kick: True, but bo is just a 1 damage slice that flips the target, so it seems like it would still fit.
+Throw: I'm pretty sure it's referring to only the unit directly in front of you. Even without flipping yourself, it would work as a good alternative to smoke bomb, moving an opponent behind you without moving yourself.
+Agreed on Elbow Dash & Confusion Smoke though.
+
+
+[2022/06/04 0:34] .jacob22
+Yes, the Throw card would be melee range
+
+
+[2022/06/04 0:38] miscellaneous_uncertainties
+I've got so many thoughts for extra moves like this, but also putting them in bulk would be overload, so might link a page with all the suggestions.
+
+
+[2022/06/04 0:40] .jacob22
+These flip actions will synergize well with Shadow dash
+
+
+[2022/06/04 0:43] pride_zero
+Alright let's keep discussion off here, just give your idea and maybe discuss in #笊ｭgeneral町
+
+
+[2022/06/04 0:53] camry35
+some skill that shoot behind character (shadow dash kills enemy, then projectile flies behind etc)
+
+
+[2022/06/04 0:54] camry35
+also ai can't use swirl backwards, they rotate and then attack little strange
+
+{Reactions}
+漕
+
+[2022/06/04 1:01] miscellaneous_uncertainties
+Has there been a discussion of swap/push being only the target directly in front of you? I have had a bunch of situations where I really want to swap by moving backwards. On one hand I get the design decision of increasing the importance of direction/facing, but even then I'm still not sure which way I lean. ､・
+
+{Reactions}
+総
+
+[2022/06/04 1:02] camry35
+longer game? 4 bosses not enough to make op meta builds with all items
+
+
+[2022/06/04 1:04] roboatino
+1 undo per hour is probably too much, but a small number of undos (e.g. 2) for the whole run might be a quality of life improvement (but I also agree with Shazz that, in general, you have to deal with the consequences of your mistakes
+It's something I'll consider implementing (it might require quite a bit of refactoring...)
+
+
+[2022/06/04 1:05] camry35
+range attack with damage based on a distance (distance 1 - 3 damage 2 - 2 damage 3 - 1 damage 4 - out of reach) and upgrading damage also increases range? (with +1 damage distance 1 - 4 damage 2 - 3 damage  3 - 2 damage 4 - 1 damage 5 - out of reach ETC)
+
+
+[2022/06/04 1:09] roboatino
+Interesting idea!
+
+
+[2022/06/04 1:10] camry35
+some block abilities? 1 shield for next turn only to block 1 attack?
+
+
+[2022/06/04 1:13] miscellaneous_uncertainties
+Going to compile block/guard discussion in the above thread.
+
+
+[2022/06/04 1:14] camry35
+- New character... two characters on one SCREEN!! Some brothers/sisters/noobsaibot/summoner/pet/etc
+
+
+[2022/06/04 1:21] roboatino
+BTW, dragon kick (i.e. weaker swirl + turn around) is definitely on the shortlist of new weapons
+
+{Reactions}
+､ｯ (4)
+
+[2022/06/04 1:23] camry35
+- Very powerful attack that make you lose hp while using it
+
+
+[2022/06/04 1:26] camry35
+- Berserker attack which deals damage based on your lost hp
+
+
+[2022/06/04 1:34] .jacob22
+Perks Suggestions
+
+
+[2022/06/04 2:34] camry35
+- microtransactions
+
+{Reactions}
+・ ・ (2) ・ (4) ・・・(4) 笶・(3) 窶ｼ・・(3) 竅会ｸ・(2) ､・
+
+[2022/06/04 3:17] pride_zero
+Idea (not really): Characters are unlocked by doing some sort of quest(?)
+We could start with only the wanderer and unlock more by doing specific challenges.
+For example (and a suggestion):
+The assassin could be unlocked by backstabbing X (10?) enemies in a single run (or he could be unlocked by just killing 10 enemies in a single attack queue)
+
+
+[2022/06/04 7:59] miscellaneous_uncertainties
+Started a thread.
+
+
+[2022/06/04 8:53] miscellaneous_uncertainties
+Quality of Life Additions
+
+
+[2022/06/04 9:36] hotmonkey1
+would be good to be able to transfer saved data from one platform to another or from one browser to another but that isn't really high priority right now
+
+
+[2022/06/04 13:41] that_one_planet
+shop being more frequent
+
+
+[2022/06/04 13:42] hotmonkey1
+I think this is going to implemented in the map upadte don't quote me on that though
+
+
+[2022/06/04 13:54] that_one_planet
+level maker with a kit creator for it
+
+
+[2022/06/04 17:01] lolzhax
+A new enemy called rogue
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/982554724484120576/fedyunin_albert-pixil-gif-drawing.jpg?ex=6a16a4e5&is=6a155365&hm=f605d8db40c7d4ee65ae23a868310c992e08801ba5bd85022692628c42f6db73&
+
+{Reactions}
+総 (2)
+
+[2022/06/04 17:02] lolzhax
+It has two hp and if it stabs you, you lose a coin
+
+
+[2022/06/04 17:04] that_one_planet
+cool
+
+
+[2022/06/04 17:04] lolzhax
+Thanks
+
+
+[2022/06/04 17:56] eggyolk2
+Giving weapons the Assassin's crit effect would be a neat upgrade
+
+
+[2022/06/04 18:29] Deleted User
+i would love to see some sort of meteprogresion just something small but noticeble, maybe something like enimies have a 10% higher drop rate or like new unlockeble characters u can get by killing bosses or something
+
+
+[2022/06/04 19:40] camry35
+- Remove  critical chance upgrade, or make it not random (in turn based games additional crit chance sometimes ruins everything)
+
+
+[2022/06/04 19:45] kassandra_haruki
+Also on the subject of the crit chance upgrade, I once got a double crit (crit chance + curse effect of assassin) and dealt a massive 8 damage on a single enemy, idk if that should be in the game or not
+
+{Reactions}
+亞
+
+[2022/06/04 20:12] camry35
+- New  mechanic that gives you and enemies buffs and debuffs (+1 damage  all, All attack apply venom, when attacked deal 1 damage to attacker)
+
+
+[2022/06/04 20:14] camry35
+- Boss  drops (unique weapons, buffs, items)
+
+
+[2022/06/04 20:19] camry35
+- Dodge skill/potion that allows your character to dodge incoming attack (arrows, hooks and dashes will fly through character)
+
+
+[2022/06/04 20:25] camry35
+- Unique attack to all characters (like assasin's "curse?")
+
+
+[2022/06/04 20:28] camry35
+- Skill that spawns giant 1 cell ROCK (infinite health, block all projectiles) wich blocks way for a certain ammount of time (like ice but with grey sprite and 100 opacity, can be pushed, smoke bombed, punched)
+
+
+[2022/06/04 20:39] camry35
+- Magic attack that deal damage to enemy at range of 2 (or 3 or 4 etc, like Shadow Fiend's "Shadowraze")
+
+
+[2022/06/04 20:42] camry35
+- Skill that alows player to "Demon possess" enemy for a certain amounts of turns (2-3 mb)
+
+
+[2022/06/04 20:46] camry35
+- Skill that put "NAMEIT" debuff on enemies (like assasin's crit), after death enemies explode (bomb damage and radius)
+
+
+[2022/06/04 20:50] camry35
+- Telekinesis skill that lift enemy in the air for a certain ammount of turns (1-2 whatever) when enemy falls down dealing some damage,  while  enemy in the air it can't be hit
+
+
+[2022/06/04 20:53] camry35
+- Skill that put "SOUL CHAIN" debuff on a enemy for a certain ammount of turns, of forever. (Enemy take all damage that dealth to player, player can also take damage or not)
+
+
+[2022/06/04 21:52] camry35
+- Crit reloading instantly if enemy with debuff dies (some assasin buff)
+
+
+[2022/06/04 21:55] kassandra_haruki
+Is that a reload from combo? (also that's probably a bug if not)
+
+
+[2022/06/04 22:01] camry35
+Yes and that is idea
+
+
+[2022/06/05 0:48] colossalcube
+endless mode where enemies just keep getting stronger and stronger once you beat hard mode
+
+
+[2022/06/05 2:12] .jacob22
+Map Idea: Different branches lead to different enemies archetypes
+
+
+[2022/06/05 3:03] colossalcube
+Great for backstab builds with bo, shadow dash, swirl and back stabber perk
+
+Max cooldown is 5, I think it fits but maybe it should be 6?
+Base cooldown is relatively low since it's a dagger and doesn't do too much damage. Maybe change base cooldown to 3? 
+
+I think it fits into the meta decently well and is balanced in a good way, it also could have some nice synergies with bo. Because of low cooldown it can be decent earlygame and can work in late game with the right build too.
+
+Btw a "Tanto" is a samurais dagger. 
+
+Overall, a light weapon that can be scaled with perks and tile upgrades to something powerful
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/982706174640160849/Untitled.png?ex=6a168931&is=6a1537b1&hm=cd1b33c741c539ac4de823438310ef7a9b36f7b5434b9dba1bf400fc7eb71028&
+
+
+[2022/06/05 3:44] miscellaneous_uncertainties
+Question: How broken would the upgrade "remove a tile. Give all of it's upgrades to another tile, regardless of upgrade slots" be, and could it be balanced in a more fun way?
+
+
+[2022/06/05 4:40] that_one_planet
+mirko is working on that already
+
+
+[2022/06/05 5:14] Deleted User
+Oh I didn窶冲 know !
+
+
+[2022/06/05 6:20] schazz_guy
+Should, and if yes, how can we make short ranged enemies an actual threat ?
+
+
+[2022/06/05 6:35] schazz_guy
+This topic is also about balancing enemies to make balance weapons.
+
+
+[2022/06/05 6:36] schazz_guy
+And I think it窶冱 something worth talking about.
+
+{Reactions}
+総
+
+[2022/06/05 7:35] fan_of_lizzers
+Oh, here窶冱 and idea: a weapon that heals you for 1 HP with every kill. It could have a high cooldown and low damage so that you窶囘 have to do more thinking to heal.
+
+
+[2022/06/05 7:42] that_one_planet
+a upgrade with lifesteal
+
+
+[2022/06/05 8:02] fan_of_lizzers
+Yeah, something like that
+
+
+[2022/06/05 8:10] miscellaneous_uncertainties
+Some kind of visual indicator for freeze/poison duration, such as the ice cracking or the poison having a number of bubbles with each tick.
+
+{Reactions}
+総 (2)
+
+[2022/06/05 8:47] miscellaneous_uncertainties
+Potential Changes to the Shop level (Cauldron, shopkeeper, etc)
+
+
+[2022/06/05 9:36] miscellaneous_uncertainties
+Save glitches as cheatcode options.
+
+
+[2022/06/05 9:39] miscellaneous_uncertainties
+New Effects and changes to them
+
+
+[2022/06/05 9:59] mxspokes
+some way to dash/swap and change your facing in the same move, it feels so crappy to dash through or swap and be unable to make a combo
+
+
+[2022/06/05 10:10] colossalcube
+Honestly I like the upgrade system but it just doesn't flow well with the shop system too, in my opinion the tile upgrade screen should be removed altogether and the shop should get an expansion. After each round it should always be the shop. It can still rotate through items at the "Weaponsmith's shop"(tile shop) and "Forge"(tile upgrade shop) as it did in the upgrade screen. Overall this would allow you to use currency in a more unique way and allow you to choose your build more effectively. This way you are not forced to get an upgrade you don't want either at the end of a round, instead you can just leave the shop or save it for a larger perk. 
+Strategy is also introduced further, do you want to save for perks or buy right away? Is it worth buying these Items now or do I wait for next turn? etc. 
+Finally, if you didn't want potions becoming easy to get, simply have the cauldron "Overflow" or "Malfunction" during rounds you don't want it for, and the player cannot access it for those rounds
+
+
+[2022/06/05 10:38] macerator9955
+**Idea**
+Enemies should only do half damage to other enemies, rounded up.
+
+
+[2022/06/05 10:40] hotmonkey1
+I think it should remain as is because you gotta think ahead to have enemies hit each other and that should be rewarded
+
+
+[2022/06/05 10:43] miscellaneous_uncertainties
+I'd honestly be interesting if things like friendly fire kills/effects like poison contributed to combo or other bonuses.
+
+
+[2022/06/05 22:47] roboatino
+Started a thread.
+
+
+[2022/06/06 12:23] gardnerdiamond
+for the boss heath bars, on mouse over have it show the amount of hp
+
+{Reactions}
+総 (6)
+
+[2022/06/06 13:30] hotmonkey1
+dragon kick: player jumps 2 squares and hits the first enemy within 2 squares of them, if the second square from the player is occupied it just hits the enemy
+
+
+[2022/06/06 19:34] Deleted User
+i aslo have some recomendations but not ones to improuve the game just some ideas for cards and also one hero idea
+
+- a parry card that blocks the next incoming attack but does no damage this might be a bit op so you could give it a long cooldown
+
+-sword dash just a casual sword dash thats 2 tiles long and peirces enemies. (you can pick  the amount of damage)
+
+- if this is not already a card then i suggest a cross bow that deals 2 damage has a long reload and fires 1 less tile then a bow
+
+Hero idea: i would suggest a monk or a archer / crossbow man the archer would start with two arrows and 5hp and the monk would have a bo staff and some sort of heal spell that heals 1hp and takes forever to reload (you can put any other spell for him too, just heal sounds like a monk thing).
+
+{Reactions}
+総 (2) 綜 (2) 笶・
+
+[2022/06/06 19:47] hotmonkey1
+backflip: moves one square and reorientates the player facing other diretion, if square moved to is occupied tthen it bounces on enemy, dealing damage, and lands behind bounced-on enemy
+
+{Reactions}
+総 (5)
+
+[2022/06/06 23:48] miscellaneous_uncertainties
+New Character Concepts and Special Moves
+
+
+[2022/06/07 0:52] miscellaneous_uncertainties
+Megathread for new Attack Tile ideas!
+
+
+[2022/06/07 5:18] colossalcube
+-------------------------**The Shinobi Update V3: Part 1**-------------------------
+
+**Curses:**
+> This is a new type of class tile, exclusive to specific classes and nothing else. They reflect the classes playstyle and theme and travel as a projectile in the direction the player is facing. Additionally, these curses are non-upgradable
+> There is currently already one curse in the game: `Assassins' Mark`
+> However the introduction of more on a larger scale would allow classes to be easier to create and more diverse in playstyle.
+> In this idea I only plan to include 1 new curse however in different ideas I will be adding more.
+> 
+> New Curse: Ninja's Deceit  `Enemies inflicted with the curse will deal damage to itself on it's next attack.`
+> `Cooldown: 5` `Max Cooldown: 5` `Upgrade slots: 0` `Base Damage: 0`
+> When the enemy ques their next attack, the tile art will be surrounded with a purple outline. The enemy will function as it usually does, queuing up multiple attacks or moving towards you to attack. Once it uses the tile, they will instead do 2 damage to themselves and the tile will have no effect. 
+> 
+> Changes to Assassins' Mark: since these curses will be non-upgradable, assassins' mark needs a shorter cooldown so that it does not become redundant without upgrades. I also think the Assassin class needs this early game upgrade either way. `Cooldown: 6 -> 4` `Upgradable Tile -> Non-Upgradable Tile`
+
+*Ideas taken mostly from myself. Snippets of @Misc.  and @Jacob Dois-Dois's ideas respectfully were also used as well as feedback from multiple other people *
+
+
+[2022/06/07 5:26] hotmonkey1
+I think shuriken isn't needed
+
+
+[2022/06/07 5:57] colossalcube
+Started a thread.
+
+
+[2022/06/07 11:52] colossalcube
+-------------------------**The Shinobi Update V3: Part 2**-------------------------
+
+**New Class: **
+> Shinobi:  Sneak around the arena with your dashing skills, the shogun won't even see you coming! Being a ninja, you don't have lots of armor, but with a couple tricks and a bit of training, you can outwit any enemy!
+> `Base Health: 4hp` `Starting Tiles: Swirl, Shadow Dash, Ninja's Deceit`
+> 
+> Special Move: Can Flip `Flips the direction of the enemy in front of you when walking into them. 4 turn cooldown, must be facing the enemy.`
+
+*Ideas taken mostly from myself. Snippets of @Misc.  and @Jacob Dois-Dois 's ideas respectfully were also used as well as feedback from multiple other people *
+
+
+[2022/06/07 12:32] hotmonkey1
+remove quit button from web version
+
+{Reactions}
+総 (9)
+
+[2022/06/08 9:51] federico1768
+Upgrade Idea:
++2 Damage
+-1 Cooldown
+When you use this attack loose 2 Coin (can still be used on 0 Coins)
+
+{Reactions}
+､・(2) 庁 (2)
+
+[2022/06/08 10:27] kassandra_haruki
+Too OP imo
+
+
+[2022/06/08 12:07] federico1768
+okay maybe just +1 Damage
+
+
+[2022/06/08 13:12] pride_zero
+too op
+
+
+[2022/06/08 13:14] pride_zero
+Having a +damage and minus cooldown is unfair advantage
+
+
+[2022/06/08 13:14] pride_zero
+and then rng will play an even bigger role
+
+
+[2022/06/08 14:26] federico1768
+but you will become poor which does affects you too
+
+
+[2022/06/08 14:43] kassandra_haruki
+It's just 2 coins, not a lot tbh, it's isn't even worth a single reroll in late game lmao
+
+
+[2022/06/08 15:33] pride_zero
+2 coins is nothing tbh
+
+
+[2022/06/08 15:34] pride_zero
+Also like, this "idea" is clearly unnecessary and literally does nothing but make the game easier, which, like I have said before, difficulty is what makes roguelikes into roguelikes
+
+
+[2022/06/08 15:39] schazz_guy
+To talk about difficulty, we might need to wait 窶冲il we have a better understanding of how the game will handle progression.
+
+
+[2022/06/08 20:13] untitledinc00
+-a card that deals one damage to all enemies                                            -a card that doubles the amount of damage for cards that can deal only one damage   
+-a potion that gives you one coin for each  time you use any card
+-an enemy whose only purpose in life is stealing your money
+
+
+[2022/06/08 20:16] kassandra_haruki
+1 damage to all enemies good
+doubles the damage of 1 damage cards is a worse Assassin's mark
+potion that gives 1 coin for each card use sounds underpowered unless it's permanent
+enemy that steals your money is an idea, it's called rogue
+
+
+[2022/06/08 21:28] untitledinc00
+for the potion, it does not have to be one coin for each card use, it can be 1||2 coins for each one damage dealt to enemies, and yes it's permanent(I forgot to mention this)
+
+
+[2022/06/08 22:38] oi4444_
+Card idea: Wind
+
+
+[2022/06/08 22:40] schazz_guy
+Ya got the fan
+
+
+[2022/06/08 23:28] .jacob22
+Bosses Ideas
+
+
+[2022/06/09 13:10] pride_zero
+@enma_ix 's greatsword idea
+
+
+[2022/06/09 13:18] aka_howl
+Also an idea um You have shadow dash for dash what about shadow back dash
+
+
+[2022/06/09 16:21] schazz_guy
+Dats boring
+
+
+[2022/06/09 16:51] pride_zero
+Free-play turn around 亠
+
+{Reactions}
+綜 ・ (2) ・ (2) ・ 亠
+
+[2022/06/09 17:37] macerator9955
+Poison enemy
+
+
+[2022/06/09 20:17] camry35
+impossible mod (like hardmode but +1 stats, or some other changes like higher prices, etc)
+
+
+[2022/06/10 15:51] eggyolk2
+Are there ever plans for the player being able to summon minions ､・ I think it'll be super interesting.
+
+
+[2022/06/11 1:40] piotrek3050
+I would like to see mode where enemys use random cards instead of usual or randomly upgraded ones - definetly more intersting and impossible than just pumping up stats
+
+{Reactions}
+総 (3)
+
+[2022/06/11 7:28] that_one_planet
+im segesting this again but mobile port
+
+
+[2022/06/11 7:33] miscellaneous_uncertainties
+Started a thread.
+
+
+[2022/06/11 13:41] camry35
+Sounds very cool!
+
+
+[2022/06/12 0:43] jaykerx
+The Bastard
+8hp, can push
+starts with bo and arrows
+character should be unlocked after some time of playing because it's focusing on fooling ai and not directly fighting
+
+
+[2022/06/12 1:52] piotrek3050
+Card - back to shadows - if stacked with other cards (like dash first than this card) it moves you back to the place you started and could deal 1 dmg behind the player
+
+
+[2022/06/12 1:52] .jacob22
+Started a thread.
+
+
+[2022/06/12 2:00] jaykerx
+some smaller weapon ideas, both interesting and normal for balance
+
+quick arrow: 1hp, 4 cooldown, projectile. automatically equipped with double strike(updated because shuriken)
+
+<unknown>: 2hp, 5 cooldown, tile in front. delete one/all attacks from opponent's attack queue
+
+tantﾅ・ 3hp, 5 cooldown, enemy in front
+
+warcry: spell similar to assassin's ability. boosts other actions in the queue by 1
+
+
+[2022/06/12 2:01] rft50
+quick arrow is just a shuriken, the unknown one could be "taunt"
+
+{Reactions}
+笨・
+
+[2022/06/12 2:09] .jacob22
+quick arrow: shuriken 
+<unknown>: I had given an idea about this mechanic before, but it was a potion rather than a tile. I would call it 'interruption'
+tanto: stronger version of the Slash
+warcry: may work as a class-unique tile
+
+We have a thread for tiles ideas, you can see it here: #Megathread for new Attack Tile ideas
+
+
+[2022/06/12 2:12] jaykerx
+Started a thread.
+
+
+[2022/06/12 5:14] jaykerx
+potion: roots
+disables enemies' ability to move. this includes things like dash etc. you also cannot push/teleport/move/turn around enemies in this state. basically for one turn they are glued to the floor and there is nothing that can change that
+
+
+[2022/06/12 12:51] kassandra_haruki
+Allow you to push enemies off the edge and kill them.
+
+
+[2022/06/12 16:27] jaykerx
+i think that while current system of unlocking weapons etc is good, i wish that some of them could be unlocked by killing bosses. like you fight a boss and unlock the weapon immediately after defeating him. there could also be some rewards for beating the game on specific difficulties, with specific characters etc
+
+{Reactions}
+総 (2)
+
+[2022/06/12 17:21] .drew09
+I think a cool character would be the sensei. They would start with the bo staff and the war fan and there abilty would either be +1 damage to everything or +1 range to everything
+
+{Reactions}
+・ (4) ・ (4) ・ (4) ・ (4) 総
+
+[2022/06/13 0:06] .drew09
+I mean I guess it's similar to a monk but i'd imagine the monk with a long cooldown healing abilty instead of fan or the start with a level of fortress or something defensive
+
+
+[2022/06/14 0:38] dodoxhyu
+Shinobi 5hp with dash backwards (or teleport to the last empty space behind and summon a dummy 1hp if possible), starting with smoke bombs and shuriken 凾
+
+
+[2022/06/14 6:03] square_
+A movement tile that turns yourself around would be interesting
+
+{Reactions}
+総 (2)
+
+[2022/06/14 23:19] ari_carrion_anno
+the double bow looks nothing like a bow, change the sprite
+
+
+[2022/06/15 0:42] eggyolk2
+I imagine there are already plans for this, but more map variety with things like environmental hazards! For eg. Floor spikes that retract/appear in a rhythm or Wind that pushes everyone once every few turns.
+
+
+[2022/06/15 3:46] accountabandon
+https://en.wikipedia.org/wiki/B%C5%8D
+it's not a bow, it's a bﾅ・
+
+
+[2022/06/15 3:56] ari_carrion_anno
+i meant the litiral bow
+
+
+[2022/06/15 4:19] .drew09
+I think that hard mode should add elements to all of the normal enemies or decrease there ability cooldowns by one instead of increasing damage and health
+
+
+[2022/06/15 9:18] pride_zero
+||Balance changes||
+
+
+[2022/06/16 1:37] piotrek3050
+And please make imposible mode where enemys use random cards!
+
+
+[2022/06/16 12:22] that_one_planet
+lol
+
+
+[2022/06/16 12:51] kassandra_haruki
+all of which are Free Play!
+
+
+[2022/06/16 12:51] pride_zero
+逐
+
+
+[2022/06/16 12:52] pride_zero
+Death Mode : All of the enemies cards have random effects (and the damage and health of hardmode) but to compensate, drop 2x gold and skulls
+
+
+[2022/06/16 13:45] that_one_planet
+Started a thread.
+
+
+[2022/06/17 1:53] miscellaneous_uncertainties
+Started a thread.
+
+
+[2022/06/17 3:20] miscellaneous_uncertainties
+Started a thread.
+
+
+[2022/06/17 6:04] .drew09
+Maybe you could add additional elements to a weapon but each new element takes up an extra upgrade point so you could invest everything into making a superweapon that does everything but all your other abilities are regular because you were always increasing upgrade slot amount and adding effects on to your superweapon (which will probably have a lot of cooldown.) or you can have a low cooldown heavy utility weapon that has 1 or 2 extra effects.
+
+
+[2022/06/17 16:39] square_
+I don't think that fire should do backstab damage, it appears from below them so it isn't hitting from behind, and also, it's fire.
+
+
+[2022/06/17 20:25] pride_zero
+A melee weapon that deals +1 damage to enemies facing you
+
+
+[2022/06/18 2:45] colossalcube
+Elemental anvil in the blacksmith
+20 Coins, allows you to apply Poison +2 cooldown, Electric +1 cooldown, or Ice +3 cooldown effects to a weapon. 
+
+Currently the blacksmith doesn't feel too good to me and I think this would help boost it's use. This also makes it much easier to find an element you want instead of pure RNG. I excluded the free play and double strike effects as I feel they are too special and powerful for the blacksmith and just don't fit as a whole
+
+{Reactions}
+漕 (4)
+
+[2022/06/18 5:29] miscellaneous_uncertainties
+Started a thread.
+
+
+[2022/06/18 6:13] eggyolk2
+Tile trait(Simmilar to free play, doesn't stack with it): Parry
+
+Idea 1- If a tile has the parry trait it can no longer be used normally, it gets automatically used when the player takes damage. CD of the tile is no longer relevant
+For eg. Swirl has the parry trait. The player is hit by the shadow's dash and uses Swirl immediately, then is hit by the sword and uses Swirl again
+
+Idea 2- A tile with Parry is used automatically when the player takes damage if it's not on cooldown (using it by getting hit still puts it on CD) it can also be used regularly.
+For eg. Bo has parry, the shadow hits the player with a dash and is attacked back by the Bo, missing the sword. The Bo is now on CD
+
+IDK Which one is better but would be cool
+
+
+[2022/06/18 8:42] that_one_planet
+QUist in game not jst the discord seaver
+
+
+[2022/06/21 10:17] that_one_planet
+consumeables not potions like apples or meat or something
+
+
+[2022/06/22 0:50] miscellaneous_uncertainties
+**Changing Difficulty modes into Gameplay Options. **
+
+Currently, there are two modes: ***normal ***and ***hard***. Furthermore, there has been a lot of discussion about things like and Undo mechanic or similar, if they would be an option or tied to a difficulty mode or something else.
+
+Instead, I would suggest ***Gameplay Options*** and an ascension based difficulty scale. Essentially, when you first play the game you start at Difficulty 5 (name could change). There are then a whole bunch of options (either available from the start, or after you first beat the game), which allow you to raise or lower the difficulty. These modifiers/bonuses could include:
+> Starting with a non-wanderer character, Undo-per-Hour, Enemy health, certain enemies showing up earlier, things tied to enemy behavior, reroll cost, %chance for loot drops, etc.
+
+There are a number of games that already use this to great effect, such as Revita's shard tier (<https://revitagame.fandom.com/wiki/Shards>). It makes it so that rather than difficulty going up a in a preset way, options can be used by the player to make a run harder or easier - and further it doesn't make it so players to enjoy it at easier difficulties are in opposition to the game encouraging you to try and push for harder challenged. "Hard mode" is then replaced with things like 窶徘lay on difficulty 30窶・or 窶徘lay with these modifiers窶・ 
+
+That's not even going into fun things like how it can allow for daily runs or challenges based around specific modifiers.
+
+
+[2022/06/22 1:54] pride_zero
+@Mirko (i am cheating by pinging the developer >:D)
+A option to change screen resolution in the options would be really handy. 
+- Quality of life, you could decrease the resolution to decrease the load
+- Changing the resolution could also potentially fix the screen cut off on non 16:9 screens
+:D
+
+
+[2022/06/22 4:55] that_one_planet
+Started a thread.
+
+
+[2022/06/22 20:34] roboatino
+Yup, an option menu where you can change these kind of things is definitely on my TODO list ・
+
+{Reactions}
+亠 (2)
+
+[2022/06/23 17:24] that_one_planet
+Three ~~item~~ tile starter character
+
+
+[2022/06/26 7:04] piotrek3050
+But its all bo xD
+
+
+[2022/06/26 7:22] that_one_planet
+yes
+
+
+[2022/06/26 9:54] federico1768
+Attack Idea:
+Thirsty Lance
+Damage: 1
+cooldown: 3
+attack the first cell in front
+Piercing
+this attacks one more cell in front for each potion you have used this turn
+
+
+[2022/06/26 17:39] square_
+**Weapons**
+```
+Tile: Kanabo
+Damage: 3
+Cooldown: 6
+Upgrade Slots: 2, Max 4
+Range: 1
+Stuns the enemy it hits, stun acts similar to freeze
+```
+
+```
+Title: Chain Scythe
+Damage: 2
+Cooldown: 4
+Upgrade Slots: 4, Max 8
+Range: 2
+Strikes only the tile two spaces from you
+```
+
+```
+Title: Dagger
+Damage: 1
+Cooldown: 3
+Upgrade Slots: 3, Max 8
+Range: 1
+Turn yourself around and strike the first person there
+```
+
+```
+Title: Guarding Knife (Derived from a Jitte, couldn't come up with a better name)
+Damage: 0
+Cooldown: 3
+Upgrade Slots: 3, Max 8
+Range: 1-2
+Lower the damage of an incoming melee attack after this action by 1 (or 2, not sure).
+```
+
+```
+Title: Tachi
+Damage: 3
+Cooldown: 5
+Upgrade Slots: 4, Max 6
+Range: 2
+Doesn't pierce
+```
+**Effects**
+```
+Flame (I know there is already a tile for this, but supposedly it's being changed)
++3 Cooldown
+Applies to weapon
+Struck empty tile at the end of your attack range is lit on fire, if an enemy walks over apply burn (deals 2 immediate damage, with 2 damage each action for 2 actions) (if a projectile doesn't hit anything it doesn't place any, and it doesn't place any if it does, so this is pretty much strictly for melee)
+```
+
+```
+Water
++2 Cooldown
+Applies to weapon
+Struck enemies take one extra action to move for the next 6 actions
+```
+
+```
+Zero
++7 Cooldown
+Applies to tile and not to weapon
+This tile does not count as being part of attack queue (Aka, allows for four attacks)
+Cannot be overlapped with free play
+```
+
+{Reactions}
+笶､・・事・・
+
+[2022/06/27 10:49] federico1768
+since cooldown max is 7 I think "zero" is already near impossible to overlap with free play
+
+
+[2022/06/27 14:40] square_
+But if you were to get cooldown reductions you'd be able, which is why I said it can't be overlapped, sort of how like you can't get two effects on one weapon
+
+
+[2022/06/27 22:01] federico1768
+well you need like -6 cooldown
+
+
+[2022/06/27 23:20] .jacob22
+Started a thread.
+
+
+[2022/06/27 23:27] accountabandon
+settings save when game is closed? so if you had "mute music" toggled on, it'd stay that way once you launch the game again
+
+
+[2022/06/28 0:27] miscellaneous_uncertainties
+Started a thread.
+
+
+[2022/06/29 12:41] hotmonkey1
+weapons that refresh on kill (could perhaps be indicated with red squares instead of white ones)
+
+
+[2022/06/29 13:50] cleric_by_dinner
+Can there be an option to overlay move and attack buttons on the screen so we can play the web version on our phones?
+
+
+[2022/07/01 7:35] colossalcube
+I know this would likely be WAY too much work, I don窶冲 really know how hard it would be since I窶冦 not a coder but what do you guys think of a mobile version? I think it could work well. This is more of a far future idea
+
+
+[2022/07/01 11:09] kassandra_haruki
+Good idea, but probably after several whole years of development
+
+{Reactions}
+笨・
+
+[2022/07/02 11:31] square_
+```
+Tile: Caltrops
+Damage: 1
+Cooldown: 5
+Upgrade Slots: 3, Max 8
+Range: 1
+Throws a pile of caltrops in the direction you are facing. When an enemy walks over the caltrop, they take one damage. A pile of caltrops can be walked over 4 times before dispersing
+```
+
+
+[2022/07/02 11:56] kassandra_haruki
+Trap but lower damage and more hits
+
+
+[2022/07/02 17:41] that_one_planet
+This is just a easter egg to add: make a hidden achievement or something like that, get a dubble bo:spin:
+
+
+[2022/07/03 9:17] hotmonkey1
+midflip: flips you between your double strike attacks
+
+
+[2022/07/03 12:00] pride_zero
+Started a thread.
+
+
+[2022/07/04 23:29] .jacob22
+> **Kunai**
+> Ranged Tile
+> Damage: 0
+> Cooldown: 3
+> Upgrade Slots: 5-7
+> Long term investment weapon
+
+
+[2022/07/05 1:23] eggyolk2
+Frozen Time potion actually stops the ingame clock, would make speedruns faster but It'll be neat detail :p(Not inspired by me getting 15:03 with shadow on shogun, no sir!)
+
+
+[2022/07/05 1:41] square_
+It would be interesting if we could see the amount of turns versus how long it took the player.
+
+
+[2022/07/05 4:33] square_
+```
+Tile: Meditation or Zen
+Damage: 2
+Cooldown: 4
+Upgrade Slots: 4->8
+Range: 1
+Does nothing after activation, next turn attacks in front and behind 
+```
+
+
+[2022/07/05 7:25] .jacob22
+> **Scythe**
+> Damage: 2
+> Cooldown: 3
+> Upgrade Slots: 4
+> Range: 2, doesn't pierce.
+> Pulls the enemy towards the player
+> Basically an inverted Dragon Punch
+
+
+[2022/07/05 7:26] .jacob22
+Started a thread.
+
+
+[2022/07/08 7:51] .shmiddty
+Powerups to shields could be cool:
+like Reflective Shield that reflects an enemy attack.
+Or another that causes the attack to pass through the player
+
+
+[2022/07/08 9:36] .jacob22 (pinned)
+I procedurally generated 164 tiles by permuting the characteristics of the existing ones and in such a way that they would all still balanced. This was done based on 14 of the 16 existing tiles (only the trap and bomb were left out) and resulted in some interesting combinations.
+Any tile in this list can be added to the game without the need to create any new mechanics (except new particles and animations). Any idea of a new mechanic can generate even more permutations and produce many more interesting combinations.
+I marked in blue the tiles that are already in the game and I marked in green the ones that I think have potential (there are 17 rows marked as potentially good).
+
+The spreadsheet is open for anyone to edit and score the tiles:
+https://docs.google.com/spreadsheets/d/1OsUfl9c7dUW0BnNMYRi3LCzY3c5ADe_smW2AOsLEmbk/
+
+{Embed}
+https://docs.google.com/spreadsheets/d/1OsUfl9c7dUW0BnNMYRi3LCzY3c5ADe_smW2AOsLEmbk/
+Procedural Tiles Ideas
+Sheet1
+
+Range Type,Damage,Cooldown,Control,Name,Description,Score
+2,1 Forward,0,1,Flip Enemy
+3,1 Forward,1,1,Player Backward
+4,1 Forward,1,1,Push Enemy
+5,1 Forward,1,2,Flip Player
+6,1 Forward,1,3,Flip Enemy,Bo
+7,1 Forward,2,1,None,Slash
+8,1 Forward,2,2,Swap,Throw,Throw the enemy in front of you t...
+https://images-ext-1.discordapp.net/external/vidtIfVAvhw2dffnEe8xg2jD5tjXX_4MxnDP7jEpPyY/https/lh4.googleusercontent.com/66DKiwYRAs6_aTh-97c5uNCgXYjanEYRoYgqmmzFkkMEQtdJomZrAl19H40ZPIDnJpOG5BdYoGJsFA%3Dw1200-h630-p
+
+{Reactions}
+事・・(4)
+
+[2022/07/08 15:48] roboatino
+Pinned a message.
+
+
+[2022/07/09 0:57] miscellaneous_uncertainties
+Started a thread.
+
+
+[2022/07/10 2:11] .shmiddty
+Rake - A unit stepping on it takes damage and is knocked back a space. Only activated by enemies moving in a specific direction. You know... like stepping on a rake.
+https://tenor.com/view/tom-and-jerry-tom-rake-spade-hoe-gif-12584055
+
+{Embed}
+https://tenor.com/view/tom-and-jerry-tom-rake-spade-hoe-gif-12584055
+https://images-ext-1.discordapp.net/external/FrIpxOCPimLy7pHexOcPCxZwB-PHJqcSyGlKUDwKhJM/https/media.tenor.com/_z1SdxBE6kcAAAAD/tom-and-jerry-tom.png
+
+{Reactions}
+総 (4)
+
+[2022/07/11 1:52] thesharkrat
+really like this one^
+
+
+[2022/07/11 2:33] eggyolk2
+Red cooldown(Blood cooldown? Idk): It's cooldown, but Red. Red cooldown is reduced every time an enemy dies after the weapon is used(So it doesn't count enemies killed by the weapon itself). Red CD is unaffected by combos
+Examples of Red Cooldown weapons and upgrades.
+**Sharpen** -  1 Red CD 2 Regular CD. Increases damage dealt by you this turn by 1
+**Axe** - 3 Damage, 1 Red CD. Strikes directly in front
+**Shobo** - 1 Damage, 1 Red CD. Strikes directly in front. Removes all attacks in the enemies queue
+**High Kick** - 1 Damage, 2 Red CD. Strikes directly in front. Pushes enemy to the last empty cell in the direction you're facing
+**Kabutowari** - 2 Damage, 2 Red CD. Strikes directly in front. Places curse on enemy
+**Time Stop** - 3 Red CD. Gives you 3 Free turns
+**Hailstorm** - 1 Damage, 3 Red CD. Strikes all enemies
+
++1 Red CD +2 Damage
++1 Red CD -3 Regular CD
+-1 Red CD +3 Regular CD
++Double Strike +2 Red CD
+
+
+[2022/07/11 2:45] .jacob22
+Started a thread.
+
+
+[2022/07/13 10:44] that_one_planet
+this to be one of the names of the waves
+
+{Attachments}
+https://cdn.discordapp.com/attachments/965176630588882954/996592975528333332/unknown.png?ex=6a164c89&is=6a14fb09&hm=ff7b3e39d78c2dfa12c930e87037d02e826ea47410003f607538540948411719&
+
+
+[2022/07/14 1:23] hehemelaugh
+bring back potion storing/stashing 剌
+
+{Reactions}
+総
+
+[2022/07/14 4:25] agwe422
+I think it would be dope to introduce a shop where you can buy weapons. It could be named fallen samurai or something like that where you rob his dead body and leave an offering (as payment). There could also be a fallen monk or something like that that has the status effects (ice, double strike, flip(if that's still in the game), etc.) and it has the same concept as the samurai where you take some and leave an offering as payment. Introducing some way to get weapons other than after levels would be dope!
+
+
+[2022/07/16 12:21] hehemelaugh
+i was just talking abt hades
+and what cool systems they have
+maybe you could implement some sort of status fx upgrade?
+
+
+[2022/07/18 14:20] agwe422
+I can't view the form
+
+
+[2022/07/18 14:34] s4muell0
+pls get me an endless mode
+
+
+[2022/07/18 23:10] hehemelaugh
+nvm, deleted!
+
+
+[2022/07/20 5:49] .steelcap
+Would be great to have some colorblind support, it's impossible to tell how much HP you have if you can't differentiate red and green
+
+{Reactions}
+総 (7)
+
+[2022/07/20 6:26] halfling22
+There should be a Sandbox mode. It would make finding and testing bugs a lot easier
+
+
+[2022/07/20 7:27] macerator9955
+Color blindness mode may be easily solvable by making the green, very light green. And the red, very dark red.
+
+
+[2022/07/20 7:28] hotmonkey1
+make it an option because it contrasts with the more gloomy state of the game
+
+
+[2022/07/20 7:29] hehemelaugh
+^
+
+
+[2022/07/23 20:38] macerator9955
+~~**Location Idea**: 1 possible location to remove 1 tile from the players inventory(and/or perminently)~~
+
+
+[2022/07/23 20:41] pride_zero
+||Me profusely sweating because some of the quests rely on the idea that you can not remove any tile you pickup||
+
+
+[2022/07/27 3:38] agwe422
+I think it would be dope to add achievements especially hidden achievements to unlock by getting special tile combos or like getting all the elemental powerups in one run, or other stuff like that. Gives the game something more to grind for and something to seek after
+
+{Reactions}
+笘晢ｸ・(3)
+
+[2022/07/27 8:05] agwe422
+I think it would be cool to add an enemy that is hyper aggressive but has a melee attack. the way to make the enemy hyper aggressive is that it doesn't retreat. So something like the big enemy with the sword attack with 5hp and after he attacks he doesn't retreat back but ques something up again then goes forward or attacks
+
+
+[2022/07/27 13:56] hotmonkey1
+that would make ronin an actually good character 笘ｹ・・
+
+
+[2022/07/27 19:26] pride_zero
+Started a thread.
+
+
+[2022/07/27 23:53] eggyolk2
+Ronin blasphemy will not be accepted here!! Ronin is very pog
+
+
+[2022/07/29 11:53] wasprider
+The assassin's collision action could tag the enemy with double damage/curse (whatever its called) instead of swapping
+
+
+[2022/07/29 23:10] daviggo
+That is a great idea 糟
+
+
+[2022/07/29 23:44] eggyolk2
+Agreed, though assassin should get some other mobility skill to dodge early game ranged enemies. Alternatively assassin swap curses the enemy and also swaps
+
+
+[2022/07/29 23:46] pride_zero
+What would make an amazing change to assassin? He should be able to swap with any cursed enemy (to balance it out, that enemy is no longer cursed if you swap)
+
+
+[2022/07/30 0:18] eggyolk2
+Started a thread.
+
+
+[2022/07/30 3:27] wasprider
+Oooooh I really like that one
+
+
+[2022/07/30 11:01] kassandra_haruki
+So if I'm reading this right:
+Assassin can tag enemies with curse (does not move)
+And then Assassin can swap with cursed enemies at the cost of uncursing them
+
+
+[2022/07/30 13:09] pride_zero
+Yup
+
+
+[2022/07/30 13:10] pride_zero
+So You'll also be given incentive to let some enemies live and stall for time
